@@ -1,0 +1,4 @@
+使用爬虫爬下了曼彻斯特大学工程学院所有老师的信息
+开发环境python+pycharm
+使用模块requests,pyquery和ConfigParser
+曼城大学的网页都使用静态网页，爬取技术比较简单，不用动态分析部分
