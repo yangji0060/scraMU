@@ -1,0 +1,44 @@
+name  role  phone  location  email
+Dr Majid Sedighi  Lecturer in Geotechnical Engineering  0161-2754436  Pariser Building - C30  majid.sedighi@manchester.ac.uk  
+
+BIOGRAPHY: 
+Majid Sedighi is a Lecturer in Geotechnical and Geoenvironmental Engineering. He is a Civil Engineer with an MSc and PhD in Geotechnical/Geonevironmental Engineering. His PhD was on modelling the coupled thermal, hydraulic, chemical and mechanical behaviour of unsaturated soils from Cardiff University. Prior to his current post, he has been a UNESCO Research Fellow at the Geoenvironmental Research Centre at Cardiff University(2011-2015) and responsible for conducting scientific research and co-management and co-supervision of several research programmes/projects in the areas of geological disposal of high level radioactive waste, geological carbon sequestration, ground source heat and advanced computational modelling in geoenergy problems. He has worked in industry for five years (2002-2007) as a senior structural and geotechnical design engineer in there consulting engineering companies.
+
+RESEARCH: 
+Geological disposal of radioactive waste
+Advanced materails in geoenvironmental engineering
+Ground source heat systems and thermo-active geostructures
+Reactive transport of chemicals and gas
+Coupled thermal, hydraulic and chemical behaviour of clays
+Contaminant soil interaction
+
+PUBLICATION: 
+Benjamin D.B. Hepburn, Majid Sedighi, Hywel R. Thomas, Manju. Field-Scale Monitoring of a Horizontal Ground Source Heat System Article reference. Geothermics. 2016 January; 61: 86-103. eScholarID: 295327
+Majid Sedighi, Hywel R Thomas, Philip J Vardon. Reactive Transport of Chemicals in Unsaturated Soils: Numerical Model Development and Verification. Canadian Geotechnical Journal. 2016 January; 53(1): 162-172. eScholarID: 267542 | DOI: 10.1139/cgj-2014-0436
+Haijian Xie, Chunhua Zhang, Majid Sedighi, Hywel R Thomas, Yunmin Chen. An analytical model for diffusion of chemicals under thermal effects in semi-infinite porous media. Computers and Geotechnics. 2015; 69: 329-337. eScholarID: 266727 | DOI: 10.1016/j.compgeo.2015.06.012
+Xie H, Chen, YM, Thomas HR, Sedighi, M, Masum, SA. Contaminant transport in the subsurface soil of an uncontrolled landfill site in China: site investigation and two-dimensional numerical analysis. Environmental Science and Pollution Research. 2015;  eScholarID: 274253
+Haijian Xie, Hywel Rhys Thomas, Yunmin Chen, Majid Sedighi, Tony Liangtong Zhan, Xiaowu Tang. Diffusion of organic contaminants in triple layer composite liners-An analytical modelling approach. Acta Geotechnica. 2015; 10(2): 255-262. eScholarID: 265979
+Daniel P. Bennett, Richard J Cuss, Philip J Vardon, John F Harrington, Majid Sedighi, Hywel R Thomas. Exploratory data analysis of the Large Scale Gas Injection Test (Lasgit) dataset, focusing on ‘second-order’ events around macro-scale gas flows. Geological Society. Journal. 2015; 415: 225-238. eScholarID: 266450
+Majid Sedighi, Hywel Rhys Thomas, Shakil Al Masum, Philip James Vardon, Duncan Nicholson and Qing Chen. Geochemical modelling of hydrogen gas migration in an unsaturated bentonite buffer. Geological Society. Journal. 2015; 415: 189-201. eScholarID: 265977
+Hywel R Thomas, Majid Sedighi. Thermal effects on chemical diffusion in multicomponent ionic systems. Geology for Society and Territory.  6. Springer.2015:  eScholarID: 265981
+Majid Sedighi, Danothy P Bennett, Shakil A Masum, Hywel R Thomas, Eric Johansson,Topias Siren. Analysis of temperature data at the Olkiluoto. Posiva Oy: 2014.  eScholarID: 266300
+Hywel R Thomas, Majid Sedighi. Computational modelling of ground energy problems. 2014: 37-45. eScholarID: 265982
+Haijian Xie, Majid Sedighi, Hywel R Thomas, Yunmin Chen. Non-isothermal diffusion of chemicals in semi-infinite porous media. 2014: 369-372. eScholarID: 266447
+Majid Sedighi, Danothy P Bennett, Shakil A. Masum, Hywel R Thomas, Erik Johansson, Topias Siren. Temperature data analysis from field scale thermal monitoring. 2014: 312-315. eScholarID: 266449
+Majid Sedighi, Hywel R Thomas. Micro porosity evolution in compacted swelling clays-A chemical approach. Applied Clay Science. 2014; 101: 608-618. eScholarID: 265038
+Majid Sedighi, Hywel R Thomas, Haijian Xie, Yunmin Chen, Chi Guan. A case study of contaminant transport and fate at a landfill site in China. CRC Press: 2013: 625-630. eScholarID: 266185
+Lee J Hosking, Majid Sedighi, Hywel R Thomas. High Pressure gas transport under coupled thermal, hydraulic, chemical and mechanical behaviour. 2013: 381-388. eScholarID: 266294
+Hywel R Thomas, Benjamin D Hepburn, Majid Sedighi. Soil thermal behaviour of a horizontal ground source heat system. CRC Press: 2013: 525-530. eScholarID: 266448
+Hywel R Thomas, Majid Sedighi, Philip J vardon. Diffusive Reactive Transport of Multicomponent Chemicals Under Coupled Thermal, Hydraulic, Chemical and Mechanical Conditions. Geotechnical and Geological Engineering. 2012; 30(4): 841-857. eScholarID: 266186
+Mojgan Hadi Mosleh, Hywel R Thomas, Mattew Turner, Philip J Vardon, Majid Sedighi,Snehasis Tripathy. Gas transport and reaction processes in problematic soils. 2012: 227-233. eScholarID: 266301
+Hywel R Thomas, Majid Sedighi. Modelling the engineering behaviour of highly swelling clays. 2012: 21-33. eScholarID: 266293
+Majid Sedighi, Hywel R Thomas, Philip J Vardon. On the Reactive Transport of Chemicals in Unsaturated Expansive Soils. 2012: 211-218. eScholarID: 266295
+Majid Sedighi. Investigation of hydro-geochemical processes in coupled thermal, hydraulic, chemical and mechanical behaviour of unsaturated soils. Cardiff University:2011.  eScholarID: 266452
+Majid Sedighi, Hywel R Thomas, Philip J Vardon. Modelling thermal impacts on reactive transport processes related to multicomponent chemicals in compacted clays. 2011: 538-546. eScholarID: 266290
+Majid Sedighi, Hywel R Thomas, Philip J Vardon, Suresh C Seetharam. Advances in modelling the non-isothermal behaviour of multicomponent chemicals in unsaturated soils. 2010: 1619-1622. eScholarID: 266289
+Vahid R Ouhadia, Raymond N Yong, Majid Sedighi. Desorption response and degradation of buffering capability of bentonite, subjected to heavy metal contaminants. Engineering Geology. 2006; 85(1-2): 102-110. eScholarID: 266183
+Vahid R Ouhadi, Raymond N Yong, Majid Sedighi. Influence of heavy metal contaminants at variable pH regimes on rheological behaviour of bentonite. Applied Clay Science. 2006; 32(3-4): 217-231. eScholarID: 266048
+Vahid R Ouhadi, Amir R Goodarzi, Majid Sedighi. Relationship between mineral type and sorption characteristics of soil liner of Hamedan landfill. 2003: 170-174. eScholarID: 266299
+Vahid R Ouhadi, Majid Sedighi. Variations of experimental results of Oedometer testing due to the change of pore fluid properties. 2003: 299-303. eScholarID: 266297
+Vahid R Ouhadi, Majid Sedighi. Zinc sorption influence at acidic pH levels on the physical and mechanical properties of bentonite. 2003: 558-564. eScholarID: 266298
+

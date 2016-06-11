@@ -1,0 +1,44 @@
+name  role  phone  location  email
+Dr Martin Gillie  Reader  0161-2754463  Pariser Building - C19  martin.gillie@manchester.ac.uk  
+
+BIOGRAPHY: 
+I am Reader in Structural Engineering with research interests in numerical modelling of structures, structures in fire and sustainability of structures.  My teaching interests are mainly in structural design and engineering problem solving, although I have also taught engineering analysis, engineering maths and specialist courses in structural fire engineering.
+Following a degree in Civil Engineering from the University of Edinburgh (1st Class, 1997), I studied the behaviour of the Cardington Structure in fire and obtained my Phd in 2000, also from Edinburgh.  I then spent some time working on silo structures as a researcher before moving to Aberdeen to work in offshore design for Andrew Palmer and Associates.  In 2003 I returned to academia as lecturer at the University of Nottingham before a move back to Edinburgh in 2005.  I was promoted to Senior Lecturer in 2011 and for two and half years was head of Civil Engineering Teaching.  In 2014 I took up my current role as Reader at the University of Manchester.  I am Member of the Institution of Structural Engineeers, a Chartered Engineer and Fellow of the Higher Education Academy.
+
+RESEARCH: 
+Structural Engineering
+Fire Safety Engineering
+Engineering Education
+
+PUBLICATION: 
+
+Anderson K, Gillie M. Benchmarking for the inclusion of shear studs in finite element models. Applications of Structural Fire Engineering. 2015;  eScholarID: 278549
+Gillie M, Moore D, Caron N, Mansfield-Williams T. Engineering Art: Experiences of an Innovative Learning Week Activity. Journal of Professional Issues in Engineering Education and Practice. 2015;  eScholarID: 278552
+Kamath P, Sharma U, Kumar V, Bhargava P, Usmani A, Singh B, Singh Y, Torero J, Gillie M, Pankaj P. Full-scale fire test on an earthquake-damaged reinforced concrete frame. Fire Safety Journal. 2015; 73: 1-19. eScholarID: 278554
+Rush D, Bisby L, Gillie M, Jowsey A, Lane B. Furnace tests on unprotected and protected concrete filled structural hollow sections. Fire Safety Journal. 2015; 78: 71-84. eScholarID: 278553
+Salaverry M, Gillie M. Bending analysis of beams affected by fires. Applications of Structural Fire Engineering. 2015;  eScholarID: 278551
+Furber A, Crapper M, Gillie M, Stratford T, Bisby L, Blackford J, White D. Innovative learning at the University of Edinburgh. Proceedings of Institution of Civil Engineers: Management, Procurement and Law. 2014; 167(1): 13-24. eScholarID: 242202
+Furber A, Crapper M, Gillie M, Stratford T, Bisby L, Blackford J, White D. Innovative learning at the University of Edinburgh. Proceedings of the ICE-Management, Procurement and Law. 2014; 167(1): 13-24. eScholarID: 278555
+Rush D, Bisby L, Gillie M, Jowsey A, Lane B. Design of intumescent fire protection for concrete filled structural hollow sections. Fire Safety Journal. 2014; 67: 13-23. eScholarID: 242195
+Rush D, Bisby L, Gillie M, Jowsey A, Lane B. Design of intumescent fire protection for concrete filled structural hollow sections. Fire Safety Journal. 2014; 67: 13-23. eScholarID: 278550
+Sharma U, Kumar V, Kamath P, Singh B, Bhargava P, Singh Y, Usmani A, Torero J, Gillie M, Pankaj P. Testing of full-scale RC frame under simulated fire following earthquake. Journal of Structural Fire Engineering. 2014; 5(3): 215-228. eScholarID: 242204
+Sharma U, Kumar V, Kamath P, Singh B, Bhargava P, Singh Y, Usmani A, Torero J, Gillie M, Pankaj P. Testing of full-scale RC frame under simulated fire following earthquake. Journal of Structural Fire Engineering. 2014; 5(3): 215-228. eScholarID: 278556
+Ervine A, Gillie M, Pankaj P. Thermal Propagation Through Tensile Cracks in Reinforced Concrete. ASCE Journal of Materials in Civil Engineering. 2012; 24(5): 499-614. eScholarID: 241708
+Ervine A, Gillie M, Stratford T, Pankaj P. Thermal Propagation through Tensile Cracks in Reinforced Concrete. Journal of Materials in Civil Engineering. 2012; 24(5): 516-522. eScholarID: 242205
+Gillie M, Stratford T, Chen J. Behaviour of a Concrete Structure in a Real Compartment Fire. Proceedings of the Institution of Civil Engineers - Structures and Buildings. 2012; 165(8): 421-433. eScholarID: 241702
+Gillie M, Stratford T, Chen J. Behaviour of a concrete structure in a real compartment fire. Proceedings of the Institution of Civil Engineers: Structures and Buildings. 2012; 165(8): 421-433. eScholarID: 242198
+Law A, Stern-Gottfried J, Gillie M, Rein G. The Influence of Travelling Fires on a Concrete Frame. Engineering Structures. 2012; 33(5): 1635-1642. eScholarID: 241706
+Sharma U, Bhargava P, Singh B, Singh Y, Kumar V, Kamath P, Usmani A, Torero J, Gillie M, Pankaj P, May I, Zhang J. Full-scale testing of a damaged reinforced concrete frame in fire. Proceedings of the Institution of Civil Engineers: Structures and Buildings. 2012; 165(7): 335-346. eScholarID: 242200
+Sharma U, Bhargava P, Singh B, Singh Y, Kumar V, Kamath P, Usmani A, Torero J, Gillie M, Pankaj P, May I, Zhang J. Full-scale testing of a damaged reinforced concrete frame in fire. Proceedings of the Instituion of Structural Engineers: Structures and Buildings. 2012; 165(SB7): 335-346. eScholarID: 241703
+Gales J, Bisby L, Gillie M. Unbonded Post Tensioned Concrete Slabs in Fire Part II: Modelling Tendon Response and the Consequences of Localized Heating. Journal of Structural Fire Engineering. 2011; 2(3): 155-171. eScholarID: 241713
+Gales J, Bisby L, Gillie M. Unbonded Post Tensioned Concrete in Fire: Available Data from Furnace Tests and Real Building Fires. Fire Safety Journal. 2011; (46): 151-163. eScholarID: 241711
+Gillie M. Measures of Circularity for Shell Structures. ASCE Journal of Structural Engineering. 2011; (137): 1141-1243. eScholarID: 241707
+Gillie M. Measures of circularity for shell structures. Journal of Structural Engineering. 2011; 137(10): 1241-1243. eScholarID: 242203
+Law A, Stern-Gottfried J, Gillie M, Rein G. The influence of travelling fires on a concrete frame. Engineering Structures. 2011; 33(5): 1635-1642. eScholarID: 242206
+Law A, Gillie M. Interaction Diagrams for Ambient and Heated Concrete Sections. Engineering Structures. 2010; (32): 1641-1649. eScholarID: 241710
+Röben C, Gillie M, Torero J. Structural Behaviour during vertically travelling fires. Journal of Constructional Steel Research. 2010; (66): 191-197. eScholarID: 241709
+Gillie M. Analysis of Heated Structures: Nature and Modelling Benchmarks. Fire Safety Journal. 2009; 44(5): 673-680. eScholarID: 241700
+Stratford T, Chen J, Gillie M, Usmani A. Bonded Fibre Reinforced Polymer Strengthening in a Real Fire. Advances in Structural Engineering. 2009; 12(6): 867-878. eScholarID: 241705
+Gillie M, Lamont S, Usmani A. Composite steel-framed structures in fire with protected and unprotected edge beams. Journal of Constructional Steel Research. 2007; 63(8): 1138-1150. eScholarID: 241701
+Gillie M, Morvan H. Integrated mechanics for fire safety. The ASCE Journal of Professional Issues in Engineering Education and Practice. 2006; 132(3): 197-199. eScholarID: 241704
+

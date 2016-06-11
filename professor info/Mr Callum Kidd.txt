@@ -1,0 +1,11 @@
+name  role  phone  location  email
+Mr Callum Kidd  Lecturer and Programme Director (PMPDP)  0161-3064616  Pariser Building - E2  c.kidd@manchester.ac.uk  
+
+BIOGRAPHY: 
+
+RESEARCH: 
+
+PUBLICATION: 
+Andrew Gale, Callum Kidd, M Alam, M Brown. Project Management Professional Development: The Development and Delivery of an Industry led Programme. International Journal of Project Management. 2008; 26(0): 223-237. eScholarID: ma409
+Gale A, Brown M, Alam M, Kidd C. The development and delivery of an industry led project management professional development programme: A case study in project management education and success management. International Journal of Project Management. 2008; 26(3): 223-237. eScholarID: 1e876 | DOI: 10.1016/j.ijproman.2007.12.005
+

@@ -1,0 +1,11 @@
+name  role  phone  location  email
+Dr Laura O'keefe  Project Manager - SUPERGEN Bioenergy Hub  0161-2754330  Pariser Building - H1  laura.o'keefe@manchester.ac.uk  
+
+BIOGRAPHY: 
+
+RESEARCH: 
+Tyndall Centre
+
+PUBLICATION: 
+Alice Bows-Larkin, C Gough, Carly McLachlan, Laura O'keefe, Mirjam Roeder, Patricia Thornley, Ruth Wood, Sarah Mander. How little or how much climate change? Facilitating stakeholder thinking on food system futures. How little or how much climate change? Facilitating stakeholder thinking on food system futures. 2014:  eScholarID: ma1232
+

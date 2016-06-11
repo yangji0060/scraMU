@@ -1,0 +1,26 @@
+name  role  phone  location  email
+Dr Mark Quinn  Lecturer in Aerospace Engineering  0161-2754557  Pariser Building - E2  mark.quinn@manchester.ac.uk  
+
+BIOGRAPHY: 
+Mark graduated from the University of Manchester in 2009 with a MEng(Hons) in Aerospace Engineering. He then went on to complete a PhD in Experimental Aerodynamics, particularly focused on unsteady compressible aerodynamics and flow diagnostics at the University of Manchester. During this time Mark authored multiple journal papers and attended several international conferences, including hosting one in Manchester. During his PhD Mark worked as a member of the UoM Widening Participation team focusing on outreach activities focused around engineering and science.
+Upon completing his PhD in 2013, Mark began work at the Aircraft Research Association on optical flow diagnostics. This time was spent between customer consultancy projects for aerospace primes and Aerospace Technology Institute funded research and development projects. The outputs of this reseach are currently being written for presentation at upcoming conferences.
+In late 2014 Mark returned to the University of Manchester as a Knowledge Exchange Fellow for Aerospace developing links between industrial partners and academic researchers. Mark has been a lecturer in the school ince September 2015 and is developing teaching material based around his research interests while continuing to work closely with the Aircraft Research Association and other industrial partners.
+
+RESEARCH: 
+Flow diagnostics techniques, particularly optical methods such as schlieren, PIV, PSP, IR thermography
+Image processing algorithms
+Compressible aerodynamics, particularly unsteady aerodynamics
+
+PUBLICATION: 
+N J Allen, M K Quinn. Development of a Transonic Gust Rig for Simulation of Vertical Gusts on Half-Models. AIAA: 2015: -. eScholarID: 267699
+Mark Kenneth Quinn, Konstantinos Kontis. Pressure-Sensitive Paint Measurements of Transient Shock Phenomena. Sensors. 2013 April; 13(4): 4404-4427. eScholarID: 239240 | DOI: 10.3390/s130404404
+Mariani, R.; Quinn, M. K.; Kontis, K.; Marraffa, L. Shock-Free Compressible Vortex Rings Impinging on a Stationary Surface: Effects of Surface Angle Variation. 2013 May;  eScholarID: 187170
+Mark Kenneth Quinn, Nalleli Gongora-Orozco, Konstantinos Kontis. Application of pressure-sensitive paint to low-speed flow around a U-bend of strong curvature. Experimental Thermal and Fluid Science. 2013 March; 48: 58-66. eScholarID: 239242 | DOI: 10.1016/j.expthermflusci.2013.02.008
+Quinn, M. K.; Kontis, K. A Combined Study on Shock Diffraction. 2012: -. eScholarID: 187164
+Mariani, R.; Quinn, M. K.; Kontis, K. A Note on the Generation of a Compressible Vortex Rings Using Helium as Driver Gas. Journal of Aerospace Engineering. 2012 November;  eScholarID: 187168
+Quinn, M. K.; Kontis, K. Experiments and Simulations of Weak Shock Wave Diffraction Phenomena. 2012: -. eScholarID: 187165
+Quinn, M. K.; Gongora-Orozco, N.; Kontis, K. and Ireland, P. APPLICATION OF PRESSURE-SENSITIVE PAINT TO LOW-SPEED FLOW AROUND A U-BEND OF STRONG CURVATURE. 2011: -. eScholarID: 187163
+Kontis, K.; Zare-Behtash, H.; Gongora-Orozco, N.; Yang, L.; Quinn, M. K.; Efrani, R.; Erdem, E. Development of Non-Intrusive Flow Diagnostic Capabilities at The Aero-Physics Laboratory. 2011: -. eScholarID: 187169
+Quinn, M. K.; Gongora-Orozco, N.; Zare-Behtash, H.; Mariani, R.; Kontis, K. Experimental Studies of Shock Diffraction. 2011: -. eScholarID: 187166
+Mark Kenneth Quinn* , Leichao Yang and Konstantinos Kontis. Pressure-Sensitive Paint: Effect of Substrate. Sensors. 2011 December; 11(12): 11649-11663. eScholarID: 187161
+

@@ -1,0 +1,127 @@
+name  role  phone  location  email
+Prof Alice Bows-Larkin  Professor of Climate Science & Energy Policy  0161-3063737  Pariser Building - H7  alice.bows-larkin@manchester.ac.uk  
+
+BIOGRAPHY: 
+Alice Bows-Larkin is a Professor in Climate Science & Energy Policy as part of the Tyndall Centre for Climate Change Research and based within the School of Mechanical, Aerospace and Civil Engineering. Alice trained as an astrophysicist at the University of Leeds, did her PhD in climate modelling at Imperial College, then worked in science communication. She returned to academia in 2003 joining the interdisciplinary Tyndall Centre to research conflicts between climate change and aviation. In 2008 she was appointed as a lecturer to direct projects on international transport and food supply scenarios within a climate change context.  Alice is now Director of Tyndall Manchester , heads up the food@manchester cross University research area and is the lead Manchester investigator on a large consortium project funded by the EPSRC entitled ' Shipping in Changing Climates '. She has also recently been awarded a large EPSRC consortium project on the Water-Food-Energy Nexus .
+
+RESEARCH: 
+Shipping and aviation emissions and climate policy
+Water-Food-Energy nexus
+Climate change mitigation pathways
+
+PUBLICATION: 
+Traut, M., Bows-Larkin, A., and Anderson, K. Avoiding dangerous climate change: the role of shipping in delivering on the IPCC’s latest carbon budgets. 2015: -. eScholarID: 267962
+Bows-Larkin, A., Sharmina, M., Kuriakose, J., and Anderson, K. Going beyond integrated assessment: big emitting nations and the 2°C target. 2015: -. eScholarID: 267963
+Mander, S., and Bows-Larkin, A. Is a radical shift in shipping on the horizon?. The Naval Architect. 2015 February;  eScholarID: 259821
+Maria Sharmina, Alice Bows-Larkin, Kevin Anderson. Russia's cumulative carbon budgets for a global 2°C target. Carbon Management. 2015;  eScholarID: 275797 | DOI: 10.1080/17583004.2015.1113616
+Bows-Larkin, Alice. Shipping charts a high carbon course. Nature Climate Change. 2015; 5: 293-295. eScholarID: 262896 | DOI: 10.1038/nclimate2532
+Paul Gilbert, Alice Bows-Larkin, Sarah Mander, Conor Walsh. Technologies for the high seas: meeting the climate challenge. Carbon Management. 2015;  eScholarID: 266416 | DOI: 10.1080/17583004.2015.1013676
+Anderson, K., and Bows-Larkin, A. The implications of 2°C carbon budgets for global energy systems. 2015: -. eScholarID: 267961
+Alice Bows-Larkin. All adrift: aviation, shipping and climate change policy. Climate Policy. 2014;  eScholarID: 242760 | DOI: 10.1080/14693062.2014.965125
+Alice Bows-Larkin, C Gough, Carly McLachlan, Laura O'keefe, Mirjam Roeder, Patricia Thornley, Ruth Wood, Sarah Mander. How little or how much climate change? Facilitating stakeholder thinking on food system futures. How little or how much climate change? Facilitating stakeholder thinking on food system futures. 2014:  eScholarID: ma1232
+Alice Bows-Larkin, Carly McLachlan, Sarah Mander, Ruth Wood, Mirjam Roder, Patricia Thornley, Elena Dawkins, Clair Gough, Laura O'Keefe, Maria Sharmina. Importance of non-CO2 emissions in carbon management. Carbon Management. 2014 August; 5(2): 193-210. eScholarID: 231388 | DOI: 10.1080/17583004.2014.913859
+Traut, M., Gilbert, P., Walsh, C., Bows, A., Filippone, A., Stansby, P., and Wood, R. Propulsive power contribution of a kite and a Flettner rotor on selected shipping routes. Applied Energy. 2014; 113(0): 362-372. eScholarID: 205307
+Alice Bows-Larkin, E Dawkins, Ruth Wood. Reducing consumption emissions: balancing technological change with consumption. Reducing consumption emissions: balancing technological change with consumption. 2014:  eScholarID: ma1392
+Sarah Mander, Conor Walsh, Alice Bows-Larkin. The transition to a low carbon shipping system: pathways and consequences. -. eScholarID: 242767
+Alice Bows-Larkin. Two degrees of separation. New Scientist. 2014 December; (2998): 28-29. eScholarID: 242762
+Bows-Larkin, Alice, Sarah Mander, Paul Gilbert, Michael Traut, Conor , and Kevin Anderson. High Seas, High Stakes, High Seas Final Report. 2014 August.  eScholarID: 242765
+Lamb W, Steinberger J, Bows-Larkin A, Peters G, Roberts T, Wood R. Transitions in pathways of human development and carbon emissions. Environmental Research Letters. 2014; 9(014011):  eScholarID: 219754 | DOI: doi:10.1088/1748-9326/9/1/014011
+Lamb W, Steinberger J, Bows-Larkin A, Peters G, Roberts J, Wood F. Transitions in Pathways of Human Development and Carbon Emissions. Environmental Research Letters. 2014 January; 9(1): 1-10. eScholarID: 220958 | DOI: 10.1088/1748-9326/9/1/014011
+Röder M, Thornley P, Campbell G, Bows-Larkin A. Emissions associated with meeting the future global wheat demand: A case study of UK production under climate change constraints. Environmental Science & Policy. 2014 March; 39(0): 13-24. eScholarID: 220502 | DOI: http://dx.doi.org/10.1016/j.envsci.2014.02.002
+Wood R, Dawkins E, Bows-Larkin A, Barrett J. Applying ImPACT: A modelling framework to explore the role of producers and consumers in reducing emissions. Carbon Management. 2014; 5(2): 215-231. eScholarID: 231510 | DOI: 10.1080/17583004.2014.913864
+Gough Clair, Bows Alice, Mclachlan Carly, O'keefe Laura, Wood Ruth. ., How little or how much climate change? Facilitating stakeholder thinking on food system futures. 2013: -. eScholarID: 201361
+Alice Bows-Larkin, Kevin Anderson. Carbon Budgets for Aviation or Gamble with our Future?. Sustainable Aviation Futures. Academic Press.2013:  eScholarID: ma1721
+Alice Bows-Larkin, Kevin Anderson. Carbon budgets for aviation?. Sustainable Aviation Futures. Emerald.2013:  eScholarID: 242764
+Sharmina, M., Anderson, K., and Bows-Larkin, A. Climate change regional review: Russia. Wiley Interdisciplinary Reviews: Climate Change. 2013; 4(5): 373-396. eScholarID: 205453
+Andrew Jordan, Tim Rayner, Heike Schroeder, Neil Adger, Kevin Anderson, Alice Bows, Corinne Le Quéré, Manoj Joshi, Sarah Mander, Nem Vaughan & Lorraine Whitmarsh. Going beyond two degrees? The risks and opportunities of alternative options. Climate Policy. 2013 September;  eScholarID: 210509 | DOI: 10.1080/14693062.2013.835705
+Mander, S., Walsh, C., and Bows-Larkin, A. Implications of low carbon shipping scenarios for shipping sector actors. 2013: -. eScholarID: 210514
+Alice Bows-Larkin, Kevin Anderson, Paul Gilbert, Sarah Mander, Michael Traut, Conor Walsh. New ships on the horizon. 2013: -. eScholarID: 242768
+Alice Bows-Larkin. Pathways to low-carbon international transport: a comparison of shipping and aviation. 2013: -. eScholarID: 210515
+John et al. Priority research questions for the UK food system. Food Security. 2013; 5: 617-636. eScholarID: 210510 | DOI: 10.1007/s12571-013-0294-4
+Alice Bows-Larkin. The importance of being urgent: aviation, shipping and the mitigation debate. 2013: -. eScholarID: 210513
+Walsh, C., Bows, A., Gilbert, P., Mander, S., and Traut, M. A new method for estimating national-scale CO2 from shipping: preliminary results from a UK study. 2012: -. eScholarID: 168443
+Anderson, K., and Bows, A A new paradigm for climate change. Nature Climate Change. 2012 August; 2: 639-640. eScholarID: 167871 | DOI: doi:10.1038/nclimate1646
+Wood, R., Bows, A., and Anderson, K A one-way ticket to high carbon lock-in: the UK debate on aviation policy. Carbon Management. 2012 December; 3(6): 537-540. eScholarID: 183790 | DOI: doi:10.4155/cmt.12.61
+Alice Bows-Larkin, Conor Walsh, M Traut, Paul Gilbert, Sarah Mander. A systems perspective on decarbonising the UK energy system the impacts on shipping CO2 emissions. A systems perspective on decarbonising the UK energy system the impacts on shipping CO2 emissions. 2012:  eScholarID: ma1235
+Mander, S., Walsh, C., Gilbert, P., Traut, M., and Bows, A. A systems perspective on decarbonising the UK energy system – the impacts on shipping CO2 emissions. 2012: -. eScholarID: 168439
+Alice Bows-Larkin, Conor Walsh, Kevin Anderson, M Traut, Paul Gilbert, Sarah Mander. Aviation and shipping - privileged again? - Tyndall Centre Briefing note 47. 2012 December.  eScholarID: ma764
+Mander, S., Walsh, C., Gilbert, P., Traut, M., and Bows, A Decarbonizing the UK energy system and the implications for UK shipping. Carbon Management. 2012 December; 3(6): 601-614. eScholarID: 183791 | DOI: doi:10.4155/cmt.12.67
+Anderson, K., and Bows, A. Executing a Scharnow turn: reconciling shipping emissions with international commitments on climate change. Carbon Management. 2012 December; 3(6): 615-628. eScholarID: 183794 | DOI: doi:10.4155/cmt.12.63
+Gilbert, P., and Bows, A. Exploring the scope for complementary sub-global policy to mitigate the CO2 from shipping. Energy Policy. 2012 August; in press:  eScholarID: 167872 | DOI: http://dx.doi.org/10.1016/j.enpol.2012.08.002
+Traut, M., Bows, A., Gilbert, P., Mander, S., Stansby, P., Walsh, C., and Wood, R. Low C for the High Seas: Flettner rotor power contribution on a route Brazil to UK. 2012: -. eScholarID: 168440
+Gilbert, P., Bows, A., Walsh, C., Mander, S., and Traut, M. Mutiny on the High Seas: exploring step-change technological mitigation in the shipping sector. 2012: -. eScholarID: 168442
+Walsh, C., and Bows, A Size matters: exploring the importance of vessel characteristics to inform estimates of shipping emissions. Applied Energy. 2012 October; 98: 128-137. eScholarID: 162548 | DOI: DOI:10.1016/j.bbr.2011.03.031
+Bows, A., and Smith T. The (low-carbon) shipping forecast: opportunities on the high seas. Carbon Management. 2012 December; 3(6): 525-528. eScholarID: 183792 | DOI: doi:10.4155/cmt.12.68
+Bows, Alice, McLachlan Carly, Mander Sarah, Wood Ruth, Roeder Mirjam, Thornley Patricia, Gough Clair, Thom Laura, and Dawkins Elena. What's Cooking: Adaptation and Mitigation in the UK Food System. 2012 July.  eScholarID: 187112
+Conor Walsh; Alice Bows. Assessing emission baselines for overseas freight arriving in the UK. Proceedings of the Royal Geographical Society Annual conference. Royal Geographical Society: 2011: -. eScholarID: 136891
+Alice Bows-Larkin, Kevin Anderson. Beyond dangerous climate change: emission pathways for a new world. Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences. 2011; 369(0): 20-44. eScholarID: ma099
+Anderson, K., and Bows, A Beyond ‘dangerous’ climate change: emission scenarios for a new world. Philosophical Transactions of the Royal Society A: Mathematical, Physical & Engineering Sciences. 2011 January; 369(1934): 20-44. eScholarID: 96881 | DOI: 10.1098/rsta.2010.0290
+Gilbert, P., Anderson, K., and Bows, A. Emission apportionment and exploring alternative national-based policy measures aimed to reduce emissions from the shipping sector. 2011: -. eScholarID: 136890
+Alice Bows-Larkin, S Randles, Sarah Mander. I will have a conscience but I wont not go to Miami drivers for growth of aviation emissions and implications for emission reduction. I will have a conscience but I wont not go to Miami drivers for growth of aviation emissions and implications for emission reduction. 2011: -. eScholarID: ma1234
+Anderson, K., Bows, A., and Gilbert, P. QUANTIFYING THE CLIMATE CHALLENGE FOR SHIPPING: FROM INCREMENTAL TO STEP CHANGE MITIGATION. LCS 2011. 2011: 31-36. eScholarID: 125713
+Conor Walsh; Alice Bows. The Importance of Product Distinction in Lifecycle and Product Chain Analyses. Proceedings of the ITRN2011. 2011: -. eScholarID: 136892
+Wood, F.R., Dawkins, E., Bows, A., Barrett, J. The application of an environmentally extended input-output model to investigate the role of technological change and consumption practices in delivering low carbon futures for the UK. 2011: -. eScholarID: 136893
+Alice Bows-Larkin, Carly McLachlan, E Dawkins, J Barrett, K Scott, Mirjam Roeder, Ruth Wood, Sarah Mander. The development of scenarios to examine the role of technology change and consumers in delivering cumulative emission reductions and adapting to clima. The development of scenarios to examine the role of technology change and consumers in delivering cumulative emission reductions and adapting to clima. 2011: -. eScholarID: ma1233
+Wood, F.R., Bows, A., Barrett, J., Dawkins, E., Mander, S., McLachlan, C., Roeder, M, and Scott, K. The development of scenarios to examine the role of technology change and consumers in delivering cumulative emission reductions and adapting to climate change impacts under a 2 and 4C future. 2011: -. eScholarID: 125723
+Alice Bows-Larkin. A glimmer of hope? Cumulative emission scenarios using a consumption-based approach. Carbon Management. 2010; 1(0): 161-175. eScholarID: ma028
+Wood, F.R., Bows, A., and Anderson, K. Apportioning aviation CO2 emissions to regional administrations for monitoring and target setting. Transport Policy. 2010 August; 17(4): 206-215. eScholarID: 84542 | DOI: 10.1016/j.tranpol.2010.01.010
+Alice Bows-Larkin. Aviation & Climate Change: confronting the challenge. Aeronautical Journal. 2010; 114(0): 459-468. eScholarID: ma090
+Gilbert, Paul, Alice Bows, and Starkey Richard. Shipping and Climate Change: Scope for Unilateral Action. 2010 September 01.  eScholarID: 92078
+Wood, F.R., Bows, A., and Anderson, K. Apportioning aviation CO2 emissions to regional administrations for monitoring and target setting. Leeuwenhorst Conference Centre, The Netherlands: European Transport Conference: 2009: -. eScholarID: 84538
+Alice Bows-Larkin, S Randles. Aviation, emissions and the climate change debate. Technology Analysis & Strategic Management. 2009; 21(0): 16-Jan. eScholarID: ma091
+Anderson, K., and Bows, A. Reframing the climate change challenge in light of post-2000 emission trends. In: Launder, B., and Thompson, M.T, ed. Geo-Engineering Climate Change. Cambridge University Press.2009:  eScholarID: 84533
+Agnolucci P, Ekins P, Iacopini G, Anderson K, Bows A, Mander S, Shackley S. Different scenarios for achieving radical reduction in carbon emissions: a decomposition analysis. Ecological Economics. 2009; 68(6): 1652-1666. eScholarID: 1e545 | DOI: 10.1016/j.ecolecon.2007.09.005
+Alice Bows-Larkin, Kevin Anderson. A bottom-up analysis of including aviation within the EUs Emissions Trading Scheme. A bottom-up analysis of including aviation within the EUs Emissions Trading Scheme. 2008 November;  eScholarID: ma723
+Alice Bows-Larkin, Kevin Anderson, P Upham. Aviation and Climate Change: lessons for European Policy. Taylor & Francis:2008.  eScholarID: ma1097
+Alice Bows-Larkin, Kevin Anderson, Sarah Mander. From long-term targets to cumulative emissions pathways: reframing UK climate policy. Energy Policy. 2008; 36(0): 3714-3722. eScholarID: ma245
+Alice Bows-Larkin. Response to the Environmental Audit Committees Inquiry on Reducing CO2 and other emissions from shipping. Response to the Environmental Audit Committees Inquiry on Reducing CO2 and other emissions from shipping. 2008 September;  eScholarID: ma988
+Alice Bows-Larkin, Kevin Anderson, Ruth Wood. Scottish Climate Change Bill Consultation - submission by Tyndall Manchester. Scottish Climate Change Bill Consultation - submission by Tyndall Manchester. 2008 April;  eScholarID: ma1001
+Alice Bows-Larkin, Kevin Anderson, P Agnolucci, P Ekins, S Shackley, Sarah Mander. The Tyndall Decarbonisation Scenarios Part I: development of a backcasting methodology with stakeholder participation. Energy Policy. 2008; 36(0): 3754-3763. eScholarID: ma538
+Alice Bows-Larkin, Kevin Anderson, P Agnolucci, P Ekins, S Shackley, Sarah Mander. The Tyndall Decarbonisation Scenarios Part II: scenarios for a 60% CO2 reduction in the UK. Energy Policy. 2008; 36(0): 3764-3773. eScholarID: ma539
+Anderson, Kevin L, and Alice  Bows. Decarbonising the UK: a backcasting approach. UKERC Annual Energy Conference 2008. 2008: -. eScholarID: 2e827
+Anderson K, Bows A, Mander S. From long-term targets to cumulative emission pathways: Reframing UK climate policy. Energy Policy. 2008 October; 36(10): 3714-3722. eScholarID: 1e702 | DOI: 10.1016/j.enpol.2008.07.003
+Anderson K, Bows A. Reframing the climate change challenge in light of post-2000 emission trends. Philosophical Transactions of the Royal Society - A: Mathematical, Physical and Engineering Sciences. 2008; 366(1882): 3863-3882. eScholarID: 1e648 | DOI: 10.1098/rsta.2008.0138
+Anderson K, Mander S, Bows A, Shackley S, Agnolucci P, Ekins P. The Tyndall Decarbonisation Scenarios Part II: scenarios for a 60% CO2 reduction in the UK. Energy Policy. 2008 October; 36(10): 3764-3773. eScholarID: 1e651 | DOI: 10.1016/j.enpol.2008.06.002
+Bows, Alice. Climate change & carbon budgets: implications for a growing aviation industry. Royal Aeronautical Society Aircraft Structural Design: challenges for the next generation: concept to disposal. 2008:  eScholarID: 2e957
+Bows, Alice. Climate change & carbon budgets: the contribution of international transport emissions. Climate Change Impacts and Adaptation: Dangerous Rates of Change conference. 2008:  eScholarID: 2e958
+Bows A, Anderson K. Contraction and convergence: an assessment of the CCOptions Model. Climatic Change. 2008 December; 91: 275-290. eScholarID: 1e649 | DOI: 10.1007/s10584-008-9468-z
+Mander, Sarah, Alice  Bows, and S  Randles. I will have a conscience but I wont not go to Miami drivers for growth of aviation emissions and implications for emission reduction. Climate Change Impacts and Adaptation: Dangerous Rates of Change conference. 2008:  eScholarID: 2e959
+Mander S, Bows A, Anderson K, Shackley S, Agnolucci P, Ekins P. The Tyndall decarbonisation scenarios—Part I: Development of a backcasting methodology with stakeholder participation. Energy Policy. 2008 October; 36(10): 3754-3763. eScholarID: 1e650 | DOI: 10.1016/j.enpol.2008.06.003
+Wood, Ruth, Alice  Bows, and Kevin L  Anderson. How can CO2 Emissions from Aviation be allocated to Regional Administrations for Monitoring and Target Setting?. European Transport Conference. 2008: -. eScholarID: 2e960
+Alice Bows-Larkin, Kevin Anderson, S Shackley, Sarah Mander. Decarbonising the UK – energy for a climate conscious future. Tyndall Centre for Climate Change Research: 2007.  eScholarID: ma809
+Alice Bows-Larkin, Kevin Anderson, P Upham. Written evidence on including aviation within the EU Emissions Trading Scheme. Written evidence on including aviation within the EU Emissions Trading Scheme. 2007;  eScholarID: ma1079
+Bows, Alice. 2C, carbon budgets and freight transport. Sea and Water Conference, Liverpool Maritime Museum. 2007:  eScholarID: 2e800
+Bows A, Anderson K. Policy clash: can projected aviation growth be reconciled with the UK Government's 60% carbon reduction policy?. Transport Policy. 2007 March; 14(2): 103-110. eScholarID: 1e215 | DOI: DOI:10.1016/j.tranpol.2006.10.002,Abstract
+Bows, Alice. Shipping emissions, the global warming context. Tackling Shipping Emissions, Waterfront Conference. 2007:  eScholarID: 2e799
+Bows, Alice, Kevin L  Anderson, and P  Peeters. Technology, Scenarios and Uncertainty. E-CLAT Technical seminar, “Policy dialogue on tourism, transport and climate change: stakeholders meet researchers. 2007: -. eScholarID: 2e418
+Mander S, Bows A, Anderson K, Shackley S, Agnolucci P, Ekins P. Uncertainty and the Tyndall decarbonisation scenarios. Global Environmental Change. 2007; 17(1): 25-36. eScholarID: 1e142 | DOI: 10.1016/j.gloenvcha.2006.11.004
+Randles, S, Sarah  Mander, and Alice  Bows. Environment/economy contradictions and Aviation Growth. 13th Annual International Sustainable Development Research Conference. 2007:  eScholarID: 2e778
+Randles, S, Alice  Bows, and Sarah  Mander. Environment/economy contradictions and Aviation Growth. 8th European Sociological Association Conference 2007. 2007:  eScholarID: 2e779
+Contracting UK carbon emissions: implications for UK aviation.. 2006. International conference on transport, atmosphere and climate.
+Alice Bows-Larkin, Kevin Anderson, P Upham. Contraction and convergence: UK carbon emissions and the implications for UK air traffic. Tyndall Centre for Climate Change Research: 2006 February.  eScholarID: ma801
+Alice Bows-Larkin, Kevin Anderson, P Agnolucci, P Ekins, S Shackley, Sarah Mander. Decarbonising modern societies: integrated scenarios process and workshop. The Tyndall Centre for Climate Change Research: 2006 March.  eScholarID: ma808
+Alice Bows-Larkin, Kevin Anderson, P Upham. The Reducing Carbon Emissions from Transport Inquiry. The Reducing Carbon Emissions from Transport Inquiry. 2006;  eScholarID: ma1051
+Anderson, Kevin L, and Alice  Bows. Aviation and climate change. Greener By Design Conference. 2006: -. eScholarID: 2e801
+Anderson, Kevin L, and Alice  Bows. Contracting UK carbon emissions: implications for UK aviation. 6th British Institute of Energy Economics Conference: Energy Policy in a Global Context. 2006: -. eScholarID: 2e419
+Bows, Alice, and Kevin L  Anderson. Contracting UK carbon emissions: implications for UK aviation [Proceedings of an International Conference on Transport Atmosphere and Climate]. Proceedings of an International Conference on Transport Atmosphere and Climate (TAC). 2006: -. eScholarID: 2e249
+Alice Bows-Larkin, Kevin Anderson. An analysis of a post-Kyoto climate policy model: working paper 82. An analysis of a post-Kyoto climate policy model: working paper 82. 2005 September;  eScholarID: ma749
+Alice Bows-Larkin, Kevin Anderson, P Upham. Growth Scenarios for EU and UK Aviation. Tyndall Centre: 2005 April.  eScholarID: ma876
+Shackley, S., Anderson, K., Mander, S., Bows, A., Agnolucci P, Ekins P. Integrated Scenarios. EISEA integrated assessment conference. 2005:  eScholarID: 2b2339
+Shackley, S., Anderson, K., Mander, S., Bows, A., Agnolucci P, Ekins P. Integrated Scenarios to Achieve a 60% Carbon Reduction for the UK by 2050. 2005:  eScholarID: 2b2129
+Alice Bows-Larkin, Kevin Anderson, P Upham. Policy submission and oral evidence to House of Lords Sub-Committee B. Policy submission and oral evidence to House of Lords Sub-Committee B. 2005;  eScholarID: ma963
+Alice Bows-Larkin, E Tomkins, J Kohler, Kevin Anderson, N Adger, N Arnell, R Warren, S Shackley, Sarah Mander, T Barker. Policy submission to the STERN REVIEW on the Economics of Climate Change. Policy submission to the STERN REVIEW on the Economics of Climate Change. 2005;  eScholarID: ma964
+Agnolucci, P, P  Ekins, Kevin L  Anderson, Alice  Bows, Sarah  Mander, and S  Shackley. Exploring 60% carbon reduction scenarios. 6th Open meeting of the Human Dimensions of Global Environment Change Research Community, University of Bonn. 2005:  eScholarID: 2e796
+Anderson, Kevin L, Alice  Bows, Sarah  Mander, S  Shackley, P  Agnolucci, and P  Ekins. Tyndall integrated decarbonisation scenarios. 2005:  eScholarID: 2e845
+Anderson, Kevin L, Alice  Bows, Sarah  Mander, S  Shackley, P  Agnolucci, and P  Ekins. Tyndall integrated energy scenarios. British Institute of Energy Economics. 2005:  eScholarID: 2e421
+Bows, Alice, Kevin L  Anderson, Sarah  Mander, S  Shackley, P  Agnolucci, and P  Ekins. Integrated Assessment Scenarios. Avoiding Dangerous Climate Change, Stabilisation Symposium, Exeter. 2005:  eScholarID: 2e795
+Bows, Alice, Kevin L  Anderson, Sarah  Mander, P  Agnolucci, P  Ekins, and S  Shackley. Integrated Assessment Scenarios. Challenges for Integrated Assessment in a Fast Changing World, EFIEA Conference, Berlin. 2005:  eScholarID: 2e798
+Bows, Alice, Kevin L  Anderson, Sarah  Mander, S  Shackley, P  Agnolucci, and P  Ekins. Tyndall integrated energy scenarios. European Forum for Integrated Environmental Assessment. 2005:  eScholarID: 2e420
+Mander, Sarah, P  Agnolucci, Kevin L  Anderson, Alice  Bows, P  Ekins, and S  Shackley. Pathways to a decarbonised UK: achieving a 60% reduction in CO2 emissions by 2050. European Society for Ecological Economics Conference, Lisbon. 2005:  eScholarID: 2e797
+Alice Bows-Larkin, Kevin Anderson, P Upham. Aviation and climate change: implications for the UK white paper on the future of aviation. Aviation and climate change: implications for the UK white paper on the future of aviation. 2004;  eScholarID: ma763
+Alice Bows-Larkin, Kevin Anderson, P Upham. Climate Change Looking Forward. Climate Change Looking Forward. 2004;  eScholarID: ma782
+Alice Bows-Larkin, J Kohler, Kevin Anderson, P Upham. Proposals for the development of the DfT's evidence and research strategy. Proposals for the development of the DfT's evidence and research strategy. 2004;  eScholarID: ma970
+Alice Bows-Larkin, Kevin Anderson, P Agnolucci, P Ekins, S Shackley, Sarah Mander. The Eight Scenarios Developed by the Tyndall Integrated Scenarios Project. 2004.  eScholarID: ma1046
+Alice Bows-Larkin, Kevin Anderson, P Upham. The international challenge of climate change: UK leadership in the G8 and EU. The international challenge of climate change: UK leadership in the G8 and EU. 2004;  eScholarID: ma1048
+Bows, A., Haigh J, Djavidnia S. The Effect of Solar UV Irradiance Variations on the Earth's Atmosphere. 2000; 94: 199-214. eScholarID: 1b9152
+Bows A, Haigh J, Djavidnia S. The effect of solar UV irradiance variations on the Earth\'s atmosphere. Space Science Reviews. 2000; 94: 199-214. eScholarID: 1e553
+

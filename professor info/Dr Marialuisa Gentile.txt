@@ -1,0 +1,23 @@
+name  role  phone  location  email
+Dr Marialuisa Gentile  Research Associate  0161-3062352  Pariser Building - C17  marialuisa.gentile@manchester.ac.uk  
+
+BIOGRAPHY: 
+Marialuisa Gentile joined the School of Mechanical Aerospace and Civil Engineering of the University of Manchester in the middle of 2011 as Research Associate in the Centre for Nuclear Energy Technology.
+Marialuisa Gentiles research interests centre in the relationship between manufacturing techniques and the physical and chemical properties of materials. She has investigated the feasibility of silicon carbide (SiC) as alternative cladding materials in light water reactor (LWR) and as coating layer in Tristructural-isotropic (TRISO) nuclear fuel. The current  research project involves the development of an innovative joining technique of SiC.
+Joining of silicon carbide tubes is one practical issues associated with introducing SiC-based fuel cladding.
+After completing a BSc and MSc in Chemical Engineering Marialuisa obtained a PhD from the Corrosion and Protection Centre of the University of Manchester. After working as process engineer for few months, she started her post-doc in the department of Mechanical, Aerospace and Civil Engineering of the University of Manchester. Marialuisa is a member of the American Ceramics Society.
+
+RESEARCH: 
+
+PUBLICATION: 
+Ceramics Engineering Science Proceedings. 2015.  eScholarID: 296458
+M. Gentile, P. Xiao, T. Abram. Palladium interaction with silicon carbide. Journal of Nuclear Materials. 2015 March; 100-107. eScholarID: 262814 | DOI: 10.1016/j.jnucmat.2015.03.013
+TopFuel 2015 Transaction Volume1. 2015.  eScholarID: 296459
+XRD and TG-DSC analysis of the silicon carbide-palladium reaction. 2014.  eScholarID: 261160
+Gentile M, Koroleva E, Skeldon P, Thompson G, Bailey P, Noakes T. Influence of grain orientation on zinc enrichment and surface morphology of Al-Zn alloys. Surface and Interface Analysis. 2010 March; 42(3): 287-292. eScholarID: 261422 | DOI: 10.1002/sia.3147
+Gentile M, Koroleva E, Skeldon P, Thompson G. Influence of pre-treatment on the surface composition of Al-Zn alloys. Corrosion Science. 2010 March; 688-694. eScholarID: 261415
+Electronic properties of Al-Nb mixed oxide as a function of their composition. 2009.  eScholarID: 262852
+M Santamaria, F Di Quarto, M Gentile, P Skeldon, G.E Thompson. Growth and characterization of anodic Films on Al-Nb Alloys. Passivation of metals and semiconductors, and properties of thin oxide layers. 2006:  eScholarID: 262714
+Structural and compositional analysis of anodic films on Al-Nb sputter-deposited alloys. 2006.  eScholarID: 262850
+Structural and compositional analysis of anodic films on Al-Nb sputter-deposited alloys. 2006;  eScholarID: 262762
+

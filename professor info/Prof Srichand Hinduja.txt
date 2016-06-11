@@ -1,0 +1,69 @@
+name  role  phone  location  email
+Prof Srichand Hinduja  Professor  0161-3063808  Pariser Building - G19  sri.hinduja@manchester.ac.uk  
+
+BIOGRAPHY: 
+B.E. in Mechanical Engineering, College of Engineering, Guindy, Madras, India (1960-65).Production Engineer, Weiler KG, Germany, Manufacturer of Machine Tools (1965-67). MSc and PhD at UMIST (1967-71). Academic Staff Member,UMIST 1970-2007. Professor of Mechanical Engineering, University of Manchester since 2004.
+
+RESEARCH: 
+Computer-Assisted Process Planning of Machined Components
+Recognition of Manufacturing Features in Turned and Milled Components
+Determination of Optimum Toolpaths for Machining 2 1/2D Milling Features
+Pressure Die Casting
+Bi-metallic Dies for Rapid Heat Extraction
+Determination and Compensation of Errors in Machine Tools
+Optimum Two-Tool Solutions for Machining Milling Features
+Pulsating Blankholders for Improving the Quality of Deep Drawn Components
+
+PUBLICATION: 
+Sri Hinduja. Springer Verlag. In: Hinduja S, ed. Springer Verlag. 498. eScholarID: ma1132
+Hinduja S, Pattavanitch J. Experimental and numerical investigations into electrochemical milling. C I R P - Journal of Manufacturing Science and Technology.  eScholarID: 293214 | DOI: doi:10.1016/j.cirpj.2015.07.003
+R Heinemann and S Hinduja. A new strategy for Tool Condition Monitoring of small diameter twist drills in deep-hole drilling. International Journal of Machine Tools and Manufacture. 2012 January; 52(1): 69-76. eScholarID: 151999 | DOI: 10.1016/j.ijmachtools.2011.09.002
+Robert Heinemann, Sri Hinduja. A new strategy for Tool Condition Monitoring of small diameter twist drills in deep-hole drilling. International Journal of Machine Tools and Manufacture. 2012; 52(0): 69-76. eScholarID: ma038
+Jitti Pattavanitch, Srichand Hinduja. Machining of turbulated cooling channel holes in turbine blades. P.199. CIRP Annals Manufacturing Technology. 2012 August; 61(1): 4. eScholarID: 178125 | DOI: 10.1016/j.cirp.2012.03.086
+G Barrow, R heinemann and S Hinduja. Manufacturing Engineering Provision Across Europe. 2011: -. eScholarID: 152023
+G Barrow, Robert Heinemann, Sri Hinduja. Assessment of the Manufacturing Engineering Education Provision across the EU. Assessment of the Manufacturing Engineering Education Provision across the EU. 2010;  eScholarID: ma761
+Hinduja S, Mansor A, Owodunni O. Voronoi diagram-based linking of contour-parallel tool paths for 2½ D pocket machining. Computer-Aided Design. In-press eScholarID: 1e379
+G Barrow, K Dalgarno, R Teti, Robert Heinemann, Sri Hinduja, V Raja. A Study to assess the appropriateness of I*PROMS education and training schemes - Phase II. 2009.  eScholarID: ma739
+George Barrow, R Teti, Sri Hinduja, T Fouweather, V Raja. A Study to assess the appropriateness of I*PROMS education and training schemes - Phase I. 2008.  eScholarID: ma737
+G Barrow, R Teti, Robert Heinemann, Sri Hinduja, T Fouweather, V Raja. A Study to assess the appropriateness of I*PROMS education and training schemes - Phase I. 2008.  eScholarID: ma738
+Ali S, Hinduja S, Atkinson J, Bolt P, Werkhoven R. The effect of ultra-low frequency pulsations on tearing during deep drawing of cylindrical cups. International Journal of Machine Tools and Manufacture. In-press eScholarID: 1e535
+Heinemann, Robert, and Sri  Hinduja. The Effect of Tool Coatings on the Performance of Small Diameter HSS Twist Drills in Drilling Deep Holes Using Higher Cutting Speeds. Proceedings of the 35th International MATADOR Conference. London: Springer Verlag: 2007: 187-190. eScholarID: 2e599
+Hinduja, Sri, Oladele  Owodunni, Samir  Mekid, and A  Zia. Investigation of optimum cutting conditions for STEP-NC turned features. Conference on Innovative Production Machines and Systems. 2007:  eScholarID: 2e588
+Mwinuka T, Hinduja S, Owodunni O. Extendible operation sequencing for turn-milled components. CIRP Annals - Manufacturing Technology. 2007; 56:  eScholarID: 1e383
+Robert Heinemann, Sri Hinduja. Tool condition monitoring for small diameter twist drills in deep hole drilling. Tool condition monitoring for small diameter twist drills in deep hole drilling. 2006 August;  eScholarID: ma1064
+Alonso-Rasgado T, Davey K, Clark L, Hinduja S. Bi-Metallic Dies for Rapid Die Casting. Journal of Materials Processing Technology. 2006; 174: 109-116. eScholarID: 1e1476 | DOI: 10.1016/j.jmatprotec.2005.04.069
+Alonso-Rasgado T, Davey K, Clark L, Hinduja S. Boundary Element Stress Analysis for Bi-Metallic Dies. Journal of Materials Processing Technology. 2006; 175: 117-122. eScholarID: 1e1480 | DOI: 10.1016/j.jmatprotec.2005.04.070
+Alonso-Rasgado T, Davey K, Clark L, Hinduja S. Boundary Element Stress Analysis for Bi-metallic Dies in Pressure Die Casting. Journal of Materials Processing Technology. 2006; 84: 254-267. eScholarID: 1e239
+Alonso-Rasgado T, Davey K, Clark L, Hinduja S. Boundary Element Stress Analysis for Copper-based dies in Pressure Die Casting. Computers and Structures. 2006; 84: 254-267. eScholarID: 1e1468 | DOI: 10.1016/j.compstruc.2005.05.004
+Clark L, Alonso-Rasgado T, Davey K, Hinduja S. An Experimental and Numerical Investigation into the Thermal Behaviour of Copper-Alloyed Dies in Pressure Die Casting. Transactions of the ASME, Journal of Manufacturing Science and Engineering. 2006; 128: 844-859. eScholarID: 1e1469 | DOI: 10.1115/1.2280586
+Clark L, Alonso-Rasgado T, Davey K, Hinduja S. An Experimental and Numerical Investigation of Copper-Alloyed Dies in Pressure Die Casting. Transactions of the ASME, Journal of Manufacturing Science and Engineering. 2006; 128: 844-859. eScholarID: 1e241 | DOI: 10.1115/1.2280586
+Heinemann R, Hinduja S, Barrow G, Petuellli G. Effect of MQL on the tool life of small twist drills in deep-hole drilling. International Journal of Machine Tools and Manufacture. 2006; 46: 1-6. eScholarID: 1e1498 | DOI: 10.1016/j.ijmachtools.2005.04.003
+Heinemann R, Hinduja S. Fit gemacht fuers HSC-Bohren (Get in shape for high-speed drilling). Werkstatt und Betrieb. 2006; (4): 42-46. eScholarID: 1e384
+Heinemann R, Hinduja S, Barrow G, Petuelii G. The Performance of Small Diameter Twist Drills in Deep-Hole Drilling. Transactions of the ASME, Journal of Manufacturing Science and Engineering. 2006; 128: 884-892. eScholarID: 1e1499 | DOI: 10.1115/1.2335859
+Owodunni, Oladele, and Sri  Hinduja. Towards a scientific methodology for Intelligent CAD/CAM research. 5th CIRP Int. Seminar on Intelligent Computation in Manufacturing Engineering, Ischia. 2006: 623-628. eScholarID: 2e598
+Robert Heinemann, Sri Hinduja. Performance of small diameter twist drills in deep-hole drilling. Performance of small diameter twist drills in deep-hole drilling. 2005 January;  eScholarID: ma962
+HINDUJA S; OWODUNNI, O O. Systematic development and evaluation of composite methods for recognition of three-dmensional subtractive feature. Proceedings of the Institution of Mechanical Engineers Part B Journal of Engineering Manufacture. 2005 December; 219(12): 871-890. eScholarID: 1a9130 | DOI: 10.1243/095440505X32878
+HINDUJA S; SALMAN MANSOOR, M; OWODUNNI, O.O Voronoi diagram-based tool path compensations for removing uncut material in 2½D pocket machining. Computer Aided Design. 2005 December; 38(3): 194-209. eScholarID: 1a9131 | DOI: 10.1016/j.cad.2005.09.001
+Bolt, P J, R  Werkhoven, Shiraz  Ali, Sri  Hinduja, and John  Atkinson. Effect of a pulsating blankholder on material flow in deep drawing. Proceedings of the 8th International Conference on Technology of Plasticity, Verona. 2005:  eScholarID: 2e584
+Hinduja S, Clark L, Davey K, Rasgado M. Stress models for copper-alloyed dies in pressure die casting. Proceedings of the Institution of Mechanical Engineers - Part C: Journal of Mechanical Engineering Science. 2005;  eScholarID: 1e374
+Hinduja S, Clark L, Davey K, Rasgado M. Thermal Models for Copper-Alloyed Dies in Pressure Die Casting. International Journal for Numerical Methods in Engineering. 2005;  eScholarID: 1e375
+Owodunni O, Hinduja S. Systematic development and evaluation of composite methods for recognition of three-dimensional subtractive feature. Proceedings of the Institution of Mechanical Engineers - Part B: Journal of Engineering Manufacture. 2005; 219: 871-890. eScholarID: 1e376 | DOI: 10.1243/095440505X32878
+Owodunni, Oladele, Sri  Hinduja, and Samir  Mekid. Towards Rapid Sheet Metal Forming. IPROMS International Video-Conference. 2005:  eScholarID: 2e1361
+Hinduja, Sri. Proceedings of the 34th International MATADOR Conference. Proceedings of the 34th International MATADOR Conference, Manchester. Berlin: Springer Verlag: 2004: 498-. eScholarID: 2e593
+Owodunni, Oladele, J  Diaz-Rozo, and Sri  Hinduja. Development and Evaluation of a Low-Cost Computer Controlled Reconfigurable Rapid Tool. CAD’04 Conference. 2004:  eScholarID: 2e594
+Owodunni, Oladele, M  Mansor, and Sri  Hinduja. Rapid Development of Product Prototypes from Reverse Engineering and Reconfigurable Tooling. Time Compression Technology Conference, Birmingham UK. 2004:  eScholarID: 2e597
+Rasgado, M, Keith  Davey, Leslie  Clark, and Sri  Hinduja. Bimetallic Dies in Pressure Diecasting: An experimental and numerical investigation. Proceedings of the 2nd International Conference on High Tech Diecasting, Brescia, Italy. 2004: 13-22. eScholarID: 2e595
+D Mladenov, S Hinduja and M Burdekin. CIRP Annals, Assessment of force-induced errors in turning. Vol. 52. 2003. 329-333.
+Alonso-Rasgado, Teresa A, Keith  Davey, LD  Clark, and Sri  Hinduja. Bi-metallic Dies for rapid Die Casting. Proceedings of the 12th Int. Conf. on AMME, Gliwice-Zakopane, Poland. 2003: 37-42. eScholarID: 2e443
+Alonso-Rasgado, Teresa A, Keith  Davey, L D  Clark, and Sri  Hinduja. Boundary Element Stress Analysis for Bi-Metallic Dies In Pressure Die Casting. Proceedings of the 12th International Scientific Conference Achievements in Mechanical and Materials Engineering, AMME, Gliwice-Zakopane, Poland. 2003: 31-36. eScholarID: 2e123
+Mladenov D, Hinduja S, Burdekin M. Assessment of Force-induced Errors in CNC Turning. CIRP Annals - Manufacturing Technology. 2003; 52: 329-332. eScholarID: 1e381 | DOI: 10.1016/S0007-8506(07)60594-0
+Davey K, Hinduja S, Clark L. Optimisation for Boiling Heat Transfer Determination and Enhancement in Pressure Die Casting, (Publishing award for best 2002 paper). Proceedings of the Institution of Mechanical Engineers - Part B: Journal of Engineering Manufacture. 2002; 216: 1589-1609. eScholarID: 1e233 | DOI: 10.1243/095440502321016332
+Owodunni O, Hinduja S. Evaluation of existing and new feature recognition algorithms, Part I: Theory and implementation. Proceedings of the Institution of Mechanical Engineers - Part B: Journal of Engineering Manufacture. 2002; 216: 839-851. eScholarID: 1e371 | DOI: 10.1243/095440502320192978
+Owodunni O, Hinduja S. Evaluation of existing and new feature recognition algorithms, Part II: experimental results. Proceedings of the Institution of Mechanical Engineers - Part B: Journal of Engineering Manufacture. 2002; 216: 853-866. eScholarID: 1e372 | DOI: 10.1243/095440502320192851
+Owodunni O, Hinduja S. Extendible Classification of design and manufacturing features. CIRP Annals - Manufacturing Technology. 2002; 51: 103-106. eScholarID: 1e380 | DOI: 10.1016/S0007-8506(07)61476-0
+HINDUJA S; SANDIFORD, D. Construction of feature volumes using intersection of adjacent surfaces. Computer Aided Design. 2001 March; 33(6): 455-473. eScholarID: 1a9132 | DOI: 10.1016/S0010-4485(00)00096-8
+HINDUJA S; CLARK, L D; DAVEY, K. Novel cooling channel shapes in pressure die casting. International Journal for Numerical Methods in Engineering. 2001 February; 50(10): 2411-2440. eScholarID: 1a9133 | DOI: 10.1002/nme.126
+Clark L, Davey K, Hinduja S. Novel Cooling Channels Shapes in Pressure Die casting. International Journal for Numerical Methods in Engineering. 2001 April; 50(10): 2411-2440. eScholarID: 1e412 | DOI: 10.1002/nme.126
+Hinduja S, Aous R, Philimis P, Barrow G. Determination of optimum cutter diameter for machining 21/2-D pockets. International Journal of Machine Tools and Manufacture. 2001; 41: 687-702. eScholarID: 1e369 | DOI: 10.1016/S0890-6955(00)00098-5
+Sandiford D, Hinduja S. Construction of feature volumes using intersection of adjacent surfaces. Computer-Aided Design. 2001; 33: 445-473. eScholarID: 1e1002 | DOI: 10.1016/S0010-4485(00)00096-8
+

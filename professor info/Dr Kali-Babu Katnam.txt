@@ -1,0 +1,68 @@
+name  role  phone  location  email
+Dr Kali-Babu Katnam  Lecturer in Structural Engineering  0161-2754307  Pariser Building - G12  kali-babu.katnam@manchester.ac.uk  
+
+BIOGRAPHY: 
+Dr. Kali Katnam joined the School of Mechanical, Aerospace and Civil Engineering in October 2013 as Lecturer in Structural Engineering (Aerospace Composites).
+He obtained his BEng degree in Civil Engineering (Andhra University, India) and MTech degree in Structural Engineering (Indian Institute of Technology Bombay, India). He completed his PhD in Structural Engineering from Ghent University, Belgium in 2007. He then joined the University of Surrey as Post-doctoral Research Fellow (2007-2009) and conducted research on fatigue and fracture of adhesively bonded composite structures (in collaboration with Imperial College London, BAE Systems and Airbus UK). In 2009, he joined the Irish Centre for Composites Research (IComp, University of Limerick, Ireland) as Post-doctoral Research Fellow (2009-2013) and performed industry-oriented research (in collaboration with Henkel Adhesives and Bombardier UK) on structural integrity of composite structural assemblies and repairs.
+
+His research interests are broadly in the area of polymer composite structures, with emphasis on experimental characterization and damage modelling of structural bonded joints/repairs and toughened adhesives.
+
+RESEARCH: 
+Composite structures
+Structural adhesive bonding
+Integrity of structural joints
+Composite repair
+Polymer composite materials
+Experimental mechanics
+Damage mechanics
+Environmental degradation
+Morphing composite structures
+
+PUBLICATION: 
+Katnam K, Comer A, Roy D, da Silva L, Young T. Composite Repair in Wind Turbine Blades: An Overview. Journal of Adhesion. 2015; 91(1-2): 113-139. eScholarID: 258652 | DOI: 10.1080/00218464.2014.900449
+Katnam K, da Silva L. Special Issue on Primary Bonded Repairs in Composite Structures. Journal of Adhesion. 2015; 91(1-2): 1-3. eScholarID: 258657 | DOI: 10.1080/00218464.2014.916105
+Kali-Babu Katnam, R Telford, T M Young. The effect of moisture ingress on through-thickness residual stresses in unsymmetric composite laminates: A combined experimentalnumerical analysis. Composite Structures. 2014; 107(0): 502-511. eScholarID: ma495
+Telford R, Katnam K, Young T. Analysing thermally induced macro-scale residual stresses in tailored morphing composite laminates. Composite Structures. 2014; 117: 40-50. eScholarID: 258668 | DOI: 10.1016/j.compstruct.2014.06.013
+Telford R, Katnam K, Young T. The effect of moisture ingress on through-thickness residual stresses in unsymmetric composite laminates: A combined experimental-numerical analysis. Composite Structures. 2014; 107: 502-511. eScholarID: 258658 | DOI: 10.1016/j.compstruct.2013.08.008
+Kali-Babu Katnam, LFM Da Silva, TM Young. Bonded repair of composite aircraft structures: A review of scientific challenges and opportunities. Progress in Aerospace Sciences. 2013; 61(0): 26-42. eScholarID: ma105
+AJ Comer, Kali-Babu Katnam, TM Young, WF Stanley. Characterising the Behaviour of Composite Single Lap Bonded Joints using Digital Image Correlation. International Journal of Adhesion and Adhesives. 2013; 40(0): 215-223. eScholarID: ma115
+JX Dhote, Kali-Babu Katnam, TM Young. Experimental Analysis of the Bondline Stress Concentrations to Characterize the Influence of Adhesive Ductility on the Composite Single Lap Joint Strength. The Journal of Adhesion. 2013; 89(0): 486-506. eScholarID: ma211
+Kali-Babu Katnam, TM Young. Mode-I fracture of CFRP composite bonded joints: Influence of surface treatment and ductility. Advances in Materials Science: Composites and Nanocomposites. CRC Press.2013:  eScholarID: ma1714
+CT McCarthy, DC O\'Mahoney, Kali-Babu Katnam, NP O\'Dowd, TM Young. Taguchi analysis of bonded composite single-lap joints using a combined interfaceadhesive damage model. International Journal of Adhesion and Adhesives. 2013; 40(0): 168-178. eScholarID: ma477
+Comer A, Katnam K, Stanley W, Young T. Characterising the behaviour of composite single lap bonded joints using digital image correlation. International Journal of Adhesion and Adhesives. 2013; 40: 215-223. eScholarID: 258673 | DOI: 10.1016/j.ijadhadh.2012.08.010
+Katnam K, Da Silva L, Young T. Bonded repair of composite aircraft structures: A review of scientific challenges and opportunities. Progress in Aerospace Sciences. 2013; 61: 26-42. eScholarID: 258654 | DOI: 10.1016/j.paerosci.2013.03.003
+Katnam K, Dhote J, Young T. Experimental Analysis of the Bondline Stress Concentrations to Characterize the Influence of Adhesive Ductility on the Composite Single Lap Joint Strength. Journal of Adhesion. 2013; 89(6): 486-506. eScholarID: 258651 | DOI: 10.1080/00218464.2013.759432
+O'Mahoney D, Katnam K, O'Dowd N, McCarthy C, Young T. Taguchi analysis of bonded composite single-lap joints using a combined interface-adhesive damage model. International Journal of Adhesion and Adhesives. 2013; 40: 168-178. eScholarID: 258656 | DOI: 10.1016/j.ijadhadh.2012.06.001
+AJ Comer, Kali-Babu Katnam, M Buggy, TM Young, WF Stanley. Investigating tensile behaviour of toughened epoxy paste adhesives using circumferentially notched cylindrical bulk specimens. International Journal of Adhesion and Adhesives. 2012; 37(0): 10-Mar. eScholarID: ma280
+JPJ Stevenson, Kali-Babu Katnam, M Buggy, TM Young, WF Stanley. Tensile strength of two-part epoxy paste adhesives: Influence of mixing technique and micro-void formation. International Journal of Adhesion and Adhesives. 2012; 31(0): 666-673. eScholarID: ma482
+Katnam K, Comer A, Stanley W, Buggy M, Young T. Investigating tensile behaviour of toughened epoxy paste adhesives using circumferentially notched cylindrical bulk specimens. International Journal of Adhesion and Adhesives. 2012; 37: 3-10. eScholarID: 258655 | DOI: 10.1016/j.ijadhadh.2012.01.007
+K.B. Katnam, A.J. Comer, W.F. Stanley, M. Buggy, A.R. Ellingboe, T.M. Young. Characterising pre-preg and non-crimp-fabric composite single lap bonded joints. International Journal of Adhesion and Adhesives. 2011; 31(7): 679-686. eScholarID: 212088 | DOI: 10.1016/j.ijadhadh.2011.06.013
+AD Crocombe, H Khoramishad, IA Ashcroft, Kali-Babu Katnam. Fatigue damage modelling of adhesively bonded joints under variable amplitude loading using a cohesive zone model. Engineering Fracture Mechanics. 2011; 78(0): 3212-3225. eScholarID: ma226
+AD Crocombe, Kali-Babu Katnam, S Sugiman. Investigating the static response of hybrid fibremetal laminate doublers loaded in tension. Composites Part B: Engineering. 2011; 42(0): 1867-1884. eScholarID: ma281
+K. B. Katnam A. D. Crocombe, S. Sugiman, H. Khoramishad and I. A. Ashcroft. Static and fatigue failures of adhesively bonded laminate joints in moist environments. International Journal of Damage Mechanics. 2011; 20(8): 1217-1242. eScholarID: 212087 | DOI: 10.1177/1056789510395363
+AD Crocombe, H Khoramishad, IA Ashcroft, Kali-Babu Katnam. The static failure of adhesively bonded metal laminate structures: a cohesive zone approach. Journal of Adhesion Science and Technology. 2011; 25(0): 1131-1157. eScholarID: ma534
+Katnam K, Stevenson J, Stanley W, Buggy M, Young T. Tensile strength of two-part epoxy paste adhesives: Influence of mixing technique and micro-void formation. International Journal of Adhesion and Adhesives. 2011; 31(7): 666-673. eScholarID: 258688 | DOI: 10.1016/j.ijadhadh.2011.06.005
+Katnam K, Crocombe A, Khoramishad H, Ashcroft I. The Static Failure of Adhesively Bonded Metal Laminate Structures: A Cohesive Zone Approach. Journal of Adhesion Science and Technology. 2011; 25(10): 1131-1157. eScholarID: 258690 | DOI: 10.1163/016942410x537152
+Khoramishad H, Crocombe A, Katnam K, Ashcroft I. Fatigue damage modelling of adhesively bonded joints under variable amplitude loading using a cohesive zone model. Engineering Fracture Mechanics. 2011; 78(18): 3212-3225. eScholarID: 258678 | DOI: 10.1016/j.engfracmech.2011.09.008
+Sugiman S, Crocombe A, Katnam K. Investigating the static response of hybrid fibre-metal laminate doublers loaded in tension. Composites Part B-Engineering. 2011; 42(7): 1867-1884. eScholarID: 258679 | DOI: 10.1016/j.compositesb.2011.06.013
+AD Crocombe, H Khoramishad, IA Ashcroft, Kali-Babu Katnam. A generalised damage model for constant amplitude fatigue loading of adhesively bonded joints. International Journal of Adhesion and Adhesives. 2010; 30(0): 513-521. eScholarID: ma027
+K.B. Katnam, J.P. Sargent, A.D. Crocombe, H. Khoramishad, I.A. Ashcroft. Characterisation of moisture-dependent cohesive zone properties for adhesively bonded joints. Engineering Fracture Mechanics. 2010; 77(16): 3105-3119. eScholarID: 212085 | DOI: 10.1016/j.engfracmech.2010.08.023
+AD Crocombe, H Khoramishad, IA Ashcroft, Kali-Babu Katnam. Load ratio effect on the fatigue behaviour of adhesively bonded joints: an enhanced damage model. The Journal of Adhesion. 2010; 86(0): 257-272. eScholarID: ma301
+H. Khoramishad, A.D. Crocombe, K.B. Katnam, I.A. Ashcroft. Predicting fatigue damage in adhesively bonded joints using a cohesive zone model. International Journal of Fatigue. 2010; 32(7): 1146-1158. eScholarID: 212086 | DOI: 10.1016/j.ijfatigue.2009.12.013
+Katnam K, Crocombe A, Khoramishad H, Ashcroft I. Load Ratio Effect on the Fatigue Behaviour of Adhesively Bonded Joints: An Enhanced Damage Model. Journal of Adhesion. 2010; 86(3): 257-272. eScholarID: 258681 | DOI: 10.1080/00218460903462632
+Khoramishad H, Crocombe A, Katnam K, Ashcroft I. A generalised damage model for constant amplitude fatigue loading of adhesively bonded joints. International Journal of Adhesion and Adhesives. 2010; 30(6): 513-521. eScholarID: 258667 | DOI: 10.1016/j.ijadhadh.2010.05.003
+G Lagae, Kali-Babu Katnam, M De Strycker, R Van Impe. Design of cold-formed steel purlins attached to roof sheeting based on Eurocode 3: Effect of gravity load. Advances in Structural Engineering. 2008; 11(0): 199-208. eScholarID: ma153
+Katnam K, Van Impe R, Lagae G, De Strycker M. Design of cold-formed steel purlins attached to roof sheeting based on Eurocode 3: Effect of gravity load. Advances in Structural Engineering. 2008; 11(2): 199-208. eScholarID: 258675 | DOI: 10.1260/136943308784466242
+G Lagae, Kali-Babu Katnam, M De Strycker, R Van Impe. A theoretical numerical study of the rotational restraint in cold-formed steel single skin purlin-sheeting systems. Computers and Structures. 2007; 85(0): 1185-1193. eScholarID: ma055
+G Lagae, Kali-Babu Katnam, M De Strycker, R Van Impe. Modelling of cold-formed steel sandwich purlin-sheeting systems to estimate the rotational restraint. Thin-Walled Structures. 2007; 45(0): 584-590. eScholarID: ma321
+Katnam K, Van Impe R, Lagae G, De Strycker M. A theoretical numerical study of the rotational restraint in cold-formed steel single skin purlin-sheeting systems. Computers & Structures. 2007; 85(15-16): 1185-1193. eScholarID: 258662 | DOI: 10.1016/j.compstruc.2006.11.027
+Katnam K, Van Impe R, Lagae G, De Strycker M. Modelling of cold-formed steel sandwich purlin-sheeting systems to estimate the rotational restraint. Thin-Walled Structures. 2007; 45(6): 584-590. eScholarID: 258663 | DOI: 10.1016/j.tws.2007.04.010
+B Verhegghe, Kali-Babu Katnam, M De Beule, P Verdonck, R Van Impe. A finite element model of a stainless steel stent expansion. Computational Methods. Springer.2006:  eScholarID: ma1716
+Kali-Babu Katnam, L De Backer, M De Beule, R Van Impe. Basic FEM of the human heartmuscle cell: A microscopic approach of the contraction of the myocardium. Computational Methods. Springer.2006:  eScholarID: ma1718
+G Lagae, Kali-Babu Katnam, M De Beule, R Van Impe, W Vanlaere. On the imperfections of cylindrical shells on local supports. Computational Methods. Springer.2006:  eScholarID: ma1717
+G Lagae, Kali-Babu Katnam, M De Beule, R Van Impe. Rotational restraint in cold-formed steel Z-profile purlin-sheeting systems: Finite element model. Computational Methods. Springer.2006:  eScholarID: ma1715
+A finite element model of a stainless steel stent expansion. 2006.  eScholarID: 258660
+Basic FEM of the human heartmuscle cell: A microscopic approach of the contraction of the myocardium. 2006.  eScholarID: 258661
+Rotational restraint in cold-formed steel Z-profile purlin-sheeting systems: Finite element model. 2006.  eScholarID: 258664
+On the imperfections of cylindrical shells on local supports. 2006.  eScholarID: 258682 | DOI: 10.1007/978-1-4020-3953-9_113
+

@@ -1,0 +1,106 @@
+name  role  phone  location  email
+Dr Rodger Edwards  Reader  0161-3064250  Pariser Building - G21  rodger.edwards@manchester.ac.uk  
+
+BIOGRAPHY: 
+Rodger Edwards gained a BSc in Metals and Materials Technology, an MSc by research and a PhD from the joint Department of Metallurgy, University of Manchester /UMIST.   He became a Research Assistant in the Department of Building, UMIST in 1983, and was appointed to a Lectureship within the Department in 1988. He became a member of the Chartered Institution of Building Services Engineers in 1996, a Chartered Engineer in 1997 and was promoted to Senior Lecturer the same year.
+Rodger has authored and co-authored over 100 papers and technical / consultancy reports and is currently supervising / co supervising 5 research students. His main areas of research interest are currently:
+Energy conservation
+Building performance
+Zero emissions buildings
+Ventilation, air movement and air quality
+At present, Rodger is seconded to the Faculty of Engineering and Physical Sciences (EPS) for 50% of his time, where he fulfils the role of Academic Programme Development Officer. This post carries several key responsibilities, for example Chairman of EPS Appeals, Complaints and Disciplinary Panels and Chairman of EPS Foundation Studies Board.
+He is Chair of the University Admission and Qualifications Group and is also a member of the University Teaching and Learning Group.
+Recent successful PhD students:
+2010
+Farhad Anvari: Integrated Equipment Effectiveness in Steelmaking Plant
+Will Shoard: Design strategies for buildings and their integration with environmental benchmarking strategies
+2011
+Akin Odewole: Investigation of air flow patterns in cavities within historic buildings (sponsored by English Heritage)
+2012
+Philip James (EngD): Rational design strategies for zero energy dwellings ( Sponsored by EPSRC and Clancy Consulting)
+Mohamed Imdadul Hoque(EngD: Condition based monitoring techniques for use in Building Energy Management (Sponsored by EPSRC and Clancy Consulting)
+Adnan Al-Sibahy (PhD): Thermo mechanical behaviour of a lightweight concrete and its application in masonry walls
+
+RESEARCH: 
+Energy conservation
+Ventilation and Air Movement
+Condensation
+Building performance
+Zero emissions buildings
+
+PUBLICATION: 
+Andrew Gale, J Lawrence, K C Lim, Lin Li, Rodger Edwards. Finite Element analysis of stress distribution and the effect of geometry in laser-generated single-stage ceramic tile grout sealing using ANSYS. Finite Element analysis of stress distribution and the effect of geometry in laser-generated single-stage ceramic tile grout sealing using ANSYS. 1227. eScholarID: ma1140
+Frances Hill Rodger Edwards Geoff Levermore. Building Services Engineering Research and Technology. In-press eScholarID: 199456
+Sadiq Ali Shah, Rodger Edwards, Yang Zhang. Hybrid Energy Based and CO2 Sequestration Capable Desert Potential Development. National University of engineering and technology (NUST) Journal of Engineering Sciences. in press:  eScholarID: 146875
+Sadiq Ali Shah, Rodger Edwards. Sustainable Energy Generation Processes in the Deserts of Pakistan. International Journal of Sustainable Energy. in press:  eScholarID: 146873
+Sadiq Ali Shah, Rodger Edwards, Yang Zhang. The impact of Desert Solar Power Utilisation on Sustainable Development. Applied Solar Energy. In-press:  eScholarID: 146851
+Syahrul Nizam Kamaruzzaman, Rodger Edwards, Emma Marinie Ahmad Zawawi Adi Irfan Che-Ani. Achieving energy and cost savings through simple daylighting controlin tropical historic buildings. Energy and Buildings. 2015; 90: 85-93. eScholarID: 288230
+A Al-Sibahy, R Edwards. Behaviour of masonry wallettes made from a new concrete formulation under compression loads at ambient temperatures: Testing and modelling. Construction and Building Materials. 2014; 63: 271-280. eScholarID: 288205
+Frances Hill, Rodger Edwards, Geoffrey Levermore. Influence of display cabinet cooling on performance of supermarket buildings. Building Services Engineering Research & Technology. 2014; 35(2): 170-181. eScholarID: 288188 | DOI: 10.1177/0143624413478955
+Adnan Al-Sibahy, Rodger Edwards. Behaviour of masonry wallettes made from a new concrete formulation under combination of axial compression load and heat exposure:Experimental approach. Engineering Structures. 2013 March; 48: 193-204. eScholarID: 188671 | DOI: 10.1016/j.engstruct.2012.09.028
+Hill F, Edwards,R, Levermore, G. Influence of display cabinet cooling on performance of supermarket buildings. Building services Engineering Research and Technology. 2013 June; n/a: . eScholarID: 205482 | DOI: 10.1177/0143624413478955
+A Phang, A Starr, B Allen, Jyoti Sinha, M Khan, M Marshall, P Rzeszucinski, QN Badi, Rodger Edwards, YK Chen. Jones A., Shepherd D., Curran A., The EUCAMS gear partnership a model of industry/academic collaboration. Jones A., Shepherd D., Curran A., The EUCAMS gear partnership a model of industry/academic collaboration. 2013:  eScholarID: ma1141
+P. Rzeszucinki, Jyoti K. Sinha, R. Edwards, A. Starr, B. Allen. Normalised Root Mean Square and Amplitude of Sidebands of Vibration response as Tools for Gearbox Diagnosis. Strain. In-press eScholarID: 176830 | DOI: 10.1111/j.1475-1305.2012.00839.x
+Al-Sibahy, Adnan; Edwards, Rodger. Thermal behaviour of novel lightweight concrete at ambient and elevated temperatures: Experimental, modelling and parametric studies. Construction and Building Materials. 2012 June; 31: 174-187. eScholarID: 173216 | DOI: 10.1016/j.conbuildmat.2011.12.096
+Adnan Al -Sibahy, Rodger Edwards. Title: Mechanical and thermal properties of novel lightweight concrete mixtures containing recycled glass and metakaolin. Construction and Building Materials. 2012 June; 31: 157-167. eScholarID: 151263 | DOI: 10.1016/j.conbuildmat.2011.12.095
+P. Rzeszucinki, Jyoti K. Sinha, R. Edwards, A. Starr, B. Allen. “Amplitude of Probability Density Function (APDF) of Vibration response as a Robust Tool for Gearbox Diagnosis. Strain. In-press eScholarID: 176833 | DOI: 10.1111/j.1475-1305.2012.00849.x
+Farhad Anvari, Rodger Edwards. Maintenance engineering in capital-intensive manufacturing systems. Journal of Quality in Maintenance Engineering. 2011; 17(4): 351-370. eScholarID: 146595 | DOI: 10.1108/13552511111180177
+Farhad Anvari, Rodger Edwards. Performance Evaluation based upon a total quality approach. International Journal of Productivity and Performance Maintenance. 2011; 60(5): 512-528. eScholarID: 146599 | DOI: 10.1108/17410401111140419
+Akin Odewole Rodger Edwards. The Characteristics of the Velocity field in a slot ventilated wall cavity. Journal of Engineering and Applied Sciences. 2011 October; 6(10): 47-55. eScholarID: 173243
+Akin Odewole; Rodger Edwards. The effects of aspect ratio on heat transfer across air layers in a slot-ventilated wall cavity. Journal of Engineering and Applied Sciences. 2011 December; 6(12): 66-73. eScholarID: 173245
+Proceedings of the CIB World Building Conference 2010. Salford,UK: University of Salford( for CIB): 2010: -. eScholarID: 116900
+Mitchell, A. J. Edwards, R. Considering the Risk Factors of Reliability, Maintainability andProduct Life Cycle in a Zero Carbon Commercial Building. Salford,UK: University of Salford,UK: 2010: -. eScholarID: 116935
+Farhad Anvari Rodger Edwards Andrew Starr. Evaluation of overall equipment effectiveness based on Market. Journal of Quality in Maintenance Engineering. 2010; 16(3): 256-270. eScholarID: 116832 | DOI: 10.1108/13552511011072907
+Rational Revalidation. Journal of Validation Technology. 2010; 16(2): 83-92. eScholarID: 116849
+Hoque, M. Edwards, R. Edge, T. Hirst, G. Starr, A. The Implementation of Condition Monitoring Techniques for the Automated Generation of Display Energy Certificates. Proceedings of the CIB 2010 World Building Congress. Salford: University of Salford (For CIB): 2010: -. eScholarID: 116855
+James, P. Edwards, R. The Performance of Dwellings Specified by the UK Zero Carbon Homes Policy in Future Climate Conditions. Proceedings of the CIB World Building Congress 2010. Salford,UK: University of Salford ( for CIB): 2010: -. eScholarID: 116919
+Anvari, F, Rodger  Edwards, and A  Starr. Integrated Equipment Effectiveness. Fifth International Conference on Condition Monitoring and Machinery Failure Prevention Techniques. 2008:  eScholarID: 2e1188
+Kamaruzzaman, Syahrul; Edwards, Rodger; Zawawi, Emma. Energy consumption of electricity end uses in Malaysian historic buildings. Energy & Environment. 2007 July; 18(3-4): 393-402. eScholarID: 173233 | DOI: 10.1260/095830507781076211
+Kamaruzzaman S N, Edwards R E. Evaluating Performance Characteristics of electricity use of British Historic buildings in Malaysia. Facilities. 2006; 24(3/4): 141-152. eScholarID: 153476 | DOI: 10.1108/02632770610649403
+IL Gee, AFR Watson, J Carrington, PR Edwards, M Van Tongeren. Second-hand smoke levels in UK pubs and bars: do the English Public Health White Paper proposals go far enough. Journal of Public Health. 2006; 28(1): 17 -23. eScholarID: 243700
+Rodger Edwards. Handbook of Domestic Ventilation. Elsevier:2005.  eScholarID: ma1093
+Kamaruzzaman, S N, Rodger  Edwards, and Jonathan  Dewsbury. Electricity consumption of refurbished historic buildings in Malaysia. 5th International Postgraduate Research Conference, University of Salford, UK. 2005:  eScholarID: 2e745
+Edwards R, van Tongerren M, Watson A, Gee I, Edwards R. Environmental Tobacco Smoke: UK workplace regulations leave hospitality trade workforce unprotected. Occupational and Environmental Health. 2004; 61(5): 385-386. eScholarID: 1e644 | DOI: 10.1136/oem.2003.011692
+Edwards R. UK Country Profile: Education and Training. Pharmaceutical Engineering. 2004; 28(6): 78-79. eScholarID: 1e1401
+Greally D, Edwards R. Determining when to use modular construction. Pharmaceutical Engineering. 2004 May; 24(3): 36-47. eScholarID: 1e636
+R.Edwards. The influence of bend angles upon the performance of Passive Stack Duct systems within dwellings. International Journal of Ventilation. 2003; 1:  eScholarID: 1a4825
+Akhter R, Li L, Edwards R, Gale A. Porosity/Bubble Formation Mechanism in Laser Surface Enamelling. Applied Surface Science. 2003 March; 208-209(1): 447-452. eScholarID: 1e628 | DOI: 10.1016/S0169-4332(02)01431-9
+Akhter R, Li L, Edwards R, Gale A. Rapid Laser Surface enamelling by Powder Feeding Technique. Applied Surface Science. 2003 March; 208-209(1): 453-457. eScholarID: 1e617 | DOI: 10.1016/S0169-4332(02)01432-0
+Edwards R. The influence of bend angles upon the performance of Passive Stack Duct systems within Dwellings. International Journal of Ventilation. 2003 February; 1(3): 225-231. eScholarID: 1e612
+Lim, KC, J  Lawrence, Lin  Li, Rodger  Edwards, and Andrew W  Gale. Optimisation of the curvature of laser generated single-stage ceramic tile grout seal with finite element method. Proc. of 22nd International Congress on Application of Lasers & Electro-Optics (ICALEO’03), Jacksonville, Florida, USA. 2003:  eScholarID: 2e563
+J.Lawrence, L.Li, R.E.Edwards and A.W.Gale. A comparative investigation of the wear characteristics of a high power diode laser generated single-stage tile grout and commercial epoxy tile grout. Wear. 2002; 252:  eScholarID: 1a1225
+J.Lawrence, M.J.J.Schmidt, L.Li, R.E.Edwards and A.W.Gale. A portable high power diode laser-based single-stage ceramic tile grout sealing system: grout characteristics, hand-held sealing system development and associated safety aspects. Optics & Laser Technology. 2002; 34:  eScholarID: 1a2576 | DOI: 10.1016/S0030-3992(01)00089-5
+K.Minami, J.Lawrence, L.Li, R.E.Edwards and A.Gale. Comparison of CO2, Nd:YAG and High Power Diode Lasers for the Ablation of Tile Grout. Applied Surface Scienc. 2002; 186:  eScholarID: 1a4000
+J.Lawrence, K.Minami, L.Li, R.E.Edwards and A.W.Gale. Determination of the absorption length of CO2, Nd:YAG and High power diode laser radiation for selected grouting materials. Applied Surface Science. 2002; 186:  eScholarID: 1a2577
+K.Minami, J.Lawrence, L.Li, R.E.Edwards and A.Gale. Effect of Process Gas on High Power Diode Laser Ablation of Tile Grout. Applied Surface Science. 2002; 186:  eScholarID: 1a3589
+J.Lawrence, L.Li, R.E.Edwards and A.G.Gale. The influence of process gas type on the enamel surface condition of a high power diode laser generated single-sage ceramic tile grout seal. Surface and Coating Technology. 2002; 160:  eScholarID: 1a3920
+K.Minami, J.Lawrence, L.Li, R.E.Edwards and A.Gale. The removal industrial epoxy grout using a high power diode laser. Optics and Lasers in Engineering. 2002; 38:  eScholarID: 1a1552
+D. Greally and R Edwards. Transferring a Genetically Engineered Biopharmaceutical from Research to clinical development - Impact on Facility Design and Build Projects. Pharmaceutical Engineering. 2002; 22:  eScholarID: 1a2312
+Greally D, Edwards R. Transferring a Genetically Engineered Biopharmaceutical from Research to clinical development – Impact on Facility Design and Build Projects. Pharmaceutical Engineering. 2002 July; 22(4): 35-46. eScholarID: 1e601
+Lawrence J, Li L, Edwards R, Gale A. A comparative investigation of the wear characteristics of a high power diode laser generated single-stage tile grout and commercial epoxy tile grout. Wear. 2002 January; 252(1): 88-95. eScholarID: 1e565 | DOI: 10.1016/S0043-1648(01)00853-5
+Lawrence J, Schmidt M, Li L, Edwards R, Gale A. A high power diode laser-based ceramic tile grout sealing system: grout characteristics, hand-held sealing system development and associated safety aspects. Recent Research Developments in Materials Science & Engineering. Transworld Research Network.2002:  eScholarID: 3e10
+Lawrence J, Schmidt M, Li L, Edwards R, Gale A. A portable high power diode laser-based single-stage ceramic tile grout sealing system: grout characteristics, hand-held sealing system development and associated safety aspects. Optics & Laser Technology. 2002 January; 34(1): 27-36. eScholarID: 1e537 | DOI: 10.1016/S0030-3992(01)00089-5
+Lawrence J, Minami K, Li L, Edwards R, Gale A. Determination of the absorption length of CO2, Nd:YAG and High power diode laser radiation for selected grouting materials. Applied Surface Science. 2002 March; 186(1): 162-165. eScholarID: 1e544 | DOI: 10.1016/S0169-4332(01)00646-8
+Lawrence J, Li L, Edwards R, Gale A. The influence of process gas type on the enamel surface condition of a high power diode laser generated single-sage ceramic tile grout seal. Surface and Coatings Technology. 2002; 160: 91-97. eScholarID: 1e573 | DOI: 10.1016/S0257-8972(02)00345-6
+Minami K, Lawrence J, Li L, Edwards R, Gale A. Comparison of CO2, Nd:YAG and High Power Diode Lasers for the Ablation of Tile Grout. Applied Surface Science. 2002 April; 186(1): 256-263. eScholarID: 1e583 | DOI: 10.1016/S0169-4332(01)00603-1
+Minami K, Lawrence J, Li L, Edwards R, Gale A. Effect of Processing Gas in High Power Diode Laser Ablation of Tile Grout. Applied Surface Science. 2002 April; 186(1): 264-270. eScholarID: 1e591 | DOI: 10.1016/S0169-4332(01)00628-6
+Minami K, Lawrence J, Li L, Edwards R, Gale A. The removal industrial epoxy grout using a high power diode laser. Optics and Lasers in Engineering. 2002; 38: 485-498. eScholarID: 1e607 | DOI: 10.1016/S0143-8166(01)00177-4
+J McNulty and R Edwards. Automation of the Documentation Preparation Process in an Automated Bulk Pharmaceutical Facility. Pharmaceutical Engineering. 2001; 21:  eScholarID: 1a2387
+J.Lawrence, K.Minami, L.Li, R.E.Edwards and A.W.Gale. The development and characterisation of a single-stage ceramic tile grout sealing process using a high power diode laser. Lasers in Engineering. 2001; 11:  eScholarID: 1a2476
+Lawrence, L.Li, R.E.Edwards and A.W.Gale. The single-stage sealing of ceramic tiles by means of high power diode laser radiation. Journal of Laser Applications. 2001; 13:  eScholarID: 1a2575 | DOI: 10.2351/1.1418709
+Lawrence J, Li L, Edwards R, Gale A. Single-stage sealing of ceramic tiles by means of high power diode laser radiation. Journal of Laser Applications. 2001 December; 13(6): 222-230. eScholarID: 1e531 | DOI: 10.2351/1.1418709
+Lawrence J, Li L, Edwards R, Gale A. The development and characterisation of a single-stage ceramic tile grout sealing process using a high power diode laser. Lasers in Engineering. 2001 December; 11(4): 233-257. eScholarID: 1e554
+Lawrence, J, Lin  Li, Rodger  Edwards, and Andrew W  Gale. The mechanical, physical and chemical characteristics of high power diode laser generated single-stage ceramic tile grout. International Congress on Application of Lasers and Opto-electronics (ICALEO’01), Jacksonville, Florida USA. 2001:  eScholarID: 2e554
+McNulty J, Edwards R. Automation of the Documentation Preparation Process in an Automated, Bulk Pharmaceutical Facility. Pharmaceutical Engineering. 2001 May; 21(3): 28-44. eScholarID: 1e525
+Minami, K, J  Lawrence, Lin  Li, Rodger  Edwards, and Andrew W  Gale. High power diode laser-based grout removal process. International Congress on Application of Lasers and Opto-electronics (ICALEO’01), Jacksonville, Florida USA. 2001:  eScholarID: 2e553
+Anna Hiley, K M Letherman, Rodger Edwards. The Effect of Geographical Location and Thermal Insulation on the Standard Procedure Energy Rating. The Effect of Geographical Location and Thermal Insulation on the Standard Procedure Energy Rating. 2000 December;  eScholarID: ma1045
+Winwood R, Benstead R, Edwards R. Advanced fabric energy storage I: Review. Building Serv Eng Res Technol. 1997; 18(1): 1-6. eScholarID: 153257
+Winwood R, Benstead R, Edwards R. Advanced fabric energy storage II: computational fluid dynamics modelling. Building Serv Eng Res Technol. 1997; 18(1): 7-16. eScholarID: 153258
+Winwood R, Benstead R, Edwards R. Advanced fabric energy storage III: theoretical analysis and whole building simulation. Building Serv Eng Res Technol. 1997; 18(1): 17-24. eScholarID: 153259
+Francis J, Edwards R E. The use of infrared controlled air terminals in an office building. Proceedings of CIBSE/ASHRAE Joint National Conference Part Two. 1996: 311-320. eScholarID: 153474
+Palin S L, McIntyre D A, Edwards R E. Ventilation for humidity control: measurements in a ventilation test house. Building Serv Eng Res Technol. 1996; 17(2): 79-84. eScholarID: 152519
+McIntyre D A, Palin S L, Edwards. Options for domestic relative humidity control - comparative trials. Proceedings of Healthy Buildings 95. 1995: 1805-1810. eScholarID: 153475
+Dewsbury, Jonathan, Rodger  Edwards, and Kenneth  Letherman. Building services performance and the sick building syndrome. British Occupational Hygiene Society annual conference, University of Warwick, England. 1989:  eScholarID: 2e759
+Irwin C, Edwards R E. Airflow measurement between three connected cells. Bldg Serv Eng Res Technol. 1987; 8: 91-96. eScholarID: 152517
+Irwin C, Edwards R E, Howarth A T. The measurement of airflows using a rapid response tracer gas technique. Building Services Engineering Research and Technology. 1985; 6(4): 146-152. eScholarID: 152516
+

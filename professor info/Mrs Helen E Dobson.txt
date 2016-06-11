@@ -1,0 +1,15 @@
+name  role  phone  location  email
+Mrs Helen E Dobson  Lecturer  0161-2754449  Pariser Building - E13  helen.dobson@manchester.ac.uk  
+
+BIOGRAPHY: 
+Mrs Helen E. Dobson is a graduate Chemical and Environmental Engineer. She joined academia in 2000 from the petrochemicals industry, where her responsibilities included ensuring environmental regulatory compliance and developing site improvement projects. She was also concerned with health and safety (risk management) and she spent her first two years in industry working in investment planning. Employed by UMIST and then Manchester University in a teaching focused-role, Helen has focused in her pedagogic research on engaging engineering students in experiential and practice-learning, using approaches such as problem based learning and reflective practice to encourage deep-learning and enhance key employability skills. More recently, Helen has gained experience in using e-learning tools to enhance interactive learning and access to rich media. Throughout her career, Helen has been involved in educating interdisciplinary cohorts of students at all levels in environmental management and technology and sustainable development. Over the last 14 years, Helen has been employed by the School of Chemical Engineering, The EPS Faculty Teaching Support and Development Team and then the Enterprise Centre in Manchester Business School. Since November 2013, Helen has been part of the "Management of Projects" Group in the School of Mechanical, Aerospace and Civil Engineering (MACE) and she also contributes to several sustainability committees and initiatives for the University as a whole.
+
+RESEARCH: 
+Sustainable Development
+Transformational Education
+Experiential Learning
+
+PUBLICATION: 
+CB Tomkinson, Helen Dobson. Creating Sustainable Development Change Agents through Problem Based Learning: designing appropriate student PBL projects. International Journal of Sustainability in Higher Education. 2012; 13(0): 263-278. eScholarID: ma142
+B Tomkinson, C Engel, Helen Dobson, R Tomkinson. Education for Sustainable Development the RAEng pilot course unit. International Journal of Sustainable Engineering. 2008; 1(1):  eScholarID: ma179
+

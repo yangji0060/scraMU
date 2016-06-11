@@ -1,0 +1,98 @@
+name  role  phone  location  email
+Dr Timothy Craft  Senior Lecturer  0161-3068728  George Begg Building - C41  tim.craft@manchester.ac.uk  
+
+BIOGRAPHY: 
+B.A. in Mathematics, Keble College, Oxford, (1983-1986).
+M.Sc. in Math. Modelling and Numerical Analysis, Keble College, Oxford, (1986-1987).
+Ph.D. in Second-Moment Closure Turbulence Modelling, UMIST, (1987-1991).
+Visiting Researcher, CERFACS, Toulouse, (1991).
+Research Associate, Dept. of Mechanical Engineering, UMIST, (1991-1994).
+Royal Society University Research Fellow, Dept. of Mechanical Engineering, UMIST, (1994-1999).
+Lecturer, Dept. of Mechanical Aerospace and Manufacturing Engineering, UMIST, (1999-)
+(Subsequently at the University of Manchester, following the merger of UMIST and the Victoria University of Manchester in 2004).
+
+RESEARCH: 
+Development and application of mathematical models for predicting turbulent momentum and scalar tran
+
+PUBLICATION: 
+A V Gerasimov, Brian Launder, Hector Iacovides, Tim Craft. Application of a New Wall-Function Strategy to Turbulent Mixed and Natural Convection in Vertical Flows. Application of a New Wall-Function Strategy to Turbulent Mixed and Natural Convection in Vertical Flows.  eScholarID: ma1139
+Hector Iacovides, Tim Craft, TS Klein. Assessment of the performance of different classes of turbulence models in a wide range of non-equilibrium flows. International Journal of Heat and Fluid Flow. (0):  eScholarID: ma089
+R. Poletto, T. Craft, A. Revell. A New Divergence Free Synthetic Eddy Method for the Reproduction of Inlet Flow Conditions for LES. Flow, Turbulence and Combustion. 2013 October; 91(3): 519-539. eScholarID: 206387 | DOI: 10.1007/s10494-013-9488-2
+T. Craft, N. Johnson, B. Launder. Back to the Future? A Re-examination of the Aerodynamics of Flettner-Thom Rotors for Maritime Propulsion. Flow Turbulence & Combustion. 2013;  eScholarID: 206389 | DOI: 10.1007/s10494-013-9486-4
+D. Ammour, T.Craft, H. Iacovides. Highly Resolved LES and URANS of Turbulent Buoyancy-Driven Flow Within Inclined Differentially-Heated Enclosures. Flow, Turbulence and Combustion. 2013 October; 91(3): 669-696. eScholarID: 206386 | DOI: 10.1007/s10494-013-9497-1
+Alistair Revell, I Asproulias, Tim Craft. Modelling Shock Wave/Boundary Layer Interactions using Advanced RANS Models. Modelling Shock Wave/Boundary Layer Interactions using Advanced RANS Models. 2013:  eScholarID: ma1173
+R. Poletto and T.J. Craft and A. Revell. A new divergence free synthetic eddy method for full reproduction of inlet flow conditions for embedded {LES}. Proc. 9th International ERCOFTAC Symposium on Engineering Turbulence Modelling and Measurements. 2012: -. eScholarID: 189784
+F. Billard, A. Revell, T.J. Craft. Application of recently developed elliptic blending based models to separated flows. Int. J. Heat Fluid Flow. 2012; 35: 141-151. eScholarID: 189771
+T.J. Craft and H. Iacovides and M.N. Yates. Application of the finite-volume method to fluid-structure interaction analysis. Proc. 9th International ERCOFTAC Symposium on Engineering Turbulence Modelling and Measurements. 2012: -. eScholarID: 189782
+T.J. Craft and H. Iacovides and B.E. Launder. Back to the future: {F}lettner-{T}hom rotors for maritime propulsion?. Proc. 7th International Symposium on Turbulence, Heat and Mass Transfer. 2012: -. eScholarID: 189783
+D. Cooper and T.J. Craft and K. Esteifi and H. Iacovides. Experimental investigation of buoyant flows in inclined differentially heated cavities. Int. J. Heat Mass Transfer. 2012; 55: 6321-6339. eScholarID: 189772
+D Ammour, , Hector Iacovides, Tim Craft. LES and URANS Strategies for the Computation of Natural Convection Flow within 3-D tilted Differentially Heated Cavities. LES and URANS Strategies for the Computation of Natural Convection Flow within 3-D tilted Differentially Heated Cavities. 2012:  eScholarID: ma1161
+D. Ammour and H. Iacovides and T.J. Craft. {LES} and {URANS} analysis of turbulent natural convection flow within 3-{D} rectangular tilted differentially heated enclosures. Proc. 9th International ERCOFTAC Symposium on Engineering Turbulence Modelling and Measurements. 2012: -. eScholarID: 189785
+D. Ammour and T.J. Craft and H. Iacovides. {LES} and {URANS} strategies for the computation of turbulent natural convection flow inside an annular horizontal penetration enclosure. Proc. 7th International Symposium on Turbulence, Heat and Mass Transfer. 2012: -. eScholarID: 189786
+I. Asproulias and A. Revell and T.J. Craft. An investigation into solver strategies for the modelling of compressible turbulent flows. Proc. 28th Int. Symposium on Shock Waves. 2011: -. eScholarID: 189780
+F. Billard and T.J. Craft and A. Revell. Application of advanced {R}eynolds stress transport models to highly separated flows. Proc. 7th Int. Symposium on Turbulence and Shear Flow Phenomena. 2011: -. eScholarID: 189781
+R. Poletto and A. Revell and T.J. Craft and N. Ashton. Application of synthetic turbulence methods to embedded {DDES} modelling of flow over a {2D} hump. Proc. 4th Symposium on Hybrid RANS LES Methods. 2011: -. eScholarID: 189778
+T. Klein and T.J. Craft and H. Iacovides. Developments in two-time-scale turbulence models applied to non-equilibrium flows. Proc. 7th Int. Symposium on Turbulence and Shear Flow Phenomena. 2011: -. eScholarID: 189776
+R. Poletto and A. Revell and T.J. Craft and N. Jarrin. Divergence free synthetic eddy method for embedded {LES} inflow boundary conditions. Proc. 7th Int. Symposium on Turbulence and Shear Flow Phenomena. 2011: -. eScholarID: 189777
+T.J. Craft and H. Iacovides and B.E. Launder. Dynamic performance of Flettner rotors with and without Thom disks. Proc. 7th Int. Symposium on Turbulence and Shear Flow Phenomena. 2011: -. eScholarID: 189774
+D. Ammour and H. Iacovides and T.J. Craft. Model validation for buoyancy-driven flows inside differentially heated cavities. Proc. 12th UK National Heat Transfer Conference. 2011: -. eScholarID: 189779
+Revell A, Craft T, Laurence D. Turbulence Modelling of Unsteady Turbulent Flows Using the Stress Strain Lag Model. Flow, Turbulence and Combustion. 2011; 86(1): 129-151. eScholarID: 1e616 | DOI: 10.1007/s10494-010-9297-9
+T.J. Craft, H. Iacovides, B.E. Launder. RANS modelling of some strongly swirling aeronautical flows. Mecanique et Industries. 2009; 10: 171-174. eScholarID: 189767
+Al-Sharif, S F, Mark  Cotton, and Tim  Craft. Reynolds stress transport models in unsteady and non-equilibrium flows. Proc. Turbulent Shear Flows 6, Seoul, S. Korea. 2009:  eScholarID: 2e1160
+Cooper, Dennis, Tim  Craft, K  Esteifi, and Hector  Iacovides. Experimental investigation of buoyant flows in inclined differentially heated cavities. 11th UK National Heat Transfer Conference. 2009: -. eScholarID: 2e1123
+Cooper, Dennis, Tim  Craft, K  Esteifi, Hector  Iacovides, and A  Omranian. The Investigation of Buoyant Flows in Differentially Heated Cavities. 'Turbulence, Heat and Mass Transfer 6. Begell House, Inc: 2009: 527-530. eScholarID: 2e1127
+Craft, Tim, Hector  Iacovides, and M  Yates. Application of the Finite-Volume Method to Fluid-Structure Interaction Analysis. Turbulence and Shear Flow Phenomena 6. 2009: 465-470. eScholarID: 2e1050
+Craft, Tim, Hector  Iacovides, and P  Momeni. Modelling the effect of active flow control via pulsation on turbulent flow in a 10-degree plane diffuser. 6th International Symposium on Turbulence and Shear Flow Phenomena. 2009: 379-384. eScholarID: 2e1021
+Craft, Tim, Hector  Iacovides, and A  Omranian. The Computation of Buoyant Flows in Differentially Heated Vertical and Inclined Cavities. TSFP6. 6th International Symposium on Turbulence and Shear Flow Phenomena. 2009: 373-378. eScholarID: 2e1020
+Craft, Tim, Hector  Iacovides, and A  Omranian. The computation of buoyant flows in differentially heated inclined cavities. 11th UK National Heat Transfer Conference. 2009: -. eScholarID: 2e1125
+Craft, Tim, Hector  Iacovides, and S  Uapipatanakul. Towards the Development of RANS Models for Conjugate Heat Transfer. 'Turbulence, Heat and Mass Transfer 6. Begell House, Inc.: 2009: 397-400. eScholarID: 2e1126
+Craft, Tim, Hector  Iacovides, and S  Uapipatanakul. Towards the Development of Rans Models for Conjugate Heat Transfer. International Symposium on Turbulence and Shear Flow Phenomena. 2009: 487-492. eScholarID: 2e1043
+Hector Iacovides, NA Mostafa, Tim Craft. Modelling of three-dimensional jet array impingement and heat transfer. International Journal of Heat and Fluid Flow. 2008; 29(0): 687-702. eScholarID: ma324
+T.J. Craft, H. Iacovides, B.E. Launder, A. Zacharos. Some swirling-flow challenges for turbulent CFD. Flow Turbulence & Combustion. 2008; 80: 419-434. eScholarID: 189766
+Craft, Tim, Hector  Iacovides, and MN  Yates. Application of the Finite-Volume Method to Fluid-Structure Interaction Analysis. European Fluid Mechanics Conference. 2008: -. eScholarID: 2e916
+Craft T, Iacovides H, Mostafa N. Modelling of three-dimensional jet array impingement and heat transfer on a concave surface. International Journal of Heat and Fluid Flow. 2008; 29(3): 687-702. eScholarID: 1e643 | DOI: 10.1016/j.ijheatfluidflow.2008.03.005
+Craft, Tim, Hector  Iacovides, and P  Momeni. Modelling the effect of flow pulsation on turbulen flow in a 10-deg plane diffuser. Euromech Fluid Mechanics Conference. 2008: -. eScholarID: 2e919
+Craft, Tim, Hector  Iacovides, and N A  Mostafa. Numerical Modeling of Flow and Heat Transfer from an Array of Jets Impinging onto a Concave Surface under Stationary and Rotating Conditions. Proceedings of GT2008, Proceedings of ASME Turbo Expo 2008: Power for Land, Sea and Air. 2008: -. eScholarID: 2e849
+Kim K, Cotton M, Craft T, Heynes O. On the dynamics and frequency response of fully-pulsed turbulent round jets: computations using two-time-scale/strain-sensitized eddy viscosity models. International Journal of Heat and Fluid Flow. 2008; 29: 1650-1669. eScholarID: 1e751 | DOI: 10.1016/j.ijheatfluidflow.2008.07.003
+Revell A, Craft T, Laurence D. Turbulence modelling of strongly detached flows: the circular cylinder. Notes on Numerical Fluid Mechanics and Multidisciplinary Design. 2008; 97: 279-288. eScholarID: 1e619 | DOI: 10.1007/978-3-540-77815-8_29
+A Zacharos, Alistair Revell, I Afgan, N Jarrin, Tim Craft. Numerical Study of Turbulence Induced Vibrations in Pipe Bends using Computational Fluid Dynamics. 2007 June.  eScholarID: ma957
+Boudjir A, Craft T, Turan A. Computational Investigation of Flow Through a Rotating Duct by means of Advanced Second Moment Closure. Flow, Turbulence and Combustion. 2007 September; 79: 99-122. eScholarID: 1e210
+Craft, Tim, Hector  Iacovides, and P  Momeni. Convective heat transfer in pulsed separated flows. UK Heat Transfer 2007. 2007:  eScholarID: 2e738
+Craft, Tim, Hector  Iacovides, and N A  Mostafa. Modelling of Three-Dimensional Jet Impingement Cooling on a Concave Surface. 7th European Turbomachinery Conference, Athens. 2007:  eScholarID: 2e248
+Craft, Tim, Hector  Iacovides, and N A  Mostafa. Modelling of Three-Dimensional Jet Impingement Cooling on a Concave Surface. TSFP7. 7th International Symposium on Turbulence and Shear Flow Phenomena. 2007: 1305-1310. eScholarID: 2e728
+Craft, Tim, Hector  Iacovides, and P  Momeni. Modelling the Effect of Forced Unsteadiness on Flow and Heat Transfer in Separated and Reattaching Flows. TSFP7. 7th International Symposium on Turbulence and Shear Flow Phenomena. 2007: 201-296. eScholarID: 2e727
+Revell, Alistair, Tim  Craft, and Dominique  Laurence. Turbulence modelling of Strongly Detached Unsteady Flows: The Circular Cylinder. Second Symposium on Hybrid RANS-LES Methods, Corfu, Greece. 2007:  eScholarID: 2e704
+CRAFT TJ; GERASIMOV, A V; LAUNDER, B; ROBINSON, C M E. A Computational Study of the near-field generation and decay of wingtip. International Journal of Heat and Fluid Flow. 2006 April; 27(4): 684-695. eScholarID: 1a9381 | DOI: 10.1016/j.ijheatfluidflow.2006.02.024
+Craft T, Gerasimov A, Launder B, Robinson C. A computational study of the near-field generation and decay of wing-tip vortices. International Journal of Heat and Fluid Flow. 2006; 27: 684-695. eScholarID: 1e465 | DOI: 10.1016/j.ijheatfluidflow.2006.02.024
+Heynes, O R, Mark  Cotton, and Tim  Craft. Turbulence modelling for a 2D synthetic jet. Conf. on Modelling Fluid Flow, \'CMFF06\', Budapest, Hungary [On CD-ROM]. 2006: 823-830. eScholarID: 2e617
+Revell A, Benhamadouche S, Craft T, Laurence D. A stress strain lag eddy viscosity model for unsteady mean flow. International Journal of Heat and Fluid Flow. 2006; 27: 821-830. eScholarID: 1e459 | DOI: 10.1016/j.ijheatfluidflow.2006.03.027
+SuKa K, Craft T, Iacovides H. An analytical wall-function for turbulent flows and hear transfer over rough walls. International Journal of Heat and Fluid Flow. 2006; 27: 852-866. eScholarID: 1e1627 | DOI: 10.1016/j.ijheatfluidflow.2006.03.011
+Hector Iacovides, K Suga, Tim Craft. A generalised analytical wall function for turbulence. (2nd Report, A thermal field model for forced convection in smooth and rough wall turbulence). Transactions of the Japan Society of Mechanical Engineers. 2005; (0): 2734-2740. eScholarID: ma026
+Craft, Tim, S E  Gant, and Hector  Iacovides. Application of a Generalised RANS Wall-Function, to Recirculating Flows with Heat Transfer. ICCHMT4, 4th International Conference on Computational Heat and Mass Transfer, Paris, France. 2005:  eScholarID: 2e94
+Craft, Tim, Hector  Iacovides, and P  Momeni. Computation of Flow and Heat Transfer in Abrupt Pipe Expansions using Non-Linear Eddy-Viscosity Models of Turbulence. 9th UK National Heat Transfer Conference, Manchester. 2005:  eScholarID: 2e95
+Revell, Alistair, S  Benhamadouche, Tim  Craft, Dominique  Laurence, and K  Yaqobi. A stress-strain lag eddy viscosity model for unsteady mean flow. Engineering Turbulence Modelling and Experiments 6: ERCOFTAC International Symposium on Engineering Turbulence and Measurements - ETMM6, Sardinia, Italy. 2005:  eScholarID: 2e702
+Suga K, Craft T, Iacovides H. A generalised analytical wall function for turbulence. (1st Report, A flow field model for smooth and rough wall turbulence). Transactions of the Japan Society of Mechanical Engineers. 2005; 71-711: 2725-2733. eScholarID: 1e1631
+Suga K, Iacovides H, Craft T. A generalised analytical wall function for turbulence. (2nd Report, A thermal field model for forced convection in smooth and rough wall turbulence). Transactions of the Japan Society of Mechanical Engineers. 2005; 71-711: 2734-2740. eScholarID: 1e1632
+Suga, K, Tim  Craft, and Hector  Iacovides. An Analytical Wall-Function for Turbulent Rough Wall Heat Transfer. 4th International Symposium on Turbulence and Shear Flow Phenomena (TSFP4), Williamsburg, Virginia, USA. 2005:  eScholarID: 2e93
+Suga, K, Tim  Craft, and Hector  Iacovides. Extending an analytical wall-function for turbulent flows over rough walls. ETMM6, ERCOFTAC International Symposium on Engineering Turbulence Modelling and Measurements, Sardinia, Italy. 2005:  eScholarID: 2e91
+CRAFT TJ; IACOVIDES, H; GANT, S E; LAUNDER, B. A new wall function strategy for complex turbulent flows. Numerical Heat Transfer: Part B: Fundamentals. 2004 April; 45(4): 301 - 318. eScholarID: 1a9380 | DOI: 10.1080/10407790490277931
+CRAFT TJ; GERASIMOV, A V; IACOVIDES, H; KIDGER, J W. The negatively buoyant turbulent wall jet: performance of alternative options in RANS modelling. International Journal of Heat and Fluid Flow. 2004 June; 25(5): 809-823. eScholarID: 1a9383 | DOI: 10.1016/j.ijheatfluidflow.2004.05.003
+Craft T, Gant S, Iacovides H, Launder B. A new wall-function strategy for complex turbulent flows. Numerical Heat Transfer Part B. 2004; 45(4): 301-318. eScholarID: 1e1012 | DOI: 10.1080/10407790490277931
+Craft, Tim, and S E  Gant. Advances in Practical Near-Wall Turbulence Modelling. Invited Paper, European Thermal Sciences Conference, Birmingham. 2004:  eScholarID: 2e52
+Craft T, Gerasimov A, Iacovides H, Kidger J, Launder B. The Negatively Buoyant Turbulent Wall Jet: The performance of alternative options in RANS Modelling. International Journal of Heat and Fluid Flow. 2004; 25(5): 809-823. eScholarID: 1e1013 | DOI: 10.1016/j.ijheatfluidflow.2004.05.003
+Craft, Tim, S E  Gant, A V  Gerasimov, Hector  Iacovides, and Brian  Launder. Wall Function Approaches for Turbulent Flow CFD. Keynote Lecture, 6th ISHMT-ASME Heat and Mass Transfer Conference, Kalpakkam, India. 2004:  eScholarID: 2e51
+Craft, Tim, A V  Gerasimov, Hector  Iacovides, and Brian  Launder. A New Wall-Function Strategy applied to Mixed Convection in Vertical Annular Passages. Conference on Modelling Fluid Flow (CMFF\'03), The 12th International Conference on Fluid Flow Technologies, Budapest, Hungary. 2003:  eScholarID: 2e108
+Craft, Tim, A V  Gerasimov, Hector  Iacovides, and Brian  Launder. Application of a New Wall-Function Strategy to Turbulent Mixed and Natural Convection in Vertical Flows. UK National Heat Transfer Conference, Oxford. 2003:  eScholarID: 2e110
+Craft, Tim, A V  Gerasimov, Hector  Iacovides, J W  Kidger, and Brian  Launder. The Negatively Buoyant Turbulent Wall Jet:Performance of alternative options in RANS Modelling. 4th International Symposium on Turbulence, Heat and Mass Transfer, THMT-4, Antalya, Turkey. 2003:  eScholarID: 2e107
+Craft T, Gerasimov A, Iacovides H, Launder B. Progress in the generalisation of wall-function treatments. International Journal of Heat and Fluid Flow. 2002; 23: 148-160. eScholarID: 1e1005 | DOI: 10.1016/S0142-727X(01)00143-6
+Craft, Tim, S E  Gant, A V  Gerasimov, Hector  Iacovides, and Brian  Launder. Wall-Function Strategies for Use in Turbulent Flow CFD. Invited Paper. 12th International Heat Transfer Conference, Grenoble. 2002:  eScholarID: 2e50
+CRAFT TJ; LAUNDER, B E; GANT, S E; LAUNDER, B. Principles and performance of TCL-based second-moment closures. Flow, Turbulence and Combustion. 2001 July; 66(4): 355-372. eScholarID: 1a9382 | DOI: 10.1023/A:1013514632684
+Cotton M, Craft T, Guy A, Launder B. On modelling periodic motion with turbulence closures. Flow, Turbulence and Combustion. 2001; 67: 143-158. eScholarID: 1e275 | DOI: 10.1023/A:1014002326410
+Craft, Tim, A  Gerasimov, Hector  Iacovides, and Brian  Launder. Development and application of a new wall-function strategy. The 3rd Engineering Foundation on Turbulent Heat Transfer, Alaska. 2001:  eScholarID: 2e99
+Craft, Tim, S E  Gant, Hector  Iacovides, and Brian  Launder. Development and application of a wall function based on numerical solution of transport equations across a near-wall sub-grid. ECCOMAS CFD 2001 Conference, Swansea. 2001:  eScholarID: 2e103
+Craft T, Launder B. On the spreading mechanism of the three-dimensional wall jet. Journal of Fluid Mechanics. 2001; 435: 305-326. eScholarID: 1e1041 | DOI: 10.1017/S0022112001003846
+Craft T, Launder B. Principles and performance of TCL-based second-moment closures. Flow, Turbulence and Combustion. 2001; 66: 355-372. eScholarID: 1e467 | DOI: 10.1023/A:1013514632684
+Craft, Tim, A  Gerasimov, Hector  Iacovides, Brian  Launder, and C  Robinson. The development of an alternative analytical wall-function strategy. 2nd International Symposium On Turbulent Shear Flow Phenomena, Stockholm, Sweden. 2001:  eScholarID: 2e101
+Craft T, Kidger J, Launder B. Second-moment modelling of developing and self-similar 3d turbulent free-surface jets. International Journal of Heat and Fluid Flow. 2000; 21: 338-344. eScholarID: 1e1485
+Hector Iacovides, JH Yoon, Tim Craft. Progress in the use of non-linear two-equation models in the computation of convective heat-transfer in impinging and separated flows. Flow, Turbulence and Combustion. 1999; 63(0): 59-80. eScholarID: ma408
+

@@ -1,0 +1,23 @@
+name  role  phone  location  email
+Dr Erfan Asnaashari  Research Associate  0161-3062364  Pariser Building - D FLOOR  erfan.asnaashari@manchester.ac.uk  
+
+BIOGRAPHY: 
+Erfan is currently an EPSRC research associate in MACE working on dynamic and fatigue analysis of offshore wind turbines owned by EDF energy. The aim of the project is to investigate the effect of different load cases on natural frequencies of wind turbines in order to estimate their remaining service life.
+Erfan holds a PhD in Mechanical Engineering from The University of Manchester, where he studied on a school of MACE full PhD scholarship. He previously completed MSc in Mechanical Engineering Design with distinction at the same University, and a BSc at Amirkabir University of Technology.
+
+RESEARCH: 
+Structural Dynamics
+Vibration-based damage and fault detection
+Fatigue analysis
+Offshore wind turbines and structures
+Signal processing
+
+PUBLICATION: 
+Erfan Asnaashari, Jyoti. K. Sinha. Comparative study between the R-ODS and DND methods for damage detection in structures. Measurement. 2015 April; 66: 80-89. eScholarID: 260763 | DOI: 10.1016/j.measurement.2015.01.017
+Erfan Asnaashari, Jyoti Sinha. A Comparison Between Hilbert Transform and a New Method for Signal Enveloping. A Comparison Between Hilbert Transform and a New Method for Signal Enveloping. 2014:  eScholarID: ma1494
+Erfan Asnaashari, Jyoti K. Sinha. Crack detection in structures using deviation from normal distribution of measured vibration responses. Journal of Sound and Vibration. 2014 September; 333(18): 4139-4151. eScholarID: 226258 | DOI: http://dx.doi.org/10.1016/j.jsv.2014.04.057
+Erfan Asnaashari, Jyoti K. Sinha. Development of residual operational deflection shape for crack detection in structures. Mechanical Systems and Signal Processing. 2014 February; 43(1-2): 113-123. eScholarID: 212417 | DOI: http://dx.doi.org/10.1016/j.ymssp.2013.10.003
+Erfan Asnaashari, Jyoti K. Sinha. Multiple Crack Detection in Structures Using Residual Operational Deflection Shape. Springer: 2014: -. eScholarID: 220375
+Erfan Asnaashari, Jyoti Sinha. Off-Line Crack Detection in Rotors. Off-Line Crack Detection in Rotors. 2014:  eScholarID: ma1493
+Erfan Asnaashari, Jyoti K. Sinha. Operational Deflection Shape for Crack Detection in Structures. 2013: -. eScholarID: 201128
+

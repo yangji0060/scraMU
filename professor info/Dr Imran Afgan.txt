@@ -1,0 +1,48 @@
+name  role  phone  location  email
+Dr Imran Afgan  Lecturer  0161-2754334  George Begg Building - C38  imran.afgan@manchester.ac.uk  
+
+BIOGRAPHY: 
+Dr. Imran Afgan completed his Bachelors of Science in Mechanical Engineering from GIKI Pakistan in 1999. After working a few years in R&D he secured the Higher Education Commission fellowship for doctoral studies at UMIST. He completed his PhD in Mechanical Engineering (LES and Turbulence Modelling) in 2007 and returned to Pakistan to teach at the postgraduate institute of IAA at Air University Islamabad. Later he worked for 2 years as a researcher at Electricite de France R&D and Universite Pierre et Marie CURIE on uncertainty quantification in CFD. He joined back The University of Manchester in May 2011 and is now working on HPC in nuclear (KNOO-II) and renewable energy (ReDAPT) sectors.
+
+RESEARCH: 
+High Performance Computing
+Large Eddy Simulation
+Direct Numerical Simulation
+Marine hydro- kinematics energy extraction devices
+Aeroacoustics
+Fluid Structure Interaction
+
+PUBLICATION: 
+J. McNaughton, I. Afgan, S. Rolfo, D. D. Apsley, T. Stallard, P. Stansby. A Robust Sliding- Mesh Interface Procedure and its Application to the CFD Simulation of a Tidal-Stream Turbine. International Journal for Numerical Methods in Fluids. 2014 February; 74(4): 250-269. eScholarID: 218141 | DOI: 10.1002/fld.3849
+David Apsley, Imran Afgan, Peter Stansby, Tim Stallard, U Ahmed. CFD Simulations of a Full-Scale Tidal Stream Turbine: Comparison Between Large-Eddy Simulations and Field Measurements. ReDAPT Report MD1.4 (Confidential to Energy Technologies Institute): 2014 November.  eScholarID: ma776
+S. Rolfo, T. Stallard, J. McNaughton, D. Apsley, I. Afgan and P. Stansby. Analysis of length scales in open channel flow for inlet definition of LES of tidal stream turbines. 2013: -. eScholarID: 188267
+David Apsley, Imran Afgan, J McNaughton, Peter Stansby, S Rolfo, Tim Stallard. CFD Simulation of Turbulence at a Tidal Stream Site based on Field Measurements. ReDAPT Report MD1.5 (Confidential to Energy Technologies Institute): 2013 June.  eScholarID: ma775
+Imran Afgan, Sofiane Benhamadouche, Xingsi Han, Pierre Sagaut and Dominique Laurence. Flow over a flat plate with uniform inlet and incident coherent gusts. Journal of Fluid Mechanics. 2013 April; 720: 457-485. eScholarID: 188129 | DOI: 10.1017/jfm.2013.25
+I. Afgan. Qusai-Direct Numerical Simulation. 2013: -. eScholarID: 218151
+I. Afgan, J. McNaughton, S. Rolfo, D. Apsley, T. Stallard, P. Stansby. Turbulent flow and loading on a tidal stream turbine by LES and RANS. Special Issue, International Journal of Heat and Fluid Flow. In-press eScholarID: 190322 | DOI: 10.1016/j.ijheatfluidflow.2013.03.010
+I. Afgan, S. Rolfo, T. Stallard, D. D. Apsley, J. McNaughton, P. Stansby. Turbulent flow characteristics of an open channel with stress-free rigid lid. 2013: -. eScholarID: 218146
+J. McNaughton, S. Rolfo, D. Apsley, I. Afgan, P. Stansby and T. Stallard. CFD Prediction of Turbulent Flow on a Laboratory Scale Tidal Stream Turbine using RANS modelling. 2012: -. eScholarID: 188121
+I. Afgan and D. Laurence. Chaotic mean flow solutions in reactor thermal-hydraulics simulations. 2012: -. eScholarID: 188126
+I. Afgan, D. Laurence, S. Benhamadouche and S. Rolfo. HPC LES & quasi-DNS of Complex Geometries Applied to Power Generation. 2012: -. eScholarID: 188125
+S. Rolfo, J. McNaughton, I. Afgan, T. Stallard, D. Apsley and P. Stansby. LES of a Marine Current Turbine with Tidal Waves. 2012: -. eScholarID: 188124
+I. Afgan, J. McNaughton, D. Apsley, S. Rolfo, T. Stallard and P. Stansby. Large Eddy Simulation of a 3-Bladed Horizontal Axis Tidal Stream Turbine: Comparisons to RANS and Experiments. ICHMT DIGITAL LIBRARY, THMT 2012. Begell House: 2012: -. eScholarID: 188128
+X. Han, P. Sagaut, D. Lucor and I. Afgan. Stochastic response of the laminar flow past a flat plate under uncertain inflow conditions. International Journal of Computational Fluid Dynamics. 2012 February; 26(2): 101-117. eScholarID: 155862 | DOI: 10.1080/10618562.2012.655687
+S. Benhamadouche, I. Afgan, F. Dehoux and R. Manceau. Unsteady RANS and Large Eddy Simulation of the Flow and Heat Transfer in a Wall Bounded Pin Matrix. ICHMT DIGITAL LIBRARY, THMT Proceedings 2012. Begell House: 2012: -. eScholarID: 188127
+Imran Afgan, P Sagaut, S Benhamadouce, Y Kahil. Fine large eddy simulation of the flow around single and two side-by-side cylinders at subcritical Reynolds numbers. Physics of Fluids. 2011; (32767):  eScholarID: ma229
+I. Afgan, Y. Kahil, S. Benhamadouche and P. Sagaut. Large eddy simulation of the flow around single and two side-by-side cylinders at subcritical Reynolds numbers. Physics of Fluids. 2011 August; 23(7): 1-17. eScholarID: 155861 | DOI: 10.1063/1.3596267
+K. M. Guleren, I. Afgan and A. Turan. Predictions of Turbulent Flow for the Impeller of a NASA Low-Speed Centrifugal Compressor. ASME Journal of Turbomachinery. 2010; 132(2): 021005. eScholarID: 155860 | DOI: 10.1115/1.3140824
+I. Afgan, K.M. Guleren, R. Riaz, D. Laurence. Flow Physics and Acoustic Analysis of a Generic Mirror at a High Reynolds Number. Proceedings of 6th International Conference on Applied Sciences and Technology - IBCAST 2009. 2009: -. eScholarID: 155852
+I. Afgan. Industrial Application of Large Eddy Simulations. Proceedings of 6th International Conference on Applied Sciences and Technology - IBCAST 2009. 2009: -. eScholarID: 155853
+J. Masud, I. Afgan. Performance Characteristics of Flush Angle-of-Attack Measurement System Integrated on a Pitot Tube. Proceedings of 47th AIAA Aerospace Sciences Meeting including The New Horizons Forum and Aerospace Exposition. 2009: -. eScholarID: 155854
+K.M. Guleren, I. Afgan and A. Turan. Laminarization of Internal Flows under the Combined Effect of Strong Curvature and Rotation. ASME Journal of Fluids Engineering. 2008 September; 130(9): 091202. eScholarID: 155858 | DOI: 10.1115/1.2953298
+Antonio Filippone, Imran Afgan. Orthogonal Blade Vortex Interaction on a Helicopter Tail Rotor. AIAA Journal. 2008; 6(0): 1476-1489. eScholarID: ma391
+Afgan I, Moulinec C, Laurence D. Numerical simulation of generic side mirror of a car using large eddy simulation with polyhedral meshes. International Journal for Numerical Methods in Fluids. 2008 January; 56: 1107-1113. eScholarID: 1e804 | DOI: 10.1002/fld.1719
+Filippone A, Afgan I. Orthogonal Blade-Vortex Interaction on a Helicopter Tail Rotor. AIAA Journal. 2008 June; 46(6): . eScholarID: 1e638 | DOI: 10.2514/1.32690
+I. Afgan, C. Moulinec, R. Prosser and D. Laurence. LES of Turbulent Flow for wall mounted cantilever cylinders of aspect ratio 6 and 10. International Journal of Heat and Fluid Flow. 2007; 28(4): 561-574. eScholarID: 155856 | DOI: doi:10.1016/j.ijheatfluidflow.2007.04.014
+I. Afgan, C. Moulinec, D. Laurence. Numerical Simulation of Generic Side Mirror of Car using Large Eddy Simulation with Polyhedral Meshes. 2007: -. eScholarID: 155850
+I. Afgan, C. Moulinec, D. Laurence. Large Eddy Simulation of flow over a Vertically Mounted Finite Cylinder on a Flat Plate. In Proceedings of 13th International Conference on Modelling and Fluid Flow. 2006: -. eScholarID: 155849
+S. Benhamadouche, D. Laurence, N. Jarrin, I. Afgan, C. Moulinec. Large Eddy Simulation of flow across in-line tube bundles. In CD-ROM proceedings ELEVENTH INTERNATIONAL TOPICAL MEETING ON NUCLEAR REACTOR THERMAL HYDRAULICS. 2005: -. eScholarID: 155848
+I. Afgan, A. Malik, S. Zaheer. Prediction and Validation of hinge Moment Coefficient and Hinge Shaft Location for 3D Trapezoidal Control Surfaces. IBCAST Journal. 2001; 2(1): paper 65. eScholarID: 190323
+I. Afgan, A. Jabbar, M. Arshad, S. Zaheer. Computational Study of a Blunt Cylinder Flare Body in High Super Sonic flow. 2000: -. eScholarID: 218150
+A. Jabbar, I. Afgan, S. Zaheer, M. A. Khan. Ogive Cone-Cylinder Configuration in Subsonic, Supersonic and Hypersonic Regimes. 2000: -. eScholarID: 218149
+

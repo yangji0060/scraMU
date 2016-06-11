@@ -1,0 +1,37 @@
+name  role  phone  location  email
+Dr Kassandra Papadopoulou  Extended Project Post (Lecturer)  0161-3064652  Pariser Building - E5  kassandra.papadopoulou@manchester.ac.uk  
+
+BIOGRAPHY: 
+Kassandra is a lecturer in Maintenance Engineering in the School of Mechanical, Aerospace and Civil Engineering (MACE) in The University of Manchester. She is a Certified Associate in Project Management by the Project Management Institute. She studied in Manchester and holds a BSc (Hons) in Environmental Studies and Applied Physics, an MSc in Environmental Information Systems and a PhD in Mechanical Engineering. Previous posts include PostDoc positions in the School of MACE and School Electrical and Electronic Engineering, and a Renewable Energy Consultant for Tameside Metropolitan Borough Council.
+She teaches Reliability & Maintainability on the MSc Mechanical Engineering Design, and Acoustic Monitoring on the MSc in Reliability Engineering & Asset Management. She has two PhD students and is on the College of Advisors for the British University in Dubai. Previously she lectured on the BP Engineering Management executive education programme.
+Kassandras experience includes project management and technology development in collaboration with universities and industrial partners. Since joining the University she secured 0.5M worth of various research grants from industry and the EPSRC. One of the most innovative projects involved developing an acoustic reflectometry tool, Acoustek. She was involved in the patenting and the commercialisation of the technology via The University of Manchester Intellectual Property (UMIP); the tool has been licensed to Pipeline Engineering - CIRCOR Energy. Acoustek won the best Measurement in Action Award from the Institution of Engineering and Technology (IET). The distinction was awarded for the innovative use of acoustic techniques for remote inspection, monitoring and maintenance tool for gas-filled subsea pipelines.
+Kassandra is the co-founder and affiliated committee member of The University of Manchester Research Staff Association (RSA). As a committee member she has been working on the Extended Access scheme, which has been established as a policy in The University of Manchester. She is also a committee member of the UK Research Staff Association (UKRSA).
+Her interests and previous experience include project management, acoustics, acoustic reflectometry, oil & gas, pipeline inspections, reliability engineering, monitoring and maintenance engineering, aerodynamics of wind turbine blades, renewable energy.
+
+RESEARCH: 
+Acoustic reflectometry
+Pipeline inspections
+Maintenance engineering
+Reliability engineering
+
+PUBLICATION: 
+A Taylor, B Lennox, John Turner, Kassandra Papadopoulou. A Novel Acoustic Technique for the Remote Detection of Leakage. A Novel Acoustic Technique for the Remote Detection of Leakage.  eScholarID: ma1414
+Kassandra Papadopoulou. Acoustek - a Novel Acoustic Technique for the Remote Inspection of Pipeline Networks. Acoustek - a Novel Acoustic Technique for the Remote Inspection of Pipeline Networks. 179-186. eScholarID: ma1433
+Kassandra Papadopoulou. Aerofoil Characteristics for Wind Turbine Applications. Aerofoil Characteristics for Wind Turbine Applications. 135-143. eScholarID: ma1436
+A Koska, J Jaslar, Kassandra Papadopoulou. Application of GIS to show relations between soils, plant cover and relief of terrain in Bieszczadzki National Park (Poland). Application of GIS to show relations between soils, plant cover and relief of terrain in Bieszczadzki National Park (Poland). 504-515. eScholarID: ma1435
+A R Taylor, B Lennox, D J Glover, D Mackay, John Turner, Kassandra Papadopoulou. Prediction of the interrogation range of a novel form of acoustic detection system. Prediction of the interrogation range of a novel form of acoustic detection system.  eScholarID: ma1412
+J Jaslar, Kassandra Papadopoulou. Use of GIS for a Renewable Energy Strategy Proposal for the Tameside MBC (UK). Use of GIS for a Renewable Energy Strategy Proposal for the Tameside MBC (UK). 495-503. eScholarID: ma1434
+Hamodi, N., Papadopoulou, K., Lowe, T., Abram, T. Thermal Analysis and Immobilisation of Spent Ion Exchange Resin in Borosilicate Glass. New Journal of Glass and Ceramics. 2012 June; 2: 10. eScholarID: 169415 | DOI: 10.4236/njgc.2012.23016
+B Lennox, John Turner, K Lewis, Kassandra Papadopoulou, X Wang. Using acoustic reflectometry to detect blockages in natural gas pipe lines. Using acoustic reflectometry to detect blockages in natural gas pipe lines. 2012:  eScholarID: ma1413
+Xuesong Wang, X., Lewis, K., Papadopoulou, K., Lennox, B. and Turner, J. Detection of hydrate and other blockages in gas pipelines using acoustic reflectometry. Proceedings of the Institution of Mechanical Engineers, Journal of Mechanical Engineering Science. 2011 December; 226(C): 1800-1810. eScholarID: 164390 | DOI: 10.1177/0954406211431029
+Andrew Gale, Kassandra Papadopoulou, Paul Chan. Management of Projects Expert Group Newsletter. Management of Projects Expert Group Newsletter. 2011 November;  eScholarID: ma925
+Andrew Gale, Carly McLachlan, David Ling, Kassandra Papadopoulou, Stephen Wearne. Management of Projects Expert Group Newsletter. Management of Projects Expert Group Newsletter. 2010 December;  eScholarID: ma924
+Papadopoulou K, Shamout M. N, Lennox B., Mackay D., Taylor A R, Turner J T, Wang X. An evaluation of acoustic reflectometry for leakage and blockage detection. Journal of Mechanical Engineering Science. 2008 January; C(222): 7. eScholarID: 108414
+John Turner, Kassandra Papadopoulou. Detection of leakage and blockage in pipes. 2007 June.  eScholarID: ma823
+Wavenumber Prediction of the Wave in Fluid-filled Pipes for Water Leakage/Blockage Detection. 2007.  eScholarID: 108416
+A NOVEL METHOD FOR THE DETECTION OF LEAKAGE AND BLOCKAGE IN PIPELINES. 2006.  eScholarID: 93135
+John Turner, Kassandra Papadopoulou. Detection of leakage and blockage in pipes. 2006 June.  eScholarID: ma822
+John Turner, Kassandra Papadopoulou. Acoustek - Remote Pipeline Inspection. Acoustek - Remote Pipeline Inspection. 2005 August;  eScholarID: ma742
+John Turner, Kassandra Papadopoulou. The Remote Detection of Leakage Using an Acoustic Technique. 2005 April.  eScholarID: ma1052
+Kassandra Papadopoulou. Leakage Detection in Pipelines. Leakage Detection in Pipelines. 2003 April;  eScholarID: ma923
+

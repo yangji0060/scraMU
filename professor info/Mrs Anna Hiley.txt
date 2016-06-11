@@ -1,0 +1,43 @@
+name  role  phone  location  email
+Mrs Anna Hiley  Lecturer  0161-3064258  Pariser Building - G26  anna.hiley@manchester.ac.uk  
+
+BIOGRAPHY: 
+Anna Hiley is an architect and academic. She commenced her career in the construction industry in 1972, working first as a senior project architect, then as a partner in private practice. Her main role was to lead multi-disciplinary design teams in the design and project management of a varied range of projects, from very large complex multi-function developments for corporate and public clients to commisioned work for individual clients.
+In 1991 she joined the University of Salford as a visiting lecturer and Senior Research Fellow, to work as the knowledge engineer on a research project entitled, 'The Evolutionary Development of Expert Systems in Real Life for the Constructiion Industry'. This involved information capture and the design of interfaces between user specifications and software.
+Anna Hiley joined the University of Manchester in 1993, as a lecturer, to teach on a range of construction industry related degree programmes.
+Anna Hiley is a Senior Fellow of the Higher Education Academy. Her interest in pedagogy and teaching and learning led to the development of a number of innovative units. In 2006 she received an award from the Higher Education Academy, Engineering Subject Centre in recognition of her work in promoting the development of students' design skills.
+In addition to her academic responsibilities Anna has held a wide range of fixed term posts since joining the university. Currently she is the Deputy Director of the Management of Projects taught MSc Group of Programmes, which together have a student cohort of around 260 to 300 students a year. Other roles which have been held include the Directorship of the Teaching Science and Engineering Programme for Chinese Academics, Academic Development Officer to the Pedagogic Development Office, Senior Projects Officer in Teaching Support and Development in the Faculty of Engineering and Physical Sciences and academic advisor within the university's Academic Advisory Service.
+Her main research interests focus on the development of teaching and learning strategies to promote students' development of creative open-ended problem-solving skills and design abilities.
+
+
+RESEARCH: 
+Pedagogy and the development of transformational teaching and learning in Higher Education
+The design process
+The management of the design process
+
+PUBLICATION: 
+Hiley, Anna, A  Collis, and J A  Wilson. The development of a module to equip students with Real-world Problem-solving Skills. Proceedings of the international conference on Innovation, Good Practice and Research in Engineering Education, Loughborough, UK. 2008:  eScholarID: 2e934
+Hiley, Anna, A  Collis, B  Tomkinson, and J A  Wilson. Creativity, Problem-solving and Design. Proceedings of International Conference, Improving University Teaching (IUT), Jaen, Spain. 2007:  eScholarID: 2e933
+Hiley, Anna, A  Collis, and J A  Wilson. Through the wardrobe: a generic platform to foster the evolution of creative problem-solving skills. International Conference on Creativity or Conformity: Building Cultures of Creativity in Higher Education, Cardiff, Wales, UK. 2007:  eScholarID: 2e932
+Hiley, Anna. Developing an understanding of the design process to promote creative problem identification and problem-solving. Engineering Education Conference, University of Liverpool, UK. 2006:  eScholarID: 2e931
+Anna Hiley. Transferring to Teamwork. Transferring to Teamwork. 2004 June;  eScholarID: ma1066
+Hiley, Anna, H J  Kahn, D J  Petty, W S  Truscott, and J  Wilson. Innovations in Systems through the Creation of Emergent Properties. Proceedings of international conference, Organisations, Innovation and Complexity; New Perspectives on the Knowledge Economy, ECRS NEXUS Priority Network, Manchester UK. 2004:  eScholarID: 2e930
+Anna Hiley. A Programme of Induction into Multi-disciplinary Teamwork, Case Study 15. A Programme of Induction into Multi-disciplinary Teamwork, Case Study 15. 2003;  eScholarID: ma727
+Anna Hiley, Margaret Carter. An Induction to Teamwork in support of Multi-disciplinary Teaching. An Induction to Teamwork in support of Multi-disciplinary Teaching. 2003;  eScholarID: ma754
+Anna Hiley. Diagnostic Testing of written English to assess student needs and to provide support and guidance, Case Study 16. Diagnostic Testing of written English to assess student needs and to provide support and guidance, Case Study 16. 2003;  eScholarID: ma831
+Anna Hiley, B C McKay, Christopher Hall, Moira Wilson, W D Hoff. Kinetics of Moisture Expansion in Fired Clay Ceramics: A (Time)1/4 Law. Physical Review Letters. 2003; 90:  eScholarID: ma286
+Hiley, Anna, and K A  Johnson. Igniting the fire within - Introducing conceptual design and promoting the evolution of creative problem-solving skills through enquiry. Proceedings of international conference: Learning Based on the Process of Enquiry, Manchester UK. 2003:  eScholarID: 2e929
+Wilson M, Hoff W, Hall C, McKay B, Hiley A. Long-term expansion in Roman, 19th century and modern clay bricks. Physical Review Letters. 2003; 90(12): 125503(4). eScholarID: 1e1348
+Hiley, Anna, and O  Vagci. The Implementation of Constructability: a prerequisite in raising the quality of project outcome. Proceedings of ARCOM. 2001:  eScholarID: 2e114
+Hiley, Anna, and P P  Paliokostas. Value Management and Risk Management: An examination of the potential for their integration and acceptance as a combined management tool in the UK Con. Proceedings of COBRA. 2001:  eScholarID: 2e115
+Anna Hiley, K M Letherman, Rodger Edwards. The Effect of Geographical Location and Thermal Insulation on the Standard Procedure Energy Rating. The Effect of Geographical Location and Thermal Insulation on the Standard Procedure Energy Rating. 2000 December;  eScholarID: ma1045
+Hiley, Anna, and K M  Letherman. Technical Risks in Flat Roof Designs - A Review. Proceedings of the STRECHY 2000 Symposium, Bratislava Technical University. 2000:  eScholarID: 2e928
+Hiley, Anna, Margaret  Carter, and K  Karimi. The Dissemination of Environmental Information related to Construction. Proceedings of COBRA 2000, RICS Research Foundation. 2000:  eScholarID: 2e926
+Hiley, Anna, and M  Kalogerakis. The implementation of Innovative Technologies in the Development of a Sustainable Built Environment. Proceedings of Technology Watch and Innovation in the Construction Industry, Belgian building research Institute. 2000:  eScholarID: 2e925
+Hiley, Anna, and G  Gopsill. The implementation of Value Management as a design Management Tool in the UK Construction Industry. Proceedings of the 16th Annual ARCOM Conference. 2000:  eScholarID: 2e927
+Hiley, Anna, and K A  Khaidzir. The future role of architects. Proceedings of COBRA 1999, The RICS Construction and Building Research Conference. 1999:  eScholarID: 2e924
+Anna Hiley, B Golton. Where does all the debris go?. Where does all the debris go?. 1994;  eScholarID: ma1078
+Golton, B L, Anna  Hiley, and S  Frost. Development of a Model of Environmental Impact Use and Recycling of Building Demolition materials. Proceedings: CIB TG16 1st World Conference on Sustainable Development. 1994:  eScholarID: 2e923
+Watson, I D, Anna  Hiley, P S  Brandon, and A  Basden. An Expert System that predicts Cash Flows for the Construction Industry. Proceedings: 7th International Conference on Applications of Artificiel Intellegence in Engineering (AIENG/92). 1992:  eScholarID: 2e922
+Watson, I D, Anna  Hiley, P S  Brandon, and A  Basden. The Stragegic prediction of cash Flows for Construction Projects. in the proceedings of ARCOM 8th Annual Conference. 1992:  eScholarID: 2e921
+

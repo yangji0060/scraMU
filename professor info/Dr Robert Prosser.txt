@@ -1,0 +1,79 @@
+name  role  phone  location  email
+Dr Robert Prosser  Senior Lecturer  0161-3063716  George Begg Building - C038  robert.prosser@manchester.ac.uk  
+
+BIOGRAPHY: 
+Dr Prosser began his engineering career with BNFL. After serving 4 years on a mechanical engineering apprenticeship and two years working on the design of nuclear reprocessing facilities, he left to study for a BEng(Hons) at UMIST. Upon graduation he joined the University of Cambridge, working on his PhD project 'Numerical methods for the computation of combustion', and concentrating on multiresolution (wavelet) methods. After working for two years at Cambridge's CFD laboratory, he joined the school of mechanical engineering at UMIST. He currently teaches thermodynamics, computational fluid dynamics and Design
+
+RESEARCH: 
+Combustion
+Multiresolution (wavelet) methods
+DNS and LES
+Boundary conditions for Navier-Stokes problems
+Compressible flow and aeroacoustics
+External aerodynamics for motorsports applications
+Numerical methods
+Synthetic Eddy methods
+
+PUBLICATION: 
+Robert Prosser. Review of Lean Combustion, Technology and Control. The Aeronautical Journal:  eScholarID: ma991
+U. Ahmed, R. Prosser. Modelling Flame turbulence interaction in RANS simulation of premixed turbulent combustion. Combustion Theory and Modelling. 2016;  eScholarID: 276661 | DOI: 10.1080/13647830.2015.1115130
+K. Davey, R. Prosser, C. Jiang. Heat transfer through fractal-like porous media: A tessellated continuum approach. Computers & Structures. 2015 February; 58-72. eScholarID: 259049 | DOI: 10.1016/j.compstruc.2015.01.006
+M. Zimon, J. Reese, D. Emerson, R. Prosser. Improving the computational efficiency of multi-scale modeling by applying model reduction techniques. 2015: -. eScholarID: 263746
+W. Khan, S. Qureshi, R. Prosser. Large Eddy Simulation of Bluff Body Flame Using Equilibrium Combustion Model. Journal of Thermophysics and Heat Transfer. 2015; 29: 179-189. eScholarID: 263745 | DOI: 10.2514/1.T4426
+R. Prosser. On the Finite Differences Used in Reacting Flow Simulations. Communications in Computational Physics. 2015; 18: 558-576. eScholarID: 276618 | DOI: 10.4208/cicp.260614.041214a
+Davey K., Prosser R., Jiang C. A tesselated continuum method for the analysis of fractal-like cellular heat exchangers. PROCEEDINGS OF THE NINTH INTERNATIONAL CONFERENCE ON ENGINEERING COMPUTATIONAL TECHNOLOGY. 2014: -. eScholarID: 259045
+S. Qureshi, W.A. Khan, R. Prosser. Behaviour of a Premixed Flame Subjected to Acoustic Oscillations. P L o S One. 2014; 8(12):  eScholarID: 219603 | DOI: 10.1371/journal.pone.0081659
+R. Tunstall, D. Laurence, R. Prosser, A. Skillen. RANS studies of a T-junction: A Comparison of Turbulence Models on low Y+ Meshes. 2014: -. eScholarID: 259044
+U. Ahmed, R. Prosser. Towards the development of an evolution equation for flame turbulence interaction in premixed turbulent combustion. Flow, Turbulence and Combustion. 2014; 93: 637-663. eScholarID: 259046
+M. Assad, R. Prosser, A. Revell, B. Sapa. A Stress-Strain Lag Eddy Viscosity Model for Variable Density Flow. ERCOFTAC bullitin. 2013;  eScholarID: 211547
+U. Ahmed, R. Prosser, A. Revell. A Transport Equation for Flame Turbulence Interaction in Premixed Turbulent Combustion. 2013: -. eScholarID: 194357
+U. Ahmed, R. Prosser, A.J. Revell. An Evolution Equation for Flame Turbulence Interaction in Premixed Turbulent Combustion. 2013; 96: 11-17. eScholarID: 219605
+U. Ahmed, R. Prosser, A. Revell. An evolution equation for flame turbulence interaction in premixed turbulent combustion. ERCOFTAC bulletin. 2013;  eScholarID: 195503
+K. Davey and R. Prosser. Analytical Solutions for Heat Transfer on Fractal and Pre-Fractal Domains. Applied Mathematical Modelling. 2013; 37: 554-569. eScholarID: 156708 | DOI: 10.1016/j.apm.2012.02.047
+N. Ashton, A. Revell, R. Prosser, J. Uribe. Development of an alternative Delayed Detached-Eddy Simulation formulation based on elliptic relaxation. AIAA Journal. 2013; 51(2): 513-519. eScholarID: 186753 | DOI: 10.2514/1.J051808
+M. Ya-Alimadad, R. Prosser, K. Davey. A Weighted Transport Method for the Solution of Fluid Structure Interaction Problems. 2012: -. eScholarID: 156705
+de la Llave Plata, M., Cant, R.S., Prosser, R. On the use of biorthogonal interpolating wavelets for large-eddy simulation of turbulence. Journal of Computational Physics. 2012 August; 231(20): 6754-6769. eScholarID: 170989 | DOI: 10.1016/j.jcp.2012.06.024
+M. Ya-Alimadad, R. Prosser, K. Davey. Strategies for Solving Fluid-Structure Interaction Problems in a Coupled Framework. Computational Technology Reviews. Saxe-Coburg.2012:  eScholarID: 219606
+M. Ya-Alimadad, R. Prosser, K. Davey. Strategies for Solving Fluid-Structure Interaction Problems in a Coupled Framework. 2012: -. eScholarID: 156706
+N. Ashton, A. Revell, R. Prosser. A hybrid numerical scheme for a new formulation of delayed detached-eddy simulation (DDES) based on elliptic relaxation. 2011: -. eScholarID: 136766
+M. Ya-Alimadad, K. Davey, R. Prosser. Fluid-Structure Interactions: A Brief Review of Existing Strategies. ERCOFTAC bulletin. 2011; 86: 17-20. eScholarID: 136770
+R. Prosser. Improved Boundary Conditions for the DNS of Reacting Subsonic Flows. Flow, Turbulence and Combustion. 2011; 87(2-3): 351-376. eScholarID: 136771 | DOI: 10.1007/s10494-010-9307-y
+Prosser R, Cant R. Wavelets Methods in Computational combustion. In: T. Echekki, E. Mastorakis, ed. Turbulent Combustion Modelling. Heidelberg, Springer.2011:  eScholarID: 3e46 | DOI: 10.1007/978-94-007-0412-1_14
+N. Ashton, A. Revell, R. Prosser. Prediction of the Unsteady Mean Turbulent flow around tandem cylinders using URANS turbulence models. 2010: -. eScholarID: 136765
+Uribe J, Jarrin N, Prosser R, Laurence D. Development of a Two-velocities Hybrid RANS-LES Model and its Application to a Trailing Edge Flow. Flow, Turbulence and Combustion. 2010; 85(2): 181-197. eScholarID: 1e622 | DOI: 10.1007/s10494-010-9263-6
+Jarrin, N; Prosser, R; Laurence, D; Benhamadouche, S. Reconstruction of turbulent fluctuations for hybrid RANS/LES simulations using a synthetic eddy method. International Journal of Heat and Fluid Flow. 2009; 30: 435-442. eScholarID: 56171 | DOI: 10.1016/j.ijheatfluidflow.2009.02.016
+Uribe, J.C. Jarrin, N. Prosser, R. Laurence, D. Two-velocities hybrid RANS-LES of a trailing edge flow. Springer: 2009: 63-76. eScholarID: 188532
+Robert Prosser, RS Cant. Wavelets and multiscale phenomena in Computational Combustion. Turbulent Combustion Modelling: Advances, new trends and perspectives. Springer.2009:  eScholarID: ma1666
+Prosser R. On the application of wavelets to flames with non-unit Lewis number. Fluid Dynamics & Materials Processing (FDMP). 2009; 5: 411-424. eScholarID: 1e945 | DOI: 10.3970/fdmp.2009.005.411
+Turner, C, and Robert  Prosser. The application of laminar kinetic energy to Laminar-turbulent transition prediction. Turbulent Heat and Mass Transfer. 2009: -. eScholarID: 2e1014
+Dominique Laurence, Juan Uribe, N Jarrin, Robert Prosser. Synthetic Inflow boundary conditions for wall bounded flows. Notes on Numerical Fluid Mechanics and Multidisciplinary Design. Springer.2008:  eScholarID: ma1653
+Addad Y, Prosser R, Laurence D, Moreau S, Mendonca F. On the Use of Embedded Meshes in the LES of External Flows. Flow, Turbulence and Combustion. 2008; 80: 393-403. eScholarID: 1e611 | DOI: 10.1007/s10494-007-9131-1
+Jarrin, N, Alistair  Revell, Robert  Prosser, and Dominique  Laurence. Reconstruction of turbulent fluctuations for hybrid RANS/LES simulations using a synthetic-eddy method. Engineering Turbulence Modelling and Experiments 6: ERCOFTAC International Symposium on Engineering Turbulence and Measurements - ETMM7, Cyprus. 2008:  eScholarID: 2e846
+Jarrin N, Uribe J, Prosser R, Laurence D. Synthetic Inflow Conditions for Wall Bounded Flows. Notes on Numerical Fluid Mechanics and Multidisciplinary Design. Springer.2008:  eScholarID: 3e22
+Qazi O, Prosser R, Sheikh S, Masud J. Large Eddy Simulation of Turbulent Boundary flow around a Controlled-Diffusion Wing Section using a locally refined Unstructured Grid. WSEAS (World Scientific and Engineering Academy and Society) Transactions On Fluid Mechanics and Aerodynamics. 2008; 62 - 70. eScholarID: 1e810
+Uribe, J, N  Jarrin, Robert  Prosser, and Dominique  Laurence. Embedded hybrid RANS-LES of a trailing edge flow. Third symposium on hybrid RANS-LES methods. 2008:  eScholarID: 2e850
+Robert Prosser. On the effects of Lifted Wavelets for Combustion Simulations. Proceedings of the Institution of Mechanical Engineers - Part C: Journal of Mechanical Engineering Science. 2007; 221: 1579-1596. eScholarID: ma369
+Robert Prosser. Towards Improved Boundary Conditions for the DNS and LES Turbulent Subsonic Flows. Journal of Computational Physics. 2007; 222(2): 469-474. eScholarID: ma552
+Afgan I, Moulinec C, Prosser R, Laurence D. LES of Turbulent Flow for Wall Mounted Cantilever Cylinders of Aspect Ratio 6 and 10. International Journal of Heat and Fluid Flow. 2007; 28: 561-574. eScholarID: 1e747
+Jarrin, N, J  Uribe, Robert  Prosser, and Dominique  Laurence. Synthetic inflow conditions for wall bounded flows. Proceedings of the Second symposium on hybrid RANS-LES methods. 2007:  eScholarID: 2e510
+Lowe, AJ, and Robert  Prosser. Towards a flamelet library using bi-orthogonal interpolating wavelets. Proceedings of the World Conference on Engineering. 2007:  eScholarID: 2e507
+Prosser R. An adaptive algorithm for compressible reacting flows using interpolating wavelets. Proceedings of the Institution of Mechanical Engineers - Part C: Journal of Mechanical Engineering Science. 2007; 221: 1397-1410. eScholarID: 1e441
+Qureshi, S, and Robert  Prosser. Implementation of alpha-Ñ QSS Stiff Integration Method to a Detailed Methane Combustion Mechanism. Proceedings of the World Conference on Engineering. 2007:  eScholarID: 2e509
+Qureshi, S, and Robert  Prosser. Towards Large Eddy Simulations of a Bluff Body Burner Using an Unstructured Grid. Proceedings of the World Conference on Engineering. 2007:  eScholarID: 2e508
+Shaikh, S, and Robert  Prosser. Towards Multiphase Modeling of Inhomogeneities in Mixers. Proceedings of the World Conference on Engineering. 2007:  eScholarID: 2e506
+Uribe, J, N  Jarrin, Robert  Prosser, and Dominique  Laurence. Hybrid V2f RANS/LES model and synthetic inlet turbulence applied to a trailing edge flow. Proceedings of the 5th international symposium on turbulence and shear flow phenomena. 2007:  eScholarID: 2e710
+Uribe, J, N  Jarrin, Robert  Prosser, and Dominique  Laurence. Hybrid phi-F LES model with synthetic turbulence at the inlet of a trailing edge flow. IAUTAM. 2007:  eScholarID: 2e505
+Uribe, J, N  Jarrin, Robert  Prosser, and Dominique  Laurence. Two Velocities hybrid RANS-LES of a trailing edge flow. IUTAM proceedings. 2007:  eScholarID: 2e511
+Benhamadouche, S, Y  Fournier, F  Billard, N  Jarrin, and Robert  Prosser. Coupling turbulence models for industrial applications: RANS/RANS and RANS/LES coupling. Turbulent Heat and Mass transfer 5. 2006:  eScholarID: 2e502
+Jarrin N, Benhamadouche S, Laurence D, Prosser R. A synthetic-eddy method for generating inflow conditions for large-eddy simulations. International Journal of Heat and Fluid Flow. 2006; 27: 585-593. eScholarID: 1e253 | DOI: 10.1016/j.ijheatfluidflow.2006.02.006
+Prosser R. Boundary Conditions for Low Mach Number Reacting Flows. WSEAS (World Scientific and Engineering Academy and Society) Transactions On Fluid Mechanics and Aerodynamics. 2006; 5: 1102-1107. eScholarID: 1e255
+Prosser, Robert. Non reflecting Boundary Conditions for Reacting Flows. ECCOMAS proceedings. 2006:  eScholarID: 2e503
+PROSSER R. Improved boundary conditions for the direct numerical simulation of turbulent subsonic flows I: Inviscid flows. Journal of Computational Physics. 2005; 207(2): 736-768. eScholarID: 1a9620 | DOI: 10.1016/j.jcp.2005.01.027
+Moreau, S, F  Mendonca, OA  Qazi, Robert  Prosser, and Dominique  Laurence. Influence of Turbulence Modeling on Airfoil Unsteady Simulations of Broadband Noise Sources. 11th AIAA/CEAS Aeroacoustic Conference. 2005: 1472-1481. eScholarID: 2e500
+Prosser, Robert, and J  Schluter. Toward Improved Boundary Conditions for the DNS and LES of Turbulent Subsonic Flows. Proceedings of the 2004 Summer Program, Center for Turbulence Research. 2004:  eScholarID: 2e499
+Prosser R, Cant R. The application of wavelets to reacting flows. Proceedings of the Institution of Mechanical Engineers - Part C: Journal of Mechanical Engineering Science. 2000; 214: 1355-1362. eScholarID: 1e249
+Prosser R, Cant R. The theoretical development of wavelets in reacting flows. Proceedings of the Institution of Mechanical Engineers - Part C: Journal of Mechanical Engineering Science. 2000; 214: 1363-1373. eScholarID: 1e250
+Prosser, Robert, and WK  Bushe. On the use of Interpolating Wavelets in the Direct Numerical Simulation of Combustion. Center for Turbulence Research Annual Research Briefs. 1998:  eScholarID: 2e498
+Prosser R, Cant R. On the use of wavelets in computational combustion. Journal of Computational Physics. 1998; 147: 337-361. eScholarID: 1e248
+Prosser, Robert. Wavelets: an introduction and application to combustion problems. Cambridge University: CUED: 1996.  eScholarID: 57277
+

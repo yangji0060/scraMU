@@ -1,0 +1,56 @@
+name  role  phone  location  email
+Dr Paul Chan  Lecturer in Project Management  0161-2754319  Pariser Building - E17  paul.chan@manchester.ac.uk  
+
+BIOGRAPHY: 
+I teach Management of Projects to engineering students. I actively research human resources management and development, with a focus on training and development, labour productivity and performance, knowledge management and organisational learning. I also undertake research on design management and sustainable development. I am passionate about students' personal development planning. I co-authored "Constructing Futures: Industry Leaders and Futures Thinking in Construction" with Professor Rachel Cooper (Lancaster University). I have published over 50 refereed journal and conference articles.
+Externally, I am Editor of Construction Management and Economics, the leading international refereed journal that publishes original research concerning the management and economics of building and civil engineering. I have been joint coordinator (with Professor Raisanen from Chalmers University) of CIB TG 78 on "Informality and emergence in construction workplaces", a Member of the Research and Innovation Panel of the Chartered Institute of Building (CIOB), Secretary of the Association of Researchers in Construction Management (ARCOM), a Fellow of the Higher Education Academy, and a member of the European Institute of Construction Labour Research (CLR) Great Britain. I was formerly a member of the North East Chamber of Commerce Skills Working Group, the EPSRC Manufacturing Futures Network (Ref: EP/D059046/1), and the EPSRC Ideas Factory Programme on Productivity. I previously completed, as co-principal investigator an EPSRC project entitled Understanding and assessing the concept of knowledge leakage (Ref: EP/D505631/1), and have supervised an EPSRC/North East Chamber of Commerce funded PhD CASE student examining skills capacity issues in the Tyne and Wear region (Ref: EP/C537793/1).
+Hobby-wise, I enjoy the theatre, live music and indulging in gastronomical delights.
+
+RESEARCH: 
+Human Resource Management
+Skills and Training
+Organisational Performance and Sustainability
+Design Management
+Knowledge Management and Organisational Learning
+
+PUBLICATION: 
+A Kaka, Paul Chan. Construction labour productivity improvements. In: Aouad, G. and Ruddock, L, ed. Construction labour productivity improvements. 583-598. eScholarID: ma1512
+Paul Chan, R Cooper. Defining latent skills shortages: a methodology. In: Aouad, G., Kagioglou, M., Amaratunga, D., Ruddock, L. and Sexton, M, ed. Defining latent skills shortages: a methodology. 137 146. eScholarID: ma1519
+William Robinson, Paul W Chan and Thomas Lau. How do technological niches emerge? A case analysis of servitization in construction. 31st Annual ARCOM Conference. 2015: 1157-1166. eScholarID: 291073
+Eizakshiri F, Chan P, Emsley M. Where is intentionality in studying project delays?. International Journal of Managing Projects in Business. 2015; 8(2): 349-367. eScholarID: 288952 | DOI: http://dx.doi.org/10.1108/IJMPB-05-2014-0048
+Paul Chan. A zombie existence: exploring Ulrich Becks zombie categories and construction management research. In: S. Smith and D. Ahiaga-Dagbui, ed. A zombie existence: exploring Ulrich Becks zombie categories and construction management research. 2013:  eScholarID: ma1513
+Paul Chan, S Jintamanaskoon. Bridging over troubled times: re-assessing the routine reforming of the British Railway industry. Bridging over troubled times: re-assessing the routine reforming of the British Railway industry. 2013:  eScholarID: ma1517
+Paul Chan, S Chipindu. Imagining modernity: how a building project helped project images of the future for enabling a client to embrace modern ways of working. In: P. Chinowsky and P. Carillo, ed. Imagining modernity: how a building project helped project images of the future for enabling a client to embrace modern ways of working. 2013:  eScholarID: ma1515
+M Abu Alqumboz, Paul Chan. Inter-organisational in project based organisations: perspectives on reciprocity. Inter-organisational in project based organisations: perspectives on reciprocity. 2013:  eScholarID: ma1511
+C Koch, Paul Chan. Projecting an information infrastructure: shaping a community. In: P. Chinowsky and P. Carillo, ed. Projecting an information infrastructure: shaping a community. 2013:  eScholarID: ma1516
+Paul W Chan. Queer eye on a 'straight' life: deconstructing masculinities in construction. Construction Management and Economics. 2013 August; 31(8): 816-831. eScholarID: 253695
+Paul Chan. Queer eye on a 'straight' life: deconstructing masculinities in construction. Construction Management and Economics. 2013; 31(0): 816-831. eScholarID: ma418
+Paul Chan, S Jintamanaskoon. Reforming as remembering: exploring the continuities of industry reform in the case of British Rail. Reforming as remembering: exploring the continuities of industry reform in the case of British Rail. 2013:  eScholarID: ma1518
+M Abu Alqumboz, Paul Chan. What do networks do to work: the agential role of networks. What do networks do to work: the agential role of networks. 2013:  eScholarID: ma1520
+Paul W Chan and Mick Marchington. Aligning human resource development with organisational strategy in construction. In: A. Dainty and M. Loosemore, ed. Human Resource Management in Construction. Abingdon, Routledge.2012:  eScholarID: 170228
+M Marchington, Paul Chan. Aligning human resource development with organisational strategy in construction: what else matters?. In: A. Dainty and M. Loosemore, ed. Human Resource Management in Construction: Critical Perspectives Second Edition. Taylor & Francis.2012:  eScholarID: ma1713
+Paul W Chan, Rafal Smoczynski and Ian Fitzgerald. Challenging Anti-migrant Moral Panic Discourses: The Role of Migrants and Trade Unions as Folk Devils Fighting Stigmatisation. 2012: -. eScholarID: 170230
+Paul W Chan. Constructing a sense of time in projects: implications of a Bergsonian view of time. Proceedings of the twenty-eighth annual ARCOM conference, Edinburgh. Association of Researchers in Construction Management. 3-5 September 2012. 2012: 497-507. eScholarID: 170240
+Paul Chan. I have never been entirely sure quite what sustainability is! An ethnographic case study of MyAirports desire of becoming more sustainableDESIRE OF BE. I have never been entirely sure quite what sustainability is! An ethnographic case study of MyAirports desire of becoming more sustainableDESIRE OF BE. 2012:  eScholarID: ma1514
+Paul W Chan and Vivian Liang. Ordering identities: exploring the emergence and consequences of researcher identity. 2012: -. eScholarID: 170233
+Paul W Chan, Eric Johansen and Rachel Moor. Partnering paradoxes: A case of constructing inter-organisational collaborations in infrastructure projects. Professional Perspectives. 2012; 28-33. eScholarID: 133276
+Paul W Chan and Vivian Liang. Whose line is it anyway? De-signing organisational change in the case of MyAirport moving to become more sustainable. 2012: -. eScholarID: 170237
+Paul W Chan and Vivian Liang. “I have never been entirely sure quite what sustainability is!” An ethnographic case study of MyAirport’s desire of becoming more ‘sustainable’. 2012: -. eScholarID: 170236
+Paul Chan. CLR-GB Newsletter 1-2011. CLR-GB Newsletter 1-2011. 2011 August;  eScholarID: ma786
+Paul Chan. CLR-GB Newsletter 2-2011. CLR-GB Newsletter 2-2011. 2011 December;  eScholarID: ma790
+Farhad Eizakshiry, Paul W Chan and Margaret Emsley. Delays, what delays? A critical review of the literature on delays in construction. Proceedings of the twenty-seventh annual ARCOM conference, Bristol. Association of Researchers in Construction Management. 5-7 September 2011. 2011: 839-848. eScholarID: 133286
+Andrew Gale, Kassandra Papadopoulou, Paul Chan. Management of Projects Expert Group Newsletter. Management of Projects Expert Group Newsletter. 2011 November;  eScholarID: ma925
+Paul W Chan. Queer(y)ing construction: exploring sexuality and masculinity in construction. Proceedings of the twenty-seventh annual ARCOM conference, Bristol. Association of Researchers in Construction Management. 5-7 September 2011. 2011: 207-216. eScholarID: 133283
+Paul Chan. CLR-GB Newsletter 1-2010. CLR-GB Newsletter 1-2010. 2010 August;  eScholarID: ma785
+Paul Chan. CLR-GB Newsletter 2-2010. CLR-GB Newsletter 2-2010. 2010 October;  eScholarID: ma789
+Paul Chan, R Cooper. Constructing futures: industry leaders and futures thinking in construction. Wiley Blackwell:2010.  eScholarID: ma1109
+Paul Chan. CLR-GB Newsletter 1-2009. CLR-GB Newsletter 1-2009. 2009 August;  eScholarID: ma784
+Paul Chan. CLR-GB Newsletter 2-2009. CLR-GB Newsletter 2-2009. 2009 October;  eScholarID: ma788
+Paul Chan. CLR-GB Newsletter 1-2008. CLR-GB Newsletter 1-2008. 2008 February;  eScholarID: ma783
+Paul Chan. CLR-GB Newsletter 2-2008. CLR-GB Newsletter 2-2008. 2008 October;  eScholarID: ma787
+Paul Chan. CLR-GB Newsletter 3-2008. CLR-GB Newsletter 3-2008. 2008 December;  eScholarID: ma791
+Paul Chan. In: CLR News 3/2008 Cross border work/reviews special. 2008 October.  eScholarID: ma904
+A Dainty, L Clarke, Paul Chan. Staff shortages and immigration in construction. A paper prepared for the Migration Advisory Committee. Home Office: 2008 September.  eScholarID: ma1024
+Paul Chan. The key ingredients of a Ph.D.: passion, humility and development. The key ingredients of a Ph.D.: passion, humility and development. 2008;  eScholarID: ma1049
+A Kaka, Paul Chan. The impacts of workforce integration on productivity. In: A. Dainty, S. Green, and B. Bagilhole, ed. People and culture in construction: a reader. Taylor & Francis.2007:  eScholarID: ma1660
+

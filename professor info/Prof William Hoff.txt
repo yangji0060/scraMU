@@ -1,0 +1,11 @@
+name  role  phone  location  email
+Prof William Hoff  Emeritus Professor      w.d.hoff@manchester.ac.uk  
+
+BIOGRAPHY: 
+
+
+RESEARCH: 
+
+PUBLICATION: 
+Wilson M, Carter M, Hall C, Hoff W, Ince C, Savage S, McKay B, Betts I. Dating fired-clay ceramics using long-term power law rehydroxylation kinetics. Proceedings of the Royal Society A: Mathematical, Physical & Engineering Sciences. 2009 August; 465(2108): 2407-2415. eScholarID: 1e874 | DOI: 10.1098/rspa.2009.0117
+

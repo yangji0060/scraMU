@@ -1,0 +1,54 @@
+name  role  phone  location  email
+Dr Katharine Smith  Lecturer in Aerospace Engineering  0161-3063731  George Begg Building - C36  kate.smith@manchester.ac.uk  
+
+BIOGRAPHY: 
+Katharine graduated with a BEng(Hons) in Aerospace Engineering from Queen Mary University of London in 2000. She was then awarded an EPSRC studentship and went on complete her PhD research on the Characterisation of electrospray properties in high vacuum at the Rutherford Appleton Laboratories, which she received from the University of London in 2005. Katharine then worked as a post-doctoral research fellow in the Electrospray research group at Queen Mary University of London until sept 2008 when she was appointed as a Lecturer of Aerospace Engineering in the School of Engineering and Materials Science at Queen Mary. She took up a post as Lecturer in Aerospace Propulsion in MACE in Aug 2010. In December 2013 she became a fellow of the Higher Education Academy (HEA).
+Katharine's principal research interests are directed towards the understanding of the basic physical processes involved in electrospray and the development of novel technologies using electrospray, in particular micropropulsion for small satellites. She is also interested in nano satellite technologies.
+
+RESEARCH: 
+Spacecraft Propulsion
+Spacecraft Design
+Electrospray Technology
+
+PUBLICATION: 
+Macario-Rojas A, Smith K., Roberts P. An Evaluation of Fitted Drag Coefficients of U3 CubeSats. 2015: -. eScholarID: 270148
+Fisher T., Quinn M.K., Smith K. Entry Vehicle Backshell Wake Flow Investigation at Mach 5 using Additively Manufactured Models. 2015: -. eScholarID: 270149
+Crisp N, Smith K, Hollingsworth P. Launch and deployment of distributed small satellite systems. Acta Astronautica. 2015;  eScholarID: 264044 | DOI: 10.1016/j.actaastro.2015.04.015
+Narvaez, C. ,Bargiacchi M, Schiava D'Albano G.G., Revell A, Smith K. COMPUTATIONAL MODELLING TECHNIQUES FOR ELECTROSPRAY ATOMISATION. -. eScholarID: 254324
+Katharine Smith, N Crisp, Peter Hollingsworth. LAUNCH AND DEPLOYMENT OF DISTRIBUTED SMALL SATELLITE SYSTEMS. LAUNCH AND DEPLOYMENT OF DISTRIBUTED SMALL SATELLITE SYSTEMS. 2014:  eScholarID: ma1509
+Nicholas Crisp, Katharine Smith, Peter Hollingsworth. Launch and Deployment of Distributed Small Satellite Systems. International Astronautical Federation: 2014: -. eScholarID: 254323
+Crisp N. Small Satellite Launch to LEO: A Review of Current and Future Launch Systems. Transactions of the Japan Society for Aeronautical and Space Sciences, Aerospace Technology Japan. 2014 July; 12(ists29): Tf_39-Tf_47. eScholarID: 233356 | DOI: http://dx.doi.org/10.2322/tastj.12.Tf_39
+Ryan C, Smith K, Stark J. The flow rate sensitivity to voltage across four electrospray modes. Applied Physics Letters. 2014 February; 104:  eScholarID: 220367 | DOI: 10.1063/1.4866670
+Stark J, Alexander M, Smith K. Electrospray pulsation: a diagnostic to understand cone-jet stability and minimum flow. Journal of Applied Physics. 2014 January; 115(4):  eScholarID: 218302 | DOI: 10.1063/1.4862805
+Nicholas Crisp, Katharine Smith, Peter Hollingsworth. Small Satellite Launch to LEO: A Review of Current and Future Launch Systems. The Japan Society for Aeronautical and Space Sciences: 2013: -. eScholarID: 217988
+Bargiacchi M, Schiava D'Albano G.G., Revell A, Smith K. Towards Electro-Spray Modelling using Lattice Boltzmann Method. 2013: -. eScholarID: 263384
+Alistair Revell, GG Schiava D\'Albano, Katharine Smith, M Bargiacchi. Towards Electro-Spray Modelling using Lattice Boltzmann Method. Towards Electro-Spray Modelling using Lattice Boltzmann Method. 2013:  eScholarID: ma1189
+JP Stark, Katharine Smith, MD Paine, MS Alexander. AN ELECTROSTATIC SPRAYING DEVICE AND A METHOD OF ELECTROSTATIC SPRAYING AN ELECTROSTATIC SPRAYING DEVICE AND A METHOD OF ELECTROSTATIC SPRAYING. 2012 March 21. eScholarID: ma752
+Ryan C.N., Smith, K.L.Stark, J.P.W Characterization of multi-jet electrospray systems. Journal of Aerosol Science. 2012 September; 51(September): 35-48. eScholarID: 170566 | DOI: 10.1016/j.jaerosci.2012.03.007
+Ryan, C.N. , Smith, K.L. , Stark, J.P.W. The influence of geometry on the flow rate sensitivity to applied voltage within cone-jet mode electrospray. Journal of Applied Physics. 2012; 112(11): . eScholarID: 180996 | DOI: 10.1063/1.4768451
+Wang K., Tan Z., Ryan C.N., Smith K, Paine M.D., Stark J.P. A full voltage-controlled nanoelectrospray system and its steady characteristic analysed by empirically equivalent circuit method. Sensors and Actuators B: Chemical. 2010; 147(2): 618-621. eScholarID: 108736 | DOI: 10.1016/j.snb.2010.03.070
+Aplin K.L., Smith K. Comment on : A robust floating nanoammeter. Review of Scientific Instruments. 2009; 80(5):  eScholarID: 108735
+Ryan C.N., Smith K, Alexander M.S., Stark J.P. Effect of emitter geometry on flow rate sensitivity to voltage in cone jet mode electrospray. Journal of Physics D: Applied Physics. 2009; 42: 155504. eScholarID: 108734 | DOI: 10.1088/0022-3727/42/15/155504
+Smith K, Stark J.P. Investigation of Alternative Propulsion Concepts. 2009 January.  eScholarID: 108745
+Ryan C.N., Smith K, Alexander M.S., Stark J.P. Performance Modulation of Colloid thrusters by the Variation of Flow rate with Applied Voltage. 2009: -. eScholarID: 108744
+Smith K, Krpoun R., Stark J.P., Shea H.R. Performance of a micro-fabricated Colloid thruster system. 2009: -. eScholarID: 108743
+Krpoun R., Shea H.R., Smith K, Stark J.P. Tailoring the hydraulic impedance of out-of-plane micromachined electrospray sources with integrated electrodes. Applied Physics Letters. 2009; 94(16): . eScholarID: 108733 | DOI: 10.1063/1.3117191
+Shea H.R., Kproun R., Smith K, Stark J.P. Design and fabrication of an integrated MEMS-based colloid electric micropropulsion system. 2008: -. eScholarID: 108742
+BJ Kent, JG Firth, JP Stark, Katharine Smith, KL Aplin, MS Alexander. Inexpensive optically-isolated nanoammeter for use with electric propulsion technology. Journal of Propulsion and Power. 2008; 24(4): 891-895. eScholarID: ma272
+Aplin K.L., Smith K, Firth J.G., Kent B.J., Alexander M.S., Stark J.P. nexpensive optically-isolated nanoammeter for use with electric propulsion technology. Journal of Propulsion and Power. 2008; 24(4): 891-895. eScholarID: 108732 | DOI: 10.2514/1.30994
+Paine M.D., Alexander M.S., Smith K, Wang M.J., Stark J.P. Controlled electrospray pulsation for deposition of femtoliter fluid droplets onto surfaces. Journal of Aerosol Science. 2007; 38: 315-324. eScholarID: 108730 | DOI: 10.1016/j.jaerosci.2006.12.004
+Krpoun R., Raber H.R., Shea H.R., Smith K, Stark J.P. Design and fabrication of an integrated MEMS-based colloid micropropulsion system. 2007: -. eScholarID: 108741
+Wang L., Stevens R., Malik A., Rockett P., Paine M.D., Adkin P., Martyn S., Smith K, Stark J.P., Dobson P. High-aspect-ratio silica nozzle fabrication for nano-emitter electrospray applications. Microelectronic Engineering. 2007; 84(5): 1190-1193. eScholarID: 108729 | DOI: 10.1016/j.mee.2007.01.116
+Smith K, Alexander M.S., Paine M.D., Stark J.P. Scaling of a Colloid Thruster system for microNewton to milliNewton Thrust levels. 2007: -. eScholarID: 108740
+Alexander M.S., Smith K, Paine M.D., Stark J.P. Voltage Modulation of Flow Rate for Precise Thrust Control in Colloid Electrospray Propulsion. Journal of Propulsion and Power. 2007 September; 23(5):  eScholarID: 108731
+Alexander M.S., Stark J.P., Smith K, Stevens R., Kent B Electrospray Performance of Micro-fabricated Colloid Thruster Arrays. Journal of Propulsion and Power. 2006; 22(3): 620-627. eScholarID: 108728 | DOI: 10.2514/1.15190
+Smith K, Alexander M.S., Stark J.P. The Sensitivity of Volumetric Flow Rate to Applied Voltage in Cone-Jet Mode Electrospray and the Influence of Solution Properties and Emitter Geometry. Physics of Fluids. 2006; 18: 09214. eScholarID: 106923
+Smith K, Alexander M.S., Stark J.P. The role of molar conductivity in electrospray cone-jet mode current scaling. Journal of Applied Physics. 2006; 100: 014905. eScholarID: 108727
+Smith K, Alexander M.S., Stark J.P. Voltage effects on the volumetric flow rate in cone-jet mode electrospraying. Journal of Applied Physics. 2006 March; 99: 064909. eScholarID: 106921 | DOI: 10.1063/1.2183351
+Smith K, Alexander M.S., Stark J.P. The Effect of Molar Conductivity upon Current and Thrust in a Colloid Electrospray Thruster System. 2005: -. eScholarID: 108738
+Alexander M.S., Smith K, Stark J.P. Voltage Effects on the Volumetric Flow Rate and Thrust produced in Electrospray Propulsion Systems. 2005: -. eScholarID: 108739
+K.L.Smith, J.P.W.Stark. Spray Current Dependence on Flow Rate and Conductivity in Cone-jet mode Vacuum Spraying. Institute of Physics Conference Series. 2004; 178(4): 161-166. eScholarID: 93612
+B Kent, JP Stark, Katharine Smith, M Sanford, MD Paine, MS Alexander, R Stevens. Colloid Propulsion A Re-Evaluation, with an Integrated Design. Colloid Propulsion A Re-Evaluation, with an Integrated Design. 2003: AIAA2003-4851. eScholarID: ma1538
+JP Stark, Katharine Smith, S Robertson. High Accuracy Measurements in Electrospray Source Relevant to Colloid Thrusters. High Accuracy Measurements in Electrospray Source Relevant to Colloid Thrusters. 2003: AIAA2003-4847. eScholarID: ma1537
+B Kent, JP Stark, Katharine Smith, M Sandford, MS Alexander, R Stevens. Micro Fabrication and Operation of a Colloid Thruster Array. Micro Fabrication and Operation of a Colloid Thruster Array. 2003: -. eScholarID: ma1536
+

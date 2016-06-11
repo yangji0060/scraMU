@@ -1,0 +1,44 @@
+name  role  phone  location  email
+Dr Margaret Emsley  Reader  0161-3064234  Pariser Building - E24  margaret.emsley@manchester.ac.uk  
+
+BIOGRAPHY: 
+Margaret Emsley is a civil and structural engineer who joined what was then UMIST in 1986. Previously she had carried out research at Loughborough University and worked as an engineer for Tarmac Construction. She was involved in setting up the MSc in Construction Project Management in 1987 and has contributed to the teaching of many courses at both undergraduate and postgraduate level. She has supervised 5 PhD students and over 150 MSc students and has 7 current PhD students. She is currently Chair of the School Board and Programme Director of the MSc Management of Projects (including the four routeways: Commercial Project Management, Construction Project Management, Engineering Project Management and IT Project Management).
+
+RESEARCH: 
+Productivity and performance measurement
+The application of operational research techniques to construction
+Neural networks applications
+Contractor pre-qualification
+Improving bidding processes
+The costs of different procurement systems
+Best value and partnering
+
+PUBLICATION: 
+Eizakshiri F, Chan P, Emsley M. Where is intentionality in studying project delays?. International Journal of Managing Projects in Business. 2015 April; 8(2):  eScholarID: 257094
+U. A. Altahtooh and M. W. Emsley. IT Projects: Classifying Risk Factors and Identifying Project Outcomes. 2014: -. eScholarID: 257103
+F, |Eizakshiri, P. Chan and M. Emsley. The role of I and We in project time estimation. Proceedings of the 10th Engineering Project Organisation Society Conference (EPOC). 2013: -. eScholarID: 257184
+Alzahrani J, Emsley M. The impact of contractors' attributes on construction project success. International Journal of Project Management. 2013; 31(2): 313-322. eScholarID: 257098
+Jamal Alzahrani and M. W. Emsley. A post construction evaluation to study the impact of contractors' attributed on project success. Proceedings of the International CIB W65 Symposium on Organisation and Management of Construction. 2012: 1212-1224. eScholarID: 257108
+Gasiea Y, Emsley M W and Mikhailov L. Rural Telecommunications Infrastructure Selection Using the Analytic Network Process. Journal of Telecommunications and Information Technology. 2010; 2: 28-42. eScholarID: 149960
+Gasiea, Y, Margaret  Emsley, and L  Mikhailov. On the applicability of the Analytical Network Process to rural telecommunications infrastructure technology selection. Proceedings of the 10th International Symposium on the Analytical Hierarchy/Network Process. 2009:  eScholarID: 2e1161
+Lowe D, Emsley M, Harding A. Relationships between total construction cost and design related variables. Journal of Financial Management of Property and Construction. 2007; 12: 11- 24. eScholarID: 1e930
+Lowe D, Emsley M, Harding A. Relationships between total construction cost and project strategic, site related and building definition variables. Journal of Financial Management of Property and Construction. 2006; 11: 165 - 180. eScholarID: 1e929 | DOI: 10.1108/13664380680001087
+Emsley M. A benefits analysis of partnering: a case study of a community primary school in the UK. Journal of Financial Management of Property and Construction. 2005 March; 10(1): 69-79. eScholarID: 1e709 | DOI: 10.1108/13664380580001065
+Parvar, Jamshid, David J  Lowe, and Margaret  Emsley. Development of a decision support system (DSS) for the contractors decision to bid: regression analysis and neural network solutions. Proceedings of the First International Symposium on Commercial Management. The University of Manchester. Manchester: University of Manchester: 2005: 122-135. eScholarID: 2e1247
+Lowe D, Parvar J, Emsley M. Development of a decision Support (DSS) for the contractors decision to bid. Journal of Financial Management of Property and Construction. 2004; 9: 27 42. eScholarID: 1e931
+Makulsawatudom, A, and Margaret  Emsley. Factors affecting the productivity of the construction industry in Thailand: the foremen\'s perception. Proceedings of the Construction Research Congress. Honolulu. 2003: 771-780. eScholarID: 2e154
+Lowe, David, Margaret  Emsley, and Roy  Duff. The costs of different procurement systems: a decision support model [Selected for the Construction Industry Council (CIC) Industry Challenge Showcase Ranked 1st). Proceedings of the 3rd International Conference on Decision Making in Urban and Civil Engineering (DMinUCE). School of Oriental and African Studies, University of London, UK. 2002: -. eScholarID: 2e159
+Makulsawatudom, A, and Margaret  Emsley. Critical factors influencing construction productivity in Thailand. Proceedings of the 10th International CIB Symposium of the W65 Commission on Organisation and Management of Construction: Construction Innovation and Global Competitiveness. University of Cincinnati. 2002: 1446-1456. eScholarID: 2e157
+Mangitung, D M, and Margaret  Emsley. Decision criteria for periodic and project prequalification practices in the UK. Proceedings of the 10th International CIB Symposium of the W65 Commission on Organisation and Management of. 2002: 960-972. eScholarID: 2e155
+Mangitung, D M, and Margaret  Emsley. Decision criteria for periodic prequalification in the UK construction industry. Proceedings of COBRA 2000, The Construction and Building Research Conference of the RICS Research Foundation. School of Property and Construction, The Nottingham Trent University. 2002: 273-285. eScholarID: 2e160
+Mangitung, D M, and Margaret  Emsley. Factors affecting the weighting of contractor prequalification decision criteria: the UK prequalifiers perception. Proceedings of the 3rd International Conference on Decision Making in Urban and Civil Engineering (DMinUCE) School of. 2002:  eScholarID: 2e156
+Mangitung, D M, and Margaret  Emsley. Standardisation of periodic prequalification criteria through identification of the relationship between prequalification factors and project performa. Proceedings of the First International Conference on Information Standardisation, Exchanges and Management in Construction (CISEMIC).School of Construction & Property Management, University of Salford. 2002: 243-251. eScholarID: 2e158
+Parvar, Jamshid, David  Lowe, and Margaret  Emsley. Neural network decision support system for effective decision making in the decision to bid process. Proceedings of ASCE Specialty Conference on Fully Integrated and Automated Project Processes, Virginia Polytechnic and State University, Blacksburg, Virginia. 2002: -. eScholarID: 2e1153
+Parvar, Jamshid, David  Lowe, and Margaret  Emsley. Neural network decision support system for effective decision making in the decision to bid process. Proceedings of the ASCE Specialty Conference on Fully Integrated and Automated Project Processes. ASCE: 2002: 301-310. eScholarID: 2e1249
+Makulsawatudom, A, and Margaret  Emsley. Factors affecting the productivity of the construction industry in Thailand: the craftsmens perception. Proceedings of COBRA 2000, The Construction and Building Research Conference of the RICS Research Foundation, School of the Built and Natural Environment, Glasgow Caledonian University, UK. 2001:  eScholarID: 2e1251
+Makulsawatudom, A, and Margaret  Emsley. Factors affecting the productivity of the construction industry in Thailand: the project managers perception. Proceedings of the 17th Annual Conference of Association of Researchers in Construction Management (ARCOM), University of Salford, UK. 2001:  eScholarID: 2e1250
+Parvar, Jamshid, David  Lowe, and Margaret  Emsley. A rational and optimal model of decision making for decision to bid process. Proceedings of COBRA 2001, September, Glasgow Caledonian University UK. ISBN: 1-84219-067-9, The RICS Foundation ISBN: 1-84219-067-9: 2001: 334 -353. eScholarID: 2e1154
+Parvar, Jamshid, David  Lowe, and Margaret  Emsley. Harnessing the potential of neural networks for effective decision making for decision to bid process. Proceedings of RICS Foundation (COBRA 2001) Construction and Building Research Conference. ISBN: 1-84219-067-9. The RICS Foundation: 2001: 354-364. eScholarID: 2e1155
+Parvar, Jamshid, David  Lowe, Margaret  Emsley, and Roy  Duff. Neural networks as a decision support system for the decision to bid process. Proceeding of 16th Annual Conference of Association of Researchers in Construction Management (ARCOM), Glasgow Caledonian University, UK. ISBN: 0953416143. 2000: 209 - 217. eScholarID: 2e1157
+Parvar, Jamshid, David  Lowe, Margaret  Emsley, and Roy  Duff. Neural networks as a tool for modelling the decision to bid process. Proceedings of COBRA 2000, the construction and building research conference of the RICS Research Foundation, University of Greenwich, London, England. 12 Great George Street, Parliament Square, London, England: RICS Research Foundation, London, England. ISBN: 1-84219-027-X.: 2000: 331-339. eScholarID: 2e1156
+

@@ -1,0 +1,71 @@
+name  role  phone  location  email
+Dr Paul Gilbert  Lecturer in Climate Change, Sustainability and Project Management  0161-3063845  Pariser Building - H9  p.j.gilbert@manchester.ac.uk  
+
+BIOGRAPHY: 
+Dr Paul Gilbert is a lecturer in climate change, sustainability and project management within the School of Mechanical Aerospace and Civil Engineering at the University of Manchester. He is a member of Tyndall Manchester within the international Tyndall Centre for Climate Change Research and contributes to undergraduate/postgraduate teaching on carbon management, sustainable waste management and project management.
+Paul joined the University of Manchester in 2009 as a Research Associate on the EPSRC SuperGen Bioenergy Consortium. He completed his PhD in Chemical Engineering on 'innovative biomass technologies' at the University of Sheffield - understanding the effects of tar reduction in biomass gasification.
+Paul has previously worked under the EPSRC Supergen Bioenergy consortium exploring the environmental impacts associated with a range of bioenergy systems from heat and power to bio-chemical production. He has since expanded his research profile to international shipping. Using emission accounting approaches Paul investigated the scope for unilateral policies to reduce the UKs share of international shipping emissions and; explored radical step-change mitigation of shipping emissions. Taking a more investigator based role through his lectureship position, he recently completed a project examining the competitiveness of the UK chemical industry in response to reducing its carbon emissions. In 2013 Pauls research will continue on international low carbon shipping research (EPSRC: Shipping in changing climates) and will explore the feasibility of wide-scale deployment of photovoltaic cells in the UK (EPSRC: WISE-PV). Paul is also set to start research with Leeds and Newcastle Universities to complete a feasibility study on the use of microalgae as a marine fuel.
+Paul has published diverse interdisciplinary research through peer-reviewed articles, policy reports, responses to Government inquiries, opinion pieces and conference papers.
+
+RESEARCH: 
+Biomass and bioenergy
+International shipping
+Energy and transport policy
+Emission and carbon accounting
+life cycle assessment
+Carbon management
+Circular economy, material efficiency
+
+PUBLICATION: 
+A Bows, Kevin Anderson, Paul Gilbert. Accounting for and influencing shipping emissions at a sub-global level. Accounting for and influencing shipping emissions at a sub-global level.  eScholarID: ma1213
+A Khor, C Ryu, J Swithenbank, Paul Gilbert, V Sharifi, W Chung. Thermal Treatment of Segregated wastes and the associated pollutants. Thermal Treatment of Segregated wastes and the associated pollutants.  eScholarID: ma1510
+Maria Sharmina, Claire Hoolohan, Alice Bows-Larkin, Paul J. Burgess, James Colwill, Paul Gilbert, David Howard, Jerry Knox, Kevin Anderson. A nexus perspective on competing land demands: Wider lessons from a UK policy case study. Environmental Science & Policy. 2016;  eScholarID: 296931 | DOI: 10.1016/j.envsci.2016.02.008
+Gilbert, P., Bows-Larkin, A., Mander, S., Walsh, C. Technologies for the High Seas: Meeting the climate challenge. Carbon Management. 2015;  eScholarID: 258565
+Thornley P, Gilbert P, Shackley S, Hammond J. Maximizing the greenhouse gas reductions from biomass: The role of life cycle assessment. Biomass & Bioenergy. 2015 October; 81: 35-43. eScholarID: 282847 | DOI: 10.1016/j.biombioe.2015.05.002
+Traut, M., Gilbert, P., Walsh, C., Bows, A., Filippone, A., Stansby, P., Wood, R. Propulsive power contribution of a kite and a Flettner rotor on selected shipping routes. Applied Energy. 2014 January; 113:  eScholarID: 209887
+Gilbert P, Gilpin D, Hodgson P, McLachlan C, Mander S, Walsh C, Griffin A. Ship = CE2 : The potential for shipping to embrace the circular economy. 2014: -. eScholarID: 226786
+Gilbert, P. Shipping visions on the horizon. 2014: -. eScholarID: 226792
+Traut M, Gilbert P. The shipping forecast: wind power technology, weather models, and fuel savings. 2014: -. eScholarID: 226789
+Jones C W, Gilbert P, Mander S, Raugei M. UK Solar PV Scenarios - Dealing with Geographic Sensitivities and Distributed Power Generation. 2014: -. eScholarID: 226790
+Jones C W, Gilbert P, Mander S, Leicester P, Rowley P. Whole System Evaluation of Ambitious Levels of PV. 2014: -. eScholarID: 226791
+Paul Gilbert. Assessing economically viable carbon reductions for the production of ammonia from biomass gasification. Journal of Cleaner Production. 2014 February; 64: 581-589. eScholarID: 220579 | DOI: 10.1016/j.jclepro.2013.09.011
+Gilbert P. From reductionism to systems thinking: How the shipping sector can address sulphur regulation and tackle climate change. Marine Policy. 2014 January; 43: 376-378. eScholarID: 220580 | DOI: 10.1016/j.marpol.2013.07.009
+Welfle A, Gilbert P, Thornley P. Increasing biomass resource availability through supply chain analysis. Biomass & Bioenergy. 2014; 70: 249-266. eScholarID: 282846 | DOI: 10.1016/j.biombioe.2014.08.001
+Welfle A, Gilbert P, Thornley P. Securing a bioenergy future without imports. Energy Policy. 2014; 68: 1-14. eScholarID: 282843 | DOI: 10.1016/j.biombioe.2014.08.001
+Thornley, P. and Gilbert, P. Biofuels: balancing risks and rewards. Royal Society Interface Focus. 2013; 3(1):  eScholarID: 184349
+Gilbert, P., Roeder, M., Thornley, P. Can the UK afford (not) to produce chemicals in 2050?. Manchester: Tyndall Manchester: 2013 June.  eScholarID: 209888
+Thornley E P, Gilbert P, Shackley S, Hammond J. Identifying the best use of biomass resources. 2013: -. eScholarID: 196967
+Anderson K L, Broderick J, Gilbert P, Kuriakose J, Roeder M, Bows A, Le Qur C, Anger-Kraavi A. Submission to EAC Inquiry: Progress on carbon budgets. 2013 May.  eScholarID: 196968
+Gilbert, P., Bows-Larkin, A., Mander, S., Traut, M., Walsh, C. Submission to Maritime Strategy Inquiry. 2013 September.  eScholarID: 209894
+Adams, P., Bows, A., Gilbert, P., Hammond, J., Howard, D., Lee, R., McNamara, N., Thornley, P., Whittaker, C., Whitaker, J. Understanding Greenhouse Gas Balances of Bioenergy Systems. Manchester: Supergen Bioenergy Hub: 2013 September.  eScholarID: 209890
+Alice Bows-Larkin, Conor Walsh, M Traut, Paul Gilbert, Sarah Mander. A systems perspective on decarbonising the UK energy system the impacts on shipping CO2 emissions. A systems perspective on decarbonising the UK energy system the impacts on shipping CO2 emissions. 2012:  eScholarID: ma1235
+Mander, S., Walsh, C., Gilbert, P., Traut, M., Bows, A. A systems perspective on decarbonising the UK energy system – the impacts on shipping CO2 emissions. 2012: -. eScholarID: 168394
+Gilbert, P., Bows, A All at sea: Nations responsibility to reduce shipping emissions. Memoirs of the Manchester Literary & Philosophical Society. 2012; 149:  eScholarID: 145297
+Bows, A., Traut, M., Gilbert, P., Mander, S., Walsh, C. and Anderson, K. Aviation and shipping - privileged again?. Tyndall Centre for Climate Change Research: 2012.  eScholarID: 184350
+Alice Bows-Larkin, Conor Walsh, Kevin Anderson, M Traut, Paul Gilbert, Sarah Mander. Aviation and shipping - privileged again? - Tyndall Centre Briefing note 47. 2012 December.  eScholarID: ma764
+Mander, S., Walsh, C., Gilbert, P., Traut, M. & Bows​, A. Decarbonizing the UK energy system and the implications for UK shipping. Carbon Management. 2012; 3(6): 601-614. eScholarID: 184348
+Gilbert, P., Bows, A Exploring the scope for complementary sub-global policy to mitigate CO2 from shipping. Energy Policy. 2012 November; 50(Nov): 613-622. eScholarID: 168389 | DOI: 10.1016/j.enpol.2012.08.002
+Anderson K L, Broderick J, Gilbert P. Submission to House of Commons Energy and Climate Change Committee inquiry into "The Impact of Shale Gas on Energy Markets". London: The Stationery Office Limited: 2012.  eScholarID: 196969
+John Broderick, Kevin Anderson, Paul Gilbert. Submission to House of Commons Energy and Climate Change Committee inquiry into "The Impact of Shale Gas on Energy Markets". 2012.  eScholarID: ma1028
+Bows, A., Gilbert, P., Anderson, K. Accounting for and influencing shipping emissions at a sub-global level. LCS 2011: International Conference on Technologies, Operations, Logistics and Modelling for Low Carbon Shipping. EPSRC Low Carbon Shipping project: 2011: -. eScholarID: 125506
+Roeder, M., Thornley, P., Campbell, G., Gilbert, P. Adaptation strategies for sustainable global wheat production. 2011: -. eScholarID: 125517
+Anderson, K., Gilbert, P., Willis, J., Wood, R., Footitt, A., Glynn, S., Nicholls, F. Commons Select Committee: Evidence for forthcoming shale gas inquiry. 2011 January.  eScholarID: 109233
+Paul Gilbert, Alice Bows, Kevin Anderson. Emission apportionment and exploring alternative national-based policy measures aimed to reduce emissions from the shipping sector. 2011: -. eScholarID: 145252
+Paul Gilbert, Ruth Wood. Fossil Fools. Public Service Review: Central Government. 2011 November; (23):  eScholarID: 145293
+Anderson, K., Bows, A., Gilbert, P. Quantifying the climate challenge for shipping: from incremental to step change mitigation. LCS 2011: International Conference on Technologies, Operations, Logistics and Modelling for Low Carbon Shipping. 2011: -. eScholarID: 125515
+Wood, R., Gilbert, P., Sharmina, M., Anderson, K., Footitt, A., Glynn, S., Nicholls, F. Shale gas: a provisional assessment of climate change and environmental impacts - Report commissioned by The Co-operative Group. 2011 January.  eScholarID: 91278
+John Broderick,Kevin Anderson, Ruth Wood, Paul Gilbert, Maria Sharmina, Anthony Footitt, Steven Glynn, Fiona Nicholls. Shale gas: an updated assessment of environmental and climate change impacts. University of Manchester: Tyndall Centre for Climate Change Research: 2011 November.  eScholarID: 145256
+Elena Dawkins, Ruth Wood, Alice Bows, Mirjam Roeder, Paul Gilbert, Conor Walsh. Submission to Energy and Climate Change Committee inquiry into consumption-based emissions reporting. 2011 October.  eScholarID: 145260
+Gilbert, P., Thornley, P., Riche, A. B. The influence of organic and inorganic fertiliser application rates on UK biomass crop sustainability. Biomass and Bioenergy. 2011 January; 35(3): . eScholarID: 108413 | DOI: 10.1016/j.biombioe.2010.12.002
+Traut, M., Bows, A., Gilbert, P., Walsh, C., Wood, R. Towards very low carbon shipping. LCS 2011 International Conference on Technologies, Operations, Logistics and Modelling for Low Carbon Shipping. EPSRC Low Carbon Shipping project: 2011: -. eScholarID: 125500
+Thornley, P., Gilbert, P. Cost effective carbon reductions in the bioenergy sector. 2010: -. eScholarID: 91276
+Gilbert, P., Thornley, P. Energy and carbon balance of ammonia production from biomass gasification. 2010: -. eScholarID: 91274
+Gilbert, P., Bows, A., Starkey, R. Shipping and climate change: Scope for unilateral action. Tyndall Centre for Climate Change Research and Sustainable Consumption Institute, University of Manchester: 2010 September 23.  eScholarID: 91277
+Gilbert, P., Thornley, P., Riche, A.B. The influence of fertiliser rates on UK biomass crop sustainability. 2010: -. eScholarID: 91265
+Gilbert, P., Thornley, P., Alexander, S., Brammer, J. Ammonia from Biomass Gasification. Vienna, Austria: 2009: -. eScholarID: 64628
+Gilbert, P., Ryu, C., Sharifi, V., Swithenbank, J. Tar reduction in pyrolysis vapours from biomass over a hot char bed. Bioresource Technology. 2009 December; 100(23): . eScholarID: 9362 | DOI: 10.1016/j.biortech.2009.06.041
+J Brammer, Patricia Thornley, Paul Gilbert, S Alexander. Theme 6: Ammonia Economy Plus Technical Report. 2009 August.  eScholarID: ma1057
+Ryu. C, Yang YB, Gilbert P, Chung W, Phan A, Khor A, Chen Q, Sharifi V, Swithenbank J. Waste segregation presents thermal treatment opportunities. Journal of Waste and Resource Management (ICE). 2009; 162(1): 44-59. eScholarID: 87486 | DOI: 10.1680/warm.2009.162.1.45
+Gilbert P, Ryu C, Sharifi V, Swithenbank J. Effect of process parameters on pelletisation of herbaceous crops. Fuel. 2009 August;  eScholarID: 1e840 | DOI: 10.1016/j.fuel.2009.03.015
+Gilbert, Paul J, C  Ryu, V  Sharifi, and J  Swithenbank. Homogeneous and Heterogeneous Reactions of Pyrolysis Vapour from Biomass Gasification over a Bed of Hot Char. 2nd International Symposium on Energy from Biomass and Waste, Venice 2008. 2008: -. eScholarID: 2e1052
+

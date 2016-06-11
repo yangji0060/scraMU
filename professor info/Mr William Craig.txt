@@ -1,0 +1,14 @@
+name  role  phone  location  email
+Mr William Craig  Visitor  0161-68778  Pariser Building - C27  william.craig@manchester.ac.uk  
+
+BIOGRAPHY: 
+
+RESEARCH: 
+Geotechnical centrifuge modelling
+Marine geotechnics
+Landfill engineering
+Industrially funded work on marine foundations
+Stability of steep and reinforced slopes
+
+PUBLICATION: 
+

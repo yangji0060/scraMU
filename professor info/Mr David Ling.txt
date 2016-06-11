@@ -1,0 +1,39 @@
+name  role  phone  location  email
+Mr David Ling  Lecturer  0161-3064606  Pariser Building - E19  david.ling@manchester.ac.uk  
+
+BIOGRAPHY: 
+David read Civil Engineering at Queen Mary College, University of London, before joining the then Greater London Council to work on the design and construction of major highways projects including the A40(M) Westway. He studied for an MSc in Highways and Transportation at Birmingham University, then moved to work in transportation planning for Lanarkshire CC and for East Kilbride & Stonhose Development Corp. He obtained a postgraduate diploma in Town Planning from the University of Strathclyde and moved to Greater Manchester Council, where he produced strategic transportation plans, before joining UMIST in 1977. David specialises in research on transport policy.
+
+RESEARCH: 
+Transportation policy
+Implications of urban transport policy on social and economic change
+Transport economics
+Traffic engineering
+Road safety
+
+PUBLICATION: 
+David Ling, E Aberre-Inga. Achieving Sustainable Transport Policies: A Comparative Analysis of Urban Land-Use and Transport Systems Interaction in Five European Cities. Achieving Sustainable Transport Policies: A Comparative Analysis of Urban Land-Use and Transport Systems Interaction in Five European Cities.  eScholarID: ma1133
+David Ling, Richard Kirkham, T Elhag, Y Alhouli. Dry Docked Maintenance Scheduling of Commercial Shipping Vessels in Kuwait Using an Integer Programming Methodology. Dry Docked Maintenance Scheduling of Commercial Shipping Vessels in Kuwait Using an Integer Programming Methodology.  eScholarID: ma1135
+David Ling, Richard Kirkham, T Elhag, Y Alhouli. Performance Measurement of Marine Vessel Maintenance Operations; A Case Study of Kuwait Shipping Companies. Performance Measurement of Marine Vessel Maintenance Operations; A Case Study of Kuwait Shipping Companies.  eScholarID: ma1136
+David Ling, S W Murray. Sustaining Independent Mobility for Elderly People in an Ageing Population: Managing the Transition from Car Dependency to Confident Use of Public Tra. Sustaining Independent Mobility for Elderly People in an Ageing Population: Managing the Transition from Car Dependency to Confident Use of Public Tra.  eScholarID: ma1134
+Ling, David J. and Murray, Stuart. GETTING THERE: TRANSFORMING AND INTEGRATING URBAN TRAVEL PROVISION FOR PEOPLE WITH DISABILITIES. 2012: -. eScholarID: 178576
+David J Ling & Emmanuel Abeere-Inga. Using a Multi-Criteria Decision Analysis Tool to Evaluate the Strategic Attainment of Sustainable Transportation in Developing Country Cities. University of Minnesota: 2011: -. eScholarID: 151773
+F. Aldaihani, D. Ling, and R. Kirkham. Binary Integer Algorithm for Solving Capital Assets Replacement Problem. Liverpool John Moores University: 2010: -. eScholarID: 151781
+Andrew Gale, Carly McLachlan, David Ling, Kassandra Papadopoulou, Stephen Wearne. Management of Projects Expert Group Newsletter. Management of Projects Expert Group Newsletter. 2010 December;  eScholarID: ma924
+Alhouli, Y, David  Ling, Richard  Kirkham, and TM  Elhag. On the Factors Affecting Maintenance Planning in the Mercantile Industry. COMADEM2009, 22nd International Congress on Condition Monitoring and Diagnostic Engineering Management, San Sebastian, Spain. 2009: -. eScholarID: 2e1174
+Ling, David, and K  Howcroft. The Cost and Consequences of Free Local Public Transport for Older and Disabled People in Greater Manchester. TRANSED2007: The 11th International Conference on Mobility and Transport for Elderly and Disabled People. 2007:  eScholarID: 2e767
+Ling, David, C  Davies, G  Constantinou, and P  Andrews. The development of a countrywide speed monitoring system and its contribution to a comprehensive speed management strategy. European Transport Conference: \'Traffic and Transport Safety\' stream. 2005:  eScholarID: 2e766
+Ling, David. Ensuring Best Value and Equity in the Provision of Mobility for Elderly and Disabled People by Urban Public Transport. European Transport Conference: \'Planning for Sustainable Land Use and Transport\' stream. 2004:  eScholarID: 2e1175
+Ling, David, I  Tsopelas, and T J  McCarthy. The Management of City Centre Parking Traffic: Drivers\' Information Needs and the Effectiveness of Parking Guidance and Information Systems. European Transport Conference: \'Traffic Engineering and Management\' stream. 2004:  eScholarID: 2e765
+Ling, David. Universal Transportation: From Specialist Provision to Entitlement and Inclusion - Evolving Transport Policies and the Provision of Accessible Transpo. TRANSED2004: The 10th International Conference on Mobility and Transport for Elderly and Disabled People. 2004:  eScholarID: 2e764
+C Davies, David Ling, G Constantinou. Speedmap GIS 1.0 ~ Programmers Manual. UMIST: 2003 January.  eScholarID: ma1021
+C Davies, David Ling, G Constantinou. Speedmap GIS 1.0 ~ Users Manual. UMIST: 2003 January.  eScholarID: ma1022
+Tsopelas I, Ling D, McCarthy T. Creating a Car Park Search Engine for Manchester\'s Drivers. Traffic Engineering and Control (tec). 2002; 43: 180-182. eScholarID: 1e944
+David Ling. Integrated Intermodal Stategies for Road, Rail and Water Transport. The World Road Association (PIARC), IBP, Griny (France) and Ministry of Transport and Communications, Finland:2001.  eScholarID: ma1106
+Ling, David. Autonomy, Adaptation and Choice: The Contribution of Mobility to Independent Living. TRANSED 2001 The 9th International Conference on Mobility and Transport for Elderly and Disabled People. 2001:  eScholarID: 2e1176
+Ling, David. Ageing and the Avoidance of Travel Problems: Mobility Difficulties and Adaptation amongst Elderly and Disabled People. Ville et Vieillisement: Urban Areas and an Ageing Population ~ Proceedings: La ville des vieux: Recherche sur une cit humaniser: 1998. 1997:  eScholarID: 2e1177
+Ling D. Ch18: Manchester Metrolink: An Example of a Light Rapid Transit. Projects Procured by Privately Financed Concession Contracts: Vol. 2. Asia Law & Practice.1996:  eScholarID: 3e52
+Ling, David, and S J  Cosby. A Critique of Urban Accessible Transport Provision and Assessment Procedures. Mobility and Transport For Elderly and Disabled People: Ideas Into Action, Proceedings of the 7th International Conference. 1995: 289-291. eScholarID: 2e1180
+Ling, David, and R  Mannion. Improving Older People\'s Mobility and Quality of Life: An Assessment of the Economic & Social Benefits of Dial-a-Ride. Mobility and Transport For Elderly and Disabled People: Ideas Into Action, Proceedings of the 7th International Conference. 1995: 331-339. eScholarID: 2e1178
+Ling, David, and R  Mannion. Sociological Paradigms and Transport Planning for People with Disabilities. Proceedings of the 6th International Conference on Mobility and Transport for Elderly and Disabled Persons. 1992: 196-203. eScholarID: 2e1179
+

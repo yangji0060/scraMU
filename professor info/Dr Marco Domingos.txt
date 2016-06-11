@@ -1,0 +1,48 @@
+name  role  phone  location  email
+Dr Marco Domingos  Lecturer  0161-3064889  John Garside Building - 1.032  marco.domingos@manchester.ac.uk  
+
+BIOGRAPHY: 
+Marco Domingos joined the School of Mechanical, Aerospace and Civil Engineering on 9th of June 2014 as a Lecturer in Advanced Manufacturing. Prior joining the University he was Scientific Advisor in Dias de Sousa SA, in Portugal where he was the main responsible for the areas of MRI, micro CT and melt extrusion. He was also Research member at the Centre for Rapid and Sustainable Product Development (CDRSP), Leiria, Portugal, where he carried out his research activities in the area of Additive Manufacturing, Biomanufacturing, Polymer Processing and Product Development.
+He holds a PhD Cum Laude in Mechanical Engineering (2013), awarded by the University of Girona, Spain, with a thesis on Mechanical and Biological Characterisation of scaffolds produced with Biocell Printing.  He obtained his degree in Mechanical Engineering from the Polytechnic Institute of Leiria with a thesis on Cellular materials for industrial applications.
+His main research interests encompass Additive Manufacturing, Biomaterials, Biomanufacturing, Organ Printing, Stem cells, Drug delivery systems and Bone and Cartilage Regeneration.
+He his Visiting Researcher at the Institute of Composite and Biomedical Materials, University of Naples, Italy, Associate Editor of the Virtual and Physical Prototyping Journal published by Taylor, associate member of the Alba Synchroton Light Facility (Spain), associate member of the Diamond Light Source (UK), associate member of the ISIS, Rutherford Appleton Laboratory, Oxford, UK, associate member of the European Synchrotron Radiation Facility (ESRF).
+In 2008 he was awarded with a research grant from the Italian Government for research in polymeric materials for industrial and biomedical applications.  Marco has authored or co-authored more than 55 publications, including international journals, books and book chapters, gave more than 30 lectures in national and international conferences and have 6 national patents. His research work has been published in high impact factor journals like Progress in Polymer Science, Acta Biomaterialia, Biofabrication Journal, CIRP Annals among others.
+
+RESEARCH: 
+Biomanufacturing
+Biomaterials
+Organ Printing
+Tissue Engineering
+Stem Cells
+Drug Delivery
+Bone and Cartilage Regeneration
+
+PUBLICATION: 
+A Gloria, F Intranuovo, J Ciurana, L Ambrosio, Marco Domingos, Paulo Bartolo, T Russo. A SYSTEMATIC ANALYSIS OF 3D RAPID PROTOTYPED POLY (-CAPROLACTONE) SCAFFOLDS MANUFACTURED THROUGH BIOCELL PRINTING: EFFECT OF PORE SIZE AND GEOMETRY ON COMPRESSIVE MECHANICAL BEHAVIOR AND IN VITRO HMSC VIABILITY. Biofabrication. 2014; (0): 13-Jan. eScholarID: ma054
+A Gloria, J Coelho, Marco Domingos, Paulo Bartolo, T Patricio. FABRICATION AND CHARACTERISATION OF PCL AND PCL/PLA SCAFFOLDS FOR TISSUE ENGINEERING. Rapid Prototyping Journal. 2014; 2(0): 11. eScholarID: ma223
+Patricio T, Domingos M, Gloria A, Coelho J, D'Amora U, Bartolo P. FABRICATION AND CHARACTERISATION OF PCL AND PCL/PLA SCAFFOLDS FOR TISSUE ENGINEERING. Rapid Prototyping Journal. 2014; 20(2): 145-156. eScholarID: 253248 | DOI: 10.1108/RPJ-04-2012-0037]
+A Gloria, F Intranuovo, Marco Domingos, P Favia, Paulo Bartolo, R Gristina. IMPROVED OSTEOBLAST CELL AFFINITY ON PLASMA-MODIFIED 3D EXTRUDED PCL SCAFFOLDS. Acta Biomaterialia. 2013; 9(0): 8. eScholarID: ma268
+Brun F, Intranuovo F, Mohammadi S, Domingos M, Favia P, Tromba G. A COMPARISON OF 3D POLY (ε-CAPROLACTONE) TISSUE ENGINEERING SCAFFOLDS PRODUCED WITH CONVENTIONAL AND ADDITIVE MANUFACTURING TECHNIQUES BY MEANS OF QUANTITATIVE ANALYSIS OF SR µ-CT IMAGES. Journal of Instrumentation. 2013 July; 8:  eScholarID: 253185 | DOI: 10.1088/1748-0221/8/07/C07001
+Domingos M, Intranuovo F, Gloria A, Gristina R, Ambrosio L, Bartolo P, Favia P. IMPROVED OSTEOBLAST CELL AFFINITY ON PLASMA-MODIFIED 3D EXTRUDED PCL SCAFFOLDS. Acta Biomaterialia. 2013; 9: 5997-6005. eScholarID: 253266 | DOI: 10.1016/j.actbio.2012.12.031
+Domingos M, Intranuovo F, Russo T, De Santis R, Gloria A, Ambrosio L, Ciurana J, Bartolo P. THE FIRST SYSTEMATIC ANALYSIS OF 3D RAPID PROTOTYPED POLY (e-CAPROLACTONE) SCAFFOLDS MANUFACTURED THROUGH BIOCELL PRINTING: EFFECT OF PORE SIZE AND GEOMETRY ON COMPRESSIVE MECHANICAL BEHAVIOR AND IN VITRO HMSC VIABILITY. Biofabrication. 2013; 5:  eScholarID: 253253 | DOI: 10.1088/1758-5082/5/4/045004
+Patricio T, Domingos M, Gloria A, Bartolo P. CHARACTERIZATION OF PCL AND PCL/PLA SCAFFOLDS FOR TISSUE ENGINEERING. Procedia C I R P. 2013; 5: 110-114. eScholarID: 253186 | DOI: 10.1016/j.procir.2013.01.022
+A Gloria, E Chiellini, F Chiellini, L Ambrosio, Marco Domingos, Paulo Bartolo. EFFECT OF PROCESS PARAMETERS ON THE PROPERTIES OF 3D BIOEXTRUDED POLY(-CAPROLACTONE) SCAFFOLDS. Rapid Prototyping Journal. 2012; 18(0): 56-67. eScholarID: ma183
+G Mitchell, Marco Domingos, Paulo Bartolo. POLYMERS, BIOMANUFACTURING AND REGENERATIVE MEDICINE. Advanced Materials Research. 2012; 504(0): 14-Nov. eScholarID: ma397
+Domingos M, Chiellini F, Gloria A, Ambrosio L, Bartolo P, Chiellini E. EFFECT OF PROCESS PARAMETERS ON THE PROPERTIES OF 3D BIOEXTRUDED POLY(ε-CAPROLACTONE) SCAFFOLDS. Rapid Prototyping Journal. 2012; 18(1): 56-67. eScholarID: 253269 | DOI: 10.1108/13552541211193502
+Melchels F, Domingos M, Klein T, Malda J, Bartolo P, Hutmacher D. ADDITIVE MANUFACTURING OF TISSUES AND ORGANS. Progress in Polymer Science. 2012; 37: 1079-1104. eScholarID: 252974 | DOI: 10.1016/j.progpolymsci.2011.11.007
+Mitchell G, Domingos M, Bartolo P. POLYMERS, BIOMANUFACTURING AND REGENERATIVE MEDICINE. Advanced Materials Research. 2012; 506: 11-14. eScholarID: 253273 | DOI: 10.4028/www.scientific.net/AMR.506.11
+A Gloria, J Ciurana, Marco Domingos, Paulo Bartolo. BIOCELL PRINTING: INTEGRATED AUTOMATED ASSEMBLY SYSTEM FOR TISSUE ENGINEERING CONSTRUCTS. CIRP Annals - Manufacturing Technology. 2011; 60(1): 271-274. eScholarID: ma100
+BIOFABRICATION OF POLY(HEMA) SCAFFOLDS THROUGH STEREOLITHOGRAPHY. 2011.  eScholarID: 253224
+E Chiellini, E De Giglio, E Fernandes, F Chiellini, Marco Domingos, Paulo Bartolo, S Cometa. EVALUATION OF IN VITRO DEGRADATION OF PCL SCAFFOLDS FABRICATED VIA BIOEXTRUSION PART. 2: INFLUENCE OF PORE SIZE AND GEOMETRY. Virtual and Physical Prototyping. 2011; 6(0): 157-165. eScholarID: ma203
+MORPHOLOGICAL AND PHYSICAL CHARACTERISATION OF PCL AND PCL/PLA SCAFFOLDS FOR TISSUE ENGINEERING. 2011.  eScholarID: 253212
+VASCULAR EVALUATION OF SCAFFOLDS. 2011.  eScholarID: 253220
+B??rtolo P, Domingos M, Patr??cio T, Cometa S, Mironov V. Biofabrication Strategies for Tissue Engineering. Advances on Modeling in Tissue Engineering. Springer Netherlands.2011:  eScholarID: 253631
+Bartolo P, Domingos M, Gloria A, Ciurana J. BIOCELL PRINTING: INTEGRATED AUTOMATED ASSEMBLY SYSTEM FOR TISSUE ENGINEERING CONSTRUCTS. C I R P Annals. 2011; 60(1): 271-274. eScholarID: 253284 | DOI: 10.1016/j.cirp.2011.03.116
+De Giglio E, Cafagna D, Giangregorio M, Domingos M, Mattioli-Belmonte M, Cometa S. PHEMA-BASED THIN FILMS FOR BIOMEDICAL APPLICATIONS: SWELLING, SURFACE AND TOPOGRAPHICAL INVESTIGATIONS. Journal of Bioactive and Compatible Polymers. 2011; 26: 420-434. eScholarID: 253187 | DOI: 10.1177/0883911511410460
+Domingos M, Chiellini F, Cometa S, De Giglio E, Grillo-Fernandes E, Bartolo P, Chiellini E. EVALUATION OF IN VITRO DEGRADATION OF PCL SCAFFOLDS FABRICATED VIA BIOEXTRUSION – PART. 2: INFLUENCE OF PORE SIZE AND GEOMETRY. Virtual and Physical Prototyping (Print). 2011; 6: 157-165. eScholarID: 253280 | DOI: 10.1080/17452759.2011.605839
+Yong M, Melchels F, Vaquette C, Hutmacher D, Adam C, Domingos M, Bartolo P. Polycaprolactone-based scaffold plus BMP-2 in a sheep thoracic spine fusion model. Innovative Developments in Virtual and Physical Prototyping. {CRC} Press.2011:  eScholarID: 253630
+E Chiellini, E De Giglio, E Fernandes, F Chiellini, Marco Domingos, Paulo Bartolo, S Cometa. EVALUATION OF IN VITRO DEGRADATION OF PCL SCAFFOLDS FABRICATED VIA BIOEXTRUSION PART. 1: INFLUENCE OF THE DEGRADATION ENVIRONMENT. Virtual and Physical Prototyping. 2010; 5(0): 09-Jan. eScholarID: ma202
+Domingos M, Chiellini F, Cometa S, De Giglio E, Grillo-Fernandes E, Bartolo P, Chiellini E. EVALUATION OF IN VITRO DEGRADATION OF PCL SCAFFOLDS FABRICATED VIA BIOEXTRUSION – PART. 1: INFLUENCE OF THE DEGRADATION ENVIRONMENT. Virtual and Physical Prototyping (Print). 2010; 5: 65-73. eScholarID: 253474 | DOI: 10.1080/17452751003769440
+Domingos M, Dinucci D, Cometa S, Alderighi M, Bartolo P, Chiellini F. POLYCAPROLACTONE SCAFFOLDS FABRICATED VIA BIOEXTRUSION FOR TISSUE ENGINEERING APPLICATIONS. International Journal of Biomaterials. 2009; 2009:  eScholarID: 253188 | DOI: 10.1155/2009/239643
+Domingos M, Chiellini F, Bartolo P, Chiellini E. POLYCAPROLACTONE SCAFFOLDS FOR TISSUE ENGINEERING APPLICATIONS FABRICATED VIA BIOEXTRUSION. 2008; 62(8):  eScholarID: 253189 | DOI: 10.1016/j.biopha.2008.07.007
+

@@ -1,0 +1,18 @@
+name  role  phone  location  email
+Mr Maurice Mccabe  Staff  0161-2754343  Pariser Building  maurice.mccabe@manchester.ac.uk  
+
+BIOGRAPHY: 
+Maurice graduated in Civil Engineering from the University of Nottingham and obtained an MRes from the University of Southampton in 2003, with a thesis on the physical modelling of shingle beach profiles. He studied for a PhD at the University of Manchester, carrying out research on the numerical modelling of nearshore waves and wave overtopping. This research contributed to the coastal flooding work package of the Flood Risk Management Research Consortium. He also has some indutrial experience, having worked in coastal modelling and engineering at Black and Veatch and at Halcrow. Maurice's current research is on the modelling of landslide generated tsunamis, investigating their possible impact on the UK's coastal infrastructure.
+
+RESEARCH: 
+coastal engineering
+coastal structures
+nearshore waves
+tsunami flood risk
+
+PUBLICATION: 
+P. Stansby, N. Chini, D. Apsley, A. Borthwick, L. Bricheno, J. Horrillo-Caraballo, M. McCabe, D. Reeve, B.D. Rogers, A. Saulter, A. Scott, C. Wilson, J. Wolf, K. Yan. An integrated model system for coastal flood prediction with a case history for Walcott, UK, on 9 November 2007. Journal of Flood Risk Management. 2013; 6(3): 229-252. eScholarID: 211073 | DOI: DOI: 10.1111/jfr3.12001
+Maurice McCabe, Peter K. Stansby, David D. Apsley. Random wave runup and overtopping a steep sea wall: Shallow-water and Boussinesq modelling with generalised breaking and wall impact algorithms validated against laboratory and field measurements. Coastal Engineering. 2013; 74: 33-49. eScholarID: 211069 | DOI: 10.1016/j.coastaleng.2012.11.010
+Maurice McCabe, Peter K. Stansby, David D. Apsley. Coupled wave action and shallow-water modelling for random wave runup on a slope. Journal of Hydraulic Research. 2011; 49(4): 515-522. eScholarID: 211067 | DOI: 10.1080/00221686.2011.566253
+Maurice McCabe. Modelling Nearshore Waves, Runup and Overtopping. University of Manchester:2011.  eScholarID: 211068
+

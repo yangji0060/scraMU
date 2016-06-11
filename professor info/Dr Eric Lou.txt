@@ -1,0 +1,58 @@
+name  role  phone  location  email
+Dr Eric Lou  Lecturer  0161-2754467  Pariser Building - E14  eric.lou@manchester.ac.uk  
+
+BIOGRAPHY: 
+Eric joined MACE as a Lecturer in Project Management and the Deputy Director for the Nuclear Technology Management Professional Development Programme (N-PDP) at the University of Manchester. He spent a decade in construction, higher education, information technology and environmental industries; and completed over £60 million in building refurbishment and new build projects before joining academia.
+His research interest encompasses the trichotomy of people-process-technology in the areas of project management, sustainability and environmental planning, corporate responsibility, BIM and IT management within the built environment industry.
+Dr Lou obtained his degree in Computer Science (Universiti Teknologi Malaysia), and MSc in IT Management in Construction with Distinction (University of Salford). He completed his PhD in E-Readiness in Construction from the University of Salford. Dr Lou is also registered in the IEMA Specialist Register of Environmental Auditors.
+Eric's work has earned admiration among peers in the industry - Winner of Business Innovation and Highly Commended SME of the Year in the UK North West Regional Construction Awards (NWRCA); National Finalist for Innovation in the Constructing Excellence National Awards; and Finalist in 6 categories in the NWRCA. Individually, he was the Business Leader of Tomorrow nominee in the national TSB-KTP Awards and the NWRCA Young Achiever of the Year finalist.
+Dr Lou was recently awarded the British Council Newton Institutional Links research grant with Universiti Malaya (Malaysia) to a value of £146k in research in the area of Sustainability-Led design by Building Information Modelling (SuLeD-BIM).
+You can follow his work at:
+t: @EricLouUoM
+b: EricLouUoM.wordpress.com
+e: eric.lou@manchester.ac.uk
+w: http://www.manchester.ac.uk/research/eric.lou/
+w: uk.linkedin.com/in/ericlou /
+
+RESEARCH: 
+e-readiness
+Building Information Modelling (BIM)
+corporate responsibility
+sustainability management
+
+PUBLICATION: 
+Lou, E.C.W. PhD - Its much (much) more than your thesis. 2015: -. eScholarID: 284418
+Bispo Junior, H.C., Lou, E.C.W. and Syed Khuzzan, S.M. Sustainability Reporting in the Construction Industry: Lessons from the United Kingdom and Brazil for the Malaysian Construction Industry. International Conference on Sustainable Urban Design for Liveable Cities (SUDLiC 2014). Kuala Lumpur, Malaysia: Universiti Teknologi Malaysia: 2014: 349-359. eScholarID: 284417
+Lou E, Lee A, Wu S, Mathison G. Responsible construction?. International Journal of Sustainable Strategic Management. 2014 December; 342-358. eScholarID: 278097 | DOI: 10.1504/IJSSM.2014.070858
+Lou E, Goulding J. E-readiness in construction: An incongruous paradigm of variables. Architectural Engineering and Design Management. 2013 March; 9(4): 265-280. eScholarID: 253126 | DOI: 10.1080/17452007.2013.775099
+A Lee, Eric Lou, S Wu, W Swan. Application of Corporate Responsibility in Construction SME. Innovation in Architecture, Engineering and Construction (AEC). 2012: -. eScholarID: ma1614
+Eric Lou, H Salleh. Building for the future: systems implementation in construction organisation. In: Alshawi, A. & Arif, M, ed. Cases on E-Readiness and Information Systems Management in Organizations: Tools for Maximizing Strategic Alignment. IGI Global.2012:  eScholarID: ma1723
+Eric Lou, A Lee, S Wu, W Swan. Corporate Responsibility in UK Construction SME. International Conference on Innovation for Sustainability. 2012: -. eScholarID: ma1608
+Lou, E.C.W., Alshawi, M. & Goulding, J.S. E-readiness in Construction. In: Akintoye, A. ,Goulding J.S. and Zawdie, G, ed. Construction Innovation and Process Improvement. Oxford, UK, Blackwell Publishing Ltd.2012:  eScholarID: 221174
+Lou, E.C.W. & Salleh, H. Readiness in Systems Implementation: Lessons from the Higher Education Sector. In: Alshawi, M. & Arif, M, ed. Cases on E-Readiness and Information Systems Management in Organizations: Tools for Maximizing Strategic Alignment. IGI Global.2012:  eScholarID: 221378 | DOI: 10.4018/978-1-61350-311-9.ch002
+Eric Lou, Y Al Saleh. e-Readiness in Governmental Public Service Institution : Lessons Learnt. In: Alshawi, A. & Arif, M, ed. Cases on E-Readiness and Information Systems Management in Organizations: Tools for Maximizing Strategic Alignment. IGI Global.2012:  eScholarID: ma1724
+Lou E, Lee A, Mathison G. Corporate Responsibility: Insight from a Construction Small and Medium Enterprise (SME) in the UK. International Journal of e-Education, e-Business, e-Management and e-Learning. 2012; 2(5): 436-442. eScholarID: 221354 | DOI: 10.7763/IJEEEE.2012.V2.160
+Lou E. Industrialized Building Systems: Strategic Outlook for Manufactured Construction in Malaysia. Journal of Architectural Engineering. 2012 May; 18(2): 69-74. eScholarID: 221343 | DOI: 10.1061/(ASCE)AE.1943-5568.0000072
+Zainon N, Lou E, Mohd-Danuri M, Rahim F. How it actually works - Private Finance Initiative (PFI) procurement process in Malaysia: A comparative analysis of practices with the United Kingdom. Wulfenia. 2012 August; 19(8): 2-18. eScholarID: 221357
+E Ozen, Eric Lou, G Kapogiannis, S Ricketts. Impact of advanced learning technologies in assessment and feedback practices for PhD candidates: the case of University of Salford CIB Student Chapte. Impact of advanced learning technologies in assessment and feedback practices for PhD candidates: the case of University of Salford CIB Student Chapte. 2011: -. eScholarID: ma1604
+Proceedings 27th Annual ARCOM Conference. 2011 September 05.  eScholarID: 221171
+A Lee, Eric Lou, G Mathison. Recapitulation of Corporate Social Responsibility (CSR) for Construction SMEs in the UK. In: Egbu, C.O. & Lou, E.C.W, ed. 27th Annual ARCOM Conference 2011. 2011: 673-682. eScholarID: ma1606
+M Alshawi, Eric Lou, JS Goulding. Achieving IT-Based Sustainable Competitive Advantage in Construction: Organisational Soft Issues. 2010: -. eScholarID: ma1617
+Eric Lou, F Khosrowshahi, J Underwood, JS Goulding, M Alshawi. An Industry Leaders Perspective on their Strategic Positioning of IT in Construction: The Way Forward. European Group for intelligent computing in Engineering. 2010: -. eScholarID: ma1616
+Lou, E.C.W. E-Readiness for the UK Construction Industry – the next chapter?. 5th ASEAN Post Graduare Seminar. Kuala Lumpur, Malaysia: Universiti Malaya: 2010: -. eScholarID: 284413
+Eric Lou. E-readiness for the UK Construction Industry the next chapter?. ASEAN Postgraduate Conference Seminar. 2010: -. eScholarID: ma1605
+Eric Lou. E-readiness how ready are UK construction organisations to adopt IT?. In: Egbu, C.O, ed. 26th Annual ARCOM Conference 2010. 2010: 947-956. eScholarID: ma1603
+Proceedings 26th Annual ARCOM Conference. 2010 September.  eScholarID: 261915
+Lou E, Goulding J. The pervasiveness of e-readiness in the global built environment arena. Journal of Systems and Information Technology. 2010; 12(3): 180-195. eScholarID: 221375 | DOI: 10.1108/13287261011070812
+K Yates, M Kagioglou, S Sapountzis, Eric Lou. BeReal: Tools and Methods for Implementing Benefits Realisation And Management. 5th Nordic Conference on Construction Economics and Organisation. 2009: 223-232. eScholarID: ma1609
+Lou, E.C.W. E-Readiness - How Ready is the Malaysian Construction Industry to Adopt ICT?. 2009: -. eScholarID: 284402
+Eric Lou, JS Goulding. Organisational E-Readiness in the Built Environment: People, Process, Technology. In: Ghafoori, N, ed. 5th International Structural Engineering and Construction Conference (ISEC-5). 2009: 965-968. eScholarID: ma1615
+Eric Lou, M Alshawi. Success of Collaborative Environments in Project Management: Organisation E-Readiness. 9th BuHu International Postgraduate Research Conference (IPGRC). 2009: -. eScholarID: ma1618
+Lou E, Mustafa A. Critical success factors for e-tendering implementation in construction collaborative environments: people and process issues. Journal of Information Technology in Construction. 2009 May; 14: 98-109. eScholarID: 221359
+Eric Lou, JS Goulding, M Alshawi. Global eReadiness The alignment of National Policies to Organisational Strategies. 8th BuHu International Postgraduate Research Conference (IPGRC). 2008: 135-145. eScholarID: ma1610
+Lou E, Goulding J. Building and Construction Classification Systems. Architectural Engineering and Design Management. 2008; 4(3/4): 206-220. eScholarID: 221360 | DOI: 10.3763/aedm.2008.0079
+Eric Lou. Ready? Go! The Malaysian National E-Tendering Initiative. CIB 2007 World Building Congress. 2007: 1442-1455. eScholarID: ma1611
+Eric Lou, SA Alsagoff. E-readiness: How ready are we? The National E-Tendering Initiative a Malaysian experience. 10th Asia Pacific Association of Quantity Surveyors Congress. 2006: 152-160. eScholarID: ma1619
+SA Alsagoff, Eric Lou, N Zainon. How Read-E Are We For E- Tendering? A Malaysian Case Study In The Preparation For Implementing of E-Tendering for the Construction Industry. How Read-E Are We For E- Tendering? A Malaysian Case Study In The Preparation For Implementing of E-Tendering for the Construction Industry. 2006: 227-236. eScholarID: ma1613
+Eric Lou, SA Alsagoff. Lines, Chains and Other (Restraint) Devices : Revisiting Porters Value Chain with A Malaysian Case Study in the Implementation of Electronic Tendering. Lines, Chains and Other (Restraint) Devices : Revisiting Porters Value Chain with A Malaysian Case Study in the Implementation of Electronic Tendering. 2006: 161-170. eScholarID: ma1612
+

@@ -1,0 +1,35 @@
+name  role  phone  location  email
+Dr Lee Cunningham  Lecturer  0161-2754408  Pariser Building - B4  lee.scott.cunningham@manchester.ac.uk  
+
+BIOGRAPHY: 
+Lee joined the School of MACE in 2011 and is a Chartered Civil & Structural Engineer with over 11 years of industry experience. He began his studies in Civil Engineering at the University of Strathclyde where he graduated with 1st honours. Following this, he gained his PhD in Structural Engineering from the University of Glasgow in 2000 and subsequently joined the London office of Arup.
+He spent 3 years in Arup's building design group working on several large building projects including the iconic Antwerp Law Courts in Belgium and Heathrow Airport Terminal 5, the UKs largest free standing building at the time of completion. After this period, he joined the local authority in Blackpool, taking part in the major regeneration of the UK's most popular holiday resort. At Blackpool he played a key role in the design and delivery of several award winning projects including the innovative Blackpool Central Area Coast Protection Scheme, the largest government funded coastal defence project to date in the UK and recipient of the Institution of Civil Engineers' prestigious Brunel Medal in 2011.
+Reflective of his experience in both building and infrastructure design, Lee has various research interests. These include computational modelling and design of reinforced concrete structures, concrete in the marine environment, wave-structure interaction, engineered timber and structural composites.
+Lee is a reviewer for several professional and academic journals and is also an active member of his professional institutions having recently served as the Lancashire Branch Chairman of the Institution of Civil Engineers.
+
+RESEARCH: 
+Computational Modelling and Design of Reinforced Concrete Structures
+Maritime Structures
+Structural Composites
+Fibre Reinforced Concrete
+Engineered Timber
+
+PUBLICATION: 
+O'Dowd B, Cunningham L, Nedwell P. Experimental and Theoretical Bending Stiffness of CLT Panels. Institution of Civil Engineers. Proceedings. Construction Materials. 2016;  eScholarID: 297466 | DOI: 10.1680/jcoma.15.00063
+Daud R., Cunningham L., Wang Y. Numerical Study of Effective Bond Length for Externally Bonded CFRP Plate under Cyclic Loading. Proceedings of the 23rd UK Conference of the Association for Computational Mechanics in Engineering. Swansea: University of Swansea: 2015: 359-362. eScholarID: 262726
+Pringgana G., Cunningham L.S., Rogers B.D. SPH modelling of tsunami-induced bore and structure interaction using DualSPHysics. Proceedings of the 23rd UK Conference of the Association for Computational Mechanics in Engineering. Swansea: University of Swansea: 2015: 117-120. eScholarID: 262724
+Cunningham L, Farrington B, Doherty A. Abrasion Performance of Concrete in Coastal Structures. Institution of Civil Engineers. Proceedings. Maritime Engineering. 2015 December; 168(MA4): 157-161. eScholarID: 283278 | DOI: 10.1680/jmaen.15.00011
+Daud R, Cunningham L, Wang Y. Non-linear FE Modelling of CFRP-strengthened RC Slabs under Cyclic Loading. Athens Journal of Technology and Engineering. 2015 September; 2(3): 161-180. eScholarID: 272291
+Daud R, Cunningham L, Wang Y. Static and fatigue behaviour of the bond interface between concrete and externally bonded CFRP in single shear. Engineering Structures. 2015 August; 97: 54-67. eScholarID: 263019 | DOI: doi:10.1016/j.engstruct.2015.03.068
+McCabe M.V., Stansby P.K., Cunningham L.S., Rogers B.D. Modelling the Impact of Tsunamis on Coastal Defences in the UK. Proceedings of the 34th International Conference on Coastal Engineering. 2014: -. eScholarID: 247484 | DOI: 10.9753/icce.v34.structures.36
+Cunningham L, Rogers B, Pringgana G. Tsunami wave and structure interaction: an investigation with smoothed-particle hydrodynamics. Institution of Civil Engineers. Proceedings. Engineering and Computational Mechanics. 2014 September; 167(3): 126-138. eScholarID: 232555 | DOI: 10.1680/eacm.13.00028
+Daud R, Cunningham L, Wang Y. Non-linear FE Modelling of CFRP-Strengthened RC Slabs under Cyclic Loading. Atiner's Conference Paper Series. 2014 June;  eScholarID: 228134
+McCabe M, Stansby P, Rogers B, Cunningham L. Boussinesq modelling of tsunami and storm wave impact. Institution of Civil Engineers. Proceedings. Engineering and Computational Mechanics. 2014 September; 167(3): 106-116. eScholarID: 232554 | DOI: 10.1680/eacm.13.00025
+Hughes P., Fairhurst D., Sherrington I., Renevier N., Morton L., Robery P., Cunningham L. Microscopic examination of a new mechanism for accelerated degradation of synthetic fibre reinforced marine concrete. Construction and Building Materials. 2013 April; 41: 498-504. eScholarID: 189596 | DOI: 10.1016/j.conbuildmat.2012.12.022
+Hughes P, Fairhurst D, Sherrington I, Renevier N, Morton G, Robery P, Cunningham L. Microscopic study into biodeterioration of joint sealant. Institution of Civil Engineers. Proceedings. Construction Materials. 2013 February; 166(5): 265-268. eScholarID: 225237 | DOI: 10.1680/coma.12.00032
+Cunningham L., Robertshaw G., Pomfret M. Blackpool central area coast protection scheme, UK. Proceedings of the Institution of Civil Engineers, Maritime Engineering. 2012; 165(1): . eScholarID: 149239 | DOI: 10.1680/maen.2012.165.1.21
+Cunningham L., Burgess A. Design and construction of the tower headland wave walls, Blackpool, UK. Proceedings of the Institution of Civil Engineers, Civil Engineering. 2012 November; 165(4): 171-178. eScholarID: 189326 | DOI: 10.1680/cien.12.00007
+Cunningham L, Burgess A, Spitz C. Composite Reinforcement for Coastal Defence Project. Concrete. 2008 May; 42(4): 22-24. eScholarID: 149218
+Cunningham L.S., Conroy A. New household waste recycling centre in Blackpool, UK. Civil Engineering Innovation. 2007 June; 1(2): 75-80. eScholarID: 188847 | DOI: 10.1680/jciei.2007.14122
+Cunningham L.S., Pomfret M.L Partnering Contracts in Practice at Blackpool UK. Proceedings of the Institution of Civil Engineers, Municipal Engineer. 2007; 160(1): 17-21. eScholarID: 149476 | DOI: 10.1680/muen.2007.160.1.17
+

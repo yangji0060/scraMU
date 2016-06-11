@@ -1,0 +1,10 @@
+name  role  phone  location  email
+Mr Ian Whyte  Senior Lecturer  0161-3064627  Pariser Building - C6  ian.whyte@manchester.ac.uk  
+
+BIOGRAPHY: 
+
+RESEARCH: 
+
+PUBLICATION: 
+Whyte I, Gale A. Introduction to ICE Proceedings. Proceedings of ICE, Civil Engineering. 2001; (Special Issue One on Central and Eastern Europe): 3-4. eScholarID: 1e1427
+

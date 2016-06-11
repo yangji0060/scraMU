@@ -1,0 +1,45 @@
+name  role  phone  location  email
+Dr Peter Roberts  Lecturer in Spacecraft Engineering/Spacecraft Flight Dynamics  0161-3064636  George Begg Building - C8  peter.c.e.roberts@manchester.ac.uk  
+
+BIOGRAPHY: 
+Dr Peter Roberts BSc (Hons) MSc EngD CPhys MInstP MRAeS joined the school in October 2014. He specialises in spacecraft systems engineering, the dynamics of spacecraft interactions with the atmosphere, astrodynamics, and space debris mitigation.
+Following the completion of a BSc in Physics with Astrophysics at the University of Kent at Canterbury in 1994, he moved to Cranfield University to do an MSc in Astronautics and Space Engineering (specialising in space debris collision avoidance), and then an Engineering Doctorate (studying drag free control for a space-based gravitational wave detector). He then remained at Cranfield until 2014 as an academic in a variety of research, teaching and administration roles.
+In the past few years he was the lead design engineer for Icarus, the worlds first spacecraft end-of-life drag-enhancement deorbit device, which is currently on-orbit awaiting deployment on the UK's TechDemoSat.   He was also the principal investigator for a CubeSat mission which, as part of a European Framework 7 project, would make in situ measurements of the lower thermosphere, measure thermospheric winds, and carry out spacecraft aerodynamic characterisation and control tests.  His research has been funded by a number of sponsors including the UK Space Agency, the European Space Agency, EADS Astrium (now Airbus Defence and Space), SSBV, and the EPSRC.
+He was also the Associate Dean for Taught Courses within the Faculty of Engineering and Aerospace at Cranfield University responsible for taught course QA and student concessions for the 26 MSc programmes within the faculty.
+
+RESEARCH: 
+Spacecraft systems engineering
+Dynamics of spacecraft interactions with the atmosphere
+Astrodynamics
+Space debris mitigation
+I welcome enquiries from anyone interested in studying for a PhD in these areas
+
+PUBLICATION: 
+Mostaza Prieto D, Roberts P. Methodology to analyze attitude stability of satellites subjected to aerodynamic torques. Journal of Guidance, Control, and Dynamics. 2016 January;  eScholarID: 286352 | DOI: 10.2514/1.G001481
+Virgili Llop J, Roberts P, Palmer K, Hobbs S, Kingston J. Descending Sun-Synchronous Orbits with Aerodynamic Inclination Correction. Journal of Guidance, Control, and Dynamics. 2015 May; 38(5): 831-842. eScholarID: 237955 | DOI: 10.2514/1.G000183
+Virgili J, Roberts P, Hara N. Atmospheric Interface Reentry Point Targeting Using Aerodynamic Drag Control. Journal of Guidance, Control, and Dynamics. 2015 January; 38(3): 403-413. eScholarID: 254616 | DOI: 10.2514/1.G000884
+J Virgili Llop, Peter Roberts, Z Hao. Aerodynamic Attitude and Orbit Control Capabilities of the Dsat CubeSat (AAS 14-063). Guidance, navigation, and control 2014 : proceedings of the 37th Annual AAS Rocky Mountain Section Guidance and Control Conference. Published for the American Astronautical Society by Univelt: 2014: -. eScholarID: ma1624
+M F Chatterjee, Peter Roberts, S E Hobbs. Evaluation of the Potential of Small Satellite Ground Station for Atmospheric Science using Near Earth Space Communications. Evaluation of the Potential of Small Satellite Ground Station for Atmospheric Science using Near Earth Space Communications. 2014:  eScholarID: ma1631
+J. Virgili Llop, P.C.E. Roberts, Z. Hao, L. Ramio Tomas, and V. Beauplet. Very Low Earth Orbit mission concepts for Earth Observation: Benefits and challenges. 2014: -. eScholarID: 286351
+Barschke M, Levenhagen J, Reggio D, Roberts P. ASSET: a software tool for the evaluation of manoeuvre capabilities of highly agile satellites. C E A S Space Journal. 2014 March; 6(1): 37-45. eScholarID: 237958 | DOI: 10.1007/s12567-013-0057-2
+Kingston J, Hobbs S, Roberts P, Juanes Vallejo C, Robinson F, Sewell R, Snapir B, Virgili Llop J, Patel M. Use of CYPRES™ cutters with a Kevlar clamp band for hold-down and release of the Icarus De-Orbit Sail payload on TechDemoSat-1. Acta Astronautica. 2014 July; 100: 82-93. eScholarID: 237953 | DOI: 10.1016/j.actaastro.2014.03.014
+Mostaza Prieto D, Graziano B, Roberts P. Spacecraft Drag Modelling. Progress in Aerospace Sciences. 2014 January; 64: 56-65. eScholarID: 237511 | DOI: 10.1016/j.paerosci.2013.09.001
+5. Hobbs, S. E., Kingston, J., Roberts, P. C. E., Juanes, C., Sewell, R., Snapir, B., Robinson, F., Virgili Llop, J., Hobbs, J. and Patel, M. De-Orbit Sail Design for TechDemoSat-1. ESA SP-723: 6th European Conference on Space Debris. European Space Agency: 2013: -. eScholarID: ma1622
+Virgili Llop J, Roberts P. ΔDsat, a QB50 CubeSat mission to study rarefied-gas drag modelling. Acta Astronautica. 2013 August; 89: 130-138. eScholarID: 238133 | DOI: 10.1016/j.actaastro.2013.04.006
+D Reggio, J Levenhagen, M F Barschke, Peter Roberts. Design and Analysis of Manoeuvre Scenarios for Highly Agile Satellites. Proceedings of the 61st German Aerospace Congress. 2012: -. eScholarID: ma1623
+Burgon R, Roberts P, Roberts J, Ankersen F. Science Operations Planning Optimization for Spacecraft Formation Flying Maneuvers. Journal of Spacecraft and Rockets. 2009 January; 46(3): 634-644. eScholarID: 238134 | DOI: 10.2514/1.40490
+F Ankersen, Peter Roberts, R Burgon. Optimal Autonomous Manoeuvre Planning for Spacecraft Formation Flying: Position Assignment. Optimal Autonomous Manoeuvre Planning for Spacecraft Formation Flying: Position Assignment. 2008: -. eScholarID: ma1626
+J Kingston, Peter Roberts, S Hobbs. Satellite in-orbit servicing concepts. 59th International Astronautical Congress 2008 (IAC 2008). International Astronautical Federation: 2008: 6731-6745. eScholarID: ma1621
+F Ankersen, Peter Roberts, R Burgon. Two-Stage Optimal Manoeuvre Planning for Spacecraft Formation Flying Missions. SP-654: Proceedings of the 3rd International Symposium of Formation Flying, Missions and Technologies. European Space Agency: 2008: -. eScholarID: ma1625
+Burgon R, Roberts P, Roberts J, Ankersen F. Maneuver planning optimization for spacecraft formation flying missions. Journal of the Astronautical Sciences. 2008 December; 54(4): 545-571. eScholarID: 238138 | DOI: 10.1007/BF03256565
+J Roberts, Peter Roberts, R Burgon. Optimal Path Planning for Spacecraft Formation Flying: Planning Architecture and Operations. Optimal Path Planning for Spacecraft Formation Flying: Planning Architecture and Operations. 2007: -. eScholarID: ma1627
+Roberts P, Harkness P. Drag Sail for End-of-Life Disposal from Low Earth Orbit. Journal of Spacecraft and Rockets. 2007 January; 44(6): 1195-1203. eScholarID: 238139 | DOI: 10.2514/1.28626
+B Graziano, Peter Roberts. An Integrated Information Systems Approach to Spacecraft Engineering. An Integrated Information Systems Approach to Spacecraft Engineering. 2006: -. eScholarID: ma1628
+P Harkness, Peter Roberts. Optimisation of a Deployable Drag Sail for the Rapid Disposal of Small Spacecraft from Low Earth Orbit. Optimisation of a Deployable Drag Sail for the Rapid Disposal of Small Spacecraft from Low Earth Orbit. 2006: -. eScholarID: ma1629
+Peter Roberts. Drag Sail Dynamics for End-of-Life Deorbit. Drag Sail Dynamics for End-of-Life Deorbit. 2004: -. eScholarID: ma1630
+J Roberts, Peter Roberts. The Development of High Fidelity linearised J2 Models for Satellite Formation Flying Control. Advances in the Astronautical Sciences Vol. 119. American Astronautical Society: 2004: 913-934. eScholarID: ma1634
+Peter Roberts, S Hobbs, T Bowling. MUSTANG: A Technology Demonstrator for Formation Flying and Distributed Systems Technologies in Space. 5th Cranfield Conference on Dynamics and Control of Systems and Structures in Space. 2002: 327-335. eScholarID: ma1620
+Peter Roberts. Double test-mass control for L.I.S.A. Double test-mass control for L.I.S.A. 1999: -. eScholarID: ma1632
+Peter Roberts. Drag Free Control for LISA. Drag Free Control for LISA. 1999: -. eScholarID: ma1633
+Roberts P. Damping Stochastic Noise in the LISA Drag-Free Control System. Space Technology. 1999 January; 19(2): 65-70. eScholarID: 238198
+

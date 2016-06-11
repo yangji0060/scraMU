@@ -1,0 +1,39 @@
+name  role  phone  location  email
+Dr Ben Parslew  Lecturer in Aerospace Engineering  0161-3063815  Pariser Building - B36  ben.parslew@manchester.ac.uk  
+
+BIOGRAPHY: 
+Ben Parslew's academic background is in aerospace engineering, fluid dynamics and biomechanics. His research lies at the interface of engineering and biology, with particular interests in animal locomotion, unmanned air vehicles, robotics and computer animation.
+Ben obtained his undergraduate degree in Aerospace Engineering from UMIST in 2003, and Master's in Fluid Dynamics from The University of Manchester in 2005. Following this, he moved to Thailand to pursue a career in education, working at numerous institutions including Kasetsart University in Bangkok. Ben later returned to Manchester to complete his PhD in animal flight biomechanics in MACE.
+Ben was awarded the EPSRC Doctoral Prize Fellowship in 2011, and then worked as a Research Associate in MACE, funded by BAE Systems. In 2013, Ben was appointed as an honorary lecturer in MACE to contribute to Aerospace Engineering taught courses. In 2015 he was promoted to the position of Lecturer in Aerospace Engineering. He teaches on units in modelling & simulation and introductory flight mechanics, and is part of a team designing a new field course of unmanned systems operations.
+
+RESEARCH: 
+Flapping-wing flight
+Animal locomotion
+Biomimetics
+Biomechanics
+Unmanned air vehicles
+Physics-based animation
+Multibody dynamics
+Robotics
+
+PUBLICATION: 
+Ben Parslew. Credited as 'bird consultant' for computer graphics advisory input on the film - Noah. Credited as 'bird consultant' for computer graphics advisory input on the film - Noah. 2014;  eScholarID: ma802
+Ben Parslew. Far from cruise: avian flapping-flight dynamics. Far from cruise: avian flapping-flight dynamics. 2014:  eScholarID: ma1450
+Ben Parslew. Flapping Flight research seminar presentation at RoboShop: A Workshop for Research into Aerial and Terrestrial Robotics. Flapping Flight research seminar presentation at RoboShop: A Workshop for Research into Aerial and Terrestrial Robotics. 2014;  eScholarID: ma863
+Ben Parslew, W Sellers, William Crowther. News coverage of RoboShop: A Workshop for Research into Aerial and Terrestrial Robotics. News coverage of RoboShop: A Workshop for Research into Aerial and Terrestrial Robotics. 2014;  eScholarID: ma952
+Ben Parslew. Predicting power-optimal kinematics of avian wings. Journal of The Royal Society Interface. 2014; (0):  eScholarID: ma399
+Nabawy M. Dynamic Performance of Unimorph Piezoelectric Bending Actuators. Institution of Mechanical Engineers. Proceedings. Part I: Journal of Systems and Control Engineering. 2014;  eScholarID: 263800
+Parslew B. Predicting power-optimal kinematics of avian wings. Journal of the Royal Society. Interface. 2014 November;  eScholarID: 263798 | DOI: DOI: 10.1098/rsif.2014.0953
+Ben Parslew. Flapping Wings research seminar presentation at EPSRC Doctoral Prize Seminar. Flapping Wings research seminar presentation at EPSRC Doctoral Prize Seminar. 2013;  eScholarID: ma864
+Ben Parslew. Invited seminar: Birds, Planes and UAVs. Invited seminar: Birds, Planes and UAVs. 2013;  eScholarID: ma909
+Ben Parslew. Invited seminar: Flapping wings and animal flight. Invited seminar: Flapping wings and animal flight. 2013;  eScholarID: ma910
+Ben Parslew. Invited seminar: From Flying Robots to Russel Crowe. Invited seminar: From Flying Robots to Russel Crowe. 2013;  eScholarID: ma912
+Ben Parslew. Invited seminar: More than Just Aeroplanes. Invited seminar: More than Just Aeroplanes. 2013;  eScholarID: ma913
+Ben Parslew, William Crowther. Predictive simulation of avian flight. Predictive simulation of avian flight. 2013:  eScholarID: ma1424
+Ben Parslew. Simulating and visualising flapping-wing flight. Simulating and visualising flapping-wing flight. 2013:  eScholarID: ma1451
+Ben Parslew, William Crowther. Simulating avian wingbeats and wakes. Simulating avian wingbeats and wakes. 2013:  eScholarID: ma1425
+Ben Parslew, William Crowther. Theoretical modelling of wakes from retractable flapping wings in forward flight. PeerJ. 2013; (0):  eScholarID: ma541
+Parslew B. Theoretical modelling of wakes from retractable flapping wings in forward flight. PeerJ. 2013 July;  eScholarID: 263799 | DOI: doi: 10.7717/peerj.105. Print 2013
+Ben Parslew. Invited seminar: Flapping-wing flight. Invited seminar: Flapping-wing flight. 2012;  eScholarID: ma911
+Simulating avian wingbeat kinematics. Simulating avian wingbeat kinematics. Journal of Biomechanics. 2010;  eScholarID: 264032 | DOI: http://dx.doi.org/10.1016/j.jbiomech.2010.07.024
+

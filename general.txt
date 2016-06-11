@@ -1,0 +1,143 @@
+name  role  phone  location  email
+Dr Dana Abi Ghanem  Research Associate at Tyndall  0161-2754350  Pariser Building - H1  dana.abighanem@manchester.ac.uk  
+Prof Timothy Abram  Professor in Nuclear Fuel Technology  07730-3064813  Pariser Building - B6  tim.abram@manchester.ac.uk  
+Dr Imran Afgan  Lecturer  0161-2754334  George Begg Building - C38  imran.afgan@manchester.ac.uk  
+Prof Robert Ainsworth  Professor of Structural Integrity  0161-2754317  Pariser Building - B7  robert.ainsworth@manchester.ac.uk  
+Dr Olivier Allegre  Lecturer in Laser Processing  0161-3064237  Pariser Building - G16  olivier.allegre@manchester.ac.uk  
+Prof Kevin Anderson  Professor, Deputy Director of the Tyndall Centre for Climate Change Research  0161-3063701  Pariser Building  kevin.anderson@manchester.ac.uk  
+Dr David Apsley  Lecturer  0161-3063732  Pariser Building - C15  david.d.apsley@manchester.ac.uk  
+Dr Erfan Asnaashari  Research Associate  0161-3062364  Pariser Building - D FLOOR  erfan.asnaashari@manchester.ac.uk  
+Prof Colin Bailey  Deputy President and Deputy Vice-Chancellor  0161-3069111  John Owens Building - 1.015  colin.bailey@manchester.ac.uk  
+Dr Adrian Bell  Senior Lecturer  0161-3064593  Pariser Building - C6  adrian.bell@manchester.ac.uk  
+Dr Paul Blackwell  Lecturer  0161-2754434  Pariser Building - E11  paul.blackwell@manchester.ac.uk  
+Dr Nicholas Bojdo  Lecturer  0161-3063815  Pariser Building - B36  nicholas.bojdo@manchester.ac.uk  
+Dr Philip Bonello  Reader  0161-2754362  Pariser Building - C7  philip.bonello@manchester.ac.uk  
+Dr Andrea Bottacin Busolin  Lecturer  0161-3068970  Pariser Building - B15  andrea.bottacinbusolin@manchester.ac.uk  
+Prof Alice Bows-Larkin  Professor of Climate Science & Energy Policy  0161-3063737  Pariser Building - H7  alice.bows-larkin@manchester.ac.uk  
+Dr Paul Chan  Lecturer in Project Management  0161-2754319  Pariser Building - E17  paul.chan@manchester.ac.uk  
+Dr Andrea Cioncolini  Lecturer in Thermal Hydraulics  0161-3063711  George Begg Building - C32  andrea.cioncolini@manchester.ac.uk  
+Dr Glen Cooper  Lecturer in Solid Mechanics & Bioengineering  0161-3065819  John Garside Building - 2.022  glen.cooper@manchester.ac.uk  
+Dr Timothy Craft  Senior Lecturer  0161-3068728  George Begg Building - C41  tim.craft@manchester.ac.uk  
+Mr William Craig  Visitor  0161-68778  Pariser Building - C27  william.craig@manchester.ac.uk  
+Dr William Crowther  Reader in Engineering, Director of the Undergraduate Programme in Aerospace Engineering  0161-2754333  George Begg Building - C27  bill.crowther@manchester.ac.uk  
+Dr Lee Cunningham  Lecturer  0161-2754408  Pariser Building - B4  lee.scott.cunningham@manchester.ac.uk  
+Dr Christian Griffiths  Visitor    Pariser Building  christian.griffiths@manchester.ac.uk  
+Prof Paulo JDS Bartolo  Chair in Advanced Manufacturing  0161-3064887  John Garside Building - 1.028  paulojorge.dasilvabartolo@manchester.ac.uk  
+Dr Keith Davey  Reader  0161-3063834  Pariser Building - C10  keith.davey@manchester.ac.uk  
+Dr Jonathan Dewsbury  Lecturer  0161-3064259  Pariser Building - G17  jonathan.dewsbury@manchester.ac.uk  
+Dr Carl Diver  Lecturer  0161-2754391  Pariser Building - G24  carl.diver@manchester.ac.uk  
+Mrs Helen E Dobson  Lecturer  0161-2754449  Pariser Building - E13  helen.dobson@manchester.ac.uk  
+Dr Marco Domingos  Lecturer  0161-3064889  John Garside Building - 1.032  marco.domingos@manchester.ac.uk  
+Dr Iain Dupere  Reader  0161-3064246  George Begg Building - C25  iain.dupere@manchester.ac.uk  
+Dr Rodger Edwards  Reader  0161-3064250  Pariser Building - G21  rodger.edwards@manchester.ac.uk  
+Dr Margaret Emsley  Reader  0161-3064234  Pariser Building - E24  margaret.emsley@manchester.ac.uk  
+Dr Temitope Falano  Research Associate  0161-2754504  Pariser Building - TYDNALL CENTRE  temitope.falano@manchester.ac.uk  
+Dr Peter Fenn  Reader  0161-3064233  Pariser Building - B13  peter.fenn@manchester.ac.uk  
+Dr Antonino Filippone  Reader  0161-3063702  George Begg Building - C33  a.filippone@manchester.ac.uk  
+Dr John Francis  Reader  0161-2751913  Sackville Street Building - B38D  john.francis@manchester.ac.uk  
+Prof Andrew Gale  Professor, Management of Projects Research Theme Leader  0161-3064236  Pariser Building - E12  andrew.gale@manchester.ac.uk  
+Dr Paul Gardiner  Honorary      paul.gardiner@manchester.ac.uk  
+Dr Marialuisa Gentile  Research Associate  0161-3062352  Pariser Building - C17  marialuisa.gentile@manchester.ac.uk  
+Prof Andrew Gibson  Head of School  0161-3069202  George Begg Building - B1  andrew.gibson@manchester.ac.uk  
+Dr Paul Gilbert  Lecturer in Climate Change, Sustainability and Project Management  0161-3063845  Pariser Building - H9  p.j.gilbert@manchester.ac.uk  
+Dr David Gillen  Senior Lecturer in Laser Machining      david.gillen@manchester.ac.uk  
+Dr Martin Gillie  Reader  0161-2754463  Pariser Building - C19  martin.gillie@manchester.ac.uk  
+Dr Graham Hall  Lecturer  0161-2754400  Pariser Building - C18  graham.n.hall@manchester.ac.uk  
+Dr Roger Hannam  Teaching Staff  0161-3064641  George Begg Building - B15  roger.hannam@manchester.ac.uk  
+Prof Julien Harou  Professor of Water Engineering  0161-3064589  Pariser Building - B37  julien.harou@manchester.ac.uk  
+Prof David Hayhurst  Professor  0161-3063818  George Begg Building - C 004  d.r.hayhurst@manchester.ac.uk  
+Dr Robert Heinemann  Lecturer  0161-3063809  Pariser Building - G14  robert.heinemann@manchester.ac.uk  
+Mrs Anna Hiley  Lecturer  0161-3064258  Pariser Building - G26  anna.hiley@manchester.ac.uk  
+Prof Srichand Hinduja  Professor  0161-3063808  Pariser Building - G19  sri.hinduja@manchester.ac.uk  
+Prof William Hoff  Emeritus Professor      w.d.hoff@manchester.ac.uk  
+Dr Peter Hollingsworth  Lecturer in Aerospace  0161-3063741  George Begg Building - C.30  peter.hollingsworth@manchester.ac.uk  
+Prof Hector Iacovides  Professor  0161-3063709  George Begg Building - C36B  h.iacovides@manchester.ac.uk  
+Dr Tianjian Ji  Senior Lecturer  0161-3064604  Pariser Building - C16  tianjian.ji@manchester.ac.uk  
+Dr Andrey Jivkov  Senior Lecturer  0161-3063765  George Begg Building - C.034  andrey.jivkov@manchester.ac.uk  
+Mr Christopher Jones  Research Associate  0161-2754432  Pariser Building - H1A  c.w.jones@manchester.ac.uk  
+Dr Abbie Jones  Lecturer  0161-3063848  Pariser Building - G10  abbie.jones@manchester.ac.uk  
+Mr Timothy Jones  Senior Lecturer  0161-2754365  Pariser Building  tim.jones@manchester.ac.uk  
+Mr Khristopher Kabbabe  Research Associate    George Begg Building - C.011  khristopher.kabbabe@manchester.ac.uk  
+Dr Kali-Babu Katnam  Lecturer in Structural Engineering  0161-2754307  Pariser Building - G12  kali-babu.katnam@manchester.ac.uk  
+Dr Richard Kirkham  Lecturer  0161-3064634  Pariser Building - 314  richard.kirkham@manchester.ac.uk  
+Dr Richard Kirkham  Lecturer  0161-3064634  Pariser Building - 314  richard.kirkham@manchester.ac.uk  
+Dr Pauleen Lane  Lecturer In Geotechnical Engineering  0161-3064592  Pariser Building - B50  pauleen.lane@manchester.ac.uk  
+Dr Gregory Lane-Serff  Senior Lecturer  0161-3064602  Pariser Building - B20  gregory.f.lane-serff@manchester.ac.uk  
+Prof Brian Launder  Part-time Research Professor  0161-3063801  George Begg Building - C31  brian.launder@manchester.ac.uk  
+Prof Dominique Laurence  Professor  0161-3063704  George Begg Building - C27  dominique.laurence@manchester.ac.uk  
+Dr Therese Lawlor-Wright  Visitor  0161-2754411  Pariser Building - E15  therese.lawlor-wright@manchester.ac.uk  
+Dr Tom Lenahan  Visitor      tom.lenahan-3@manchester.ac.uk  
+Prof Geoffrey Levermore  Emeritus Professor    Pariser Building - G8  geoff.levermore@manchester.ac.uk  
+Dr Qingming Li  Reader  0161-3065740  Pariser Building - C15  qingming.li@manchester.ac.uk  
+Prof Lin Li  Professor, Associate Dean (Business Engagement and Development) of Faculty of Engineering and Physical Sciences, Director of Laser Processing Research Centre  0161-3063816  Pariser Building - H11  lin.li@manchester.ac.uk  
+Dr Steven Lind  Lecturer  0161-2754260  Pariser Building - B3  steven.lind@manchester.ac.uk  
+Mr David Ling  Lecturer  0161-3064606  Pariser Building - E19  david.ling@manchester.ac.uk  
+Dr Domenico Lombardi  Lecturer in Geotechnical Engineering  0161-2754544  Pariser Building - C27  domenico.lombardi@manchester.ac.uk  
+Dr Eric Lou  Lecturer  0161-2754467  Pariser Building - E14  eric.lou@manchester.ac.uk  
+Dr Parthasarathi Mandal  Senior Lecturer, Programme Director (UG Civil Engineering), Theme Leader (Bio-Engineering)  0161-3064622  Pariser Building - C6  partha.mandal@manchester.ac.uk  
+Dr Sarah Mander  Research Associate  0161-3063259  Pariser Building  s.mander@manchester.ac.uk  
+Dr Lee Margetts  Lecturer in Computational Mechanics, Theme Leader for Synthetic Environments and Systems Simulation  0161-2756319  Pariser Building - G9  lee.margetts@manchester.ac.uk  
+Dr Carly McLachlan  Lecturer in Energy and Climate Change and Knowledge Exchange Fellow    Pariser Building - H.8  c.mclachlan@manchester.ac.uk  
+Prof Barry Marsden  Professor of Nuclear Graphite Technology  0161-2754399  Pariser Building - G9  barry.j.marsden@manchester.ac.uk  
+Prof Paul Mativenga  Chair in Multiscale and Sustainable Manufacturing, Vice Dean - Social Responsibility, Equality & Diversity - Faculty of Engineering & Physical Sciences  0161-3063821  Pariser Building - H12  p.mativenga@manchester.ac.uk  
+Mr Maurice Mccabe  Staff  0161-2754343  Pariser Building  maurice.mccabe@manchester.ac.uk  
+Prof Paul Mummery  Chair in Nuclear Materials  0161-3063686  Pariser Building - G11  paul.m.mummery@manchester.ac.uk  
+Dr Adel Nasser  Senior Project Manager and Honorary Lecturer  0161-3063537  George Begg Building - C39  a.g.nasser@manchester.ac.uk  
+Dr Laura O'keefe  Project Manager - SUPERGEN Bioenergy Hub  0161-2754330  Pariser Building - H1  laura.o'keefe@manchester.ac.uk  
+Dr S Olutunde Oyadiji  Reader  0161-2754348  Pariser Building - B5  s.o.oyadiji@manchester.ac.uk  
+Dr Kassandra Papadopoulou  Extended Project Post (Lecturer)  0161-3064652  Pariser Building - E5  kassandra.papadopoulou@manchester.ac.uk  
+Dr Ben Parslew  Lecturer in Aerospace Engineering  0161-3063815  Pariser Building - B36  ben.parslew@manchester.ac.uk  
+Dr Jamshid Parvar  Lecturer  0161-3064231  Pariser Building - E8  jamshid@manchester.ac.uk  
+Dr Robert Prosser  Senior Lecturer  0161-3063716  George Begg Building - C038  robert.prosser@manchester.ac.uk  
+Dr Mark Quinn  Lecturer in Aerospace Engineering  0161-2754557  Pariser Building - E2  mark.quinn@manchester.ac.uk  
+Dr Lei Ren  Senior Lecturer in Biomechanics  0161-3064251  Pariser Building - C13  lei.ren@manchester.ac.uk  
+Dr Alistair Revell  Senior Lecturer, Director of External Affairs  0161-3063762  George Begg Building - C40  alistair.revell@manchester.ac.uk  
+Dr Peter Roberts  Lecturer in Spacecraft Engineering/Spacecraft Flight Dynamics  0161-3064636  George Begg Building - C8  peter.c.e.roberts@manchester.ac.uk  
+Dr Mirjam Roeder  Research Associate  0161-2754344  Pariser Building  mirjam.roeder@manchester.ac.uk  
+Dr Benedict Rogers  Reader  0161-3062615  Pariser Building - H13  benedict.rogers@manchester.ac.uk  
+Mr Jack Rostron  Other      jack.rostron@manchester.ac.uk  
+Dr Matthew Roy  Lecturer in Materials for Demanding Environments  0161-2754316  Pariser Building - B49  matthew.roy@manchester.ac.uk  
+Mrs Fiona Saunders  Senior Lecturer  0161-3063738  Pariser Building - E 18  fiona.saunders@manchester.ac.uk  
+Dr Majid Sedighi  Lecturer in Geotechnical Engineering  0161-2754436  Pariser Building - C30  majid.sedighi@manchester.ac.uk  
+Dr Maria Sharmina  Lecturer in Energy and Project Management  0161-2754308  Pariser Building  maria.sharmina@manchester.ac.uk  
+Dr Mohammad Sheikh  Reader  0161-3063802  Pariser Building - G20  mohammad.a.sheikh@manchester.ac.uk  
+Dr Jyoti Sinha  Reader, Programme Director, Reliability Engineering and Asset Management (REAM) MSc  0161-3064639  Pariser Building - B50  jyoti.sinha@manchester.ac.uk  
+Mr Alex Skillen  Extended Project Post (res Assoc)  0161-3063730  George Begg Building  alex.skillen@manchester.ac.uk  
+Prof Mike C Smith  Professor of Welding Technology  0161-3065751  George Begg Building - C43  mike.c.smith@manchester.ac.uk  
+Dr Katharine Smith  Lecturer in Aerospace Engineering  0161-3063731  George Begg Building - C36  kate.smith@manchester.ac.uk  
+Prof Constantinos Soutis  Professor of Aerospace Engineering  0161-3068593  James Lighthill Building - E1  constantinos.soutis@manchester.ac.uk  
+Dr Timothy Stallard  Senior Lecturer  0161-3064649  Pariser Building - B17  tim.stallard@manchester.ac.uk  
+Prof Peter Stansby  Osborne Reynolds Chair  0161-3064598  Pariser Building - B9  p.k.stansby@manchester.ac.uk  
+Dr Ian Stewart  Lecturer and Assistant Programme Director  0161-3063705  Pariser Building - E04  i.c.stewart@manchester.ac.uk  
+Mr Tom Swailes  Lecturer  0161-3064611  Pariser Building  thomas.swailes@manchester.ac.uk  
+Dr M Ahmad Syed  Lecturer in Geotechnical Engineering  0161-3064637  Pariser Building - E15  mohammed.ahmad.syed@manchester.ac.uk  
+Dr Azam Tafreshi  Lecturer  0161-2754459  Pariser Building - B2  azam.tafreshi@manchester.ac.uk  
+Prof Graham Thompson  Emeritus Professor      graham.thompson@manchester.ac.uk  
+Prof Patricia Thornley  Professor in Sustainable Energy systems  0161-3063257  Pariser Building - H4  patricia.thornley@manchester.ac.uk  
+Dr Van-Xuan Tran  Visitor  0161-2754331  George Begg Building  van-xuan.tran@manchester.ac.uk  
+Dr Michael Traut  Research Associate  0161-2754371  Pariser Building - H1-C  michael.traut@manchester.ac.uk  
+Dr Muhammad Treifi  Research Associate  0161-3062352  Pariser Building - C17  muhammad.treifi@manchester.ac.uk  
+Prof Ali Turan  Chair in Thermodynamics of Power Generation  0161-3063712  George Begg Building - C44  a.turan@manchester.ac.uk  
+Dr Sergey Utyuzhnikov  Senior Research Fellow  0161-3063707  George Begg Building - C35  s.utyuzhnikov@manchester.ac.uk  
+Dr Conor Walsh  Research Associate  0161-2754332  Pariser Building  conor.walsh@manchester.ac.uk  
+Prof Yong Wang  Professor  0161-3068968  Pariser Building - C2  yong.wang@manchester.ac.uk  
+Dr Paul Watkins  Reader  0161-3063706  George Begg Building - C.024  paul.watkins@manchester.ac.uk  
+Prof Stephen Wearne  Reader  0161-3064615  Pariser Building  wearne@manchester.ac.uk  
+Dr Andrew Weightman  Lecturer  0161-2754524  Pariser Building - B48  andrew.weightman@manchester.ac.uk  
+Paul Wheelhouse  Visiting Lecturer      paul.wheelhouse@manchester.ac.uk  
+Mr Ian Whyte  Senior Lecturer  0161-3064627  Pariser Building - C6  ian.whyte@manchester.ac.uk  
+Dr Alan Williamson  Honorary Visiting Research Fellow      alan.williamson-3@manchester.ac.uk  
+Dr Moira Wilson  Reader  0161-3064245  Pariser Building - G25  moira.wilson@manchester.ac.uk  
+Dr Ruth Wood  Lecturer  0161-3063715  Pariser Building - H1 G  ruth.wood@manchester.ac.uk  
+Dr Andrew Wright  Visiting Lecturer      andrew.wright-2@manchester.ac.uk  
+Dr Jack Wu  Lecturer In Structural Engineering  0161-3065792  Pariser Building - B18  jack.wu@manchester.ac.uk  
+Dr Zhenjun Yang  Other  0161-3064645  Pariser Building - E16  zhenjun.yang@manchester.ac.uk  
+Dr Khim-Teck Yeo  Visitor      khim-teck.yeo@manchester.ac.uk  
+Dr Robert Young  Lecturer in Environmental Engineering, Warden of Wright Robinson Halls  0161-3064633  Pariser Building - B10  rob.young@manchester.ac.uk  
+Dr Shan Zhong  Reader  0161-2754318  George Begg Building - C29  shan.zhong@manchester.ac.uk  
+Dr Zhenmin Zou  Lecturer  0161-3062403  Pariser Building - C14  zhenmin.zou@manchester.ac.uk  
+Dr Adrian Harwood  Research Associate  0161-2754321  George Begg Building - C FLOOR -- FLAIR LAB  adrian.harwood@manchester.ac.uk  
+Dr Sarah Heath  Reader & Director of Education (dni)  0161-2754545  Pariser Building - E22  sarah.l.heath@manchester.ac.uk  
+Dr Moray Kidd  Senior Lecturer, Associate Director for the BP Engineering Management Programme, Director for Business Engagement (Professional Development and Consultancy)  0161-3063724  Pariser Building - E23  moray.kidd@manchester.ac.uk  
+Mr Callum Kidd  Lecturer and Programme Director (PMPDP)  0161-3064616  Pariser Building - E2  c.kidd@manchester.ac.uk  
+add one note...

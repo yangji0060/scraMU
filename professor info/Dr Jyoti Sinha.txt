@@ -1,0 +1,181 @@
+name  role  phone  location  email
+Dr Jyoti Sinha  Reader, Programme Director, Reliability Engineering and Asset Management (REAM) MSc  0161-3064639  Pariser Building - B50  jyoti.sinha@manchester.ac.uk  
+
+BIOGRAPHY: 
+EMPLOYMENT HISTORY: From 1989 to 13th May 2005: Scientific Officer, Vibration Laboratory, Reactor Engineering Division, Bhabha Atomic Research Centre, Mumbai (Bombay), India, From March 2000 to March 2001: Visiting Researcher, Department of Mechanical Engineering, University of Wales Swansea SA2 8PP, UK, From 18th May 2005 to 2nd Jan. 2007: Research Fellow, AMAC Group, Process and System Enginnering (PASE), SOE, Cranfield University, Cranfield MK43 0AL, UK.
+EDUCATION: Ph. D. (Rotor Dynamics), University of Wales, Swansea, UK (2002), M. Tech. (Aerospace Engineering), Indian Institute of Technology Bombay, Mumbai, India (1998), Graduation (Nuclear Engineering), BARC Training School, Mumbai, India (1990), B. Sc. (Mechanical Engineering), Ranchi University, Ranchi, India (Bihar Institute of Technology, Sindri) (1988), B.Sc. (Chemistry Honours), Magadh University, Gaya, India (1985).
+
+RESEARCH: 
+Rotor Dynamics by experiments and Analysis
+Health Monitoring Techniques for  Rotating Machinery
+Finite Element (FE) modelling, Analysis and Model Updating
+Seismic Qualification
+Experimental Modal Analysis
+Condition Monitoring and Aging Management of Structures
+Vibration based diagnosis for 'as installed' structures and machines
+Advance Signal Processing
+MEMS Accelerometer
+Wireless Sensing for Vibration based Condition Monitoring
+Bioenginnering
+
+PUBLICATION: 
+A Kaltungo, Jyoti Sinha. A Comparison of Signal Processing Tools: Higher Order Spectra versus Higher Order Coherences. Advances in Vibration Engineering. (0):  eScholarID: ma013
+Jyoti Sinha, W Hahn. In-situ Measured Vibration Behaviour of a Steam Turbine. Advances in Vibration Engineering. (0):  eScholarID: ma275
+J. Treetrong, Jyoti K. Sinha, F. Gu, A.D. Ball. Parameter Estimation for Electric Motor Condition Monitoring. Advances in Vibration Engineering. In-press eScholarID: 177072
+J K Sinha. Vibration Engineering and Technology of Machinery, Series: Mechanisms and Machine Science, Vol. 23. Springer:2015.  eScholarID: ma1092
+Kaltungo A, Sinha J, Nembhard A. A novel faults diagnosis technique for enhancing maintenance and reliability of rotating machines Reliability Engineering & System Safety. Structural Health Monitoring. 2015 November; 14(6): 604-621. eScholarID: 287510
+Nembhard A, Sinha J. Unified Multi-speed Analysis (UMA) for the Condition Monitoring of Aero-Engines. Mechanical Systems and Signal Processing. 2015 December; 64-65: 84-99. eScholarID: 287437
+Erfan Asnaashari, Jyoti Sinha. A Comparison Between Hilbert Transform and a New Method for Signal Enveloping. A Comparison Between Hilbert Transform and a New Method for Signal Enveloping. 2014:  eScholarID: ma1494
+A. Gubran, Jyoti K. Sinha. A Comparison of On-Bearing and Shaft Torsional Vibration for Blade Vibration. 2014 October; 1(1): 1-9. eScholarID: 256328
+Akilu Yunusa-Kaltungo, Jyoti K. Sinha, Keri Elbhbah. An Improved Data Fusion Technique for Faults Diagnosis in Rotating Machines. Measurement. 2014; 58: 27-32. eScholarID: 256201
+J. Treetrong, Jyoti K. Sinha, F. Gu, A.D. Ball. An Investigation of Genetic Algorithm based Motor Parameter Estimation for Condition Monitoring. 2014 April; 2(2): 97-115. eScholarID: 256194
+A Ball, F Gu, J Treetrong, Jyoti Sinha. An Investigation of Genetic Algorithm based Motor Parameter Estimation for Condition Monitoring. Advances in Vibration Engineering. 2014; 2(2): 97-115. eScholarID: ma074
+E. Asnaashari, Jyoti K. Sinha. Application of curvature of residual operational deflection shape (R-ODS) for multiple-crack detection in structures. 2014 September; 1(3): 309-322. eScholarID: 256289
+Akilu Yunusa-Kaltungo, Jyoti K. Sinha. Combined Bispectrum and Trispectrum for Faults Diagnosis in Rotating Machines. Institution of Mechanical Engineers. Proceedings. Part O: Journal of Risk and Reliability. 2014; 228:  eScholarID: 256297
+Adrian D. Nembhard, Jyoti K. Sinha, A. J. Pinkerton, K. Elbhbah. Combined Vibration and Thermal Analysis for the Condition Monitoring of Rotating Machinery. Structural Health Monitoring. 2014 May; 13(3): 281-295. eScholarID: 256175
+Jyoti Sinha, W Hahn. Comparative Study between in-situ Measured Vibration data at Bearing and BTT on a LP Turbine Last Stage Blades in a Steam Turbo-Generator Set. Comparative Study between in-situ Measured Vibration data at Bearing and BTT on a LP Turbine Last Stage Blades in a Steam Turbo-Generator Set. 2014:  eScholarID: ma1492
+E. Asnaashari, Jyoti K. Sinha. Crack Detection in Structures Using Deviation from Normal Distribution of Measured Vibration Responses. Journal of Sound and Vibration. 2014; 333(18): 4139-4151. eScholarID: 256189
+E. Asnaashari, Jyoti K. Sinha. Development of Residual Operational Deflection Shape for Crack Detection in Structures. Mechanical Systems and Signal Processing. 2014 February; 43(1-2): 113-123. eScholarID: 256157
+A. Yunusa-Kaltungo, Jyoti K. Sinha. First Aid Treatment for Machine Vibration Problems. 2014 April; 29(2): 49-50. eScholarID: 256344
+A Kaltungo, Jyoti Sinha. First Aid Treatment for Machine Vibration Problems. Maintenance & Asset Management Journal. 2014; 29(2): 49-50. eScholarID: ma239
+Erfan Asnaashari, Jyoti Sinha. Off-Line Crack Detection in Rotors. Off-Line Crack Detection in Rotors. 2014:  eScholarID: ma1493
+A. Gubran and Jyoti K. Sinha. Shaft instantaneous angular speed for blade vibration in rotating machine. Mechnical Systems and Signal Processing. 2014 March; 44(1-2): 47-59. eScholarID: 192754 | DOI: 10.1016/j.ymssp.2013.02.005
+Jyoti K. Sinha. Vibration Analysis, Instruments, and Signal Processing. USA: CRC Press/Taylor and Francis Publisher:2014.  eScholarID: 256143
+J K Sinha. Vibration Analysis, Instruments, and Signal Processing. CRC Press:2014.  eScholarID: ma1091
+Vibration Engineering and Technology of Machinery. Springer:2014.  eScholarID: 256153
+A Kaltungo, Jyoti Sinha. Vibration Monitoring: A Case Study. Maintenance & Asset Management Journal. 2014; 29(1): 43-48. eScholarID: ma565
+A. Yunusa-Kaltungo, Jyoti K. Sinha. Vibration Monitoring: A Case Sudy. 2014 February; 29(1): 43-48. eScholarID: 256338
+Jyoti K. Sinha, K. Elbhbah. A Future Possibility of Vibration based Condition Monitoring. Mechanical Systems and Signal Processing. 2013; 34(1-2): 231-240. eScholarID: 256044
+I. Ullah, Jyoti K. Sinha. A Novel Method for Delamination Detection in Composites. International Journal of Innovation and Applied Studies. 2013 January; 2(1): 34-42. eScholarID: 256138
+A. Yunusa-Kaltungo, Jyoti K. Sinha. Demonstration of Condition Monitoring Through A Case Study. 2013 July; 28(4): 50-55. eScholarID: 256334
+A Yunusa-Kaltungo, Jyoti Sinha. Demonstration of Condition Monitoring Through A Case Study. Maintenance & Asset Management Journal. 2013; 28(4): 50-55. eScholarID: ma149
+Adrian D. Nembhard, Jyoti K. Sinha, A. J. Pinkerton, K. Elbhbah. Fault Diagnosis of Rotating Machines using Vibration and Bearing Temperature Measurements. Diagnostyka Laboratoryjna. 2013; 14(3): 45-51. eScholarID: 256048
+A Nembhard, A Pinkerton, Jyoti Sinha, K Elbhbah. Fault Diagnosis of Rotating Machines using Vibration and Bearing Temperature Measurements. Daignostyka. 2013; 14(3): 45-51. eScholarID: ma227
+A Phang, A Starr, B Allen, Jyoti Sinha, M Khan, M Marshall, P Rzeszucinski, QN Badi, Rodger Edwards, YK Chen. Jones A., Shepherd D., Curran A., The EUCAMS gear partnership a model of industry/academic collaboration. Jones A., Shepherd D., Curran A., The EUCAMS gear partnership a model of industry/academic collaboration. 2013:  eScholarID: ma1141
+I. Ullah, Jyoti K. Sinha, A. Pinkerton. Vibration-based Delamination Detection in a Composite Plate. Mechanics of Advanced Materials and Structures. In-press20(7): 536-551. eScholarID: 177074
+K. Elbhbah, Jyoti K. Sinha. Vibration-based condition monitoring of rotating machines using a machine composite spectrum. Journal of Sound and Vibration. 2013 May; 332(11): 2831-2845. eScholarID: 192756 | DOI: 10.1016/j.jsv.2012.12.024
+K. Elbhbah, Jyoti K. Sinha. A Composite Vibration Spectrum For A Machine For Vibration Based Condition Monitoring, Paper No. DETC2012/70052. 2012: -. eScholarID: 177079
+P. Rzeszucinski, Jyoti K. Sinha, R. Edwards, A. Starr, B. Allen. A novel condition indicator gearbox diagnosis: amplitude of probability density function (APDF). 2012: -. eScholarID: 256357
+P. Rzeszucinki, Jyoti K. Sinha, R. Edwards, A. Starr, B. Allen. Amplitude of Probability Density Function (APDF) of Vibration Response as a Robust Tool for Gearbox Diagnosis. Strain. 2012; 48(6): 510-516. eScholarID: 177024 | DOI: 10.1111/j.1475-1305.2012.00849.x
+J. Treetrong, Jyoti K. Sinha, F. Gu, A.D. Ball. An Investigation of Genetic Algorithm based Motor Parameter Estimation for Condition Monitoring. Advances in Vibration Engineering. In-press11(1): 75-83. eScholarID: 177073
+K. Elbhbah, Jyoti K. Sinha. BISPECTRUM: A TOOL FOR DISTINGUISHING DIFFERENT FAULTS IN ROTATING MACHINE. 2012: -. eScholarID: 177088
+K. Elbhbah, Jyoti K. Sinha. Comparison of Vibration based Coherent Composite Spectrum with Non-Coherent Composite Spectrum for Machine Condition Monitoring. -. eScholarID: 256350
+Akilu Yunusa-Kaltungo, Jyoti K. Sinha. Condition Monitoring: A Simple and Practical Approach. LAP LAMBERT Academic Publishing:2012.  eScholarID: 177100
+A Yunusa-Kaltungo, Jyoti Sinha. Condition Monitoring: A Simple and Practical Approach, Lambert Academic Publishing, Deutschland, Germany. IEE:2012.  eScholarID: ma1087
+M. Elnady, Jyoti K. Sinha, S.O. Oyadiji. Condition monitoring of rotating machines using on-shaft vibration measurement. 2012: -. eScholarID: 177075
+Krissanapong Wongsawarng, Jyoti K. Sinha. Development of vibration based method to distinguish support looseness and crack on a cantilever beam. LAMBERT Academic Publishing:2012.  eScholarID: 177106
+Jyoti Sinha, K Wongsawarng. Development of vibration based method: To distinguish support looseness and crack on a cantilever beam, Lambert Academic Publishing, Deutschland, Germany. IEE:2012.  eScholarID: ma1088
+M E Elnady , Jyoti K Sinha and S O Oyadiji. Identification of Critical Speeds of Rotating Machines Using On-Shaft Wireless Vibration Measurement. 2012: -. eScholarID: 177297
+M E Elnady , Jyoti K Sinha and S O Oyadiji. Identification of Critical Speeds of Rotating Machines Using On-Shaft Wireless Vibration Measurement. Journal of Physics: Conference Series. 2012; 364(012142):  eScholarID: 177292
+P.J Rzeszucinki, Jyoti K. Sinha, R. Edwards, A. Starr, B. Allen. Normalised Root Mean Square and Amplitude of Sidebands of Vibration response as Tools for Gearbox Diagnosis. Strain. 2012 December; 48(6): 445-452. eScholarID: 177023 | DOI: 10.1111/j.1475-1305.2012.00839.x
+Jyoti K. Sinha, W. Hahn, K. Elbhbah, G. Tasker, I. Ullah. VIBRATION INVESTIGATION FOR LOW PRESSURE TURBINE LAST STAGE BLADE FAILURE IN STEAM TURBINES OF A POWER PLANT. 2012: -. eScholarID: 177098
+Badri A, Sinha J, Albarbar A. A Method to Calibrate the Measured Responses by MEMS Accelerometers. Strain. 2011 December; 47(s2): 242-257. eScholarID: 149229 | DOI: 10.1111/j.1475-1305.2010.00764.x
+Rzeszucinski P, Sinha J.K., Edwards R, Starr A, Allen B. A New Technique for Condition Monitoring of Helicopter Gearboxes. Proceedings of International Conference on Vibration Problems (ICOVP 2011): 2011: -. eScholarID: 149275
+Soman R, Sinha J. Damage Detection in Plate using Gradient Search Sensitivity Method of FE Model Updating. 2011: -. eScholarID: 149264
+Jyoti Sinha. Dynamics of Composite Plate by Experiment and Finite Element Analysis. European Journal of Operational Research. 2011; 55(0): 207-219. eScholarID: ma177
+Ullah I, Sinha J. Experimental Vibration Study on the Healthy and Delaminated Composite Plates. 2011: -. eScholarID: 149267
+Ullah I, Sinha JK. Experimental Vibration Study on the Healthy and Delaminated Composite Plates. Journal of Physics: Conference Series. 2011; 305(1): 012048. eScholarID: 149216 | DOI: 10.1088/1742-6596/305/1/012048
+Elnady M, Sinha J.K., Oyadiji S.O. On-Shaft Wireless Vibration Measurement for Condition Monitoring of Rotating Machine. Proceedings of International Conference on Vibration Problems (ICOVP 2011). 2011: 442-446. eScholarID: 149272
+Sinha, J.K. Technical Insight: Using Vibration Technology to Identify Maintenance Hot Spots. Power Clear, UK: 2011: -. eScholarID: 149999
+A. Starr, M. Khan, B. Allen, M. Marshall, A. Phang, Q.N. Badi, Y.K. Chen, R. Edwards, Jyoti K. Sinha, P. Rzeszucinski, R. Jones, D. Shepherd, A. Curran. The EUCAMS gear partnership – a model of industry/academic collaboration. 2011: -. eScholarID: 193577
+Ullah I, Sinha J. Vibration based Method to Detect Delamination in Composite. 2011: -. eScholarID: 149270
+Sinha, J.K. Vibration-based Health Monitoring Techniques of Rotating Machines. IMechE: 2011: -. eScholarID: 149994
+Badri A, Sinha J, Albarbar A. A Typical Filter Design to Improve the Measured Signals from MEMS Accelerometer. Measurement. 2010; 43(10): 1425-1430. eScholarID: 149172 | DOI: 10.1016/j.measurement.2010.08.011
+Charles P., Sinha JK, Gu F., Ball AD. Application of Novel Polar Representation Method for Monitoring Minor Engine Condition Variations. Mechanical Systems and Signal Processing. 2010 April; 24(3): 841-843. eScholarID: 149214 | DOI: 10.1016/j.ymssp.2009.10.020
+Elbhbah K, Sinha J. Bispectrum for Fault Diagnosis in Rotating Machines. 2010: -. eScholarID: 149243
+Badri A, Sinha J. Dynamics of MEMS Accelerometer. 2010: -. eScholarID: 149255
+Jyoti Sinha. Use of Web-based Blackboard: A Complimentary Approach in Teaching. Use of Web-based Blackboard: A Complimentary Approach in Teaching. 2010 February;  eScholarID: ma1070
+Jyoti Sinha. Design Optimization of the Proposed Steel Structure to Shift the Minimum Natural Frequency above 2Hz/4Hz. 2009.  eScholarID: ma820
+Albarbar A, Badri A, Sinha J, Starr A. Performance Evaluation of MEMS Accelerometers. Measurement. 2009 June; 42(5): 790-795. eScholarID: 1e772 | DOI: 10.1016/j.measurement.2008.12.002
+Badri A, Sinha J, Alhussein A. Enhancing the Frequency Range of Measurement for an Accelerometer. Noise & Vibration Worldwide. 2009 June; 40: 33-36. eScholarID: 1e865 | DOI: 10.1260/095745609788707242
+Badri, A, Jyoti  Sinha, and A  Albarbar. Improvement in Measured Signals of MEMS Accelerometer. 3rd Internaltional Conference on Integrity, Reliability and Failure (Challenges and Opportunities), IRF\'2009, University of Porto, Portugal. 2009: 365. eScholarID: 2e1075
+Charles P, Sinha J, Gu F, Lidstone L, Ball A. Detecting the crankshaft torsional vibration of diesel engines for combustion related diagnosis. Journal of Sound and Vibration. 2009 April; 321(3-5): 1171-1185. eScholarID: 1e729 | DOI: 10.1016/j.jsv.2008.10.024
+Dharmaraju N, Sinha J, Rao A. Inherent safety in a simple pendulum type cable tray hanger during earthquake. Advances in Vibration Engineering. 2009 March; 8: 1-6. eScholarID: 1e562
+Lees A, Sinha J, Friswell M. Model based Identification of Rotating Machines. Mechanical Systems and Signal Processing. 2009 August; 23(6): 1884-1893. eScholarID: 1e693 | DOI: 10.1016/j.ymssp.2008.08.008
+Sinha, Jyoti. Frequent and Premature Failure of Anti-friction Bearings: Diagnosis Approach?. 3rd Internaltional Conference on Integrity, Reliability and Failure (Challenges and Opportunities), IRF\'2009, University of Porto, Portugal. 2009: 367. eScholarID: 2e1077
+Sinha J. Higher Order Coherences for Fatigue Crack Detection. Engineering Structures. 2009 February; 31: 534-538. eScholarID: 1e694 | DOI: 10.1016/j.engstruct.2008.10.004
+Sinha J. Recent Trends in Fault Quantification in Rotating Machines. Advances in Vibration Engineering. 2009 March; 8: 79-85. eScholarID: 1e563
+Sinha J, Balla C. Tricoherence for early contact detection. Noise & Vibration Worldwide. 2009 February; 40: 12-19. eScholarID: 1e816 | DOI: 10.1260/095745609787648429
+Sinha, Jyoti. Vibration based Condition Monitoring of Rotating Machines: A Future Possibility?. IUTAM Symposium on Emerging Trends in Rotor Dynamics, IIT Delhi, India. 2009: Paper 26. eScholarID: 2e1051
+Treetrong J, Sinha J, Gu F, Ball A. Bi-spectrum of Stator Phase Current for Fault Detection of Induction Motor. ISA Transactions. 2009 July; 48(3): 378-382. eScholarID: 1e817 | DOI: 10.1016/j.isatra.2009.03.002
+Ullah, I, and Jyoti  Sinha. Dynamic Study of a Composite Plate with Delamination. 3rd Internaltional Conference on Integrity, Reliability and Failure (Challenges and Opportunities), IRF\'2009, University of Porto, Portugal. 2009: 363. eScholarID: 2e1076
+Badri, AE, and Jyoti  Sinha. Correcting Amplitude and Phase Measurement of Accelerometer in Frequency Domain. The Fifth International Conference on Condition Monitoring and Machinery Failure Prevention Technologies (CM 2008 and MFPT 2008), The Edinburgh Conference Centre, Heriot-Watt University, Edinburgh. 2008:  eScholarID: 2e913
+Balla C, Sinha J. Bi-Coherence of vibration response for early contact detection between two components. Advances in Vibration Engineering. 2008 March; 7: 1-5. eScholarID: 1e1551
+Charles, P, F  Gu, AD  Ball, J  Jiang, and Jyoti  Sinha. A Simulation of the Torsional Vibration in a Medium Sized Diesel Engine for Condition Monitoring Purposes. 37th International Congress and Exposition on Noise Control Engineering (inter-noise 2008), Shanghai, China. 2008:  eScholarID: 2e1011
+Charles, P, Jyoti  Sinha, F  Gu, and A  Ball. A validated model for the prediction of combustion related faults in medium-speed diesel engines using crankshaft torsional vibration. The Fifth International Conference on Condition Monitoring and Machinery Failure Prevention Technologies (CM 2008 and MFPT 2008), The Edinburgh Conference Centre, Heriot-Watt University, Edinburgh. 2008:  eScholarID: 2e914
+Sinha, Jyoti. Bi-spectrum of a Composite Coherent Cross-Spectrum for Faults Detection in Rotating Machines. 9th International Conference on Vibrations in Rotating Machinery, Exeter, UK. 2008: 565-572. eScholarID: 2e825
+Sinha J. Bi-spectrum of a rotating shaft with a breathing crack. Advances in Vibration Engineering. 2008 October; 7: 301-310. eScholarID: 1e152
+Sinha J. Vibration based Diagnosis Techniques used in Nuclear Power Plants: An Overview of Experiences. Nuclear Engineering and Design . 2008 September; 238: 2439-2452. eScholarID: 1e590 | DOI: 10.1016/j.nucengdes.2008.03.007
+Treetrong, J, Jyoti  Sinha, F  Gu, and AD  Ball. A Novel Model Parameter Estimation of an Induction Motor using Genetic Algorithm. The Tenth IASTED International Conference on Signal and Image Processing ~SIP 2008~, Kailua-Kona, Hawaii, USA. 2008: 623-015. eScholarID: 2e961
+Treetrong, J, Jyoti  Sinha, F  Gu, and A  Ball. Condition monitoring of electric motors based on parameter identification using genetic algorithm. The Fifth International Conference on Condition Monitoring and Machinery Failure Prevention Technologies (CM 2008 and MFPT 2008), The Edinburgh Conference Centre, Heriot-Watt University, Edinburgh. 2008:  eScholarID: 2e861
+Treetrong, J, Jyoti  Sinha, F  Gu, and A  Ball. Online Stator Fault Detection of Induction Motors using Parameter Identification Techniques. The Eighth IASTED International Conference on Power and Energy Systems (EuroPES 2008) , Corfu, Greece. 2008:  eScholarID: 2e862
+Ullah, I, and Jyoti  Sinha. Dynamic behaviour of a de-laminated composite beam. The Fifth International Conference on Condition Monitoring and Machinery Failure Prevention Technologies (CM 2008 and MFPT 2008), The Edinburgh Conference Centre, Heriot-Watt University, Edinburgh. 2008:  eScholarID: 2e912
+Sinha J, Balla C, Meher K. Early Contact Detection between Two components. Journal of Sound and Vibration. 2007 June; 303: 918-929. eScholarID: 1e1549
+Sinha J. Higher Order Spectra for Crack and Misalignment Identification in Shaft of a Rotating Machine. Structural Health Monitoring. 2007 December; 6: 325-334. eScholarID: 1e151
+Sinha J. Quantification of Faults in Rotating Machines. Noise & Vibration Worldwide. 2007 October; 38: 20-29. eScholarID: 1e629
+Sinha, Jyoti. Recent Trends in Fault Quantification in Rotating Machines. Proc. of 4th International Conference on Vibration Engineering and Technology of Machinery (VETOMAC-4), Osmania University, Hyderabad, India. 2007:  eScholarID: 2e824
+Balla C, Meher K, Sinha J, Rao A. Coherence Measurement for Early Contact Detection between Two Components. Journal of Sound and Vibration. 2006 February; 290: 519-523. eScholarID: 1e1544 | DOI: 10.1016/j.jsv.2005.04.013
+Sinha J. Bi-spectrum for identifying crack and misalignment in shaft of a rotating machine. Smart Structures and Systems. 2006 January; 2:  eScholarID: 1e150
+Sinha J, Rao A, Sinha R. Realistic Seismic Qualification using the Updated Finite Element Model for In-core Components of Reactors. Nuclear Engineering and Design . 2006 February; 236: 232-237. eScholarID: 1e1545 | DOI: 10.1016/j.nucengdes.2005.07.007
+Sinha J. Significance of Vibration Diagnosis of Rotating Machines during Installation and Commissioning: A Summary of Few Cases. Noise & Vibration Worldwide. 2006 May; 37: 17-27. eScholarID: 1e1547 | DOI: 10.1260/095745606777630404
+Sinha J, Rao A. Vibration based Diagnosis of a Centrifugal Pump. Structural Health Monitoring. 2006 December; 5: 325-332. eScholarID: 1e1548 | DOI: 10.1177/1475921706067760
+Sinha J, Balla C. Vibration-based Diagnosis for Ageing Management of Rotating Machinery: A Summary of Cases. Insight. 2006 August; 48:  eScholarID: 1e1546 | DOI: 10.1784/insi.2006.48.8.481
+Balla C, Sinha J, Rao A. Importance of Proper Installation for Satisfactory Operation of Rotating Machines. Advances in Vibration Engineering. 2005 June; 4: 137-142. eScholarID: 1e1538
+Dhramraju N, Sinha J. Some comments on use of Antiresonance for Crack Identification in Beams. Journal of Sound and Vibration. 2005 September; 286: 669-671. eScholarID: 1e1541 | DOI: 10.1016/j.jsv.2005.01.001
+Lees, AW, MI  Friswell, Jyoti  Sinha, and I  Ashmore. Estimating Bearing Static Load Distribution in Multi-Bearing Machines. 3rd International Symposium on Stability and Control of Rotating Machinery (ISCORMA), Ohio, USA. 2005:  eScholarID: 2e190
+Sinha J. On Standardization of calibration procedure for accelerometer. Journal of Sound and Vibration. 2005 August; 286: 417-427. eScholarID: 1e1539 | DOI: 10.1016/j.jsv.2004.12.004
+Sinha J, Rao A, Sinha R. Prediction of Flow Induced Excitation in a Pipe Conveying Fluid. Nuclear Engineering and Design . 2005 February; 235: 627-636. eScholarID: 1e1537 | DOI: 10.1016/j.nucengdes.2004.10.001
+Sinha J, Rao A, Sinha R. Seismic Qualification using the Updated Finite Element Model for Structures. Structural Engineering & Mechanics. 2005 January; 19:  eScholarID: 1e1536
+Sinha J, Rao A. Vibration Diagnosis of Failure of Mechanical Coupling between Motor and Pump Rotors. International Journal of Acoustics and Vibration. 2005 June; 10: 89-92. eScholarID: 1e1540
+Balla, CBNS, KK  Meher, SK  Sinha, Jyoti  Sinha, and AR  Rao. Vibration Diagnostics for Aging Management of Coolant Channels in PHWRs. Proc. of National Conference on Ageing Management of Structures, Systems and Components (NCAM-2004), Mumbai (Bombay), India. 2004: Paper No. B03. eScholarID: 2e202
+Lees A, Sinha J, Friswell M. The Identification of the Unbalance of a Flexible Rotating Machine from a Single Run-down. Transactions of the ASME, Journal of Engineering for Gas Turbines and Power. 2004 April; 126: 416-421. eScholarID: 1e1532 | DOI: 10.1115/1.1691441
+Sinha J, Rao A, Sinha R. Advantage of the Updated Model of Structure: A Case Study. Nuclear Engineering and Design . 2004 July; 232: 1-6. eScholarID: 1e1534 | DOI: 10.1016/j.nucengdes.2004.03.010
+Sinha J, Lees A, Friswell M. Estimating Unbalance and Misalignment of a Flexible Rotating Machine from a Single Run-Down. Journal of Sound and Vibration. 2004 May; 272: 967-989. eScholarID: 1e1530 | DOI: 10.1016/j.jsv.2003.03.006
+Sinha J, Lees A, Friswell M. Estimating the Static Load on the Fluid Bearings of a Flexible Machine from Run-down Data. Mechanical Systems and Signal Processing. 2004 November; 18: 1349-1368. eScholarID: 1e1535 | DOI: 10.1016/j.ymssp.2003.11.002
+Sinha J, Rao A. Simple Modelling of a Rotor with Cracks. Advances in Vibration Engineering. 2004 June; 3: 144-151. eScholarID: 1e1533
+SINHA JK; LEES, A W; FRISWELL, M I. Estimating unbalance and misalignment of a flexible rotating machine from a single run-down. Journal of Sound and Vibration. 2003 October; 272(3-5): 967-989. eScholarID: 1a10849 | DOI: 10.1016/j.jsv.2003.03.006
+Lees A, Sinha J, Friswell M. Estimating of Rotor Unbalance and Misalignment from a Single Run-Down. Materials Science Forum. 2003; 440-441: 229-236. eScholarID: 1e1529 | DOI: 10.4028/www.scientific.net/MSF.440-441.229
+Lees, AW, Jyoti  Sinha, and MI  Friswell. Estimating of Rotor Unbalance and Misalignment from a Single Run-Down. 5th International Conference on Modern Practice in Stress and Vibration Analysis, University of Glasgow, Scotland, UK. 2003:  eScholarID: 2e192
+Lees, AW, Jyoti  Sinha, and AW  Friswell. Multi Plane Balancing of a Rotating Machine using Run-down Data. 21st International Modal Analysis Conference, Florida, USA. 2003: Paper No. 230. eScholarID: 2e194
+Sinha J, Sandeep S, Rao A. Added Mass and Damping of Submerged Perforated Plates. Journal of Sound and Vibration. 2003 February; 260: 549-564. eScholarID: 1e1525 | DOI: 10.1016/S0022-460X(02)01023-4
+Sinha, Jyoti. Importance of Modal Test Data in Seismic Analysis -(Invited Talk). International Symposium on Seismic Evaluation of Nuclear Facilities, IAEA, Vienna, Austria. 2003:  eScholarID: 2e206
+Sinha, Jyoti, AR  Rao, and RK  Sinha. Realistic Seismic Qualification using the Updated Finite Element Model for In-core Components of Reactors. International Symposium on Seismic Evaluation of Nuclear Facilities, IAEA, Vienna, Austria. 2003:  eScholarID: 2e191
+Sinha J, Rao A, Moorthy R. Significance of Analytical Modelling for Complete Interpretation of Experimental Modal Analysis: A Case Study. Nuclear Engineering and Design . 2003 March; 220: 91-97. eScholarID: 1e1524 | DOI: 10.1016/S0029-5493(02)00216-9
+Sinha, Jyoti. Significance of Vibration Diagnosis of Rotating Machines during Commissioning: Few Case Studies - (Keynote Lecture). National Symposium on Rotor Dynamics, IIT, Guwahati (India). 2003:  eScholarID: 2e207
+Sinha J. Simplified method for the seismic qualification using measured modal data. Nuclear Engineering and Design . 2003; 224: 125-129. eScholarID: 1e1528 | DOI: 10.1016/S0029-5493(03)00098-0
+Sinha J, Friswell M. The use of Model Updating for Reliable Finite Element Modelling and Fault Diagnosis of Structural Components used in Nuclear Plants. Nuclear Engineering and Design . 2003 July; 223: 11-23. eScholarID: 1e1526 | DOI: 10.1016/S0029-5493(03)00037-2
+Sinha J, Mujumdar P. Transmissibility of Strain Produced in PVDF Actuator to Elastic Beam. Journal of Sound and Vibration. 2003 July; 265: 681-688. eScholarID: 1e1527 | DOI: 10.1016/S0022-460X(02)01601-2
+Jyoti Sinha. Heath Monitoring Techniques for Rotating Machinery. School of Engineering, University of Wales Swansea, Swansea (UK): 2002 October.  eScholarID: ma884
+Jyoti Sinha. Reliable Finite Element Modelling, Design Modification and Diagnosis using Model Updating Method. Reliable Finite Element Modelling, Design Modification and Diagnosis using Model Updating Method. 2002 February;  eScholarID: ma981
+SINHA JK; FRISWELL, M I; EDWARD, S. Simplified Models for the Location of Cracks in Beam Structures using Measured Vibration Data. Journal of Sound and Vibration. 2002 March; 251(1): 13-38. eScholarID: 1a10850 | DOI: 10.1006/jsvi.2001.3978
+Lees, AW, Jyoti  Sinha, and MI  Friswell. The Identification of the Unbalance of a Flexible Rotating Machine from a Single Run-down. ASME Turbo Expo 2002: Land, Sea and Air Conference, Amsterdam, Holland. 2002: no. GT-2002-30420. eScholarID: 2e193
+Sinha, Jyoti, MI  Friswell, AW  Lees, and RK  Sinha. An Alternate Method for Reliable Modelling of Flexible Rotating Machines. nd International Conference on Vibration Engineering and Technology of Machinery (VETOMAC-2), Bhabha Atomic Research Centre, Mumbai (Bombay), India. 2002:  eScholarID: 2e196
+Sinha J, Friswell M. Model Updating: A Tool for Reliable Modelling, Design Modification and Diagnosis. The Shock and Vibration Digest. 2002 January; 34: 27-35. eScholarID: 1e1521
+Sinha, Jyoti, MI  Friswell, AW  Lees, and RK  Sinha. Robust Method for the Rotor Unbalance Estimation. 2nd International Conference on Vibration Engineering and Technology of Machinery (VETOMAC-2), Bhabha Atomic Research Centre, Mumbai (Bombay), India. 2002:  eScholarID: 2e195
+Sinha J, Friswell M, Edwards S. Simplified Models for the Location of Cracks in Beam Structures using Measured Vibration Data. Journal of Sound and Vibration. 2002 March; 251: 13-38. eScholarID: 1e1519 | DOI: 10.1006/jsvi.2001.3978
+Sinha J, Friswell M. Simulation of the Dynamic Response of a Cracked Beam. Computers and Structures. 2002 July; 80: 1473-1476. eScholarID: 1e1523 | DOI: 10.1016/S0045-7949(02)00098-6
+Sinha, Jyoti, AW  Lees, MI  Friswell, and RK  Sinha. The Estimation of Foundation Models of Flexible Machines. . 3rd International Conference on Identification in Engineering Systems, Swansea, UK. 2002: 300-310. eScholarID: 2e197
+Sinha J, Friswell M, Lees A. The Identification of the Unbalance and the Foundation Model of a Flexible Rotating Machine from a Single Run-down. Mechanical Systems and Signal Processing. 2002 March; 16: 255-271. eScholarID: 1e1522 | DOI: 10.1006/mssp.2001.1387
+Jyoti Sinha. Model Updating in Structural Dynamics and its use in NDT and Design Optimization. Department of Mechanical Engineering, University of Wales Swansea, Swansea (UK): 2001 March.  eScholarID: ma944
+Sinha J, Mujumdar P, Moorthy R. Detection of Spring Support Locations in Elastic Structures using Gradient Based Finite Element Model Updating Technique. Journal of Sound and Vibration. 2001 February; 240: 499-518. eScholarID: 1e1517 | DOI: 10.1006/jsvi.2000.3237
+Sinha, Jyoti, AW  Lees, and MI  Friswell. Estimating the Unbalance of a Rotating Machine from a Single Run-Down. 19th International Modal Analysis Conference, Florida, USA. 2001: 109-115. eScholarID: 2e198
+Sinha J, Singh S, Rao A. Finite Element Simulation of Dynamic Behaviour of Open Ended Cantilever Pipe Conveying Fluid. Journal of Sound and Vibration. 2001 February; 240: 189-194. eScholarID: 1e1516 | DOI: 10.1006/jsvi.2000.3113
+Sinha J, Friswell M. The Location of Spring Supports from Measured Vibration Data. Journal of Sound and Vibration. 2001 June; 244: 137-153. eScholarID: 1e1518 | DOI: 10.1006/jsvi.2000.3461
+Sinha J, Mujumdar P, Moorthy R. A Parameter Identification Technique for Detection of Spacer Locations in an Assembly of Two Coaxial Flexible Tubes. Nuclear Engineering and Design . 2000 March; 196: 139-151. eScholarID: 1e1514
+Sinha J, Moorthy R. Combined Experimental and Analytical Method for a Realistic Seismic Qualification of Equipment. Nuclear Engineering and Design . 2000 February; 195: 331-338. eScholarID: 1e1513
+Sinha J, Moorthy R. Added mass of Submerged perforated tubes. Nuclear Engineering and Design . 1999 September; 193: 23-31. eScholarID: 1e1512
+Jyoti Sinha. Model Updating in Structural Dynamics Through Gradient Search Techniques. Department of Aerospace Engineering, Indian Institute of Technology Bombay, Mumbai, India: 1998 January.  eScholarID: ma945
+Moorthy R, Sinha J. Dynamic Qualification of Complex Structural Components of Nuclear Power Plants. Nuclear Engineering and Design . 1998 March; 180: 147-154. eScholarID: 1e1511
+Mujumdar, PM, PB  Nair, and Jyoti  Sinha. Applications of optimization - finite element model updating in structural dynamics. 2nd Spring School on Flight Dynamics and Control, I.I.T., Mumbai (Bombay), India. 1998:  eScholarID: 2e203
+AR Rao, Jyoti Sinha, RIK Moorthy. Vibration Problems in Vertical Pumps Need for Integrated Approach in Design and Testing. The Shock and Vibration Digest. 1997; 29(2): 15-Aug. eScholarID: ma566
+Rao A, Sinha J, Moorthy R. Vibration Problems in Vertical Pumps Need for Integrated Approach in Design and Testing. The Shock and Vibration Digest. 1997 March; 29: 8-15. eScholarID: 1e1509
+Jyoti Sinha. Seismic Qualification of Structural Components. Department of Aerospace Engg., Indian Institute of Technology Bombay, Mumbai, India: 1996 October.  eScholarID: ma1002
+Moorthy R, Rao A, Sinha J, Kakodkar A. Use of an Unconventional Technique for seismic Qualification of Equipments. Nuclear Engineering and Design . 1996; 165: 15-23. eScholarID: 1e1508
+Sinha J, Sinha S, Moorthy R. Diagnosis of the bearing failure in a Pilger Mill. The Shock and Vibration Digest. 1996 March; 28: 11-14. eScholarID: 1e1507
+Moorthy R, Sinha J, Rao A, Sinha S, Kakodkar A. Diagnostics of direct CT-PT contact of coolant channels of PHWRs. Nuclear Engineering and Design . 1995; 155: 591-596. eScholarID: 1e1506
+Sinha, Jyoti, RIK  Moorthy, and SC  Mahajan. Dynamic Qualification of Complex Structural Components of Nuclear Power Plants. Proceedings of the National Workshop on Shock and Vibration, RCI, Hyderabad, India. 1995: 10.1-10.8. eScholarID: 2e204
+Moorthy, RIK, Jyoti  Sinha, and A  Kakodkar. Use of unconventional techniques for realistic seismic qualification of equipments. Proc. of Xth symposium on Earthquake Engg., Roorkee, India. 1994: 853-862. eScholarID: 2e199
+Sinha, Jyoti, and RIK  Moorthy. Combined Experimental and Analytical Method for realistic seismic qualification of Equipments. 2nd International Conference on Vibration problems of Mathematical Elasticity and Physics, Jalpaiguri, India. 1993: 115-119. eScholarID: 2e200
+Sinha, Jyoti, AR  Rao, RIK  Moorthy, and SC  Mahajan. Vibration Qualification of the proposed Moderator Sparger tube of MAPS. National Symposium on Safety of Nuclear Power Plant and other facilities, BARC, Mumbai, India. 1992:  eScholarID: 2e205
+Moorthy, RIK, AR  Rao, Jyoti  Sinha, SC  Mahajan, and A  Kakodkar. Development studies for degradation diagnostics of PHWRs. . IAEA Technical Committee Meeting on Utilization of Condition Monitoring and degradation diagnostic system to improve Nuclear Safety, Vienna, Austria. 1991:  eScholarID: 2e201
+

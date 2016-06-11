@@ -1,0 +1,119 @@
+name  role  phone  location  email
+Dr Antonino Filippone  Reader  0161-3063702  George Begg Building - C33  a.filippone@manchester.ac.uk  
+
+BIOGRAPHY: 
+Dr. Filippone's research background is on aerodynamic systems for both ground and airborne vehicles. Specifically, he is interested  in the development of new high-fidelity methods for the analysis, optimisation and design of aerospace systems and their application to real-life cases.
+His current interests are in four general areas: 1. aero-acoustics (with emphasis on  aircraft noise and noise progagation); 2. aero-mechanics of fixed- and rotary-wing vehicles (commercial airplanes, helicopters and VTOL), 3. environmental analysis (exhaust emissions, acoustic emissions, high-altitude effects of flight); 4. multi-disciplinary applications in simulation engineering. His strategic interests are aligned with the themes of transport, energy and environment. Past experience includes reseearch in industrial flows, wind energy generation, power systems, multi-phase flows, wind tunnel research (mostly aerodynamics/acoustics) and other laboratory measurements,  stochastic optimisation and more. Dr. Filippone is the author of textbooks on aircraft and rotorcraft flight performance.  He is a Fellow of the Royal Aeronautical Society and a Chartered Engineer.
+
+RESEARCH: 
+Computational Aerodynamics
+Aircraft Noise and Acoustics
+Flight Mechanics of Aircraft and Rotorcraft
+Aero Engine Intakes
+Flight, Power and Propulsion Systems
+Multi-disciplinary Modelling and Simulation
+High-Performance Computing & Software Engineering
+
+PUBLICATION: 
+Antonio Filippone. Advanced Aircraft Fligfht Performance. Cambridge University Press: eScholarID: ma1086
+Antonio Filippone. Chapter 1. Aerospace Engineering Reference Desk. Elsevier. eScholarID: ma1701
+Antonio Filippone. Chapter 2. Aerospace Engineering Reference Desk. Elsevier. eScholarID: ma1703
+Antonio Filippone. Chapter 3. Aerospace Engineering Reference Desk. Elsevier. eScholarID: ma1704
+Antonio Filippone, N Bojdo. Helicopter Engine Intake Barrier Filter Design. Helicopter Engine Intake Barrier Filter Design.  eScholarID: ma1240
+A Visingardi, Antonio Filippone, B Kutz, B Rodriguez, PM Basset, R Bakker, R Green. Helicopter Wakes in Confined Spaces Including Ground Effects. Helicopter Wakes in Confined Spaces Including Ground Effects.  eScholarID: ma1236
+Antonio Filippone, R Mikkelsen. New Computational Models for Airframe Aerodynamics In- and Out of Ground Effect. New Computational Models for Airframe Aerodynamics In- and Out of Ground Effect.  eScholarID: ma1239
+Antonio Filippone, N Bojdo. Operational Performance Parameters of Engine Inlet Barrier Filtration Systems for Rotorcraft. Operational Performance Parameters of Engine Inlet Barrier Filtration Systems for Rotorcraft.  eScholarID: ma1237
+Antonio Filippone, N Bojdo. Performance Prediction of Inlet Barrier Filters for Rotorcraft. Performance Prediction of Inlet Barrier Filters for Rotorcraft.  eScholarID: ma1238
+Filippone A. Assessment of Aircraft Contrails Avoidance Strategies. Journal of Aircraft. 2015 May; 52(3): 872-877. eScholarID: 288318 | DOI: 10.2514/1.C033176
+Filippone A. Flyover Noise Measurements and Predictions of Commercial Airplanes. Journal of Aircraft. 2015;  eScholarID: 288380 | DOI: doi: 10.2514/1.C033370
+Filippoe A. Validation Strategies of Aircraft Noise with Measured Data. The Aeronautical Journal. 2015 May; 119(1215):  eScholarID: 288325
+Antonio Filippone. A Comparative Study of Helicopter Engine Particle Separators. Journal of Aircraft. 2014 May; 51(3): 1030-1042. eScholarID: 257049 | DOI: 10.2514/1.C032322
+Aircraft Noise Prediction. Progress in Aerospace Sciences. 2014 July; 69: 27-63. eScholarID: 225692 | DOI: 10.1016/j.paerosci.2014.02.001
+Filippone A. Challenges in Aircraft Noise Prediction. 2014: -. eScholarID: 257093
+Antonio Filippone. Comparison of Aircraft Noise Models with Flyover Data. Journal of Aircraft. 2014 May; 51(3): 1043-1047. eScholarID: 257072 | DOI: 10.2514/1.C032368
+Traut M. Propulsive power contribution of a kite and a Flettner rotor on selected shipping routes. Applied Energy. 2014 January; 113(1):  eScholarID: 288386 | DOI: 10.1016/apenergy.2013.07.0.26
+Antonio Filippone. Self-Cleaning Barrier Filter for Rotorcraft Engines. The Aeronautical Journal. 2014 November; 118(1209): 1311-1328. eScholarID: 257061
+Bojdo N and Filippone A. A Comparative Study of Helicopter Engine Air Particle Separation Technologies. Amsterdam: NLR: 2012: -. eScholarID: 172877
+Antonio Filippone. A Resonant Amplificator Engine for Nano Air Vehicles. AIAA Journal. 2012; (0):  eScholarID: ma047
+Filippone A. Advanced Aircraft Flight Performance. New York: Cambridge University Press:2012.  eScholarID: 172872
+Bojdo N and Filippone A. Fabric Filter Performance for Helicopter Inlet Barrier Filters. AHS Journal. 2012 July; 57(3): 032002. eScholarID: 172874
+Antonio Filippone, Nicholas Bojdo. Fabric Filter Performance of Helicopter Inlet Barrier Filters. Journal of the American Helicopter Society. 2012; 53(3): 13-Jan. eScholarID: ma222
+Filippone A and Z Mohammed-Kassim. Multi-Disciplinary Simulation of Propeller-Turboprop Aircraft Flight. Aeronautical J. 2012 October; 116(1184):  eScholarID: 172875
+Bojdo N and Filippone A. Operational Performance of Inlet Barrier Filters for Rotorcraft. Aeronautical J. 2012 August; 116(1182):  eScholarID: 172873
+Filippone A and Bertsch L and Pott-Pollenske M. Strategies for Comprehensive Aircraft Noise Prediction Methods. AIAA: 2012: -. eScholarID: 172876
+Antonio Filippone. Impact-Driven Research. What Prospects for Engineering?. Impact-Driven Research. What Prospects for Engineering?. 2011 April;  eScholarID: ma893
+Bojdo N and Filippone A. Performance Prediction of Inlet Barrier Filters for Rotorcraft Engines. Journal of Aircraft. 2011 November; 48(6): 1903-1912. eScholarID: 149924 | DOI: 10.2514/1.C031335
+Antonio Filippone. Cruise Altitude Flexibility of Jet Transport Aircraft. Aerospace Science and Technology. 2010; 14(0): 283-294. eScholarID: ma144
+Antonio Filippone, Z Mohammed-Kassim. Fuel Savings on a Heavy Vehicle via Aerodynamic Drag Reduction. Transportation Research Part D. 2010; 15(0): 275-285. eScholarID: ma246
+A Ibrahim, Antonio Filippone. Supersonic Aerodynamics of a Projectile with Slot Cavities. Aeronautical Journal. 2010; 113(1150): 15-24. eScholarID: ma474
+Ibrahim A & Filippone A. Supersonic Aerodynamics of a Projectile with Slots Cavities. Aeronautical Journal. 2010 January; 113(1150): 15-24. eScholarID: 151893
+Antonio Filippone. Theoretical Framework for the Simulation of Transport Aircraft Flight. Journal of Aircraft. 2010; 43(5): 1679-1696. eScholarID: ma540
+Filippone A & Bojdo A. Turboshaft engine air particle separation. Progress in Aerospace Sciences. 2010; 46(5-6): 224-245. eScholarID: 149339 | DOI: 10.1016/j.paerosci.2010.02.001
+Antonio Filippone. Ornithopter Engine and Method for Using the Same Ornithopter Engine and Method for Using the Same. 2009 December. eScholarID: ma960
+Filippone A. Aerospace Engineering Desk Reference. Elsevier.2009:  eScholarID: 3e37
+Filippone, Antonio, and R  Mikkelsen. Advances in CFD and Actuator Disc Modelling for Helicopter Aerodynamics. European Rotorcraft Forum, Hamburg, Germany. 2009:  eScholarID: 2e1073
+Filippone, Antonio. Advances in Systems Modelling for Aircraft Flight Performance and Stability. 3rd EUCASS Conference, Versailles, France. 2009:  eScholarID: 2e1072
+Filippone A. Inverted Jet Spoilers for Aerodynamic Control. Journal of Aircraft. 2009 July; 46(4): 1240-1252. eScholarID: 1e859 | DOI: 10.2514/1.40321
+Filippone, Antonio. Recent Progress in Comprehensive Models for Aircraft Flight. CEAS, European Air and Space Conference. 2009:  eScholarID: 2e1238
+Leishman, JG, B  Johnson, and Antonio  Filippone. From Helicopters to Vespas - The Aeronautical Engineering of Corradino D\'Ascanio. 65th American Helicopter Society Forum, Gravepine, TX. 2009:  eScholarID: 2e1071
+Rakhshani, B, and Antonio  Filippone. Large-Eddy Simulation for Aerodynamic Noise from High-Lift Device. AIAA Aerospace Sciences Meeting, Orlando, FL. 2009:  eScholarID: 2e1070
+Antonio Filippone, Imran Afgan. Orthogonal Blade Vortex Interaction on a Helicopter Tail Rotor. AIAA Journal. 2008; 6(0): 1476-1489. eScholarID: ma391
+Antonio Filippone, I Afgan. Orthogonal Blade Vortex Interaction on a Helicopter Tail Rotor. AIAA Journal. 2008; 46(6): 1476-1489. eScholarID: ma392
+Antonio Filippone. The Aircraft and its Environment. Aerospace Engineering Desk Reference. Elsevier.2008:  eScholarID: ma1658
+Antonio Filippone. Unavailable. Aerospace Engineering Reference Desk. Elsevier.2008:  eScholarID: ma1702
+Filippone A. Analysis of Carbon-Dioxide Emissions from Transport Aircraft. Journal of Aircraft. 2008 January; 45: 185-197. eScholarID: 1e609 | DOI: 10.2514/1.31422
+Filippone A. Comprehensive Analysis of Transport Aircraft Flight Performance. Progress in Aerospace Sciences. 2008 March; 44: 192-236. eScholarID: 1e610 | DOI: 10.1016/j.paerosci.2007.10.005
+Filippone, Antonio. Computational Analysis of Orthogonal Blade Vortex Interaction, Liverpool, UK. European Rotorcraft Forum. 2008:  eScholarID: 2e874
+Filippone A. Numerical Analysis of the Start-up Flow Past a Renosant Cavity. Transactions of the ASME, Journal of Fluid Engineering. 2008 October; 130:  eScholarID: 1e707 | DOI: 10.1115/1.2969271
+Filippone A. On the Flutter and Drag Forces on Flexible Rectangular Canopies in Normal Flow. Journal of Fluids Engineering. 2008 May; 130(6): . eScholarID: 1e637 | DOI: 10.1115/1.2928431
+Filippone, Antonio. Operational Aspects of Transport Aircraft CO2 Emissions. AIAA Aerospace Sciences Meeting, Reno, NV, Paper AIAA 2008-0195. 2008:  eScholarID: 2e841
+Filippone A, Afgan I. Orthogonal Blade-Vortex Interaction on a Helicopter Tail Rotor. AIAA Journal. 2008 June; 46(6): . eScholarID: 1e638 | DOI: 10.2514/1.32690
+Filippone A. Rapid Estimation of Airfoil Aerodynamics for Helicopter Rotors. Journal of Aircraft. 2008 July; 45: 1468-1472. eScholarID: 1e692 | DOI: 10.2514/1.35560
+Filippone, Antonio. Requirements for Reduced Cruise Altitude of Transport Aircraft. Royal Aeronautical Society Structural Design Conference, Liverpool, UK. 2008:  eScholarID: 2e935
+Filippone, Antonio. Steep-descent and Approach of Jet Transport. AIAA Aerospace Sciences Meeting, Reno, NV. 2008:  eScholarID: 2e842
+Ibrahim, A, and Antonio  Filippone. Experimental and Computational Investigation of the Aerodynamics of a Supersonic Projectile with Streamwise Slots. 13th International Conference on Applied Mechanics, Cairo, Egypt. 2008:  eScholarID: 2e873
+Rakhshani, B, and Antonio  Filippone. Three-dimensional CFD Analysis of Slat Noise, AIAA Paper 2008-0015, Reno, NV. 2008:  eScholarID: 2e843
+Antonio Filippone. Effect of Porosity Strength on Drag Reduction of a Transonic Projectile. Journal of Aircraft. 2007; 44(1): 310-316. eScholarID: ma182
+FILIPPONE A; IBRAHIM, A. The Effect of a Porous Surface on the Drag of a Transonic Projectile. Journal of Aircraft. 2007 January; 44(1): 310-316. eScholarID: 1a9681 | DOI: 10.2514/1.23613
+FILIPPONE A; CLARKE, J C. Unsteady Computational Analysis of Vehicle Passing. Transactions of the ASME Series I: Journal of Fluids Engineering. 2007 March; 129(3): 359-367. eScholarID: 1a9682 | DOI: 10.1115/1.2427085
+Carruthers A, Filippone A. Drag and Flutter Characteristics of Loop Membranes. Journal of Aircraft. 2007 January; 44: 317-322. eScholarID: 1e1565
+Clarke J, Filippone A. Unsteady Computational Aerodynamics of Vehicle Passing. Transactions of the ASME, Journal of Fluid Engineering. 2007 March; 129: 368-375. eScholarID: 1e153
+Filippone A. Effect of Porosity Strength on Drag Reduction of a Transonic Projectle. Journal of Aircraft. 2007 January; 44: 310-316. eScholarID: 1e1564
+Filippone A. On the Benefits of Lower Mach Number Aircraft Cruise. Aeronautical Journal. 2007 August; 111(1122): 531-542. eScholarID: 1e477
+Filippone A. On the Possibility of Human-Powered Vertical Flight. Journal of the American Helicopter Society. 2007 October; 52: 371-382. eScholarID: 1e529
+Filippone A. Prediction of Aerodynamic Forces on Helicopter Fuselage. Aeronautical Journal. 2007 March; 111(1117): 175-184. eScholarID: 1e166
+Filippone A. Steep-descent Maneuver of Transport Aircraft. Journal of Aircraft. 2007 September; 44(5): 1727--1739. eScholarID: 1e518
+Ibrahim A, Filippone A. Effect of Streamwise Slots on the Drag of a Transonic Projectile. Journal of Aircraft. 2007 November; 1865-1876. eScholarID: 1e532
+Antonio Filippone. Flight Performance of Fixed- and Rotary-Wing Aircraft. Elsevier:2006.  eScholarID: ma1082
+Antonio Filippone. Problems in Fixed- and Rotary Wing Aircraft Flight. Elsevier:2006.  eScholarID: ma1083
+Antonio Filippone. Unavailable. Multidisciplinary Modelling, Simulation and Validation in Aeronautics. Springer.2006:  eScholarID: ma1652
+Clarke, J, and Antonio  Filippone. Unsteady Computational Aerodynamics of Vehicle Passing. EUROMECH Conference, Stockholm, Sweden. 2006:  eScholarID: 2e222
+Filippone A. Multidisciplinary Modelling, Simulation and Validation in Aeronautics. Springer.2006:  eScholarID: 3e21
+Filippone, Antonio. Computational Aerodynamics of Vehicle Passing. 6th MIRA International Conference on Vehicle Aerodynamics. 2006:  eScholarID: 2e221
+Ibrahim, A, and Antonio  Filippone. A Numerical Study of the Boat-Tailing on the Drag Reduction of a Transonic Projectile, AIAA paper 2006-3853. AIAA Applied Aerodynamics Conference, San Francisco, CA. 2006:  eScholarID: 2e223
+Rakshani, B, and Antonio  Filippone. Noise from High-Lift Leading-Edge Device. AIAA Applied Aerodynamics Conference, San Francisco, CA. 2006: AIAA Paper-2006-3844. eScholarID: 2e224
+FILIPPONE A; CARRUTHERS, A. Aerodynamic Drag of Streamers and Tapes. Journal of Aircraft. 2005 July; 42(4): 976-982. eScholarID: 1a9683 | DOI: 10.2514/1.9754
+Filippone, A. Aircraft Flight and Performance. 2005.  eScholarID: 4a16
+Filippone, A. Multidisciplinary Aspects in Rotorcraft Technology. Multidisciplinary Modelling,Simulation and Validation in Aeronautics, G. Bugeda and J. Periaux, editors, Springer 2005. 2005:  eScholarID: 3a58
+Carruthers, A & Filippone, A. On the Aerodynamic Drag of Streamers and Tapes. Journal of Aircraft. 2005 January; 42(1):  eScholarID: 1a3306 | DOI: 10.2514/1.9754
+Carruthers, A & Filippone, A. The Aerodynamic Drag of Parafoils. Journal of Aircraft. 2005 July; 42(4):  eScholarID: 1a3357 | DOI: 10.2514/1.12255
+Carruthers, AC, and Antonio  Filippone. Aerodynamic Drag of Streamers, Parafoils and Loops. AIAA Aerospace Sciences Meeting & Exhibit, Reno, NV, AIAA 2005-0856. 2005:  eScholarID: 2e404
+Carruthers A, Filippone A. On the Aerodynamic Drag of Parafoils. Journal of Aircraft. 2005 July; 42: 1081-1083. eScholarID: 1e1568 | DOI: 10.2514/1.12255
+Carruthers A, Filippone A. On the Aerodynamic Drag of Streamers and Tapes. Journal of Aircraft. 2005 July; 42: 976-982. eScholarID: 1e1567 | DOI: 10.2514/1.9754
+Filippone, Antonio. On the Accuracy of Rotating Meshes for the Simulation of Rotating Cylinders. AIAA Aerospace Meeting & Exhibit, Reno, NV, AIAA 2005-1409. 2005:  eScholarID: 2e405
+Filippone, Antonio, and JA  Michelsen. Shear-driven Cavity Flows with Semi-Closed Walls. AIAA Aerospace Meeting & Exhibit, Reno, NV, AIAA 2005-1272. 2005:  eScholarID: 2e406
+Carruthers, A, and Antonio  Filippone. Observations on the Shear-Driven Cavity with Reduced Lid Opening. Royal Aeronautical Society Aerodynamics Conference, London, UK. 2004:  eScholarID: 2e877
+Filippone, Antonio. Unsteady Aerodynamic Effects in Vehicle Passing. 5th MIRA International Conference on Vehicle Aerodynamics, Warwick, UK. 2004:  eScholarID: 2e875
+Filippone, Antonio. Unsteady Fluid Dynamics in the Semi-Closed Cavity. ASME Fluid Dynamics Conference, Charlotte, NC - Paper HT-FED-2004-56225. 2004:  eScholarID: 2e876
+Filippone, A and Siquier, J. Aerodynamic Admittance of a Two-dimensional Body. The Aeronautical Journal. 2003; 107:  eScholarID: 1a2325
+Brown, L & Filippone, A. Airfoil at Low Speeds with Gurney Flaps. The Aeronautical Journal. 2003; 107:  eScholarID: 1a3996
+FILIPPONE A. Unsteady Gust Response of Road Vehicles. Journal of Fluids Engineering. 2003 September; 125(5):  eScholarID: 1a9684 | DOI: 10.1115/1.1603304
+Brown L, Filippone A. Airfoil at Low Speeds with Gurney Flaps. Aeronautical Journal. 2003; 107(1075): 539-546. eScholarID: 1e731
+Filippone A, Siquier J. Aerodynamic Admittance of a Two-dimensional Body. Aeronautical Journal. 2003; 107(1073): 405-418. eScholarID: 1e748
+Filippone, Antonio. Unsteady Gust Response in the Frequency Domain. International Conference on Unsteady Aerodynamics, Duke University, NC. 2003:  eScholarID: 2e878
+Filippone A. Unsteady Gust Response of Road Vehicles. Transactions of the ASME, Journal of Fluid Engineering. 2003 September; 125(4): 806-812. eScholarID: 1e739 | DOI: 10.1115/1.1603304
+Filippone, A. The Human-Powered Helicopter. The Aeronautical Journal. 2002; 106(1065): 619-624. eScholarID: 1a2326
+Filippone A. The Human-Powered Helicopter. Aeronautical Journal. 2002; 106(1065): 619-624. eScholarID: 1e754
+Filippone, A and Michelsen JA. Aerodynamic Drag Prediction on Helicopter Fuselage. Journal of Aircraft. 2001; 38:  eScholarID: 1a2269 | DOI: 10.2514/2.2765
+Filippone A, Michelsen J. Aerodynamic Drag Prediction on Helicopter Fuselage. Journal of Aircraft. 2001; 38(2): 326-333. eScholarID: 1e765 | DOI: 10.2514/2.2765
+

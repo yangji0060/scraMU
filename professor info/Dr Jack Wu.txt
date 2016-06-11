@@ -1,0 +1,40 @@
+name  role  phone  location  email
+Dr Jack Wu  Lecturer In Structural Engineering  0161-3065792  Pariser Building - B18  jack.wu@manchester.ac.uk  
+
+BIOGRAPHY: 
+B.Sc, M.Sc (87) in Eng. Mechanics, Hefei Univ. of Tech, China;  Ph.D of Composite Mechanics and Solid Mechanics, lecturer, Shanghai Jiaotong Univ (88-91); Postdoc fellow (91-93) and associate prof.(93-98), Tsingua Univ;  Research fellow, Delft Univ of Tech (96-97); Visiting scholar, Hong Kong Univ of Sci&Tech (98).  Research assistant, Univ of Leeds (98-99); Research officer, Univ of Ulster(99-00); Lecturer, Univ of Manchester, 2000-.
+
+RESEARCH: 
+Thin-walled structures
+Fibre reinforced polymer composite structures
+3-D FRP woven composites
+Composite plate and shell structures
+3-D anisotropic elasticity and micromechanics
+Analysis of adhesive stresses in dissimilar composite adherends
+FRP/concrete hybrid structures including repairing, retrofitting, strengthening
+Fracture analysis of high performance structural composites and NDT testing
+Toughening mechanism of fibre (whisker) reinforced cement and ceramic composites
+
+PUBLICATION: 
+Zhangjian Wu, Chao Han, Zhongrong Niu. A 3D exact analysis of the boundary layer effect of asymmetric piezoelectric laminates with electromechanical coupling. International Journal of Solids and Structures. 2015 October; 72: 118-129. eScholarID: 288379 | DOI: 10.1016/j.ijsolstr.2015.07.018
+Z. J. Wu & C. Han. A Strong Solution for a Generalised Plane Strain Unsymmetrical Piezoelectric Bi-layer Laminates. Mechanics of Advanced Materials and Structures. 2015 October;  eScholarID: 288426 | DOI: 10.1080/15376494.2015.1107671
+Chao Han, Zhangjian Wu, Zhongrong Niu. Accurate prediction of free-edge and electromechanical coupling effects in cross-ply piezoelectric laminates. Composite Structures. 2014 April; 113: 308-315. eScholarID: 258014 | DOI: DOI: 10.1016/j.compstruct.2014.03.027
+Chao Han and Zhangjian Wu. Free edge coupling of piezoelectric cross-ply laminated plates. 13th International Conference on Fracture 2013. Curran Associates, Inc. NY 12571 USA: ICF: 2014: 191-200. eScholarID: 258049
+Yang Zhiyong, Niu Zhongrong, Cheng Changzheng, Wu Zhangjian. A semi-analytical solution of three dimensional elasticity theory for functionally graded rectangular plates. 2013 August; 30(4): 581-586. eScholarID: 258005 | DOI: 10.11776/cjam.30.04.C033
+A Abdullaha, Colin Bailey, Jack Wu. Test investigating the punching shear of a column-slab connection strengthened with non-presstressed FRP plates. Construction and Building Materials. 2013; (0): 1134-1144. eScholarID: ma483
+KAMIS E, WU ZJ. NUMERICAL ANALYSIS OF COMPOSITE PLATE WITH CLAMPED EDGES. 2011: -. eScholarID: 150325
+Yang Z, Niu Z, Wu Z, Zhou H. Solution of 3-D elastic theory of simply supported isotropic rectangular thick plates by interpolation matrix method. Acta Mechanica Solida Sinica. 2011 October; 32: 93-99. eScholarID: 224849
+Wu J, Davies J. Coupling effect of interphase and fibre-bridging on the toughness of FRP. Composites Part A: Appied Science and Manufacturing. 2005; 36: 257-262. eScholarID: 1e1367
+Wu J, Bailey C. Fracture resistance of a cracked concrete beam post-strengthened with FRP sheets. International Journal of Fracture. 2005; 135(1-4): 35-49. eScholarID: 1e1139 | DOI: 10.1007/s10704-005-3468-z
+Wu, Jack, and J M  Davies. Fundamental problems in the modeling analysis of FRP/concrete hybrid structural members. Proceedings of the 8th International Symposium on Structural Engineering for Young Experts. 2004:  eScholarID: 2e87
+Wu, Jack, and M R  Maidens. Visualisation Teaching of Engineering Mechanics Concepts and Structural Design. Proceedings of the CIB W89 International Conference on Building and Education and Research, Salford, UK. 2004:  eScholarID: 2e84
+J M Davies, Jack Wu. Mechanical analysis of a cracked beam reinforced with an external FRP plate. Composite Structures. 2003; 62(0): 139-143. eScholarID: ma002
+Wu, Jack, and J M  Davies. Coupling effect of interphase and fibre-bridging on COD and the toughness of FRP. Proceedings of the 7th International Conference on the Deformation and Fracture of Composites (DFC-7), The University of Sheffield. 2003:  eScholarID: 2e82
+Wu, Jack, and J M  Davies. Load capacity of concrete beams strengthened with external FRP sheets. Proceedings of the 6th International Symposium on FRP Reinforcement for Concrete Structures, Singapore. 2003:  eScholarID: 2e85
+Wu J, Davies J. Mechanical analysis of a cracked beam reinforced with an external FRP plate. Composite Structures. 2003; 62(2): 139-143. eScholarID: 1e1365 | DOI: 10.1016/S0263-8223(03)00108-9
+Wu J, Ye J. Strength and fracture resistance of FRP reinforced flexural members. Cement and Concrete Composites. 2003; 25: 253-261. eScholarID: 1e1366 | DOI: 10.1016/S0958-9465(02)00015-X
+Wu J, Brown D, Davies J. An analytical modelling technique for predicting the stiffness of 3-D orthotropic laminated fabric composites. Composite Structures. 2002; 56: 407-412. eScholarID: 1e1432 | DOI: 10.1016/S0263-8223(02)00024-7
+Wu, Jack, and D  Brown. Geometric parameters and their influence on the mechanical properties of woven composites. In High Performance Structures and Composites. Invited paper of the 1st International Conference on High Performance Structures and Composites, Seville, Spain. 2002:  eScholarID: 2e83
+Wu, Jack, and J M  Davies. Modelling analysis of the splitting failure in FRP reinforced concrete plate. Proceedings of the 7th International Symposium on Structural Engineering for Young Experts, Tianjin, China. 2002:  eScholarID: 2e86
+Brown, D, and Jack  Wu. Geometric Modelling of Orthogonal 3-D Woven Textiles. International Conference for Manufacturing of Advanced Composites (ICMAC), Belfast. 2001:  eScholarID: 2e81
+

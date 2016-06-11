@@ -1,0 +1,36 @@
+name  role  phone  location  email
+Dr Jamshid Parvar  Lecturer  0161-3064231  Pariser Building - E8  jamshid@manchester.ac.uk  
+
+BIOGRAPHY: 
+Dr Jamshid Parvar has more than 25 years experience of Project Management; and Management of Business Projects Involving IS/IT Systems.
+
+RESEARCH: 
+Knowledge Management
+Leadership: Being an Effective Project Manager
+Leadership: Contemporary Issues
+Big Data
+Business Intelligence and Analytics
+Decision Support Systems
+Neural Networks and Fuzzy logic
+Business Projects Involving Information Systems / Information Technology
+Management of Projects
+Managing Risk
+Organization Strategy
+
+PUBLICATION: 
+Jamshid Parvar, R Amir. Harnessing Knowledge Management to Improve Organisational Performance. International Journal of Trade, Economics, and Finance (IJTEF). 2014; 5(1):  eScholarID: ma255
+Jamshid Parvar, M Aseri. Leadership and the Influence of Context in Organisations Performance: An Investigation of Leaders Views in Saudi Arabia. Leadership and the Influence of Context in Organisations Performance: An Investigation of Leaders Views in Saudi Arabia. 2014:  eScholarID: ma1180
+Jamshid Parvar, M Aseri. Leadership: A Study of Global & Cultural Context within the Saudi Arabia Organisation. Leadership: A Study of Global & Cultural Context within the Saudi Arabia Organisation. 2014:  eScholarID: ma1179
+Aseri, M., Parvar, J. Leadership: A Study of Global & Cultural Context within the Saudi Arabia Organisation. Proceeding of Fourteenth International Conference on Knowledge, Culture & Change in Organisation. On The Organisation: 2014: -. eScholarID: 264181
+Amir R, Parvar J. Harnessing Knowledge Management to Improve Organisational Performance. International Journal of Trade, Economics and Finance. 2014 February; 5(1): 31 -38. eScholarID: 263934
+Leadership and the Influence of Context in Organisations Performance: An Investigation of Leader’s Views in Saudi Arabia. Proceeding of British Academy of Management (ISBN: 978-0-9549608-6-5). British Academy of Management (ISBN: 978-0-9549608-6-5).: 2013: -. eScholarID: 264190
+Parvar, Jamshid, David  Lowe, and Margaret  Emsley. Development of a decision support system (DSS) for the contractor's decision to bid: regression analysis and neural network solutions. Proceedings of the First International Symposium on Commercial Management. The University of Manchester, UK. 2005: 122-135. eScholarID: 2e1152
+Lowe D, Parvar J, Emsley M. Development of a decision Support (DSS) for the contractors decision to bid. Journal of Financial Management of Property and Construction. 2004; 9: 27 42. eScholarID: 1e931
+Lowe D, Parvar J. A logistic regression approach to modelling the contractors decision to bid. Construction Management and Economics. 2004; 22: 643 654. eScholarID: 1e903 | DOI: 10.1080/01446190310001649056
+Parvar, Jamshid, David  Lowe, and Margaret  Emsley. Neural network decision support system for effective decision making in the decision to bid process. Proceedings of ASCE Specialty Conference on Fully Integrated and Automated Project Processes, Virginia Polytechnic and State University, Blacksburg, Virginia. 2002: -. eScholarID: 2e1153
+Parvar, Jamshid, David  Lowe, and Margaret  Emsley. A rational and optimal model of decision making for decision to bid process. Proceedings of COBRA 2001, September, Glasgow Caledonian University UK. ISBN: 1-84219-067-9, The RICS Foundation ISBN: 1-84219-067-9: 2001: 334 -353. eScholarID: 2e1154
+Parvar, Jamshid, David  Lowe, and Margaret  Emsley. Harnessing the potential of neural networks for effective decision making for decision to bid process. Proceedings of RICS Foundation (COBRA 2001) Construction and Building Research Conference. ISBN: 1-84219-067-9. The RICS Foundation: 2001: 354-364. eScholarID: 2e1155
+Parvar Jamshid, Lowe David, Emsley Margaret, and Duff Roy. Development of a decision support model to inform an organization’s marketing and decision to bid strategies. CIB Proceeding/Publication 249: 2000: -. eScholarID: 264192
+Parvar, Jamshid, David  Lowe, Margaret  Emsley, and Roy  Duff. Neural networks as a decision support system for the decision to bid process. Proceeding of 16th Annual Conference of Association of Researchers in Construction Management (ARCOM), Glasgow Caledonian University, UK. ISBN: 0953416143. 2000: 209 - 217. eScholarID: 2e1157
+Parvar, Jamshid, David  Lowe, Margaret  Emsley, and Roy  Duff. Neural networks as a tool for modelling the decision to bid process. Proceedings of COBRA 2000, the construction and building research conference of the RICS Research Foundation, University of Greenwich, London, England. 12 Great George Street, Parliament Square, London, England: RICS Research Foundation, London, England. ISBN: 1-84219-027-X.: 2000: 331-339. eScholarID: 2e1156
+

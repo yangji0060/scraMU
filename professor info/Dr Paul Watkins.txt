@@ -1,0 +1,64 @@
+name  role  phone  location  email
+Dr Paul Watkins  Reader  0161-3063706  George Begg Building - C.024  paul.watkins@manchester.ac.uk  
+
+BIOGRAPHY: 
+Born in Hampshire, England, 1947.
+Educated Queen Mary's Grammar School, Basingstoke.
+University: Mathematics at Cambridge (BA),
+Mechanical Engineering at Imperial College, London University (MSc, DIC, PhD)
+Research Assistant and Temporary Lecturer, Imperial College, 1976-1985.
+At UMIST since 1985. University of Manchester since 2004.
+Awarded DEng by UMIST, 1998.
+Associate Editor of International Journal of Heat and Fluid Flow since 2003.
+Reader in Mechanical Engineering, since 1999.
+Director of undergraduate Mechanical Engineering programmes.
+Associate Editor of International Journal of Heat & Fluid Flow since 2003.
+
+RESEARCH: 
+The development of novel physical models for multi-phase flows, in particular, liquid spray/gas flow
+Computational Fluid Dynamics analyses of sprays in and from a variety of devices, e.g. diesel, petro
+Escapes from pressure vessels and pipelines
+CFD applied to complex flows in internal combustion engines, including sprays and combustion
+
+PUBLICATION: 
+NG Emekwuru, Paul Watkins. Application of a moments spray model to solid cone diesel sprays. Application of a moments spray model to solid cone diesel sprays.  eScholarID: ma1153
+GC Nhumaio, Paul Watkins. CFD predictions of Electrohydrodynamics in model DISI engines. CFD predictions of Electrohydrodynamics in model DISI engines.  eScholarID: ma1154
+E Lemini, Paul Watkins. Development of a spray wall impaction model using the droplet number moment theory. Development of a spray wall impaction model using the droplet number moment theory.  eScholarID: ma1155
+J-C Landero, Paul Watkins. Development of a spray-impingement heat transfer model. Development of a spray-impingement heat transfer model.  eScholarID: ma1156
+Isares Dhuchakallaya, Phadungsak Rattanadecho, Paul Watkins. Auto-ignition and combustion of diesel spray using unsteady laminar flamelet model. Applied Thermal Engineering. 2013 January; 52(1): 420-427. eScholarID: 185278 | DOI: 10.1016/j.applthermaleng.2012.12.016
+AA al-kedhem Majhool, Paul Watkins. Spray algorithm without interface capture. Journal of Computational Physics. 2012; 231(9): 3647-3662. eScholarID: ma461
+A.A. Al-Kadhem Majhool, A.P. Watkins. Spray algorithm without interface capturing. Journal of Computational Physics. 2012; 231(9): 3647-3662. eScholarID: 152082 | DOI: 10.1016/j.jcp.2012.01.012
+N.G. Emekwuru, A.P. Watkins. Application of a moments spray model to solid cone diesel sprays, Paper No. JSAE 20119080/SAE 2011-01-1843. 2011: -. eScholarID: 134354
+D.P. Jones, A.P.Watkins. Droplet size and velocity distributions for spray modelling. Journal of Computational Physics. 2011; 231(2): . eScholarID: 134351 | DOI: 10.1016/j.jcp.2011.09.030
+I Dhuchakallaya, Paul Watkins. Numerical modelling of Diesel spray combustion. International Journal of Engine Research. 2011; 12(2): 169 - 180. eScholarID: ma349
+B.K. Tay, D.P. Jones, D. Lowe, G.B. McFiggans, M.W. Gallagher, A.P. Watkins. Modelling aerosol processes in urban street canyons. 2008: -. eScholarID: 134353
+D.P. Jones, A.P. Watkins. Spray impingement model based on the method of moments. 2008: -. eScholarID: 134352
+Jones, DP, and Paul  Watkins. Spray impingement model based on the method of moments. Proc. 22nd Annual Conference of ILASS-Europe, Como, Italy. 2008:  eScholarID: 2e1078
+Landero J, Watkins P. Modelling of steady-state heat transfer in a water spray impingement onto a heated wall. Atomization and Sprays. 2008; 18(1): 1 - 47. eScholarID: 1e469 | DOI: 10.1615/AtomizSpr.v18.i1.10
+G.C.S. Nhumaio, A.P. Watkins. CFD predictions of Electrohydrodynamics in model DISI engines, SAE conference paper 07PFL-156. 2007: -. eScholarID: 134360
+Watkins P. Modelling of mean temperatures used for calculating heat and mass transfer in sprays. International Journal of Heat and Fluid Flow. 2007; 28(3): 388-406. eScholarID: 1e468
+Nhumaio G, Watkins P. Prediction of charge drift in a concept electrosprayed DISI engine. Transactions of the ASME, Journal of Fluid Engineering. 2006; 128(5): 903-912. eScholarID: 1e470 | DOI: 10.1115/1.2243299
+Cooper, Dennis, P  Phanpanit, and Paul  Watkins. Ultrasonic Atomization of Salt Water. 9th UK National Heat Transfer Conference. 2005:  eScholarID: 2e344
+Emekwuru, N, and Paul  Watkins. Modelling of electrostatic sprays using the moments approach to spray simulation. Proc. 20th Annual Conference of ILASS-Europe, Orleans, France. 2005:  eScholarID: 2e718
+Jananama M, Watkins P, Yule A. Electrostatic effects on agricultural air-assisted sprays and deposition: Part I: An experimental study. Atomization and Sprays. 2005; 15(6): 603-628. eScholarID: 1e1341 | DOI: 10.1615/AtomizSpr.v15.i6.10
+Jananama M, Watkins P, Yule A. Electrostatic effects on agricultural air-assisted sprays and deposition: Part II: A computational study. Atomization and Sprays. 2005; 15(6): 629-660. eScholarID: 1e1342 | DOI: 10.1615/AtomizSpr.v15.i6.20
+Nhumaio G, Watkins P. Simulation of electrosprays in model DISI engine in-cylinder flows. International Journal of Engine Research. 2005; 6(6): 527-546. eScholarID: 1e1343 | DOI: 10.1243/146808705X30477
+Nhumaio, GC, Paul  Watkins, and AJ  Yule. CFD predictions of three overlapping sprays discharged in hot turbulent flows. Proc. 20th Annual Conference of ILASS-Europe, Orleans, France. 2005:  eScholarID: 2e717
+Watkins, Paul. The application of gamma and beta number size distributions to the modelling of sprays. Proc. 20th Annual Conference of ILASS-Europe, Orleans, France. 2005:  eScholarID: 2e716
+A Yoong, Paul Watkins. Modelling of LPG spray development, evaporation and combustion. International Journal of Engine Research. 2004; 5(0): 469-497. eScholarID: ma322
+WATKINS AP; A YOONG. Modelling of liquid petroleum gas spray development, evaporation and combustion. International Journal of Engine Research. 2004 December; 5(6): 469-497. eScholarID: 1a9255 | DOI: 10.1243/1468087042674643
+Beck J, Watkins P. The simulation of fuel sprays using the moments of the drop number size distribution. International Journal of Engine Research. 2004; 5(1): 1-21. eScholarID: 1e1446 | DOI: 10.1243/146808704772914219
+Landero, J C, and Paul  Watkins. Spray-impingement heat transfer model. ILASS-Europe 2004, Nottingham. 2004:  eScholarID: 2e75
+Lemini, E, and Paul  Watkins. Application of a spray wall impaction model using drop number size moment theory. ILASS-Europe 2004, Nottingham. 2004:  eScholarID: 2e76
+Nhumaio, G C, Paul  Watkins, and A J  Yule. Experiments and CFD simulations of overlapping sprays issued from air-assist atomizers. ILASS-Europe, Nottingham. 2004:  eScholarID: 2e77
+Verdurmen R, Sibeijn M, Schulte G, Fritsching U, Bauckhage K, Tropea C, Sommerfeld M, Watkins P, Yule A, Sconfeldt H, Menn P, Ritziert J, Blei S, Nhumaio G, Sorenson T, Gunsing M, Straatsma J, Verschueren M. Simulation of agglomeration in spray drying installations: the EDECAD project. Drying Technology. 2004; 22(6): 1403-1461. eScholarID: 1e1339 | DOI: 10.1081/DRT-120038735
+Yue, B, and Paul  Watkins. Mathematical development and numerical analysis of further transport equations for the droplet size moment theory. ILASS-Europe 2004, Nottingham. 2004:  eScholarID: 2e74
+WATKINS AP; JC BECK. On the development of a spray model based on drop-size moments. Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences. 2003 June; 459(2034): 1365-1394. eScholarID: 1a9257 | DOI: 10.1098/rspa.2002.1052
+WATKINS AP; JC BECK. On the development of spray submodels based on droplet size moments. Journal of Computational Physics. 2003 February; 182(2): 586-621. eScholarID: 1a9258 | DOI: 10.1006/jcph.2002.7186
+WATKINS AP; JC BECK. The droplet number moments approach to spray modelling: The development of heat and mass transfer sub-models. International Journal of Heat and Fluid Flow. 2003 January; 24(2): 242-259. eScholarID: 1a9256 | DOI: 10.1016/S0142-727X(02)00242-4
+Beck J, Watkins P. The simulation of water and other non-fuel sprays using a new spray model. Atomization and Sprays. 2003; 13(1): 1-26. eScholarID: 1e1337 | DOI: 10.1615/AtomizSpr.v13.i1.10
+Hernandez-Gonzalez, S M, and Paul  Watkins. Mathematical and numerical analysis of droplet surface temperature using the droplet size moment theory. ICLASS 2003, Sorrento. 2003:  eScholarID: 2e73
+Aamir M, Awais M, Watkins P. Application of artificial neural networks modelling to sprays and spray impingement heat transfer. Atomization and Sprays. 2002; 12(4): 359-386. eScholarID: 1e1334 | DOI: 10.1615/AtomizSpr.v12.i4.10
+Beck J, Watkins P. On the development of spray submodels based on droplet size moments. Journal of Computational Physics. 2002; 182: 586-621. eScholarID: 1e1335 | DOI: 10.1006/jcph.2002.7186
+Walmsley S, Watkins P, Yule A. On the prediction and structures of wide-angle full-cone liquid sprays. Atomization and Sprays. 2001; 11(4): 453-470. eScholarID: 1e1333
+

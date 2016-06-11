@@ -1,0 +1,21 @@
+name  role  phone  location  email
+Dr M Ahmad Syed  Lecturer in Geotechnical Engineering  0161-3064637  Pariser Building - E15  mohammed.ahmad.syed@manchester.ac.uk  
+
+BIOGRAPHY: 
+After receiving Bachelor of Technology degree with Honours and a Gold Medal (in Surveying), Dr. Ahmad earned his Master's and PhD degrees, from Indian Institute of Technology Kanpur and Indian Institute of Technology Bombay, respectively. Dr. Ahmad was awarded scholarships for his postgraduate studies (Master's and PhD).
+Dr. Ahmad's research field is 'seismic stability of waterfront retaining structures' and has published his research work in journals of good international repute. Other than this field, Dr. Ahmad has research interests in the application of finite element and finite difference methods to the geomechanics problems, reinforced soil, ground engineering and hydrodynamics. He is keenly working on extending his research skills in the abovementioned specialist areas. Dr. Ahmad enjoys programming using MATLAB, C/C++ and FORTRAN.
+Dr. Ahmad also has experience of working in industry and has worked as a Geotechnical Specialist for a total period of approximately three years in: Consulting Engineering Services (I) Pvt. Ltd, Sargon Geosynthetics Ltd. (now a part of Maccaferri Environmental Soultions) and Dar Al-Handasah Consultants.
+
+RESEARCH: 
+Earthquake Geotechnical Engineering
+Geomechanics Problems - Numerical and Analytical Modelling (FEM, FDM, DEM etc.)
+Reinforced Soil Wall and Slopes
+Ground Engineering
+Waterfront Retaining Structures
+
+PUBLICATION: 
+Syed A, Choudhury D. Seismic internal stability analysis of waterfront reinforced-soil wall using pseudo-static approach. Ocean Engineering. 2012; 52: 83-90. eScholarID: 177114 | DOI: 10.1016/j.oceaneng.2012.05.009
+Syed A, Choudhury D, Bellezza I, D'Alberto D, Fentini F. Discussion: Seismic design factor for sliding of waterfront retaining wall. Proceedings of ICE, Geotechnical Engineering. 2011; 164: 343-345. eScholarID: 177111
+D Choudhury, M Ahmad Syed. Pseudostatic design factors for stability of waterfront-retaining wall during earthquake. Journal of Earthquake and Tsunami. 2010; 4(4): 387-400. eScholarID: ma415
+D Choudhury, M Ahmad Syed. Reply to discussion on 'Stability of waterfront retaining wall subjected to pseudo-static earthquake forces'. Ocean Engineering. 2008; 35(14): 1567-1568. eScholarID: ma428
+

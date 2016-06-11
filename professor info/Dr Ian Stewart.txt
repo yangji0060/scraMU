@@ -1,0 +1,10 @@
+name  role  phone  location  email
+Dr Ian Stewart  Lecturer and Assistant Programme Director  0161-3063705  Pariser Building - E04  i.c.stewart@manchester.ac.uk  
+
+BIOGRAPHY: 
+Dr Ian Stewart is Lecturer and Programme Manager of the MSc in Management of Projects. Additionally, he lectures in Commercial Management of Projects. This subject first bought him to the school in 2001 through teaching on the bespoke UMIST BT MSc in Commercial Management. A PhD in this area followed, which was a combination of historical research into the descent of the Commercial Manager into project-led organisations such as BT, RR & BAE and the practice of innovation within the commercial role in those firms. From this, he claims the distinction of holding the last UMIST PhD. The history of British industrial management from 1850, particularly social mobility, vertical integration and the resistance of Schools of Engineering to commercial and management education remains a research interest. Following disenchantment with the I.T. industry and the .com boom, Ian has been falling towards academia and along the way has developed extensive interdisciplinary experience, contextualising business and management education for engineering, projectised and high technology contexts. Ian holds visiting lectureships at Ecole d'Ingnieurs en Genie des Systmes Industriels, La Rochelle, WMG University of Warwick and Manchester Business School. Ian is a Fellow of the Higher Education Academy.
+
+RESEARCH: 
+
+PUBLICATION: 
+

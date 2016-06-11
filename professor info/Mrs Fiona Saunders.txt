@@ -1,0 +1,29 @@
+name  role  phone  location  email
+Mrs Fiona Saunders  Senior Lecturer  0161-3063738  Pariser Building - E 18  fiona.saunders@manchester.ac.uk  
+
+BIOGRAPHY: 
+Fiona Saunders is an experienced project manager with a successful 17 year career in manufacturing management, project management and consultancy in the UK and Europe. She has worked with a number of blue chip companies in the engineering, finance and utilities sector to deliver both business change and technology projects. She joined The University of Manchester in 2008 as a Lecturer in Project Management in the School of Mechanical, Aerospace and Civil Engineering.
+Her teaching interests centre on project finance for major infrastructure projects, planning and resource management and operations management. Her research interests are in the management of uncertainty in safety critical industries and the use of Virtual Learning Environments and social media to enhance the student learning experience. Fiona also works closely with a number of project management organisations in the engineering and nuclear sector, advising on project delivery via effective planning and resource management.
+A graduate of Durham University, she is a Chartered Manufacturing Engineer (MIET) and also holds a Master of Business Administration (MBA) with Distinction from Lancaster University Management School. She is a Member of the Chartered Management Institute and actively involved with the Association of Project Management.
+For more information please see my webpages and blog www.fionasaunders.co.uk
+
+RESEARCH: 
+Managing project uncertainty in highly regulated safety critical industries
+Planning and resource management
+Technology enhanced teaching and learning
+
+PUBLICATION: 
+Fiona C Saunders; Andrew W Gale; Andrew H Sherry. Mapping the multi-faceted: Determinants of uncertainty in safety-critical projects. International Journal of Project Management. 2016 February;  eScholarID: 296871
+Saunders, F.C, Gale, A.W. and Sherry, A.H. Conceptualising uncertainty in safety-critical projects: a practitioner perspective. International Journal of Project Management. 2015 February; 33(2): 467-478. eScholarID: 233064 | DOI: http://dx.doi.org/10.1016/j.ijproman.2014.09.002
+Saunders,F.C. Illuminating the unknown: mapping project uncertainty in civil nuclear infrastrucuture projects. 2015: -. eScholarID: 267042
+Saunders, F.C., Gale, A.W. & Sherry, A.H. Mapping the multi-faceted: Identifying the determinants of uncertainty in safety-critical projects. 2015: -. eScholarID: 267041
+Fiona C Saunders. Towards high-reliability project organising in safety-critical projects. Project Management Journal. 2015;  eScholarID: 246208
+Saunders, F.C. and Hutt, I. Enhancing large-class teaching: a systematic comparison of rich-media materials. Higher Education Research and Development. 2014 May;  eScholarID: 214106 | DOI: 10.1080/07294360.2014.911261
+Saunders,F.C,, Gale, A.W, & Sherry, A.H. Confronting uncertainty: practices of project managers in safety-critical industries. 2013: -. eScholarID: 193698
+Saunders, F.C., Gale, A.W, & Sherry, A.H. Understanding Uncertainty in safety-critical industries. 2013: -. eScholarID: 193695
+Saunders, F.C. and Hutt, I. Richness,responsiveness and relationship: Using rich media materials to enhance teaching of core concepts. Innovation Practice and Research in Engineering Eduation. 2012: -. eScholarID: 170327
+Saunders F, Gale A W. Digital or didactic: Using learning technology to confront the challenge of large cohort teaching. British Journal of Educational Technology. 2011 November;  eScholarID: 140523 | DOI: 10.1111/j.1467-8535.2011.01250.x
+Fiona C Saunders. Project Finance Casebook. Harlow, UK: Pearson Education Limited:2011.  eScholarID: 158038
+Saunders F, Jasper M, Whitton P. Promoting collaborative learning in engineering management education through the use of wikis. 2010: -. eScholarID: 140521
+Saunders F, Gale A W. Using Web 2.0 in Large Cohort Project Management Education: Panacea or Empty Promise. 2010: -. eScholarID: 140518
+

@@ -1,0 +1,82 @@
+name  role  phone  location  email
+Dr Graham Hall  Lecturer  0161-2754400  Pariser Building - C18  graham.n.hall@manchester.ac.uk  
+
+BIOGRAPHY: 
+After undertaking an apprenticeship at a paper making machinery company, Graham studied Mechanical Engineering at the University of Manchester.  His 3rd year project during the BEng was on modelling the irradiation-induced changes in nuclear grade graphite.  Upon completion of the undergraduate degree, he took the opportunity to continue this research in the form of an EngD at the University of Manchester.
+As a PDRA, Graham worked on the microstructural modelling of nuclear graphite for both the UKs existing nuclear reactors and the next generation of nuclear reactors.  His work focused upon using microstructural information and experimental data to develop models and increase understanding of the irradiation-induced changes in graphite.
+
+RESEARCH: 
+Nuclear grade graphite
+Microstructural modelling
+Computed X-ray tomography
+Finite element modelling
+
+PUBLICATION: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Arregui-Mena J, Margetts L, Griffiths D, Lever L, Hall G, Mummery P. Spatial variability in the coefficient of thermal expansion induces pre-service stresses in computer models of virgin Gilsocarbon bricks. Journal of Nuclear Materials. 2015; 465: 793-804. eScholarID: 292427 | DOI: http://dx.doi.org/10.1016/j.jnucmat.2015.05.058
+Stochastic thermomechanical analysis of nuclear graphite using ParaFEM. 2014.  eScholarID: 257913
+Studies of the material properties of nuclear graphite using the random finite element method. 2014.  eScholarID: 257912
+McNally K, Hall G, Tan E, Marsden B, Warren N. Calibration of dimensional change in finite element models using AGR moderator brick measurements. Journal of Nuclear Materials. 2014; 451(1‚Äì3): 179-188. eScholarID: 257909 | DOI: 10.1016/j.jnucmat.2014.03.015
+On the modelling and simulation of a nuclear graphite brick: effects of cracks and interactions. 2014.  eScholarID: 257914
+Ernest D. Eason, Graham N. Hall, Barry J. Marsden, Graham B. Heys. A Model of Youngs Modulus for Gilsocarbon Graphites Irradiated in Oxidising Environments. Journal of Nuclear Materials. 2013; 436(1-3): 201-207. eScholarID: ma036 | DOI: 10.1016/j.jnucmat.2012.06.035
+Eason E, Hall G, Marsden B, Heys G. A model of Young's modulus for Gilsocarbon graphites irradiated in oxidising environments. Journal of Nuclear Materials. 2013; 436(1): 201-207. eScholarID: 257905
+Eason E, Hall G, Marsden B, Heys G. Models of bending strength for Gilsocarbon graphites irradiated in inert and oxidising environments. Journal of Nuclear Materials. 2013; 436(1): 208-216. eScholarID: 257911
+Eason E, Hall G, Marsden B, Heys G. Models of coefficient of thermal expansion (CTE) for Gilsocarbon graphites irradiated in inert and oxidising environments. Journal of Nuclear Materials. 2013; 436(1): 191-200. eScholarID: 257915 | DOI: 10.1016/j.jnucmat.2012.08.022
+Barry Marsden, Graham Hall. Graphite in Gas-Cooled Reactors. Comprehensive Nuclear Materials. Elsevier.2012:  eScholarID: ma1712
+The UK Graphite Technical Advisory Committee for nuclear plant. 2012.  eScholarID: 257917
+Marsden B,  , Hall G. Graphite: a UK perspective. Comprehensive Nuclear Materials. Elsevier.2012:  eScholarID: 184676
+High-pressure measurement of the mechanical properties of nuclear graphite. 2011.  eScholarID: 257908
+Approximation of graphite dimensional changes in an oxidising environment. 2011.  eScholarID: 257906
+Estimation of graphite dimensional changes due to combined fast neutron irradiation and radiolytic oxidation. 2011.  eScholarID: 257910
+The effect of bromination on the dimensional change and modulus of nuclear graphites. 2011.  eScholarID: 257916
+Calibration of a physical model for AGR moderator bricks using channel geometry measurements. 2011.  eScholarID: 257907
+Eason, E D; Hall, G; Marsden, B J; Heys, G B. Models of coefficient of thermal expansion (CTE) for Gisocarbon graphites irradiated in inert and oxidising environments. 2010: -. eScholarID: 153497
+Hall G, , Marsden B, , Jones A. Graphite for nuclear reactors. Transactions of the American Nuclear Society. 2010; 102: 721-722. eScholarID: 184677
+Abbie Jones, Barry Marsden, Graham Hall, T bekenne. Characterisation of Irradiated Graphite: NBG-10 and PCEA. Characterisation of Irradiated Graphite: NBG-10 and PCEA. 2009: -. eScholarID: ma1432
+Barry Marsden, Graham Hall, J A Vreeling, J van der Laan, O Wouters. Dimensional and material property changes to irradiated Gilsocarbon graphite irradiated between 650 and 750 C. Journal of Nuclear Materials. 2008; 381(0): 62-67. eScholarID: ma161
+Wang, H T; Hall, G; Yu, S Y; Yao, Z H. Numerical Simulation of Graphite Properties Using X-ray Tomography and Fast Multipole Boundary Element Method. Computer Modelling in Engineering & Sciences. 2008; 37(2): 153-174. eScholarID: 153495 | DOI: 10.3970/cmes.2008.037.153
+Berre, C, Graham  Hall, Barry  Marsden, S L  Fok, T J  Marrow, and P M  Mummery. Modelling of Nuclear Grade Graphite Using X-Ray Tomography Data. SMINS, OECD(NE), In co-operation with the IAEA, Karlsruhe, Germany. 2008:  eScholarID: 2e990
+Eason E, Hall G, Marsden B, Heys G. Development of a Youngs modulus model for Gilsocarbon graphites irradiated in inert environments. Journal of Nuclear Materials. 2008 October; 381(1-2): 145-151. eScholarID: 1e763 | DOI: 10.1016/j.jnucmat.2008.07.036
+Eason E, Hall G, Heys G, Knott J, Marsden B, Preston S, Swan T. The origins and use of the equivalent temperature concept. Journal of Nuclear Materials. 2008 October; 381(1-2): 106-113. eScholarID: 1e761 | DOI: 10.1016/j.jnucmat.2008.07.016
+Hall, Graham, D  James, Abbie  Jones, T J  Marrow, Barry  Marsden, P M  Mummery, and K  Wen. Characterisation and Modelling of Microstructure Heterogeneity in Nuclear Graphite. INGSM-9, Netherlands. 2008:  eScholarID: 2e983
+James, D, Graham  Hall, Abbie  Jones, T J  Marrow, Barry  Marsden, P M  Mummery, and K  Wen. Characterisation and modelling of microstructure heterogeneity in nuclear graphite. Securing the Safe Performance of Graphite Reactor Cores, Nottingham. 2008: -. eScholarID: 2e998
+Jones, Abbie, Graham  Hall, L  McDermott, Barry  Marsden, and T J  Marrow. Characterisation of Irradiated Nuclear Graphite. INGSM-9, Netherlands. 2008:  eScholarID: 2e982
+Jones A, Hall G, Joyce M, Hodgkins A, Wen K, Marrow T, Marsden B. Microstructural characterisation of nuclear grade graphite. Journal of Nuclear Materials. 2008 October; 381(1-2): 152-157. eScholarID: 1e764 | DOI: 10.1016/j.jnucmat.2008.07.038
+Marsden, Barry, Abbie  Jones, T J  Marrow, Graham  Hall, D  James, and K  Wen. Characterisation and Modelling of Microstructure Heterogeneity in Nuclear Graphite. 7th EPRI International Decommissioning and Radioactive Waste Workshop (in collaboration with EDT-CIDEN), Lyon. 2008: -. eScholarID: 2e980
+Marsden B, Hall G, Wouters O, Vreeling J, van der Laan J. Dimensional and material property changes to irradiated Gilsocarbon graphite irradiated between 650 and 750 °C. Journal of Nuclear Materials. 2008 October; 381(1-2): 62-67. eScholarID: 1e759 | DOI: 10.1016/j.jnucmat.2008.07.018
+Sumita, J, T  Shibata, E  Kunimoto, K  Sawa, Graham  Hall, and Barry  Marsden. The development of a microstructural model to evaluate the irradiation-induced property changes in IG-110 graphite using x-ray tomography. Securing the Safe Performance of Graphite Reactor Cores, Nottingham. 2008: -. eScholarID: 2e999
+Hall, Graham, Barry  Marsden, Abbie  Jones, and D  James. X-ray tomography of irradiated graphite. INGSM-8, Bakubung, South Africa. 2007:  eScholarID: 2e987
+Hall, Graham, Barry  Marsden, J A  Vreeling, and J  Laan. Possibilities for the Microstructural Modelling of the Irradiation Properties of Graphites for Future High Temperature Reactors. HTR-2006, South Africa. 2006:  eScholarID: 2e721
+Hall G, Marsden B, Fok S. The microstructural modelling of nuclear grade graphite. Journal of Nuclear Materials. 2006 July; 353(1-2): 12-18. eScholarID: 1e549 | DOI: 10.1016/j.jnucmat.2006.02.082
+Jones, Abbie, Barry  Marsden, Keyun  Wen, Graham  Hall, T J  Marrow, A  Hodgkins, and M  Joyce. Microstructural Characterisation of Nuclear Grade Graphite. 7th International Nuclear Graphite Specialists Meeting (INGSM-7), ORNL. 2006:  eScholarID: 2e829
+Tsang, D K L; Marsden, B J; Fok, S L; Hall, G. Graphite thermal expansion relationship for different temperature ranges. Carbon. 2005; 43: 2902-2906. eScholarID: 153494 | DOI: 10.1016/j.carbon.2005.06.009
+Eason, E D, Graham  Hall, and Barry  Marsden. Development of a model of dimensional change in AGR graphites irradiated in inert environments. Ageing Management of Graphite Reactor Cores, Wales. 2005:  eScholarID: 2e811
+Hall, Graham, C  Berre, Barry  Marsden, and A S  Fok. Microstructural modelling. IAEA Technical Working Group on Gas-Cooled Reactors, Manchester. 2005:  eScholarID: 2e809
+Hall, Graham, Barry  Marsden, Keyun  Wen, C  Berre, L  Babout, and A  Hodgkins. Ongoing microstructural studies at the University of Manchester. 6th International Nuclear Graphite Specialists Meeting (INGSM-6), France. 2005:  eScholarID: 2e810
+Marsden, Barry, Graham  Hall, and A S  Fok. Descriptions and summary of national programmes in gas-cooled reactors - United Kingdom. IAEA Technical Working Group on Gas-Cooled Reactors, Manchester. 2005:  eScholarID: 2e808
+Tsang D, Marsden B, Fok S, Hall G. Graphite thermal expansion relationship for different temperature ranges. Carbon. 2005; 43: 2902-2906. eScholarID: 184678
+Hall, Graham, and Barry  Marsden. Methods for the prediction of graphite irradiation dimensional and property changes in pressure tube reactor graphite. International Conference on Pressure Tube Reactors: Problems and Solutions, Russia. 2004:  eScholarID: 2e812
+Barry Marsden, Graham Hall. Finite element analysis of crystals. Finite element analysis of crystals. 2003: -. eScholarID: ma1431
+Hall, Graham, and Barry  Marsden. Microstructural modelling of nuclear grade graphite. Universities Nuclear Technology Forum, Enlgand. 2003: -. eScholarID: 2e813
+Hall, Graham, Barry  Marsden, and S L  Fok. The microstructural modelling of nuclear grade graphite. 4th International Nuclear Graphite Specialists Meeting (INGSM-4), Japan. 2003:  eScholarID: 2e816
+Hall G, Marsden B, Fok S, Smart J. The relationship between irradiation induced dimensional change and the coefficient of thermal expansion: A modified Simmons relationship. Nuclear Engineering and Design . 2003 June; 222(2-3): 319-330. eScholarID: 1e552 | DOI: 10.1016/S0029-5493(03)00035-9
+Marsden, Barry, S L  Fok, and Graham  Hall. Comparison of UK, American and Japanese unirradiated graphite CTE methodologies. 18th Technical Working Group on Gas Cooled Reactors (TWG-GCR-18), Turkey. 2003:  eScholarID: 2e817
+Marsden, Barry, S L  Fok, and Graham  Hall. Descriptions and summary of national programmes in gas-cooled reactors - United Kingdom. 18th Technical Working Group on Gas Cooled Reactors (TWG-GCR-18), Turkey. 2003:  eScholarID: 2e818
+Marsden, Barry, S L  Fok, and Graham  Hall. High temperature gas-cooled reactor core design future material consideration. International Conference on Global Environment and Advanced Nuclear Power Plants (GENES4/ANP2003), Japan. 2003:  eScholarID: 2e814
+Hall G, Marsden B, Smart J, Fok A. Finite-element modelling of nuclear grade graphite. Nuclear Energy. 2002; 41: 53-62. eScholarID: 1e539 | DOI: 10.1680/nuen.41.1.53.39011
+Hall, Graham, Barry  Marsden, A  Fok, and J  Smart. The relationship between irradiation induced dimensional change and the coefficient of thermal expansion: A new look. Conference on High Temperature Reactors (HTR-2002), the Netherlands. 2002:  eScholarID: 2e819
+Barry Marsden, Graham Hall. Nuclear Graphite Ageing and Turnaround. 1998.  eScholarID: ma953
+

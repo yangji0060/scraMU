@@ -1,0 +1,44 @@
+name  role  phone  location  email
+Dr Zhenmin Zou  Lecturer  0161-3062403  Pariser Building - C14  zhenmin.zou@manchester.ac.uk  
+
+BIOGRAPHY: 
+BEng in Aircraft Engineering, MEng in Solid Mechanics, PhD in Aircraft Engineering, Nanjing University of Aeronautics & Astronautics (NUAA), China.
+Lecturer at NUAA, China. Research Associate at UMIST and Victoria University of Manchester. Research Fellow at UMIST and University of Manchester. Lecturer at University of Manchester.
+
+RESEARCH: 
+Composite materials and structures
+Structural fracture and failure
+Structural dynamics, impact, energy absorption
+Behaviour of cellular materials
+
+PUBLICATION: 
+Zou Z, Chavez-Arreola A, Mandal P, Board TN, Alonso-Rasgado T. Optimization of the position of the acetabulum in a Ganz Periacetabular Osteotomy by finite element analysis. Journal of Orthopaedic Research. 2013; 31(3): 472-479. eScholarID: 189645
+Chavez A, Zou Z, Alonso-Rasgado T A, Boards T N. Development of a computer model to optimize the position of correction during periacetabular osteotomy for adult hip dysplasia. 2012: -. eScholarID: 189706
+Jimenez-Cruz D, Zou Z, Mandal P, Alonso-Rasgado T A, Board T N. Investigation of the fracture mechanism of the osteoporotic and non-osteoporotic femoral head after ostechondroplasty for hip impingement: Finite Element Analysis. 2012: -. eScholarID: 189708
+D Jimenez-Cruz, Parthasarathi Mandal, T Board, Teresa Alonso-Rasgado, Zhenmin Zou. Investigation of the fracture mechanism of the osteoporotic and non-osteoporotic femoral head after ostechondroplasty for hip impingement:Finite Eleme. Investigation of the fracture mechanism of the osteoporotic and non-osteoporotic femoral head after ostechondroplasty for hip impingement:Finite Eleme. 2012:  eScholarID: ma1176
+A Chavez-Arreola, Teresa Alonso-Rasgado, TN board, Zhenmin Zou. Optimization of the position of the acetabulum in a Ganz periacetabular osteotomy by finite element analysis. Journal of Orthopaedic Research. 2012; (0):  eScholarID: ma388
+Li S, Warrior N, Zou Z, Almaskari F. A unit cell for FE analysis of materials with the microstructure of a staggered pattern. Composites Part A: Applied Science and Manufacturing. 2011 July; 42(7): 801-811. eScholarID: 123373 | DOI: 10.1016/j.compositesa.2011.03.010
+S Li, Z Zou. Central reflection and its use in formulation of unit cells for micromechanical FEA. 2011: -. eScholarID: 189705
+Li H, Li J, Zou Z, Fok SL. Fracture simulation of restored teeth using a continuum damage mechanics failure model. Dental Materials. 2011; 27(7): e125-e133. eScholarID: 133632 | DOI: 10.1016/j.dental.2011.03.006
+Li S, Z Zou. The use of central reflection in the formulation of unit cells for micromechanical FEA. Mechanics of Materials. 2011; 43(12): 824-834. eScholarID: 146029 | DOI: 10.1016/j.mechmat.2011.08.014
+JJ Harrigan, PJ Tan, Shuguang Li, SR Reid, Zhenmin Zou. Dynamic crushing of honeycombs and features of shock wave front. International Journal of Impact Engineering. 2009; 36(1): 165-176. eScholarID: ma173
+Zou Z, Reid S, Tan P, Li S, Harrigan J. Dynamic crushing of honeycombs and features of shock fronts. International Journal of Impact Engineering. 2009; 36(1): 165-176. eScholarID: 1e806 | DOI: 10.1016/j.ijimpeng.2007.11.008
+Shi L, Li H, Zou Z, Fok S, Marsden B, Hodgkins A, Mummery P, Marrow J. Analysis of crack propagation in nuclear graphite using three-point bending of sandwich specimens. Journal of Nuclear Materials. 2008 February; 372(2-3): 141-151. eScholarID: 1e711 | DOI: 10.1016/j.jnucmat.2007.02.012
+Zou Z, Tan P, Reid S, Li S, Harrigan J. Dynamic crushing of a one-dimensional chain of type II structures. International Journal of Impact Engineering. 2007; 34: 303-328. eScholarID: 1e1493
+Li S, Reid S, Zou Z. Modelling damage of multiple delaminations and transverse matrix cracking in laminated composites due to low velocity lateral impact. Composites Science and Technology. 2006; 66: 827-836. eScholarID: 1e1155 | DOI: 10.1016/j.compscitech.2004.12.019
+Zou Z, Fok A, Marsden B, Oyadiji S. Numerical simulation of strength test on graphite moderator bricks using a continuum damage mechanics model. Engineering Fracture Mechanics. 2006; 73(3): 318-330. eScholarID: 1e1376 | DOI: 10.1016/j.engfracmech.2005.08.002
+John Harrigan, P J Tan, Shuguang Li, Stephen Reid, Zhenmin Zou. Dynamic compressive strength properties of aluminium foams. Part I - Experimental data and observations. Journal of Mechanics and Physics of Solids. 2005; 53(0): 2174-2205. eScholarID: ma171
+John Harrigan, P J Tan, Shuguang Li, Stephen Reid, Zhenmin Zou. Dynamic compressive strength properties of aluminium foams. Part II - Shock theory and comparison with experimental data. Journal of Mechanics and Physics of Solids. 2005; 53(0): 2206-2230. eScholarID: ma172
+Tan P, Reid S, Harrigan J, Zou Z, Li S. Dynamic compressive strength properties of aluminium foams. Part I - Experimental data and observations. Journal of Mechanics and Physics of Solids. 2005; 53(10): 2174-2205. eScholarID: 1e1378 | DOI: 10.1016/j.jmps.2005.05.007
+Tan P, Reid S, Harrigan J, Zou Z, Li S. Dynamic compressive strength properties of aluminium foams. Part II - Shock theory and comparison with experimental data. Journal of Mechanics and Physics of Solids. 2005; 53(10): 2206-2230. eScholarID: 1e1379 | DOI: 10.1016/j.jmps.2005.05.003
+Zou Z, Reid S. Wavy-edged fractures in axially split aluminium tubes. International Journal of Solids and Structures. 2005; 42(16): 4519-4540. eScholarID: 1e1377 | DOI: 10.1016/j.ijsolstr.2005.01.016
+Zou Z, Fok A, Oyadiji S, Marsden B. Failure predictions for nuclear graphite using a continuum damage mechanics model. Journal of Nuclear Materials. 2004 January; 324(2-3): 116-124. eScholarID: 1e847 | DOI: 10.1016/j.jnucmat.2003.09.005
+ZOU Z; REID, S; LI, S. A continuum damage model for delaminations in laminated composites. Journal of the Mechanics and Physics of Solids. 2003 September; 51(2): 333-356. eScholarID: 1a9491 | DOI: 10.1016/S0022-5096(02)00075-3
+Zou Z, Reid S, Li S, Soden P. Application of a delamination model to laminated composite structures. Composite Structures. 2002; 56: 375-389. eScholarID: 1e1151 | DOI: 10.1016/S0263-8223(02)00021-1
+Zou Z, Reid S, Li S, Soden P. General expressions for energy release rates for delamination in laminated composites. Proceedings of the Royal Society of London - Series A: Mathematical, Physical & Engineering Sciences. 2002; 458: 645-667. eScholarID: 1e1148 | DOI: 10.1098/rspa.2001.0884
+Zou Z, Reid S, Li S, Soden P. Modelling interlaminar and intralaminar damage in filament wound pipes under quasi- static indentation. Journal of Composite Materials. 2002; 36(4): 477-499. eScholarID: 1e1150 | DOI: 10.1177/0021998302036004539
+Zou Z, Li S. Stresses in an infinite medium with two similar circular cylindrical inclusions. Acta Mechanica. 2002; 156(1): 93-108. eScholarID: 1e1380 | DOI: 10.1007/BF01188744
+ZOU Z; REID, S; SODEN, P D. Mode separation of energy release rate for delamination in composite laminates using sublaminates. International Journal of Solids and Structures. 2001 February; 38(15): 2597-2613. eScholarID: 1a9493 | DOI: 10.1016/S0020-7683(00)00172-4
+P D Soden, Shuguang Li, Stephen Reid, Zhenmin Zou. Mode separation of energy release rate for delamination in composite laminates using sublaminates. International Journal of Solids and Structures. 2001; 38(0): 2597-2613. eScholarID: ma003
+Zou Z, Reid S, Soden P, Li S. Measurement of the critical energy release rate GIIc for filament wound GRP pipes. Composites Part A: Appied Science and Manufacturing. 2001; 32(2): 271-280. eScholarID: 1e1144 | DOI: 10.1016/S1359-835X(00)00121-4
+

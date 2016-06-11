@@ -1,0 +1,10 @@
+name  role  phone  location  email
+Dr Van-Xuan Tran  Visitor  0161-2754331  George Begg Building  van-xuan.tran@manchester.ac.uk  
+
+BIOGRAPHY: 
+
+RESEARCH: 
+Modelling and Simulation Centre
+
+PUBLICATION: 
+

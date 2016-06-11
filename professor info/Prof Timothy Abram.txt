@@ -1,0 +1,53 @@
+name  role  phone  location  email
+Prof Timothy Abram  Professor in Nuclear Fuel Technology  07730-3064813  Pariser Building - B6  tim.abram@manchester.ac.uk  
+
+BIOGRAPHY: 
+Tim Abram joined the University in 2008 as the first holder of the Westinghouse Chair in Nuclear Fuel Technology. Prior to this appointment he gained over 21 years experience in the nuclear fuels and research sectors, both in the UK and the USA. He led the team at BNFL responsible for the fuel rod design and safety analysis for the UK's most recent nuclear power station, Sizewell B, and for the UK's first export order for mixed (U,Pu) oxide fuel (MOX). He has experience in the design, performance and safety analysis of all major fuel types, and in the development of computer codes for the analysis of in-reactor fuel performance. He has participated in over 15 European Framework research programmes in nuclear fuel and reactor technology, and is the UK's representative on the IAEA Technical Group on Fast Reactors and Accelerator-Driven Systems. He was co-author of the Fuels and Materials section of the Generation-IV Roadmap, and has actively participated in the programme since its inception in 2000, most recently as the Euratom representative and Co-Chair of the VHTR Project Management Board for Fuel and Fuel Cycle research.
+Prior to joining the University, Prof. Abram was the Senior Research Fellow for Fuels and Reactor Systems at the UK's National Nuclear Laboratory, where he retains the position of Associate Fellow.
+
+RESEARCH: 
+nuclear fuel and fuel cycle technology
+reactor systems technology
+
+PUBLICATION: 
+DS Clague, Timothy Abram. A PDMS sample pretreatment microdevice to enable downstream electrokinetic manipulations in bovine serum. In: Becker H; Wang W, ed. A PDMS sample pretreatment microdevice to enable downstream electrokinetic manipulations in bovine serum.  eScholarID: ma1506
+T A Lennox, Timothy Abram. The Generation-IV International Research Programme The UK Contribution. The Generation-IV International Research Programme The UK Contribution.  eScholarID: ma1504
+A J Wickham, I M Coe, P J Bramah, Timothy Abram. The contribution of UK organisations in the development of new high-temperature reactors. The contribution of UK organisations in the development of new high-temperature reactors. 91-100. eScholarID: ma1505
+T J Abram et al. European R&D in Sodium Fast Reactor Technology. -. eScholarID: 114118
+T J Abram, P Bros, et al. HTR Specific Waste Characterisation Programme. -. eScholarID: 114112
+T J Abram et al. The European Programme on High Temperature Reactor Nuclear Physics. -. eScholarID: 114143
+Gentile, M, Xiao, P, and Abram, TJ. XRD and TG-DSC Analysis of the Silicon Carbide-Palladium Reaction. 2014 January; 34(10):  eScholarID: 291540
+Nasir Hamodi, Kassandra Papadopoulou, Tristan Lowe, Timothy Abram. Thermal Analysis and Immobilisation of Spent Ion Exchange Resin in Borosilicate Glass. New Journal of Glass and Ceramics. 2012 June; 2: 111-120. eScholarID: 201286
+Basini, V., Abram, T J, et al. High-temperature reactor fuel technology in the RAPHAEL European project. Proceedings of the 4th International Topical Meeting on High Temperature Reactor Technology, HTR 2008. 2009: -. eScholarID: 114102
+Kuijper, J.C., Abram, T. J. et al. PU and MA management in thermal HTGRs - Impact at fuel, reactor and fuel cycle levels. Proceedings of the 4th International Topical Meeting on High Temperature Reactor Technology, HTR 2008: 2009: -. eScholarID: 114095
+Tim Abram and Sue Ion. Generation-IV nuclear power: A review of the state of the science. Energy Policy. 2008; 36(12): 4323-4330. eScholarID: 114083 | DOI: 10.1016/j.enpol.2008.09.059
+T J Abram, M Phélip and M. Fϋtterer. High-Temperature Reactor Fuel Technology in the RAPHAEL European Project. 2008: -. eScholarID: 114108
+E. López-Honorato, P.J. Meadows, P. Xiao, G. Marsh and T.J. Abram. Structure and mechanical properties of pyrolytic carbon produced by fluidized bed chemical vapor deposition. Nuclear Engineering and Design. 2008 November; 238(11): 3121-3128. eScholarID: 114079 | DOI: 10.1016/j.nucengdes.2007.11.022
+E. López-Honoratoa, C. Chiritescub, P. Xiaoa, Contact Information, David G. Cahillb, G. Marshc and T.J. Abramc. Thermal conductivity mapping of pyrolytic carbon and silicon carbide coatings on simulated fuel particles by time-domain thermoreflectance. Journal of Nuclear Materials. 2008 April; 378(1): 35-39. eScholarID: 118104 | DOI: 10.1016/j.jnucmat.2008.04.007
+Timothy Abram. Justification Process for New Nuclear Power Stations in the UK. UK Dept of Trade and Industry: 2007.  eScholarID: ma919
+T J Abram. Justification Process for New Nuclear Power Stations in the UK (Nexia Solutions report). UK Dept of Trade and Industry: 2007 March.  eScholarID: 114091
+T J Abram et al. Plutonium Utilisation in Future UK PWRs Using MOX and Inert Matrix Fuels. Proc. GLOBAL-2007. 2007: -. eScholarID: 114104
+T J Abram, G Marsh, P Xiao & E Lopez. Fluidised Bed Chemical Vapour Deposition Of Pyrolytic Carbon. Ceramic Transactions. 2006 January;  eScholarID: 114087
+T J Abram. Integration of International Research in Innovative Generation-IV Reactor Systems. Proc. European Research in Reactor Systems. 2006: -. eScholarID: 114115
+T J Abram, P Xiao, et al. Structure and Mechanical Properties of Pyrolytic Carbon Produced by Fluidized Bed Chemical Vapour Deposition. Proc. HTR2006. 2006: -. eScholarID: 114106
+T J Abram & P J A Howarth. UK Involvement in Advanced Reactor Research. Nuclear Energy. 2006 March; 2(2): 79-89. eScholarID: 114084 | DOI: 10.1680/nuen.2006.2.2.79
+T J Abram, M Phélip, et al. High and Very High Temperature Reactor Fuel Technology. (5160) Proc. ICAPP ’05. 2005: -. eScholarID: 114130
+T J Abram & C Degueldre. Inert Matrix Materials. 2005: -. eScholarID: 114135
+T J Abram et al. Overview of an R&D Plan for the Development of a Generation IV Sodium-Cooled Fast Reactor System. Proc. ICAPP ’05. 2005: -. eScholarID: 114132
+T J Abram, D Greneche and J C Kuijper. Plutonium Management by High Temperature Gas-Cooled Reactors. Proc. ICENES 2005. 2005: -. eScholarID: 114126
+T J Abram et al. Status of the Advanced Fuel Project for Sodium-Cooled Fast Reactor as a Generation IV Nuclear Energy System. Proc. GLOBAL-2005. 2005: -. eScholarID: 114123
+T J Abram and T A Lennox. The Generation-IV International Research Programme – The UK Contribution. Proc. GLOBAL-2005. 2005: -. eScholarID: 114120
+T J Abram, S E Ion & A J Bull. Meeting Europe's energy needs through next generation nuclear energy systems - An Industrial view of the role of EC co-sponsored research. J. Nuc. Eng. & Design. 2004;  eScholarID: 114089
+T J Abram et al. HTR Nuclear Physics, Waste and Fuel Cycle Studies. Proc. International Congress on Advances in Nuclear Power Plants (ICAPP 2003). 2003: -. eScholarID: 114138
+A Technology Roadmap for Generation-IV Nuclear Energy Systems. United States Department of Energy: 2002 December.  eScholarID: 114090
+Timothy Abram. A Technology Roadmap for Generation-IV Nuclear Energy Systems, USDOE/GIF-002-00. United States Department of Energy: 2002 December.  eScholarID: ma740
+T J Abram et al. The European Programme on High Temperature Reactor Fuel Technology. Proc. Int. Congress of the European Nuclear Society (ENC 2002). 2002: -. eScholarID: 114140
+T J Abram et al. European Collaboration on Research into High Temperature Reactor Technology. OECD/NEA Advanced Reactors with Innovative Fuels (ARWIF-2001). 2001: -. eScholarID: 114149
+T J Abram. PBMR - A New Reactor System for the 21st Century?. 1st UK Energy Choices Conference, BNIF/BNES. 2001: -. eScholarID: 114146
+T J Abram, A J Wickham and P J Bramah. The Contribution of UK Organisations to the Development of New High Temperature Reactors. OECD/NEA 2nd Conference on High Temperature Engineering. 2001: -. eScholarID: 114147
+T J Abram, M Lippens, R Conrad, R Konings, K Bakker, and C Hellwig. The Influence of Microstructure of MOX Fuel on its Irradiation Behaviour under Transient Conditions. Proc. European Research in Reactor Systems. 2001: -. eScholarID: 114151
+T J Abram et al. The Role of International Collaboration within the European High-Temperature Reactor Technology Network (HTR-TN). International Conference on HTGR Application and Development. 2001: -. eScholarID: 114153
+J Wallenius, T J Abram & R Thetford. Nitride Fuel Irradiation and Modelling in the CONFIRM Project. 6th Int. information exchange meeting on actinide and FP P&T. 2000: -. eScholarID: 114156
+T J Abram and D G Martin. Physical Properties and the Performance of Coated Fuel Particles at High Burnup. Euratom International Conference on HTR Fuels. 2000: -. eScholarID: 114158
+T J Abram and T A Lennox. The Enhanced Gas-Cooled Reactor (EGCR). ICONE8 conference. 2000: -. eScholarID: 114157
+

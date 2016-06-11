@@ -1,0 +1,13 @@
+name  role  phone  location  email
+Dr Adel Nasser  Senior Project Manager and Honorary Lecturer  0161-3063537  George Begg Building - C39  a.g.nasser@manchester.ac.uk  
+
+BIOGRAPHY: 
+A Mechanical Engineering Graduate from Faculty of Engineering, University of El-Fateh, Libya, followed by MSC in Computational Methods and Fluid Mechanics, from Aeronautical and Mechanical Engineering Department, University of Salford. Then joined the Thermo and Fluids Division of the Mechanical Engineering Department at UMIST as a research assistant to work on development of Compact Finite-difference Finite-volume schemes for Transient Recirculating Flows, which was the core of my PhD. I went back to Salford University for five years to work on number of projects to compute the aerodynamics characteristics of Inviscid flow-fields around several axisymmetric and three-dimensional inlet cowls in transonic conditions. Then Joined the Computing Graphics Unit, Manchester Computing Center; University of Manchester to work on development of three-dimensional graphics software. This followed by nineteen years of extensive IT management experience to lead and deliver successful IT services for teaching, research and administration across UMIST and University of Manchester
+
+RESEARCH: 
+Wind Turbines, Solar Energy, Turbulent Combustion, Development of micro/nano Heat Pipes
+
+PUBLICATION: 
+Adel Nasser, Ali Turan, N Al-Zurfi. A numerical study of rotation effects on compound triple jets film cooling. A numerical study of rotation effects on compound triple jets film cooling. 2015:  eScholarID: ma1175
+A Alhusseny, Adel Nasser, Ali Turan. Computational Simulation of the Heat and Fluid Flow through a Rotary Thermal Regenerator Based on a Porous Media Approach. Computational Simulation of the Heat and Fluid Flow through a Rotary Thermal Regenerator Based on a Porous Media Approach. 2015:  eScholarID: ma1174
+

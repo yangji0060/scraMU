@@ -1,0 +1,10 @@
+name  role  phone  location  email
+Dr Paul Gardiner  Honorary      paul.gardiner@manchester.ac.uk  
+
+BIOGRAPHY: 
+
+RESEARCH: 
+
+PUBLICATION: 
+A El Tigani, Paul Gardiner, Therese Lawlor-Wright. Building Capabilities through the Implementation of Business Excellence Models: A Practice Turn View. Building Capabilities through the Implementation of Business Excellence Models: A Practice Turn View.  eScholarID: ma1503
+

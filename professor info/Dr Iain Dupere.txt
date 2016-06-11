@@ -1,0 +1,58 @@
+name  role  phone  location  email
+Dr Iain Dupere  Reader  0161-3064246  George Begg Building - C25  iain.dupere@manchester.ac.uk  
+
+BIOGRAPHY: 
+Dr Dupere graduated from Downing College, Cambridge with an MA and a PhD.  He then worked as a Research Associate in the Engineering Department in Cambridge.  Between 2000 and 2005 he was a Fellow of Downing College, Cambridge, where he was also Director of Studies for Engineering (1999-2005), Tutor (2002-2005) and Praelector (2000-2005).
+Dr Dupere's research is in the area of Acoustics in the broad sense.  His work has included fan noise on aero-engines, Computational Aero-acoustics, Helmholtz resonators, sound absorbing materials, analytical and experimental techniques.  He also works on innovative deflatable speed bumps which were commended in the 2010 ACE Engineering Excellence Awards.
+He moved to the school of MACE, University of Manchester in January 2006.  He married Helen in Ely Cathedral in 1996 and they have twin children, James and Lauren, born in 1999. xx
+
+RESEARCH: 
+Acoustics
+Mechanics
+Speed bumps
+Condition Monitoring
+
+PUBLICATION: 
+A Ball, D Moore, F Gu, Iain Dupere, J Jiang, K Lui. AN INVESTIGATION INTO THE FAULT DETECTION OF MACHINES BASED ON ACOUSTIC ARRAY SYSTEMS. AN INVESTIGATION INTO THE FAULT DETECTION OF MACHINES BASED ON ACOUSTIC ARRAY SYSTEMS.  eScholarID: ma1473
+A Ball, B Lennox, F Gu, Iain Dupere, Shan Zhong, W Duan. Acoustic signals for Fluid-Filled Pipeline Blockage Detection. Acoustic signals for Fluid-Filled Pipeline Blockage Detection.  eScholarID: ma1430
+A Ball, F Charles, F Gu, Iain Dupere, J Jiang, K Liu. CONDITION MONITORING UNDER INDUSTIAL ENVIRONMENT USING SMALL SCALE ACOUSTIC ARRAY SYSTEM. CONDITION MONITORING UNDER INDUSTIAL ENVIRONMENT USING SMALL SCALE ACOUSTIC ARRAY SYSTEM.  eScholarID: ma1474
+Iain Dupere, M Banica, R Cant. Characteristics- Based Non-Re&#64258;ecting Boundary Conditions for Non- Uniform Mean Velocity Fields. Transactions of the ASME, Journal of Turbomachinery. (0):  eScholarID: ma116
+Iain Dupere. Passive Absorbers. Passive Absorbers.  eScholarID: ma1472
+Iain Dupere, M Banica, S Cant. Wall Pressure Fluctuations in a Radial Turbine. Transactions of the ASME, Journal of Turbomachinery. (0):  eScholarID: ma569
+Harwood, Adrian R. G. and Dupère, Iain D. J. Numerical Evaluation of the Compact Acoustic Green's Function for Scattering Problems. Applied Mathematical Modelling.  eScholarID: 253074
+Harwood, Adrian RG. and Dupère, Iain DJ. Numerical Evaluation of the Compact Green’s Function for the Solution of Acoustic Flows. ASME 2012 Noise Control and Acoustics Division Conference. -. eScholarID: 253070
+Harwood, Adrian R. G. and Dupère, Iain D. J. Acoustic Green's functions using the Sinc-Galerkin method. 2014: -. eScholarID: 253072
+Harwood, Adrian R. G. and Dupère, Iain D. J. Calculation of Acoustic Green's Function using BEM and Dirichlet-to-Neumann-type boundary conditions. 2014: -. eScholarID: 253073
+Harwood A, Dupère I. Calculation of Acoustic Green’s Functions using BEM and Dirichlet-to-Neumann-type boundary conditions. Applied Mathematical Modelling. 2014 December;  eScholarID: 253071 | DOI: 10.1016/j.apm.2014.12.027
+Iain D J Dupere, Wenbo Duan. Reflection and transmission across partial blockages in fluid-filled flexible, non-thin-walled pipes. Journal of the Acoustical Society of America. 2010 March; 127(3): . eScholarID: 151780 | DOI: 10.1121/1.3384060
+Iain Dupere, William Crowther. WavePump, Patent app no 1020887.4 WavePump, Patent app no 1020887.4. 2010. eScholarID: ma1076
+A Ball, F Gu, Iain Dupere, Shan Zhong, W Duan. The Effects of Blockage on the Propagation of Acoustic Waves in the Liquid-Shell Coupled System. Key Engineering Materials. 2009; (0): 327-333. eScholarID: ma502
+Duan W, Gu F, Dupere I, Zhong S, Ball A. The Effects of Blockage on the Propagation of Acoustic Waves in the Liquid-Shell Coupled System. Key Engineering Materials. 2009 June; 413-414: 327-333. eScholarID: 1e998 | DOI: 10.4028/www.scientific.net/KEM.413- 414.327
+Duan, W, F  Gu, Iain  Dupere, Shan  Zhong, and A  Ball. Wave Propagation Characteristics of A Fluid-Structure Coupled System. Eighth International Conference on DAMAGE ASSESSMENT OF STRUCTURES. 2009:  eScholarID: 2e1243
+Wenbo Duan, Fengshou Gu, Andrew Ball, Iain Dupere and Shan Zhong. Acoustic Signal Analysis for the Blockage Detection of Fluid-Filled Pipeline. 2008: -. eScholarID: 151777
+Duan, W, Iain  Dupere, F  Gu, A  Ball, Shan  Zhong, and B  Lennox. Acoustic signals for Fluid-Filled Pipeline Blockage Detection. Internoise2008. 2008:  eScholarID: 2e1242
+Jiang, J, Iain  Dupere, F  Charles, F  Gu, A  Ball, and K  Liu. CONDITION MONITORING UNDER INDUSTIAL ENVIRONMENT USING SMALL SCALE ACOUSTIC ARRAY SYSTEM. 2nd International Conference on Advances in Solidification Process. 2008:  eScholarID: 2e1241
+Yahathugoda, Indika, William  Crowther, Iain  Dupere, and Stephen  Liddle. Application of Synthetic Jet Actuators for Undercarriage noise control. 14th AIAA/CEAS Aeroacoustics Conference (29th AIAA Aeroacoustics Conference). 2008:  eScholarID: 2e1245
+Jiang, J, Iain  Dupere, F  Gu, D  Moore, A  Ball, and K  Lui. AN INVESTIGATION INTO THE FAULT DETECTION OF MACHINES BASED ON ACOUSTIC ARRAY SYSTEMS. The Fourteenth International Congress on Sound and Vibration. 2007:  eScholarID: 2e1240
+Kepets, M, A  Dowling, Iain  Dupere, and T  Lu. Sintered metal foams for acoustic absorption. International Congress and Exposition on Noise Control Engineering. 2006:  eScholarID: 2e1244
+DUPERE I; LU, TIAN J; DOWLING, A. Acoustic properties. In: Scheffler, M. and Colombo, P, ed. Cellular Ceramics, Structure Manufactoring, Properties and Applications. Wiley-VCH.2005: 381-399. eScholarID: 3a253
+DUPERE I; DOWLING, AP. The use of Helmholtz resonators in a practical combustor. Journal of Engineering for Gas Turbines and Power. 2005 April; 127(2): 268-275. eScholarID: 1a10773 | DOI: 10.1115/1.1806838
+Dupere I, Dowling A, Lu T. Cellular Ceramics: Structure, Manufacturing, Properties and Applications. Wiley.2005:  eScholarID: 3e53
+Dupere I, Dowling A. The use of Helmholtz resonators in a practical combustor. Transactions of the ASME, Journal of Engineering for Gas Turbines and Power. 2005 April; 127: 268-275. eScholarID: 1e474 | DOI: 10.1115/1.1806838
+Dupere, Iain, AP  Dowling, and TJ  Lu. Cellular Foam Sound Absorbers for Controlling Combustion Instability and Naval Ship Noise. ONR MURI Review and Workshop on Materials and Structures for Advanced Ship Protection, Airlie Center, Warrenton, VA. 2004:  eScholarID: 2e737
+Dupere, Iain, AP  Dowling, and TJ  Lu. The Absorption of sound in cellular Foams. IMECE, Anaheim, California. 2004:  eScholarID: 2e735
+Dupere, Iain, AP  Dowling, and TJ  Lu. The effect of viscosity on the propagation of acoustic waves passed cylindrical meshes at low Reynolds numbers. ICTAM. 2004:  eScholarID: 2e734
+Dupere, Iain, and AP  Dowling. The use of Helmholtz resonators in a practical combustor. American Society of Mechanical Engineers, International Gas Turbine Institute, Turbo Expo (Publication) IGTI. 2003: 359-369. eScholarID: 2e733
+DUPERE I; BROOKES, S J; CANT, R S; DOWLING, A P. Computational modelling of self-excited combustion instabilities. Journal of Engineering for Gas Turbines and Power. 2001 April; 123(2): 322-326. eScholarID: 1a10772 | DOI: 10.1115/1.1362662
+DUPERE I; DOWLING, AP. The absorption of sound near abrupt axi-symmetric area expansions. Journal of Sound and Vibration. 2001 January; 239(4): 709-730. eScholarID: 1a10771 | DOI: 10.1006/jsvi.2000.3224
+Brookes S, Cant R, Dupere I, Dowling A. Computational modelling of self-excited combustion instabilities. Transactions of the ASME, Journal of Engineering for Gas Turbines and Power. 2001; 123(2): 322-326. eScholarID: 1e480 | DOI: 10.1115/1.1362662
+Dupere, Iain, WN  Dawes, BJ  Tester, and AG  Wilson. Predictions of multiple tone noise and distortion noise in a transonic fan using unsteady CFD. 4th European Conference of Turbomachinery, Fluid Dynamics and Thermodynamics, Florence, Italy. 2001:  eScholarID: 2e741
+Dupere, Iain, WN  Dawes, BJ  Tester, and AG  Wilson. Predictions of rotor alone tones in a transonic fan using steady CFD. 2001:  eScholarID: 2e739
+Dupere I, Dowling A. The absorption of Sound near abrupt axi-symmetric area expansions. Journal of Sound and Vibration. 2001; 239(4): 709-730. eScholarID: 1e475 | DOI: 10.1006/jsvi.2000.3224
+AP Dowling, Iain Dupere. The Absorption of Sound Near Abrupt Area Expansions. AIAA Journal. 2000; 38(2): 193-202. eScholarID: ma485
+Dupere I, Dowling A. The absorption of sound near abrupt area expansions. AIAA Journal. 2000; 38: 193-202. eScholarID: 1e476
+Dupere, Iain. The importance of careful choice of Green\'s functions for low Mach number computational aero-acoustics calculations. INSTITUTE FOR COMPUTATIONAL FLUID DYNAMICS, One-Day Workshop on Aero-acoustics. 1999:  eScholarID: 2e743
+Dupere, Iain, and WN  Dawes. CFD Fan Forward Noise Predictions. RESOUND launch meeting, Friedrichshafen. 1998:  eScholarID: 2e736
+Dupere, Iain, and AP  Dowling. The absorption of Sound near abrupt area expansions. 4th AIAA/CEAS Aeroacoustics Conference. 1998:  eScholarID: 2e732
+Dupere, Iain, and AP  Dowling. Sound Transmission across an area change with mean flow. 2nd European Fluid Mechanics Conference, September 20-24, 1994, Warsaw. 1997:  eScholarID: 2e731
+

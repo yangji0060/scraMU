@@ -1,0 +1,10 @@
+name  role  phone  location  email
+Dr Roger Hannam  Teaching Staff  0161-3064641  George Begg Building - B15  roger.hannam@manchester.ac.uk  
+
+BIOGRAPHY: 
+
+RESEARCH: 
+
+PUBLICATION: 
+Lawlor-Wright T, Hannam R. A Feature-based Design for Manufacture CADCAM package. Computer-aided Engineering Journal. 1989 December;  eScholarID: 1e699
+

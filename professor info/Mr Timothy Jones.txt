@@ -1,0 +1,11 @@
+name  role  phone  location  email
+Mr Timothy Jones  Senior Lecturer  0161-2754365  Pariser Building  tim.jones@manchester.ac.uk  
+
+BIOGRAPHY: 
+Tim Jones is a Senior Lecturer in Project Management, he joined the School of Mechanical, Aerospace and Civil Engineering (MACE) in November 2013 having previously worked in the Manchester Enterprise Centre in the Manchester Business School.  Tim has a background in new product development consultancy for small manufacturing companies. In MACE, Tim has a teaching-focused role involved in delivery of core undergraduate Management units and a postgraduate innovation management unit. He is Director for Postgraduate Taught Programmes in MACE.
+One of the challenges in teaching project management, especially at undergraduate level, is to encourage students to see how the models, tools and techniques introduced in the Management units can be applied within engineering projects that they subsequently undertake in their various programmes. In our PMPDP programme we almost have the opposite approach. Here we work with experienced project managers in industry who we encourage to reflect on their practical experience within a reflective theoretical framework.  For more information about the range of postgraduate taught programmes available in the school please see the http://www.mace.manchester.ac.uk/.
+
+RESEARCH: 
+
+PUBLICATION: 
+

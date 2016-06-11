@@ -1,0 +1,29 @@
+name  role  phone  location  email
+Dr Muhammad Treifi  Research Associate  0161-3062352  Pariser Building - C17  muhammad.treifi@manchester.ac.uk  
+
+BIOGRAPHY: 
+Mo is a member of the Nuclear Graphite Research Group at the School of Mechanical, Aerospace and Civil Engineering. He is currently working on modelling and simulation of the nuclear graphite components of the UK advanced gas-cooled reactors. His current research supports the activities of the Office for Nuclear Regulation (ONR) and is funded by ONR.
+Mo holds a PhD in Mechanical Engineering, BSc (equivalent to an MEng in UK system) and PgDip (equivalent to an MSc) in Civil and Structural Engineering. He is also an Associate Fellow of the Higher Education Academy.
+
+RESEARCH: 
+Finite Element Techniques
+Fracture Mechanics
+Stress Analysis
+Modelling and Simulation
+Nuclear Graphite
+
+PUBLICATION: 
+Muhammad Treifi, Barry J Marsden, Graham N Hall, Paul M Mummery. A STRAIN ENERGY APPROACH FOR PREDICTING KEYWAY ROOT CRACKING OF AN AGR GRAPHITE BRICK. 2015: -. eScholarID: 271038
+Muhammad Treifi, Barry J Marsden, Graham N Hall, Paul M Mummery. Application of notch stress intensity factors for the prediction of keyway root cracking of an AGR graphite brick. 2015: -. eScholarID: 275920
+Muhammad Treifi; Barry J Marsden; Graham N Hall; Paul M Mummery. KEYWAY ROOT CRACK ARREST IN AN AGR GRAPHITE BRICK. 2015: -. eScholarID: 271042
+Larrosa N, Treifi M, Ainsworth R. Rapid parametric analysis of SEN(T) specimens using algorithmic modelling: Evaluation of strain energy density and notch stress intensity factors. Materials & Design. 2015 November; 85: 771-777. eScholarID: 269495 | DOI: 10.1016/j.matdes.2015.06.151
+Muhammad Treifi; Barry J Marsden; Graham N Hall; Paul M Mummery. ON THE MODELLING AND SIMULATION OF A NUCLEAR GRAPHITE BRICK: EFFECTS OF CRACKS AND INTERACTIONS. 2014: -. eScholarID: 259832
+Treifi M, Oyadiji S. Bi-material V-notch Stress Intensity Factors by the Fractal-like Finite Element Method. Engineering Fracture Mechanics. 2013; 105: 221-237. eScholarID: 244447 | DOI: 10.1016/j.engfracmech.2013.04.006
+Treifi M, Oyadiji S. Evaluation of mode III stress intensity factors for bi-material notched bodies using the fractal-like finite element method. Computers & Structures. 2013; 129: 99-110. eScholarID: 244445 | DOI: 10.1016/j.compstruc.2013.02.015
+Treifi M, Oyadiji S. Strain Energy Approach to Compute Stress Intensity Factors for Isotropic Homogeneous and Bi-material V-notches. International Journal of Solids and Structures. 2013; 50: 2196-2212. eScholarID: 244446 | DOI: 10.1016/j.ijsolstr.2013.03.011
+Muhammad Treifi, S. Olutunde Oyadiji. Computations of SIFs for Non-Symmetric V-Notched Plates by the FFEM. 2009: 711-717. eScholarID: 271004
+Treifi M, Oyadiji S, Tsang D. Computations of the stress intensity factors of double-edge and centre V-notched plates under tension and anti-plane shear by the fractal-like finite element method. Engineering Fracture Mechanics. 2009; 76: 2091-2108. eScholarID: 244444 | DOI: 10.1016/j.engfracmech.2009.05.018
+Treifi M, Oyadiji S, Tsang D. Computations of modes I and II stress intensity factors of sharp notched plates under in-plane shear and bending loading by the fractal-like finite element method. International Journal of Solids and Structures. 2008; 45: 6468-6484. eScholarID: 244443 | DOI: 10.1016/j.ijsolstr.2008.08.013
+Muhammad Treifi, Derek K. L. Tsang, S. Olutunde Oyadiji. Applications of the Fractal-Like Finite Element Method to Sharp Notched Plates. 2007: 399-405. eScholarID: 271006
+Treifi M, Tsang D, Oyadiji S. Computation of the stress intensity factors of sharp notched plates by the fractal-like finite element method. International Journal for Numerical Methods in Engineering. 2007; 77: 558-580. eScholarID: 244406 | DOI: 10.1002/nme.2425
+

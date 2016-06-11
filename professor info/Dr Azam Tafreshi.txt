@@ -1,0 +1,44 @@
+name  role  phone  location  email
+Dr Azam Tafreshi  Lecturer  0161-2754459  Pariser Building - B2  azam.tafreshi@manchester.ac.uk  
+
+BIOGRAPHY: 
+She received her PhD and DIC at the Imperial College of Science, Technology and Medicine and is a fellow of the Institution of Mechanical Engineers.  She gives lectures to Aerospace students and has published over 20 papers in international journals, in 16 of which she is the sole author. Her recent research is focused on creating efficient computer models and algorithms for the analysis of composite structures under various service conditions including impact, delamination, fracture, and stress corrosion.
+
+RESEARCH: 
+Finite element and boundary element methods
+Shape and topology optimisation of engineering structures
+Composite structures
+Numerical optimisation algorithms
+Fracture mechanics
+Contact analysis
+
+PUBLICATION: 
+Azam Tafreshi. Computation of the Jk-integrals for bimaterial interface cracks using boundary element crack shape sensitivities. Theoretical and Applied Fracture Mechanics. 2016 April; 82: 77-87. eScholarID: 294218 | DOI: doi:10.1016/j.tafmec.2015.12.003
+Tafreshi A. Efficient evaluation of the J2-integral using the boundary element crack shape sensitivities. Theoretical and Applied Fracture Mechanics. 2015 April; 76: 9-16. eScholarID: 245099 | DOI: 10.1016/j.tafmec.2014.12.009
+Tafreshi A. Simulation of crack propagation in anisotropic structures using the boundary element shape sensitivities and optimisation techniques. Engineering Analysis with Boundary Elements. 2011 August; 35(8): 984-995. eScholarID: 129332 | DOI: 10.1016/j.enganabound.2011.03.006
+Tafreshi A. Fracture Mechanics Analysis of Composite Structures Using the Boundary Element Shape Sensitivities. AIAA Journal. 2009 August; 47: 1926-1938. eScholarID: 1e864 | DOI: DOI: 10.2514/1.41729
+Tafreshi A. Shape sensitivity analysis of composites in contact using the boundary element method. Engineering Analysis with Boundary Elements. 2009 February; 33(2): 215-224. eScholarID: 1e825 | DOI: 10.1016/j.enganabound.2008.04.008
+Tafreshi A. Delamination buckling of composite cylindrical shells, chapter 20. Delamination behaviour of composites, Edited by S.Sridharan, Washington University in St Louis. United Kingdom, Woodhead Publishing Ltd.2008:  eScholarID: 3e31
+Tafreshi A. Instability of delaminated composite cylindrical shells under combined axial compression and bending. Composite Structures. 2008 February; 82(3): 422-433. eScholarID: 1e695 | DOI: 10.1016/j.compstruct.2007.01.021
+Tafreshi A, Bailey C. Instability of Imperfect Composite Cylindrical Shells under Combined Loading. Composite Structures. 2007; 80(1): 49-64. eScholarID: 1e1397 | DOI: 10.1016/j.compstruct.2006.02.031
+Tafreshi A. Delamination buckling and postbuckling in composite cylindrical shells under combined axial compression and external pressure. Composite Structures. 2006; 72(4): 401-418. eScholarID: 1e1279 | DOI: 10.1016/j.compstruct.2005.01.009
+Tafreshi A. Shape design sensitivity analysis with respect to the positioning of features in composite structures using the boundary element method. Engineering Analysis with Boundary Elements. 2006; 30(1): 1-13. eScholarID: 1e1278 | DOI: doi:10.1016/j.enganabound.2005.08.003
+Tafreshi A. Optimum shape design of composite structures using the boundary element method. AIAA Journal. 2005 June; 43(6): 1349-1359. eScholarID: 1a10256 | DOI: DOI:10.2514/1.11502
+MOGHADASI-TAFRESHI A. Delamination buckling and post-buckling in composite cylindrical shells under external pressure. Thin-Walled Structures. 2004 July; 42(10): 1379-1404. eScholarID: 1a10258 | DOI: doi:10.1016/j.tws.2004.05.008
+Tafreshi A. Efficient modeling of delamination buckling in composite cylindrical shells subject to axial compression. Composite Structures. 2004; 64(3): 511-520. eScholarID: 1e1282 | DOI: 10.1016/j.compstruct.2003.09.050
+Tafreshi A, Oswald T. Global buckling behaviour and local damage propagation in composite plates with embedded delaminations. International Journal of Pressure Vessels and Piping. 2003; 80(1): 9-20. eScholarID: 1e156 | DOI: 10.1016/S0308-0161(02)00152-7
+Tafreshi A. Shape optimization of two-dimensional anisotropic structures using the boundary element method. The Journal of Strain Analysis for Engineering Design. 2003 January; 38(3): 219-232. eScholarID: 1e1283 | DOI: 10.1243/030932403765310554
+Tafreshi A. Buckling and post-buckling analysis of composite cylindrical shells with cutouts subjected to internal pressure and axial compression loads. International Journal of Pressure Vessels and Piping. 2002; 79(5): 351-359. eScholarID: 1e1286 | DOI: 10.1016/S0308-0161(02)00026-1
+Tafreshi A. Shape design sensitivity analysis of 2D anisotropic structures using the boundary element method. Engineering Analysis with Boundary Elements. 2002; 26(3): 237-251. eScholarID: 1e1284 | DOI: 10.1016/S0955-7997(01)00098-4
+Tafreshi A. SIF evaluation and stress analysis of drillstring threaded joints. International Journal of Pressure Vessels and Piping. 1999 February; 76(2): 91-103. eScholarID: 1e168 | DOI: 10.1016/S0308-0161(98)00139-2
+Segond D, Tafreshi A. Stress analysis of three-dimensional contact problems using the boundary element method. Engineering Analysis with Boundary Elements. 1998; 22(3): 199-214. eScholarID: 1e169 | DOI: 10.1016/S0955-7997(98)00050-2
+Tafreshi A. Numerical stress analysis of thin torispherical end closures. International Journal of Pressure Vessels and Piping. 1997 April; 71(1): 77-88. eScholarID: 1e170 | DOI: 10.1016/S0308-0161(96)00062-2
+Tafreshi A, Thorpe T. Effects of local departures from nominal dimensions on stresses in thin torispherical end-closures. The Journal of Strain Analysis for Engineering Design. 1996; 31(4): 315-324. eScholarID: 1e171 | DOI: 10.1243/03093247V314315
+Tafreshi A, Dover W. Numerical stress analysis of drillstring threaded joints, Chapter 20. Fatigue in Offshore structures, Edited by W.D.Dover and A.G. Madhava Rao. Blackwell Publishing, Oxford.1996:  eScholarID: 3e5
+Tafreshi A, Fenner R. General-purpose computer program for shape optimization of engineering structures. Computers and Structures. 1995 September; 56(5): 713-720. eScholarID: 1e173 | DOI: 10.1016/0045-7949(95)00002-X
+Tafreshi A, Thorpe T. Numerical analysis of stresses at oblique holes in plates subjected to tension and bending. The Journal of Strain Analysis for Engineering Design. 1995; 30(4): 317-323. eScholarID: 1e172 | DOI: 10.1243/03093247V304317
+Tafreshi A, Fenner R. Design sensitivity analysis using the boundary element method. Journal of Strain Analysis. 1993; 28(4): 283-291. eScholarID: 1e175 | DOI: doi:10.1243/03093247V284283
+Tafreshi A, Dover W. Stress analysis of drillstring threaded connections using the finite element method. International Journal of Fatigue. 1993 September; 15(5): 429-438. eScholarID: 1e174 | DOI: 10.1016/0142-1123(93)90490-H
+Moghaddasi-Tafreshi A, Fenner R. Design optimization using the boundary element method. The Journal of Strain Analysis for Engineering Design. 1991; 26(4): 231-241. eScholarID: 1e176 | DOI: 10.1243/03093247V264231
+A. Tafreshi. Design optimization using the boundary integral equation method. Imperial College of Science, Technology and Medicine:1990.  eScholarID: 133013
+

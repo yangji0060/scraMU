@@ -1,0 +1,90 @@
+name  role  phone  location  email
+Dr Moira Wilson  Reader  0161-3064245  Pariser Building - G25  moira.wilson@manchester.ac.uk  
+
+BIOGRAPHY: 
+Moira Wilson joined UMIST in 1988 (Lecturer 1992, Senior Lecturer 1998). Her research interests and publications lie in the field of construction science with particular reference to studies of liquid movement in porous construction materials. The research has included mathematical modelling and experimental investigation of water absorption processes in porous media and associated with this the development of analytically-based test methods for the in-situ characterisation of the water absorption properties of concretes.
+Current research projects include the validation of a new method for the archaeological dating of fired clay ceramics (RHX Dating)and the study of water retention and transfer in lime mortars in the soft state
+
+RESEARCH: 
+Development of test methods: analytically based water absorption tests for material characterisation
+Tomographic studies: use of nuclear magnetic resonance imaging, neutron radiography and positron emi
+Use of energy dispersive synchrotron diffraction techniques to examine reactive processes in cement-
+Chromatographic studies: use of ion chromatography to monitor reactive transport processes in cement
+RHX dating
+
+PUBLICATION: 
+S.J. Clelland, M. A. Wilson, M. A. Carter and C. M. Batt. RHX dating: measurement of the activation energy of rehydroxylation for fired clay ceramics. Archaeometry. 2015 April; 57(2): 392-404. eScholarID: 290798 | DOI: 10.1111/arcm.12118
+M. A. Wilson, S. Clelland, M. A. Carter, C. Ince, C. Hall, A. Hamilton andC. M. Batt. Rehydroxylation of Fired-Clay Ceramics: Factors Affecting Early-Stage Mass Gain in Dating Experiments. Archaeometry. 2014 March; 56(4): 689-702. eScholarID: 290744 | DOI: 10.1111/arcm.12038
+Moira Wilson. Dating archaeological objects: the RHX method. Dating archaeological objects: the RHX method. 2012 April;  eScholarID: ma806
+Wilson M A, Hamilton A, Ince C, Carter M A, Hall C. Rehydroxylation [RHX] dating of archaeological pottery. Proceedings of the Royal Society A: Mathematical, Physical & Engineering Sciences. 2012 November; 468(2147): 3476-3493. eScholarID: 173121 | DOI: 10.1098/rspa.2012.0109
+A El-Turki, c Ince, G C Allen, Margaret Carter, Moira Wilson, R J Ball. The application of electrical resistance The application of electrical resistance measurements to water transport in limemasonry systems. Applied Physics A: Materials Science & Processing. 2012; 106(3): 669-677. eScholarID: ma486
+Ball R J, Allen GC, Carter M A, Wilson M A, Ince C, El-Turki A. The application of electrical resistance measurements to water transport in lime-masonry systems. Applied Physics A: Materials Science & Processing. 2012; 106(3): 669-677. eScholarID: 173124 | DOI: 10.1007/s00339-011-6653-0
+Al-Defai N K, Carter M A, Wilson M A. The effect of dewatering on strength and setting time of hydraulic mortar. London: SCI: 2012: 61-64. eScholarID: 173160
+Al-Defai N K, Carter M A, Wilson M A. The influence of pozzolanic additions on the water retentivity of freshly-mixed hydraulic lime mortars. 32nd Cement & Concrete Science Conference. Belfast: Queen's University Belfast: 2012: 122-126. eScholarID: 173156
+Ince C, Ozturk Y, Wilson M A. The influence of supplementary cementing materials on transfer sorptivity and time to dewater freshly-mixed Portland cement and hydrated lime mortars. 32nd Cement & Concrete Science Conference. Belfast: Queen's University Belfast: 2012: 249-254. eScholarID: 173151
+Hall C, Hamilton A, Wilson M A. The influence of temperature on rehydroxylation [RHX] kinetics in archaeological pottery. Journal of Archaeological Science. In-press eScholarID: 173123
+C Breen, c Ince, F Clegg, Margaret Carter, Moira Wilson, S Savage. Dehydroxylation and Rehydroxylation Mechanisms in Fired Clay. Journal of the American Ceramic society. 2011; 95(0): 415-422. eScholarID: ma147
+Francis Clegg1, Chris Breen, Margaret A. Carter, Ceren Ince, Shaun D. Savage, Moira A. Wilson. Dehydroxylation and Rehydroxylation Mechanisms in Fired Clay Ceramic: A TG-MS and DRIFTS Investigation. Journal of the American Ceramic Society. 2011; 95(1): 416-422. eScholarID: 144272 | DOI: 10.1111/j.1551-2916.2011.04926.x
+Ince c, Carter M A, Wilson M A, Collier N, El-Turki A, Ball R, Allen G. Factors affecting the water retaining characteristics of lime and cement mortars. Materials and Structures. 2011; 44: 509-516. eScholarID: 145804 | DOI: 10.1617/s11527-010-9645-1
+C Hall, M A wilson, W D Hoff. Kinetics of Long-Term Moisture Expansion in Fired-Clay Brick. Journal of the American ceramic Society. 2011 November; 94(11): 3651-3654. eScholarID: 144270 | DOI: 10.1111/j.1551-2916.2011.04831.x
+R.J. Ball G.C. Allen M.A. Carter •M.A. Wilson C. Ince and A. El-Turki. The application of electrical resistance measurements to water transport in lime–masonry systems. Applied Physics A Materials Science and ProcessingA. 2011 November;  eScholarID: 144280
+Y. Ozturk, C. Ince and M. A. Wilson. The influence of supplementary cementing materials on the water retaining ability of hydrated lime and Portland cement mortars. 2011: -. eScholarID: 144275
+Ince C, Carter M A, Wilson M A, El-Turki A, Ball R J, Allen G C, Collier N C. Analysis of the abstraction of water from freshly mixed jointing mortars in masonry construction. Materials and Structures. 2010; 43(7): 985-992. eScholarID: 145803 | DOI: 10.1617/s11527-009-9560-5
+El-Turki A, Ball R J, Carter M A, Wilson M A, Ince C, Allen G C. Effect of dewatering on the strenght of lime and cement mortars. Journal of the American Ceramic society. 2010; 93(7): 2074-2081. eScholarID: 145800
+Mesbah H, Wilson M A, Carter M A. Effect of prolonged sintering time at 1200 OC on the phase transformation and reactivity with moisture of fired kaolinite. 2010: -. eScholarID: 145792
+Tosheva L, Mihailova B, Wilson M A, Carter M A. Gravimetric and spectroscopic studies of the chemical combination of moisture by as-fired and reheated terracotta. Journal of the European Ceramic Society. 2010; 30: 1867-1872. eScholarID: 145787 | DOI: 10.1016/j.jeurceramsoc.2010.02.029
+Mesbah H, Wilson M A, Carter M A. The role of the kaolinite-mullite reaction sequence in moisture mass gain in fired kaolinite. 2010: -. eScholarID: 145789
+Christopher Hall, Margaret Carter, Moira Wilson, W D Hoff. Archaeological dating technique Archaeological dating technique. 2009 May. eScholarID: ma758
+Moira Wilson. Dating by Water Clock. Dating by Water Clock. 2009 September;  eScholarID: ma807
+Moira Wilson. Fire and Water Dating. Fire and Water Dating. 2009 September;  eScholarID: ma862
+Moira Wilson. RHX Dating: a revolutionary new method for the archaeological dating of fired clay ceramics. RHX Dating: a revolutionary new method for the archaeological dating of fired clay ceramics. 2009 August;  eScholarID: ma995
+Moira Wilson. Royal Society Podcast. Royal Society Podcast. 2009 September;  eScholarID: ma999
+El-Turki A, Carter M, Wilson M, Ball R, Allen G. A microbalance study of the effects of hydraulicity and sand grain size on carbonation of lime and cement. Construction and Building Materials. 2009 March; 23(3): 1423-1428. eScholarID: 1e849 | DOI: 10.1016/j.conbuildmat.2008.07.006
+Kyritsis K, Hall C, Bentz D, Meller N, Wilson M. Relationship between engineering properties, mineralogy, and microstructure in cement-based hydroceramic materials cured at 200-350C. Journal of the American Ceramic society. 2009; 92: 694-701. eScholarID: 1e868 | DOI: 10.1111/j.1551-2916.2008.02914.x
+Wilson M, Carter M, Hall C, Hoff W, Ince C, Savage S, McKay B, Betts I. Dating fired-clay ceramics using long-term power law rehydroxylation kinetics. Proceedings of the Royal Society A: Mathematical, Physical & Engineering Sciences. 2009 August; 465(2108): 2407-2415. eScholarID: 1e874 | DOI: 10.1098/rspa.2009.0117
+B McKay, Christopher Hall, Margaret Carter, Moira Wilson, Shaun Savage, W D Hoff. Moisture expansion and mass gain in fired clay ceramics: a two-stage (time) 1/4 process. Journal of Physics D: Applied Physics. 2008; 41(32767):  eScholarID: ma328
+Ince, Ceren, Margaret  Carter, and Moira  Wilson. Water desorption from cementitious mortars in the freshly mixed state. Proceesings of the 28th Cement and Concrete Science Conference. Institute of Materials, Minerals and Mining. 2008:  eScholarID: 2e1081
+Savage S, Wilson M, Carter M. Mass gain due to chemical combination of water in fired clay brick. Journal of the American Ceramic society. 2008; 91: 3396-3398. eScholarID: 1e691 | DOI: 10.1111/j.1551-2916.2008.02541.x
+Savage S, Wilson M, Carter M, Hoff W, Hall C, McKay B. Moisture expansion and mass gain in fired clay ceramics: a two-stage (time)1/4 process. Journal of Physics D: Applied Physics. 2008; 41(5): . eScholarID: 1e570 | DOI: 10.1088/0022-3727/41/5/055402
+Moira Wilson, Shaun Savage. Expansive behaviour. Clay Technology: 2007 March.  eScholarID: ma855
+WILSON M; HALL, C; HOFF, W D; REINHARDT, H W; . Sequential imbibition of two immiscible liquids into concrete. Journal of Physics D: Applied Physics. 2007 July; 40(15): 4642-4646. eScholarID: 1a9396 | DOI: 10.1088/0022-3727/40/15/043
+Buckley L, Carter M, Wilson M, Scantlebury J. Methods of obtaining pore solution from cement pastes and mortars for chloride analysis. Cement and Concrete Research. 2007; 37: 1544-1550. eScholarID: 1e183 | DOI: 10.1016/j.cemconres.2007.08.009
+Collier N, Wilson M, Carter M, Hoff W, Hall C, Ball R, El-Turki A, Allen G. Theoretical development and validation of a Sharp Front model of the dewatering of a slurry by an absorbent substrate. Journal of Physics D: Applied Physics. 2007 June; 40: 4049-4054. eScholarID: 1e278 | DOI: 10.1088/0022-3727/40/13/022
+Kyritsis, K, C  Hall, N  Meller, and Moira  Wilson. The relationship between the microstructural and engineering properties of hydroceramic sealants for geothermal wells. 12th International congress on the chemistry of cement. 2007:  eScholarID: 2e409
+Carter, Margaret, Moira  Wilson, I  Ioannou, and E  Naya. A study of the water retentivity of cement, natural hydraulic lime and hydraulic lime mortars in the freshly mixed state. Advanced Testing of Fresh Cementitious Materials. 2006:  eScholarID: 2e410
+Wilson, Moira, Margaret  Carter, I  Ioannou, and E  Naya. A Study of the Water Retentivity of Fresh Cement and Lime Mortars. 26th Cement and Concrete Science Conference, Institute of Materials, Minerals and Mining, University of Sheffield. 2006:  eScholarID: 2e413
+WILSON MA; HOFF, W D; HALL, C; IOANNOU, I; . Direct measurement of the wetting front capillary pressure in clay brick ceramic. Journal of Physics D: Applied Physics. 2003 November; 36(24): 3176-3182. eScholarID: 1a9395 | DOI: 10.1088/0022-3727/36/24/013
+Anna Hiley, B C McKay, Christopher Hall, Moira Wilson, W D Hoff. Kinetics of Moisture Expansion in Fired Clay Ceramics: A (Time)1/4 Law. Physical Review Letters. 2003; 90:  eScholarID: ma286
+Carter M, Green K, Wilson M, Hoff W. Measurement of the water retentivity of cement mortars. Advances in Cement Research. 2003; 15: 155-159. eScholarID: 1e1349 | DOI: 10.1680/adcr.2003.15.4.155
+Wilson M. An analytical approach to water absorption based in situ test procedures for concrete. Proceedings of the Institution of Mechanical Engineers - Part L: Journal of Materials: Design and Applications. 2003; 47-55. eScholarID: 1e1431 | DOI: 10.1177/146442070321700106
+Wilson M, Hoff W, Hall C, McKay B, Hiley A. Long-term expansion in Roman, 19th century and modern clay bricks. Physical Review Letters. 2003; 90(12): 125503(4). eScholarID: 1e1348
+WILSON MA. An analytical approach to water absorption based in situ test procedures for concrete. Proceedings of the Institution of Mechanical Engineers, Part L: Journal of Materials: Design and App. 2002 August; 217(1): 47-56. eScholarID: 1a9397 | DOI: 10.1243/14644200360539436
+Moore D, Ahmed N, Wilson M. Indigenous materials and techniques database (IMTeD): a sustainability data aid for designers. International Journal of Environmental Technology and Management. 2002; 2: 177-186. eScholarID: 1e1347 | DOI: 10.1504/IJETM.2002.000785
+Barnes P, Rennie A, Shannahan J, Carter M, Hoff W, Wilson M, Phillipson M, Jupe A, Jacque S, Colston S, Cockcroft J, Hooper D, Betson M, Hall C, Bare S. Tomographic energy dispersive diffraction imaging of static and dynamic systems. Nondestructive Testing and Evaluation. 2001; 17: 143-167. eScholarID: 1e1346 | DOI: 10.1080/10589750108953107
+Carter, M A, K M  Green, Moira  Wilson, and W D  Hoff. Measurements of water retentivity of cement mortars. Proceedings of the Eleventh Annual BCA/Concrete society Communication Conference. 2001:  eScholarID: 2e80
+Wilson, Moira. Water absorption based test methods for concrete: towards a unified approach. Proceedings of the Eleventh Annual BCA/Concrete society Communication Conference. 2001:  eScholarID: 2e79
+Taylor S, Hall C, Hoff W, Wilson M. Partial wetting in capillary absorption by limestones. Journal of Composite Materials. 2000; 224: 351-357. eScholarID: 1e208
+Wilson M, Brown R, Hoff W, Carter M. A falling head permeameter for the measurement of the hydraulic conductivity of granular solids. Review of Scientific Instruments. 2000; 71: 3942-3946. eScholarID: 1e207
+Green K, Hoff W, Carter M, Wilson M. A high pressure permeameter for the measurement of liquid conductivity of porous construction materials. Review of Scientific Instruments. 1999; 70: 3397-3401. eScholarID: 1e203
+Green K, Carter M, Hoff W, Wilson M. The effects of lime and admixtures on the water retaining properties of cement mortars. Cement and Concrete Research. 1999; 29: 1743-1747. eScholarID: 1e206
+Taylor S, Hoff W, Wilson M, Green K. Anomalous water transport properties of Portland and blended cement-based materials. Journal of Materials Science Letters. 1999; 18: 1925-1927. eScholarID: 1e205
+Wilson M, Carter M, Hoff W. British Standard and RILEM water absorption tests: a critical evaluation. Materials World. 1999; 32: 571-578. eScholarID: 1e204
+Wilson M, Taylor S, Hoff W. Discussion paper on paper published in Magazine of Concrete Research. The initial surface absorption test: an analytical approach. Cement and Concrete Research. 1999; 51: 449-451. eScholarID: 1e202
+Wilson M, Taylor S, Hoff W. The initial surface absorption test: an analytical approach. Cement and Concrete Research. 1998; 50: 179-185. eScholarID: 1e201
+Hoff W, Wilson M, Sosoro M. Transport in Composite Media. Rilem Report 16. Penetration and Permeability of Concrete: Barriers to Organic and Contamination Liquids. E & F N Spon.1997:  eScholarID: 3e6
+Sosoro M, Hoff W, Wilson M. Chapter 6. Testing Methods. Rilem Report 16. Penetration and Permeability of Concrete: Barriers to Organic and Contamination Liquids. E & F N Spon.1997:  eScholarID: 3e7
+Wilson M, Hoff W. Discussion paper on paper published in Magazine of Concrete Research 1995, 47, No. 172, Sept., 243-251. Advances in Cement Research. 1997 June; 49: 149-152. eScholarID: 1e199
+Wilson M, Hoff W. The absorption of water into a porous solid consisting of two dissimilar layers. European Journal of Operational Research. 1997; 48: 79-86. eScholarID: 1e200
+Hall C, Green K, Hoff W, Wilson M. A sharp wet front analysis of capillary absorption into an n layer composite. Journal of Physics D: Applied Physics. 1996; 29: 2947-2950. eScholarID: 1e198
+Hoff, W D, S C  Taylor, Moira  Wilson, M R  Hawkesworth, and K  Dale. The Use of Neutron Radiography to Monitor Water Content Distributions in Porous Construction Materials. Fifth World Conference of Neutron Radiography, Berlin. 1996:  eScholarID: 2e412
+Hoff W, Wilson M, Benton D, Hawkesworth M, Parker D, Fowles P. The use of positron emission tomography to monitor unsaturated water flow within porous materials. Journal of Materials Science Letters. 1996; 15: 1101-1104. eScholarID: 1e196
+Hall C, Hoff W, Taylor S, Wilson M, Beom-Gi Y, Reinhardt H, Soroso M, Meredith P, Donald A. Water anomally in capillary absorption by cement-based materials. Journal of Materials Science Letters. 1995; 14: 1178-1181. eScholarID: 1e197
+Hoff W, Wilson M. Neuron radiography. Advances in Cement Research. 1995; 6: 67-72. eScholarID: 1e195
+Wilson M, Hoff W, Hall C. Water movement in porous building materials-XIII, Absorption into a two layer composite. Building and Environment. 1995; 30: 209-219. eScholarID: 1e193
+Wilson M, Hoff W, Hall C. Water movement in porous building materials-XIV, Absorption into a two layer composite (SA less than SB). Building and Environment. 1995; 30: 221-227. eScholarID: 1e194
+Wilson M, Hoff W, Hall C. Water movement in porous building materials -XI, Capillary water absorption from a hemispherical cavity. Building and Environment. 1994; 29: 99-104. eScholarID: 1e191
+Wilson M, Hoff W. Water movement in porous building materials-XII, Absorption from a drilled hole with hemispherical end. Building and Environment. 1994; 29: 537-544. eScholarID: 1e192
+Carpenter T, Davies E, Hall C, Hall L, Hoff W, Wilson M. Capillary water migration in rock: process and material properties examined by NMR imaging. Materials Science and Technology. 1993; 26: 286-292. eScholarID: 1e187
+Hall C, Hoff W, Wilson M. Effect of non-sorptive inclusions on capillary absorption by a porous material. Journal of Physics D: Applied Physics. 1993; 26: 31-34. eScholarID: 1e190
+Wilson M, Hoff W, Hall C. Water movement in porous building materials-X, Absorption from a small cylindrical cavity. Building and Environment. 1991; 26: 143-152. eScholarID: 1e186
+

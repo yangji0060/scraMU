@@ -1,0 +1,156 @@
+name  role  phone  location  email
+Prof Ali Turan  Chair in Thermodynamics of Power Generation  0161-3063712  George Begg Building - C44  a.turan@manchester.ac.uk  
+
+BIOGRAPHY: 
+BEng. (Hons), University of Sheffield, 1975
+PhD, Chemical Engineering and Fuel Technology, University of Sheffield, 1978.
+Postdoctoral Research Fellow, University of Sheffield, 1978-1979.
+Staff Scientist, Science Applications Inc. (USA) , 1979-1981.
+Head of Combustion Analysis and Project Engineer, Northern Research and Engineering Corporation (USA), 1981-1984.
+Principal Research Scientist, Textron Defense Systems (formerly Avco Everett Research Laboratories) (USA), 1984-93.
+Senior Consultant, Arthur D. Little Inc. (USA), 1993-1995.
+Senior Principal Engineer, Solar Turbines Inc. (USA), 1996-99.
+Technical Director of Combustion Engineering, Columbian Chemical Co.(USA), 2000-2002.
+Academic Staff Member at UMIST 2002-2004. Professor of Thermodynamics Power Generation, University of Manchester since 2004.
+Institute Related Activities:
+Theme Leader for Environmental Technology for Advanced Aeropropulsion (UMARI)
+SIG Leader for Energy and Multi-Physics
+
+RESEARCH: 
+Hydrodynamic stability theory
+Direct and large-eddy simulation of non/reacting, multi-phase, turbulent flows
+Re-normalisation group methods for turbulence, dynamical systems, flow ,heat and combustion control
+Development of high-order numerical techniques for dis/continuous problems in complex geometries
+Computational multi-scale multi-physics problems ranging from power generation to biophysical flows
+Design , Development and Modelling of Advanced Energy Conversion Hardware and Cycles
+Coupled neutron transport and LES thermal hydraulics capability development including extensive nume
+Refined Multiphase flow modelling activity development including detailed investigations into LOCA
+BWR power instabilities , modelling and prediction including nonlinear (Hopf Bifurcation, etc) analy
+Optimization and safety issues delineation and prediction with new GEN3 and 4 reactor configurations
+Space reactor design for propulsion
+Downstream hardware design and development for stationary power generation.
+
+PUBLICATION: 
+Ali Turan, B Stagg, D Lewis, L Forney, R Kamal. CFD Studies Of Mixing in Novel Carbon Black Reactors. CFD Studies Of Mixing in Novel Carbon Black Reactors.  eScholarID: ma1313
+Ali Turan, B Stagg, D Lewis, L Forney, V Zarnescu. Optimum Mixing and Reaction in Novel Carbon Black Reactors. Optimum Mixing and Reaction in Novel Carbon Black Reactors.  eScholarID: ma1312
+A numerical study of rotation effects on compound triple jets film cooling.  eScholarID: 264671
+Alhusseny, Ahmed; Turan, Ali; Nasser, Adel. A porous media approach for numerical simulations of the rotary thermal regenerator performance.  eScholarID: 293895
+Al-Azawy, M; Turan, A; Revell, A. Investigating the impact of non-Newtonian blood models within a heart pump. International Journal for Numerical Methods in Biomedical Engineering.  eScholarID: 276273
+Kafeel K, Turan A. Modeling and simulation of axially rotating heat pipes using Eulerian two-fluid method. Applied Thermal Engineering.  eScholarID: 242117
+Alhusseny, A; Turan, A. An Effective Engineering Computational Procedure to Analyse and Design Rotary Regenerators Using a Porous Media Approach. International Journal of Heat and Mass Transfer. 2016; 95: 593-605. eScholarID: 275938
+An overset mesh approach for valve closure: an LVAD application. 2016 February 21.  eScholarID: 276287
+Al-Zurfi, N; Turan, A. Effects of rotation on film cooling effectiveness and heat transfer coefficient distributions of a gas turbine blade with one row of air film injection. International Journal of Thermal Sciences. 2016 January; 99: 96-112. eScholarID: 264670
+Ali Turan, D Sanchez, M L Ferrari, U M Damo. Hybrid Systems Based on Solid Oxide Fuel Cells: Modelling and Design. Wiley:2016.  eScholarID: ma1113
+Alzurfi, N; Turan, A; Nasser, A; Alhusseini, A. Numerical Simulation of Film Cooling Effectiveness in a Rotating Blade. 2016: -. eScholarID: 299230
+A Alhusseini , A Turan, A Nasser, N Alzurfi. Performance Improvement of a Counter-Flowing Double-Pipe Heat Exchanger Partially Filled with a Metal Foam and Rotating Coaxially. 2016: -. eScholarID: 299231
+Al-Zurfi N, Turan A. A Numerical Study of the rotation effects on a jet effusing from inclined hole into a cross flow. Journal of Turbulence. 2015; 16(11): 1036-1057. eScholarID: 242108
+Adel Nasser, Ali Turan, N Al-Zurfi. A numerical study of rotation effects on compound triple jets film cooling. A numerical study of rotation effects on compound triple jets film cooling. 2015:  eScholarID: ma1175
+Al-Zurfi, N; Turan, A. A numerical study of rotation effects on jets effusing from inclined holes into a cross flow. Journal of Turbulence. 2015 June;  eScholarID: 264665
+Alhusseny, Ahmed; Turan, Ali; Nasser, Adel. A porous media approach for numerical simulations of the rotary thermal regenerator performance. 2015: -. eScholarID: 268129
+Winterbone, D; Turan, A. Advanced Thermodynamics for Engineers – 2nd Edition. Butterworth-Heinemann ISBN :9780444633736:2015.  eScholarID: 279459
+Yang, X; Turan, A; Nasser, A. Application of Method of Lines on the Bifurcation Analysis of a Horizontal Rijke Tube. 2015: -. eScholarID: 268125
+Al-Azawy M, Turan A, Revell A. Assessment of a transition turbulence model for pulsatile flow inside a heart pump. Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization. 2015;  eScholarID: 242110
+Computational Simulation of the Heat and Fluid Flow through a Rotary Thermal Regenerator Based on a Porous Media Approach. 2015 May.  eScholarID: 264676
+A Alhusseny, Adel Nasser, Ali Turan. Computational Simulation of the Heat and Fluid Flow through a Rotary Thermal Regenerator Based on a Porous Media Approach. Computational Simulation of the Heat and Fluid Flow through a Rotary Thermal Regenerator Based on a Porous Media Approach. 2015:  eScholarID: ma1174
+Alhusseny, Ahmed; Turan, Ali; Nasser, Adel. Developing Convective Flow in a Square Channel Partially Filled with a High Porosity Metal Foam and Rotating in a Parallel-Mode. International Journal of Heat and Mass Transfer. 2015 November; 90: 578-590. eScholarID: 264664
+A Alhusseny A Turan. Effects of Centrifugal Buoyancy on Developing Convective Laminar Flow in a Square Channel Occupied with a High Porosity Fibrous Medium. 2015; 335-347. eScholarID: 258552
+Damo, U M; Turan, A; Nasser, A. Hybrid systems based SOFC turbine-fuel cell coupling for stationary power generation. 2015: -. eScholarID: 268127
+Alhusseny, Ahmed; Turan, Ali; Nasser, Adel, Hidri, Faiza. Hydrodynamically and Thermally Developing Flow in a Rectangular Channel Filled with a High Porosity Fiber and Rotating about a Parallel Axis. International Communications in Heat and Mass Transfer. 2015 August;  eScholarID: 267123 | DOI: doi:10.1016/j.icheatmasstransfer.2015.07
+Alhendal, Y; Turan, A; Al-Mazidi, M. Interactions and collisions of bubbles in thermocapillary motion: a 3D Study. 2015 August; 1-7. eScholarID: 264673 | DOI: DOI:10.1080/02726351.2014.1003627
+Al-Azawy, M; Turan, A; Revell, A. Investigating the impact of non-Newtonian blood models within a heart pump. International Journal for Numerical Methods in Biomedical Engineering. 2015 December;  eScholarID: 276286
+N. Al-Zurfi and A. Turan. LES of density ratio effects on film cooling under rotating frame. Heat and Mass Transfer. 2015 May;  eScholarID: 259155
+Ali Turan, S Lei, X Yang. Nonlinear Stability Study of a Time-delayed Thermoacoustic System. Nonlinear Stability Study of a Time-delayed Thermoacoustic System. 2015:  eScholarID: ma1311
+Nonlinear Stability Study of a Time-delayed Thermoacoustic System. 2015 May.  eScholarID: 264678
+Nonlinear Themoacoustic In/Stability of a Rijke Tube with a Distributed Heat Source. 2015 May.  eScholarID: 264679
+Ali Turan, X Yang. Nonlinear Themoacoustic In/Stability of a Rijke Tube with a Distributed Heat Source. 7th European Combustion Meeting. Budapest, Hungary. Nonlinear Themoacoustic In/Stability of a Rijke Tube with a Distributed Heat Source. 7th European Combustion Meeting. Budapest, Hungary. 2015:  eScholarID: ma1309
+Al-Zurfi, N; Turan, A; Nasser, A. Numerical investigation of rotation effects on anti-vortex film cooling holes. Flow, Turbulence and Combustion. 2015 September; 1-30. eScholarID: 267591 | DOI: DOI 10.1007/s10494-015-9650-0
+Damo U, Ferrari M L, Turan A, Massardo A F. Re-compression Model for SOFC Hybrid Systems: Start-up and Shutdown Test for an Emulator Rig. Fuel Cells (Print). 2015 February; 15(1): 42-48. eScholarID: 242097 | DOI: 10.1002/fuce.201400131
+Damo1, UM; Ferrari, ML; Turan, A; Massardo, AF. Simulation of an Innovative Start-up Phase for SOFC Hybrid Systems Based on Re-Compression Technology: Emulator Test Rig. Journal of Fuel Cell Science and Technology. 2015 August; 12:  eScholarID: 264663 | DOI: doi:10.1115/1.4031106
+Start-up approach based on hybrid system emulator for a pressurized Solid Oxide Fuel Cell Gas Turbine. 2015 June.  eScholarID: 264668
+Damo U, Ferrari M L, Turan A, Massardo A F. Test rig for hybrid system emulation: new real-time transient model validated in a wide operative range. Fuel Cells (Print). 2015 February; 15(1): 7-14. eScholarID: 242101 | DOI: 10.1002/fuce.201400046
+Yang, Xiaochuan; Turan, Ali; Shenghui, Lei. Thermoacoustic Instability in a Rijke Tube With a Distributed Heat Source. Journal of Thermodynamics. 2015 October; 2015:  eScholarID: 275469 | DOI: http://dx.doi.org/10.1155/2015/949384
+Alhendal, Y; Turan, A; Al-mazidi, M. Thermocapillary Bubble Flow and Coalescence in a Rotating Cylinder: A 3D study. Acta Astronautica. 2015 September;  eScholarID: 272564 | DOI: doi:10.1016/j.actaastro.2015.09.009
+A Alhusseny, Ali Turan. A Numerical Study of Double-Diffusive Flow in a Long Rotating Porous Channel. Heat and Mass Transfer. 2014; (0):  eScholarID: ma042
+Alhusseny A, Turan A. A Numerical Study of Double-Diffusive Flow in a Long Rotating Porous Channel". Heat and Mass Transfer. Heat and Mass Transfer. 2014 August;  eScholarID: 242099 | DOI: 10.1007/s00231-014-1426-x
+Wiranegra R, Turan A. A Simple Approach to Computational Aeroelasticity of NASA Rotor 67. -. eScholarID: 242107
+Al-Zurfi N, Turan A. A numerical simulation of swirling flow effects on a jet penetration in a rotating channel. Flow, Turbulence and Combustion. 2014 November;  eScholarID: 242100 | DOI: 10.1007/s10494-014-9586-9
+Ali Turan, N Al-Zurfi. A numerical simulation of swirling flow effects on a jet penetration in a rotating channel. Flow, Turbulence and Combustion. 2014; (0):  eScholarID: ma041
+Alhusseny A, Turan A. Effects of Centrifugal Buoyancy on Developing Convective Laminar Flow in a Square Channel Occupied with a High Porosity Fibrous Medium. International Journal of Heat and Mass Transfer. 2014 December;  eScholarID: 242098 | DOI: 10.1016/j.ijheatmasstransfer.2014.11.064
+Gao M, Sun F, Turan A. Experimental study regarding the evolution of temperature profiles inside wet cooling tower under crosswind conditions. International Journal of Thermal Sciences. 2014 December; 86: 284-291. eScholarID: 242095 | DOI: 10.1016/j.ijthermalsci.2014.07.010
+Damo U, Ferrari M L, Turan A, Massardo A F. Novel simulation software for a hybrid system emulation test rig. -. eScholarID: 242103
+Ali Turan, K Kafeel. Simulation of the Response of a Thermosyphon under Pulsed Heat Input. International Journal of Thermal Sciences. 2014; 80(0): 33-40. eScholarID: ma450
+K Kafeel, A Turan. Simulation of the Response of a Thermosyphon under Pulsed Heat Input Conditions. International Journal of Thermal Sciences. 2014 June; 80: 33-40. eScholarID: 212439 | DOI: http://www.sciencedirect.com/science/article/pii/S1290072914000234
+Al-Azawy M, Turan A, Revell A. The use of turbulence models for flow investigations in a positive displacement ventricular assist device. -. eScholarID: 242104
+Alhendal Y, Turan A. Thermocapillary bubble dynamics in a 2D axis swirl domain. Heat and Mass Transfer. 2014 September;  eScholarID: 242096 | DOI: 10.1007/s00231-014-1427-9
+Damo U, Ferrari M, Turan A, Massardo. Transient model development and validation for a hybrid system emulator rig. -. eScholarID: 242106
+Wiranegra R, Turan A. Validation of NASA Rotor 67 for the Purpose of Aeroelasticity Study. -. eScholarID: 242105
+Ali Turan, BR Hutchinson, JP Van Doormaal. An Evaluation of Techniques Used to Accelerate Segregated Methods for Predicting Viscous Fluid Flow. An Evaluation of Techniques Used to Accelerate Segregated Methods for Predicting Viscous Fluid Flow. 2013:  eScholarID: ma1307
+A Saurabh , A Turan. Analysis of 3D- Flows in rocket produced H2/H2O based MHD Generators for Space Applications. International Journal of Space Science and Engineering. 2013 January; 1(3): 290-310. eScholarID: 205834
+Khurram Kafeel, Ali Turan. Axi-Symmetric Simulation of Two Phase Vertical Thermosyphon Using Eulerian Two-Fluid Methodology. Heat and Mass Transfer. 2013 August; 49(8): 1089-1099. eScholarID: 190139
+Ali Turan, AU Chatwani, DB Stickler, P J Loftus. Combustor Modelling - A Maturing State of the Art. Combustor Modelling - A Maturing State of the Art. 2013:  eScholarID: ma1315
+Saurabh A, Turan A. Computational Analysis of 3D- Flows in rocket produced H2/H2O based MHD Generators for Space Applications. International Journal of Space Science and Engineering. 2013 January; 1(3): 290-310. eScholarID: 242120
+Ali Turan, AU Chatwani, DB Stickler. Design and Sizing of the Primary Stage of a Toroidal Vortex Gas Turbine Combustor Using a 3-D Flow Field Modelling Code. Design and Sizing of the Primary Stage of a Toroidal Vortex Gas Turbine Combustor Using a 3-D Flow Field Modelling Code. 2013:  eScholarID: ma1324
+Ali Turan, G D Raithby, JP Van Doormaal. Evaluation of New Techniques for the Calculation of Internal Recirculating Flows. Evaluation of New Techniques for the Calculation of Internal Recirculating Flows. 2013: 87-0059. eScholarID: ma1327
+Ali Turan, E Wong, P G Harsha, RB Edelman. Fundamental Characterization of Alternative Fuel Effects in Continuous Combustion Systems. Fundamental Characterization of Alternative Fuel Effects in Continuous Combustion Systems. 2013:  eScholarID: ma1317
+Ali Turan, AU Chatwani, F Halls. Fundamental Modelling of Coal and Coal-Water Slurry Combustion in a Gas Turbine Combustor. Fundamental Modelling of Coal and Coal-Water Slurry Combustion in a Gas Turbine Combustor. 2013: 165. eScholarID: ma1322
+Ali Turan, D B Spalding, J Swithenbank, P G Felton. Fundamental Modelling of Mixing, Evaporation and Kinetics in Gas Turbine Combustors. Fundamental Modelling of Mixing, Evaporation and Kinetics in Gas Turbine Combustors. 2013:  eScholarID: ma1319
+Ali Turan, J Swithenbank, PG Felton. Mathematical Modelling of Gas Turbine Combustors. Mathematical Modelling of Gas Turbine Combustors. 2013:  eScholarID: ma1321
+Ali Turan, D H France, RB Edelman. Modelling of the Pulse Combustion Process. Modelling of the Pulse Combustion Process. 2013:  eScholarID: ma1316
+Ali Turan. Predictive Modelling of Boiler Fouling. Predictive Modelling of Boiler Fouling. 2013:  eScholarID: ma1325
+Ali Turan, J Swithenbank, PG Felton. Progress in Modelling Combustors. Progress in Modelling Combustors. 2013:  eScholarID: ma1314
+Ali Turan, BC Taylor, J Swithenbank. Some Infrared Applications in Combustion Technology. Some Infrared Applications in Combustion Technology. 2013:  eScholarID: ma1320
+Ali Turan, P G Harsha, RB Edelman. Status of SAI Modelling Applicable to Gas Turbine Combustors. Status of SAI Modelling Applicable to Gas Turbine Combustors. 2013:  eScholarID: ma1318
+Ali Turan, AU Chatwani, DB Stickler, P J Loftus. The Use of 3-D Numerical Modelling in the Design of a Gas Turbine Coal Combustor. The Use of 3-D Numerical Modelling in the Design of a Gas Turbine Coal Combustor. 2013:  eScholarID: ma1310
+Yousuf Alhendal, Ali Turan, Peter Hollingsworth. Thermocapillary Simulation of Single Bubble Dynamics in Zero-Gravity. Acta Astronautica. 2013 August; 88: 108-115. eScholarID: 190138
+Ali Turan, B C Forbes, G E Smith, NG Ruggieri. Three-Dimensional Modelling of Horseshoe Vortex Flows. Three-Dimensional Modelling of Horseshoe Vortex Flows. 2013:  eScholarID: ma1326
+Ali Turan, B C Forbes, G E Smith, NG Ruggieri. Three-Dimensional Modelling of Reacting Flows in Horseshoe Vortex Combustors. Three-Dimensional Modelling of Reacting Flows in Horseshoe Vortex Combustors. 2013:  eScholarID: ma1308
+K Kafeel , A Turan. 'Validation of a Thermosyphon Model and Evaluation of the Effects of Different Boundary Conditions on Its Performance Using Two-Fluid Methodology'. -. eScholarID: 214309
+Ali Turan, K Kafeel. Validation of a Thermosyphon Model and Evaluation of the Effects of Different Boundary Conditions on Its Performance Using Two-Fluid Methodology. Validation of a Thermosyphon Model and Evaluation of the Effects of Different Boundary Conditions on Its Performance Using Two-Fluid Methodology. 2013:  eScholarID: ma1323
+Al-Farhany K, Turan A. Numerical Study of Double Diffusive Natural Convective Heat and Mass Transfer in an Inclined Rectangular Cavity Filled with Porous Medium. International Communications in Heat and Mass Transfer. 2012 February; 39(2): 8 pages. eScholarID: 137604 | DOI: 10.1016/j.icheatmasstransfer.2011.11.014
+Ali Turan, Y Alhendal. Unavailable. Finite Volume Method - Powerful Means of Engineering Design. InTech.2012:  eScholarID: ma1719
+Yousuf Alhendal, Ali Turan. Volume-of-Fluid (VOF) Simulations of Marangoni Bubbles Motion in Zero Gravity, Finite Volume Method. Finite Volume Method. CROATIA, INTEC.2012:  eScholarID: 137611
+Lim H., Lam Y.-W, Utyuzhnikov S V, Turan A. Active control system for global cancellation of noise while preserving wanted sound in multi-domains. Osaka, Japan: 2011: -. eScholarID: 137608
+Ali Turan, K Al-Farhany. Non-Darcy Effects on Conjugate Double-Diffusive Natural Convection in Variable Porous Layer Sandwiched by Finite Thickness Walls. International Journal of Heat and Mass Transfer. 2011; 54(0): 2868-2879. eScholarID: ma338
+Al-Farhany K, Turan A. Non-Darcy effects on conjugate double-diffusive natural convection in a variable porous layer sandwiched by finite thickness walls. International Journal of Heat and Mass Transfer. 2011 April; 54(13-14): 2868-2879. eScholarID: 137602 | DOI: 10.1016/j.ijheatmasstransfer.2011.03.012
+Alhendal Y, Turan A. Numerical Investigation Regarding the Influence of 3-D Marangoni Flow on Bubble Behaviour in a Rotating Cylinder. Chemical Engineering Transactions. 2011 April; 24: 1381-1386. eScholarID: 137601
+Numerical Investigation of 3-D Marangoni Flow of Bubble Behaviour in a Rotating Cylinder. 2011.  eScholarID: 137607
+Al-Farhany K, Turan A. Unsteady Conjugate Natural Convective Heat Transfer in a Saturated Porous Square Domain Generalized Model. Numerical Heat Transfer, Part A: Applications. 2011 December; 60(9): 746-765. eScholarID: 137605 | DOI: 10.1080/10407782.2011.627793
+Ali Turan, Z Ma. Finite Time Thermodynamic Modeling and Analysis for Irreversible IFGT Cycles. Journal of the Energy Institute. 2010; 83(4): 187-194. eScholarID: ma236
+A Elbanhawy, Ali Turan. On Two-dimensional Predictions of Turbulent Cross-flow Induced Vibration. Flow, Turbulence and Combustion. 2010; 85(2): 199-224. eScholarID: ma383
+Guleren K, Turan A. LES Predictions for the NASA Low-Speed Centrifugal Compressor Impeller. Transactions of the ASME, Journal of Turbomachinery. 2010 April; 132(2): 021005. eScholarID: 1e546 | DOI: 10.1115/1.3140824
+Lei S, Turan A. Nonlinear/Chaotic Modelling and Control of Combustion Instabilities. International Journal of Bifurcation and Chaos in Applied Sciences and Engineering. 2010 April; 20(4): 1245-1254. eScholarID: 1e839 | DOI: 10.1142/S0218127410026447
+Lim H., Utyuzhnikov S V, Lam Y.W., Turan A, Avis M.R., Ryaben'kii V.S., Tsynkov S.V. An experimental validation of the active noise control methodology based on difference potentials. 2009 April; 47(4): 874-884. eScholarID: 242123
+Ali Turan, J Dawes, Navraj Hanspal. Three-Dimensional CFD Modelling of PEM Fuel Cells - An Investigation into the Effects of Water Flooding. Chemical Engineering Science. 2009; 64(0): 2781-2794. eScholarID: ma545
+Dawes J, Hanspal N, Turan A. Three-dimensional CFD modelling of PEM fuel cells: An investigation into the effects of water flooding. Chemical Engineering Science. 2009 June; 64(12): 2781-2794. eScholarID: 1e656 | DOI: 10.1016/j.ces.2009.01.060
+Hanspal, Navraj, JE  Dawes, and Ali  Turan. Three Dimensional Modelling of PEM Fuel Cells: Heterogeneity Analysis of Pore Structure on Fuel Cell Hydrodynamics. AIChE Spring National Meeting and 5th Global Congress on Process Safety. 2009:  eScholarID: 2e1017
+Lei S, Turan A. Nonlinear/chaotic analysis, modelling and control of combustion instabilities due to vaporizing sprays. Chaos Solitons & Fractals. 2009 March;  eScholarID: 1e811 | DOI: 10.1016/j.chaos.2009.03.081
+Lei S, Turan A. Nonlinear/chaotic behaviour in thermo-acoustic instability. Combustion Theory and Modelling. 2009 June; 13(3): 541 - 557. eScholarID: 1e812 | DOI: 10.1080/13647830902957218
+Ma Z, Turan A. Practical Numerical Simulations of Two-phase Flow and Heat Transfer Phenomena in a Thermosyphon for Design and Development. Lecture Notes in Computer Science. 2009 May; 5544/2009(LNCS 5544): 665-674. eScholarID: 1e813 | DOI: 10.1007/978-3-642-01970-8_66
+Guleren K, Turan A. Laminarization of Internal Flows Subjected to Strong Curvature and Rotation. Transactions of the ASME, Journal of Fluid Engineering. 2008 September; 130(9): 91202-91213. eScholarID: 1e623 | DOI: 10.1115/1.2953298
+Guleren K, Turan A. Large-eddy Simulation of the Flow in a Low-Speed Centrifugal Compressor. International Journal for Numerical Methods in Fluids. 2008 March; 56(8): 1271-1280. eScholarID: 1e533 | DOI: 10.1002/fld.1741
+Ryaben'kii V, Utyuzhnikov S, Turan A. On the Application of Difference Potential Theory to Active Noise Control. Advances in Applied Mathematics. 2008 February; 40: 194-211. eScholarID: 1e1419 | DOI: 10.1016/j.aam.2006.11.003
+TURAN A; F LOPEZ-PARRA. Computational study on the effects of non-periodic flow perturbations on the emissions of soot and NOx in a confined turbulent methane/air diffusion flame. Combustion Science and Technology. 2007 July; 179(7): 1361-1384. eScholarID: 1a9777 | DOI: 10.1080/00102200601147898
+TURAN A; RYABEN'KII, VS; UTYUZHNIKOV, S. nyp, On the application of difference potential theory to active noise control. Ed. Joint Auuthors: V. S. Ryaben'kii, S.V. Utyuzhnikov & A. Turan. 2007-01-24. 1090-2074. 10.1016/j.aam.2006.11.003. http://dx.doi.org/10.1016/j.aam.2006.11.003. Advances in Applied Mathematics. 18.
+Boudjir A, Craft T, Turan A. Computational Investigation of Flow Through a Rotating Duct by means of Advanced Second Moment Closure. Flow, Turbulence and Combustion. 2007 September; 79: 99-122. eScholarID: 1e210
+Guleren, K M, and Ali  Turan. LES of Refined Flow Physics in a Low Speed Centrifugal Compressor. ICFD Conference on Numerical Methods for Fluid Dynamics. 2007:  eScholarID: 2e414
+Guleren K, Turan A. Validation of Large-Eddy Simulation for Stationary and Rotating Strongly Curved U-Duct Flows. International Journal of Heat and Fluid Flow. 2007 October; 28: 909-921. eScholarID: 1e211
+Lopez-Parra, F, and Ali  Turan. Computational Study on the Effect of Fuel Injection Stratification on Pollutants Emissions in a Direct Injection Diesel Engine. SAE TCDE Symposium. 2007:  eScholarID: 2e787
+Lopez_Parra F, Turan A. Computational Study on the Effects of Non-periodic Flow Perturbations Caused by Composite Incommensurate Harmonics on the Emissions of Soot and NOx in a Confined Turbulent methane/air Diffusion Flame. Combustion Science and Technology. 2007 July; 179: 1361-1384. eScholarID: 1e212
+Utyuzhnikov, Sergei, V S  Ryaben\'kii, and Ali  Turan. Linear and nonlinear problems of active sound control. 6th International Congress on Industrial and Applied Mathematics, Zurich, Switzerland. 2007:  eScholarID: 2e724
+Lim, H, Y W  Lam, S V  Utyuzhnikov, and A  Turan. Realization of the Difference Potential Method in active noise control. WESPAC IX, Seoul, Korea. 2006: -. eScholarID: 2e1503
+Guleren K, Turan A. Large Eddy Simulation of Spanwise Rotating Turbulent Channel and Duct Flows by a Finite Volume Code at Low Reynolds Numbers. Lecture Notes in Computer Science. 2005; 3516: 130-133. eScholarID: 1e214 | DOI: 10.1007/11428862_18
+Guo, Y D, S M  Guo, and Ali  Turan. The Simulation of Solid Oxide Fuel-Cell Membrane-Electrode Assembly. The Electrochemical Society PV 2005-07, ISBN 1-56677-465-9, Solid Oxide Fuel Cells (SOFC IX). 2005: 758-770. eScholarID: 2e429
+Lopez_Parra, F, and Ali  Turan. Computational Study on the Effect of Pulse Characteristics on the Soot and NOx Formation and Combustion in Diffusion Flames. Proceedings of the European Combustion Meeting , Louvain-la-Neuve, Belgium. 2005:  eScholarID: 2e435
+Lopez_Parra, F, and Ali  Turan. Computational Study on the Effect of Turbulence Intensity in Soot Formation and Depletion in an Acetylene Diffusion Flame. European Combustion Meeting. 2005:  eScholarID: 2e415
+Lopez_Parra F, Turan A. Computational Study on the Effect of Turbulence intensity and Frequency on Soot Concentration in an Acteylene Diffusion Flame. Lecture Notes in Computer Science. 2005; 3516: 120-128. eScholarID: 1e213 | DOI: 10.1007/11428862_16
+Washak, H, S M  Guo, and Ali  Turan. Gas Transport In Porous Electrodes Of Solid Oxide Fuel Cells. The Electrochemical Society PV 2005-07, ISBN 1-56677-465-9, Solid Oxide Fuel Cells (SOFC IX). 2005: 729-737. eScholarID: 2e430
+Kamal, R, L  Forney, Ali  Turan, D  Lewis, and B  Stagg. CFD Studies Of Mixing in Novel Carbon Black Reactors. Annual AIChE Meeting. 2001:  eScholarID: 2e417
+Turan, Ali, D  Lewis, B  Stagg, V  Zarnescu, and L  Forney. Optimum Mixing and Reaction in Novel Carbon Black Reactors. Annual AIChE Meeting. 2001:  eScholarID: 2e416
+Ali Turan, AU Chatwani. An Improved Pressure Velocity Coupling Algorithm Based on Minimization of Global Residual Norm. Numerical Heat Transfer, Part B: Fundamentals. 1990; (0):  eScholarID: ma073
+A U Chatwani, Ali Turan, V Goldfarb. Computations of Fluid Flow and Heat Transfer in a Liquid Bath Heated by an Impinging Gaseous Jet. Numerical Heat Transfer, Part B: Fundamentals. 1990; 130(0): 73-80. eScholarID: ma130
+Ali Turan, JP Van Doormaal. Improved Numerical Methods for Turbulent Viscous Recirculating Flows. 1987.  eScholarID: ma896
+A Billings, Ali Turan, J Swithenbank. Pseudo-Random Stimulus Response of Combustion Systems. Journal of the Energy Institute. 1980; (0):  eScholarID: ma414
+Ali Turan, J Swithenbank, PG Felton. Unavailable. Gas Turbine Combustor Design Problems , Project SQUID. Wiley.1980:  eScholarID: ma1722
+Ali Turan. A Three-Dimensional Mathematical Model for Gas Turbine Combustors. 1979.  eScholarID: ma741
+Ali Turan, G G Macreath, J Swithenbank, P G Felton. Final Report on Primary Zone Performance in the Olympus II Flare Tube. 1977.  eScholarID: ma858
+

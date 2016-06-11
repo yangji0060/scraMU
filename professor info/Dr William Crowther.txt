@@ -1,0 +1,113 @@
+name  role  phone  location  email
+Dr William Crowther  Reader in Engineering, Director of the Undergraduate Programme in Aerospace Engineering  0161-2754333  George Begg Building - C27  bill.crowther@manchester.ac.uk  
+
+BIOGRAPHY: 
+Bill Crowther has a degree in Aeronautical Engineering (1990) and a PhD in Experimental Aerodynamics (1994) from the University of Bath. He joined the University of Manchester as a lecturer in 1997, became a Senior Lecturer in 2006 and Reader in 2011. He has been director of the Aerospace Engineering Undergraduate Programme since 2011. His research interests include  Unmanned Air Vehicle (fixed, rotary and flapping wing), flow control (aerodynamics and micropump development), modelling and simulation of aerospace systems, and  experimental aerodynamics. He has taught undergraduate courses on aerodynamics, introductory control, aircraft design and aircraft systems, and was involved in the development of Problem/Enquiry Based Learning at Manchester. Bill led the 'FLAVIIR' team at Manchester that demonstrated 'the world's first flapless aircraft' in 2009 as part of the FLAVIIR project. The Manchester demonstrator aircraft from this project is now on permanent display in the 'Manchester Futures' gallery at the Museum of Science and Industry in Manchester. The ground breaking 'Tumbleweed' unmanned helicopter developed as part on MoD sponsored project was displayed for a year in the Science Museum in London. In 2012 and 2013 Bill led research expeditions to the Amazon rainforest for the purposes of surveying bio diversity using Unmanned Air Vehicles which created photo mosaic maps of unprecedented detail for the area and taught a lot about making complex technology work in very remote places. He has led two technology spin out projects from his research at the university of which neither was commercially successful but made him a much better engineer.
+
+RESEARCH: 
+Design, control and flight test of of Unmanned Air Vehicles (UAVs), including fixed, rotary and flap
+Development of novel vision and acoustic based sensing systems for indoor navigation
+Flow control, including development of fluidic manoeuvre effectors for flapless aircraft, flow separ
+Flapping flight. Development of flapping wing propulsion systems for sub 1g insect like flight vehic
+Fluidic micropumping solutions for industrial applications
+
+PUBLICATION: 
+P I Wilde, William Crowther. Circulation control and fluidic spoilers for three axis aircraft control. Proceedings - Institution of Mechanical Engineers. (0):  eScholarID: ma119
+P I Wilde, William Crowther. Integrated Design of Fluidic Controls for a Flapless Flight Vehicle. Aeronautical Journal. (0):  eScholarID: ma276
+Stephen Liddle, William Crowther. Systems and Vertivication issues for civil transport aircraft flow control systems. Systems and Vertivication issues for civil transport aircraft flow control systems.  eScholarID: ma1423
+B Hopping, William Crowther. Unavailable. Challenging Research into PBL. Earthscan London. eScholarID: ma1639
+Nabawy, M. R. A. and Crowther, W. J. On the Quasi-Steady Aerodynamics of Normal Hovering Flight Part II: Model Implementation and Evaluation. Journal of the Royal Society Interface. In-press eScholarID: 214035
+Kaddouh B, Crowther W, Hollingsworth P. Dynamic Resource Allocation for Efficient Sharing of Services from Heterogeneous Autonomous Vehicles.  eScholarID: 291804
+Mostafa Nabawy, William Crowther. Dynamic performance of unimorph piezoelectric bending actuators. Institution of Mechanical Engineers. Proceedings. Part I: Journal of Systems and Control Engineering. 2015 February; 118-129. eScholarID: 257899 | DOI: 10.1177/0959651814552810
+Nabawy, M. R. A., Parslew, B. and Crowther, W. J. Dynamic Performance of Unimorph Piezoelectric Bending Actuators. In-press eScholarID: 214036
+Mostafa Nabawy, William James Crowther. Is Flapping Flight Aerodynamically Efficient?. American Institute of Aeronautics and Astronautics: 2014: -. eScholarID: 257924
+Ben Parslew, W Sellers, William Crowther. News coverage of RoboShop: A Workshop for Research into Aerial and Terrestrial Robotics. News coverage of RoboShop: A Workshop for Research into Aerial and Terrestrial Robotics. 2014;  eScholarID: ma952
+Nabawy, M. R. A. and Crowther, W. J. On the Quasi-Steady Aerodynamics of Normal Hovering Flight Part I: The Induced Power Factor. Journal of the Royal Society Interface. In-press eScholarID: 214034
+Crowther W, Nabawy M. On the quasi-steady aerodynamics of normal hovering flight part I: the induced power factor. Journal of the Royal Society. Interface. 2014 February;  eScholarID: 257960 | DOI: DOI: 10.1098/rsif.2013.1196
+Crowther W, Nabawy M. On the quasi-steady aerodynamics of normal hovering flight part II: model implementation and evaluation. Journal of the Royal Society. Interface. 2014 February; 11(94):  eScholarID: 257925 | DOI: 10.1098/rsif.2013.1197
+Ben Parslew, William Crowther. Predictive simulation of avian flight. Predictive simulation of avian flight. 2013:  eScholarID: ma1424
+Ben Parslew, William Crowther. Simulating avian wingbeats and wakes. Simulating avian wingbeats and wakes. 2013:  eScholarID: ma1425
+Ben Parslew, William Crowther. Theoretical modelling of wakes from retractable flapping wings in forward flight. PeerJ. 2013; (0):  eScholarID: ma541
+J Chard, O Jegede, A Llopis-Pascual, W J Crowther. Towards high speed fluidic flight controls. NATO CSO: 2013: -. eScholarID: 257963
+Crowther,B., Lanzon, A., Maya-Gonzalez, M., Langkamp, D. Kinematic Analysis and Control Design for a Nonplanar Multirotor Vehicle. Journal of Guidance, Control, and Dynamics. 2011; 34(4): 1157-1171. eScholarID: 111916 | DOI: 10.2514/1.51186
+Nagendran A, Crowther W, Richardson R. Dynamic capture of free-moving objects. Proceedings of the Institution of Mechanical Engineers, Part I: Journal of Systems and Control Engineering. 2011; 225(8): 1054-1067. eScholarID: 148310 | DOI: 10.1177/0959651811407659
+B Parslew, William Crowther. Model based animation of flapping flight. ACI Structural Journal. 2010; (0):  eScholarID: ma314
+Peter Hollingsworth and William Crowther. The Philosophy of Design Education at the University of Manchester. American Institute of Aeronautics and Astronautics: 2010: -. eScholarID: 106198
+Iain Dupere, William Crowther. WavePump, Patent app no 1020887.4 WavePump, Patent app no 1020887.4. 2010. eScholarID: ma1076
+Crowther W, Liddle S, Jabbal M. Flow control Fallacies: a Review of Common Pitfalls in Flow Control Research. IMechE Proceedings, Journal of Aerospace Engineering, Part G. 2010 April; 225(1): 1-11. eScholarID: 1e910 | DOI: 10.1243/09544100JAERO761
+Jabbal M, Liddle S, Crowther W. Active Flow Control Systems Architectures for Civil Transport Aircraft. Journal of Aircraft. In-press47(6): 1966-1981. eScholarID: 1e917 | DOI: 10.2514/1.C000237
+Mark Jabbal, Stephen Liddle, William Crowther. Systems and certification of civil transport flow control systems. Aeronautical Journal. 2009; 113(1146): 575-586. eScholarID: ma476
+Crowther, William, Stephen  Liddle, and M  Jabbal. Flow control Fallacies: a Review of Common Pitfalls in Flow Control Research. CEAS KATnet Conference on Key Aerodynamic Technologies, Bremen. 2009:  eScholarID: 2e1131
+Crowther W, Wilde P, Gill K, Michie S. Towards integrated design of fluidic controls for a flapless aircraft. Aeronautical Journal. 2009; 113(1149): 699-713. eScholarID: 1e913
+Harley, C D, P I  Wilde, and William  Crowther. Application of Circulation Control manoeuvre effectors for three axis control of a tailless flight vehicle. 47th AIAA Aerospace Sciences Meeting including The New Horizons Forum and Aerospace Exposition, Orlando, Florida, AIAA-2009-146. 2009: -. eScholarID: 2e1139 | DOI: 10.2514/6.2009-146
+Jabbal, M, Stephen  Liddle, and William  Crowther. Industrialisation of Active Flow Control Systems for Civil Transport Aircraft. CEAS 2009 European Air & Space Conference - New Beginnings: Challenges for Aerospace innovation, Manchester Central, UK. 2009:  eScholarID: 2e1140
+Jabbal, Mark, Stephen  Liddle, and William  Crowther. Modelling the costs of implementing active flow control systems on civil transport aircraft. KATnet II Conference on Key Aerodynamic Technologies, Bremen, Germany. 2009:  eScholarID: 2e1056
+Kamaruddin N, Potts J, Crowther W. Effect of disc aerodynamics on the range and accuracy of golf discs. 2009;  eScholarID: 1e918
+Liddle S, Crowther W, Jabbal M. Systems and certification issues for civil transport aircraft flow control systems. Aeronautical Journal. 2009 September; 113(1147): 575-586. eScholarID: 1e920
+Potts, Jonathan, Ian  Lunnon, William  Crowther, G A  Johnson, M J  Hucker, and C  Warsop. Development of a Transonic Wind Tunnel Test Bed for MEMS Flow Control Actuators and Sensors. 47th AIAA Aerospace Sciences Meeting including The New Horizons Forum and Aerospace Exposition, Orlando, Florida, AIAA-2009-319. 2009: -. eScholarID: 2e1146 | DOI: 10.2514/6.2009-319
+Proctor, S, M  Turner, and William  Crowther. Distributed Simulation Environment for Vision Based Control Research. CEAS 2009 European Air & Space Conference - New Beginnings: Challenges for Aerospace innovation, Manchester Central, UK. 2009:  eScholarID: 2e1147
+Wilde P, Crowther W. Application of circulation control for three-axis control of a tailless flight vehicle. Proceedings of the Institution of Mechanical Engineers, Part G: Journal of Aerospace Engineering. 2009 August; 224(4): 373-386. eScholarID: 1e922 | DOI: 10.1243/09544100JAERO568
+wilde P, Crowther W, Harley C. Application of Circulation Control for Three Axis Control of a Tailless Flight Vehicle. Proceedings - Institution of Mechanical Engineers. 2009 August;  eScholarID: 1e923 | DOI: 10.1243/09544100JAERO568
+William Crowther. HexRotor multirotor vehicle GB2462452 HexRotor multirotor vehicle GB2462452. 2008. eScholarID: ma885
+Crowther W, Gomes L. An Evaluation of the Mass and Power Scaling of Synthetic Jet Actuator Flow Control Technology for Civil Transport Aircraft Applications. Proceedings - Institution of Mechanical Engineers. 2008; 222(5): 357-372. eScholarID: 1e909 | DOI: 10.1243/09596518JSCE519
+Liddle, Stephen, and William  Crowther. Systems and Certification issues for civil transport aircraft flow control systems. 46th AIAA Aerospace Sciences Meeting and Exhibit, Reno, AIAA-2008-158. 2008: -. eScholarID: 2e1141 | DOI: 10.2514/6.2008-158
+Wilde, P I, William  Crowther, A  Bunanno, and A  Savvaris. Aircraft Control using Fluidic Maneuver Effectors. 26th AIAA Applied Aerodynamics Conference, Honolulu, Hawaii, AIAA-2008-6406. 2008: -. eScholarID: 2e1149 | DOI: 10.2514/6.2008-6406
+Wilde, P I, K  Gill, S M  Michie, and William  Crowther. Integrated Design of Fluidic Flight Controls for a Flapless Aircraft. 46th AIAA Aerospace Sciences Meeting and Exhibit, Reno, USA, AIAA-2008-164. 2008: -. eScholarID: 2e1150 | DOI: 10.2514/6.2008-164
+Yahathugoda, Indika, William  Crowther, Iain  Dupere, and Stephen  Liddle. Application of Synthetic Jet Actuators for Undercarriage noise control. 14th AIAA/CEAS Aeroacoustics Conference (29th AIAA Aeroacoustics Conference). 2008:  eScholarID: 2e1245
+CROWTHER WJ; GREENLAND, S. Development of an attitude guidance and control system for the thunderstar suborbital spacecraft. Proceedings of the Institution of Mechanical Engineers, Part G: Journal of Aerospace Engineering. 2007 March; 221(2): 259-272. eScholarID: 1a10370 | DOI: 10.1243/09544100JAERO106
+CROWTHER WJ; POTTS, J R. Simulation of a spin-stabilised sports disc. Sports Engineering. 2007 June; 10: 3-21. eScholarID: 1a10372 | DOI: 10.1007/BF02844198
+Sunneechurra K, Crowther W. Problems with Leading-Edge Flow Control Experiments. Journal of Aircraft. 2007; 44(3): 1052-1055. eScholarID: 1e925 | DOI: 10.2514/1.29240
+Crowther, W J. Flight demonstration of the World's first fully controllable flapless aircraft (Hardware Demonstrator). 2006.
+William Crowther. From PBL to EBL - a Bumpy ride in Engineering. From PBL to EBL - a Bumpy ride in Engineering. 2006 March;  eScholarID: ma870
+Crowther W. Control of Separation on a Trailing Edge Flap using Air Jet Vortex Generators. Journal of Aircraft. 2006 September; 43(5): 1589-1592. eScholarID: 1e905 | DOI: 10.2514/1.15755
+Garcillan, L, S  Liddle, William  Crowther, Shan  Zhong, and N J  Wood. PIV measurements of the effect of pitch and skew on a circular orifice synthetic jet in a turbulent boundary layer. The 44th AIAA Aerospace Sciences Meeting and Exhibit, paper AIAA-2006-0318, Reno, Nevada, USA. 2006: -. eScholarID: 2e220 | DOI: 10.2514/6.2006-318
+Geoghegan, P, William  Crowther, and N J  Wood. Measurement of Boundary Layer Velocity Profiles by Ultrasonic Tomography for the Prediction of Flow Seperation. AIAA-2006-2805. 2006: -. eScholarID: 2e1137 | DOI: 10.2514/6.2006-2805
+Gomes, L, William  Crowther, and N J  Wood. Towards a practical piezoceramic diaphragm based synthetic jet actuator for high subsonic application. AIAA- 2006-2859. 2006: -. eScholarID: 2e1138 | DOI: 10.2514/6.2006-2859
+Pilmoor, M, William  Crowther, and N J  Wood. Development of a Dynamic Wind Tunnel Model for Demonstration of Flow Control Maneuver Effectors. AIAA-2006-3507. 2006: -. eScholarID: 2e1143 | DOI: 10.2514/6.2006-3507
+greenland S, Crowther W. development of an atitude guidance and control system for the thunderstar suborbital spacecraft. Proceedings - Institution of Mechanical Engineers. 2006 November; 221(2): 259-272. eScholarID: 1e916 | DOI: 10.1243/09544100JAERO106
+Erbsloeh, S D, and William  Crowther. Control of Boundary layer separation on a civil turbofan intake using air-jet vortex generators. CEAS/KATnet Conference on Key Aerodynamic Technologies, Bremen. 2005:  eScholarID: 2e1136
+sparks, R, S  Michie, and William  Crowther. Development of an Integrated Circulation Control/ Fluidic Thrust Vectoring Flight Test Demonstrator. 1st Internation Conference on Innovation & Integration in Aerospace, Queen\'s University Belfast CEIAT-2005-0086. 2005:  eScholarID: 2e1148
+B Hopping, William Crowther. Unavailable. Is PBL a suitable model for learning in Engineering?. Earthscan London.2004:  eScholarID: ma1640
+Crowther W. Rule-based guidance for flight vehicle flocking. Proceedings of the Institution of Mechanical Engineers - Part G: Journal of Aerospace Engineering. 2004 April; (2): 111-124. eScholarID: 1e385 | DOI: 10.1243/0954410041322005
+Erbsloeh, S D, and William  Crowther. Control of Compressor Face Total Pressure Distortion on a High Bypass Turbofan Intake Using Air-Jet Vortex Generators. 2nd AIAA Flow Control Conference, Portland, Oregon. 2004: -. eScholarID: 2e1135 | DOI: 10.2514/6.2004-2206
+Mason, M S, and William  Crowther. Fluidic Thrust vectoring for low observable air vehicles. 2nd AIAA flow control conference, Portland, Oregon,AIAA-2004-2210. 2004: -. eScholarID: 2e1142 | DOI: 10.2514/6.2004-2210
+Crowther W. Flocking of autonomous unmanned air vehicles. Aeronautical Journal. 2003 February; 107(1068): 99-110. eScholarID: 1e394
+Heap, H, and William  Crowther. A review of current leading edge device technology and options for innovation based on flow control. RAeS conference, London. 2003:  eScholarID: 2e1462
+Watson, N R, N W  John, and William  Crowther. Simulation of unmanned air vehicle flocking. Theory and practice of computer graphics conference, Birmingham. 2003:  eScholarID: 2e1466
+William Crowther. A Review of Problem-based Learning, Case Studies, Experience and Practice. Kogan Page: 2002 January.  eScholarID: ma730
+B Hopping, William Crowther. Advent of PBL in the Manchester School of Engineering. Advent of PBL in the Manchester School of Engineering. 2002 May;  eScholarID: ma743
+B Lennox, William Crowther. Changing Structures for Delivery - Breaking Traditional Barriers. Changing Structures for Delivery - Breaking Traditional Barriers. 2002;  eScholarID: ma777
+William Crowther. Design and implementation of a Hovercraft Problem Based Learning exercise to teach first year fluids. International Conference on Engineering Education, Manchester 2002. Design and implementation of a Hovercraft Problem Based Learning exercise to teach first year fluids. International Conference on Engineering Education, Manchester 2002. 2002;  eScholarID: ma818
+William Crowther. Motivating Engineering Students through PBL, Workshop, SPATS Conference, York, November 2002. Motivating Engineering Students through PBL, Workshop, SPATS Conference, York, November 2002. 2002;  eScholarID: ma950
+Crowther, William. Flocking of unmanned air vehicles. Bristol UAV conference. 2002:  eScholarID: 2e1463
+Mason, M, and William  Crowther. Fluidic thrust vectoring for low observable aircraft. RAeS conference, Cambridge. 2002:  eScholarID: 2e1464
+Potts, J, and William  Crowther. Aerodynamics and control of a rotating disc wing. RAeS conference, Cambridge. 2002:  eScholarID: 2e1465
+Potts, J, and William  Crowther. Frisbee Aerodynamics (paper AIAA 2002-3150). 20th AIAA Applied Aerodynamics Conference & Exhibit, St Louis, Missouri. 2002:  eScholarID: 2e1467
+CROWTHER WJ; PJ LAMONT. A neural network approach to the calibration of a flush air data system. The Aeronautical Journal. 2001 February; 105(1044): 85-95. eScholarID: 1a10369
+William Crowther. tight squeeze. tight squeeze. 2001 October;  eScholarID: ma1061
+Crowther W, Cooper J. Flight Flutter Testing Using Neural Networks. Proceedings of the Institution of Mechanical Engineers - Part G: Journal of Aerospace Engineering. 2001; 215: 37-47. eScholarID: 1e167 | DOI: 10.1243/0954410011531736
+Crowther, William, B  Lennox, D  Procter, N J  Wood, and R E  Tobbell. Implementation of PBL in the Manchester School of Engineering. Implementing Problem Based Learning Regional Conference, Manchester. 2001:  eScholarID: 2e181
+Crowther W, Lamount P. Neural network approach to the calibration of a flush air data system. Aeronautical Journal. 2001 February; 105(1044): 85-95. eScholarID: 1e405
+Potts, J, and William  Crowther. Flight control of a spin stabilised axi-symmetric disc-wing. AIAA-2001-0253, AIAA Aerodynamics conference, Reno. 2001:  eScholarID: 2e1468
+Crook, A, William  Crowther, and N J  Wood. A Parametric Study of a Synthetic Jet in a Cross Flow. 22nd International Congress of Aeronautical Sciences, Harrogate, UK. 2000:  eScholarID: 2e1120
+Crowther, William. Perched Landing and Takeoff for fixed wing UAV\'s. Symposium on Unmanned Vehicles for Aerial, Ground and Naval Military Operations, Conference Location: Ankara, Turkey. 2000: -. eScholarID: 2e1122
+Crowther, William. engineering the micro aeroplane. britain\'s younger engineers, house of commons, London. 2000:  eScholarID: 2e1121
+Potts, Jonathan, and William  Crowther. Aerodynamics of a Rotating Disc Wing. Royal Aeronautical Society Research Forum, London. 2000:  eScholarID: 2e1144
+Potts, Jonathan, and William  Crowther. Visualisation of the Flow around a Rotating Disc Wing. 9th (Millennium) International Symposium on Flow Visualisation, Edinburgh. 2000:  eScholarID: 2e1145
+William Crowther. aim and pour. aim and pour. 1999 January;  eScholarID: ma745
+Crowther, William, and J E  cooper. Flutter Speed Prediction during Flight Testing using Neural Networks. International Forum on Aeroelasticity and Structural Dynamics, Williamsburg, VA USA. 1999: 255-264. eScholarID: 2e1129
+Crowther, William, and K  Prassas. Post-stall landing for field retrieval of unmanned air vehicles. 14th Bristol International Unmanned Air Vehicle Systems Conference, Bristol, UK. 1999: -. eScholarID: 2e1132
+William Crowther. Unavailable. The last Word. Cambridge University Press.1998:  eScholarID: ma1664
+William Crowther. Free Fall Falconry. Free Fall Falconry. 1997 November;  eScholarID: ma867
+Crowther W, Edge K. Fault Diagnosis of a Hydraulic Actuator Circuit using Neural Networks - An output Vector Space Classification Approach. Proceedings - Institution of Mechanical Engineers. 1997 February; 212(I): 57-68. eScholarID: 1e906
+William Crowther. Stirring Stuff. Stirring Stuff. 1996 June;  eScholarID: ma1026
+William Crowther. Taking the Plunge. Taking the Plunge. 1996 April;  eScholarID: ma1035
+Atkinson, R M, and William  Crowther. Fault Diagnosis in Electro-Hydraulic Systems using Neural Networks. BHR 5th International Conference on Profitable Condition Monitoring, Harrogate, UK. 1996:  eScholarID: 2e1119
+Crowther, William, and K A  Edge. Automated FMEA for Hydraulic Systems. 12 Aachen Fluid Power Technology Colloquium. 1996:  eScholarID: 2e1130
+William Crowther. The Spinners. The Spinners. 1995 October;  eScholarID: ma1055
+Crowther, William, N  Wood, and F  Hodgkin. Forebody Flow Control for Extended Hight Angle of Attack Manoeuvres. Royal Aeronautical Society Conference on High Lift and Separation Control, Bath. 1995: 18.1-18.9. eScholarID: 2e1134
+Crowther, William, D R  Bull, C R  Burrows, K A  Edge, R M  Atkinson, P G  Hawkins, and D J  Woollons. Knowledge Acquisition for Engineering Systems using Bond Graphs. 15th Annual Conference of the British Computer Society Specialist Group on Expert Systems, Cambridge, UK. 1995:  eScholarID: 2e1128
+Wood N, Crowther W. Yaw Control by Tangential Forebody Blowing. Aeronautical Journal. 1994 April; 98(974): 147-154. eScholarID: 1e924
+Crowther, William, and N  Wood. Tangential Forebody Blowing - Yaw control at High Alpha. CP Publisher: AIAA Volume: Paper 93-3406. 1993:  eScholarID: 2e1133
+Wood, N, and William  Crowther. Yaw Control by Tangential Forebody Blowing. AGARD Flight Mechanics Panel Symposium, Technology for Highly Manoeuvrable Aircraft, paper 10. 1993:  eScholarID: 2e1151
+

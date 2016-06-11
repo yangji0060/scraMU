@@ -1,0 +1,28 @@
+name  role  phone  location  email
+Dr Conor Walsh  Research Associate  0161-2754332  Pariser Building  conor.walsh@manchester.ac.uk  
+
+BIOGRAPHY: 
+Upon completion of his BSc in Environmental Science from the University of Limerick, Conor undertook an MSc in Sustainable Development. His doctoral studies focused on methodological adaptation of a land based sustainability indicator, with specific relevance to Ireland. This included development of a method to incorporate methane into ecological footprinting, as well a tool for comparing the emissions of commuting (including cycling). The later of which was referenced in the Irish Times. Since moving to the University Conor has worked on two different projects, looking at very different sectors, shipping and low grade heat use in process industries. He is currently involved in a consortium project headed by UCL which examines the implciations of differing decarbonisation pathways for the shipping sector.
+
+RESEARCH: 
+Resource Accounting
+Lifecycle Assessment
+Carbon Accounting
+Shipping
+
+PUBLICATION: 
+Conor Walsh, Patricia Thornley. Lifecycle impacts and techno-economic benefits associated with the introduction of a condensing boiler to a woodchip fueled fluidized boiler. Lifecycle impacts and techno-economic benefits associated with the introduction of a condensing boiler to a woodchip fueled fluidized boiler.  eScholarID: ma1406
+Traut M, Gilbert P, Walsh C, Bows A, Filippone A, Stansby P, Wood R. Propulsive power contribution of a kite and a Flettner rotor on selected shipping routes. Applied Energy. 2014; 113(0): 362-372. eScholarID: 221489 | DOI: 10.1016/j.apenergy.2013.07.026
+Conor Walsh, Patricia Thornley. A comparison of two low grade heat recovery options. Applied Thermal Engineering. 2013; 53(0):  eScholarID: ma014
+Alice Bows-Larkin, Conor Walsh, M Traut, Paul Gilbert, Sarah Mander. A systems perspective on decarbonising the UK energy system the impacts on shipping CO2 emissions. A systems perspective on decarbonising the UK energy system the impacts on shipping CO2 emissions. 2012:  eScholarID: ma1235
+Alice Bows-Larkin, Conor Walsh, Kevin Anderson, M Traut, Paul Gilbert, Sarah Mander. Aviation and shipping - privileged again? - Tyndall Centre Briefing note 47. 2012 December.  eScholarID: ma764
+Walsh, C., Thornley, P. Barriers to improving energy efficiency in the process industries with a focus on low grade heat utilisation. Journal of Cleaner Production. 2012 March; 23(1): 138-146. eScholarID: 137251 | DOI: 10.1016/j.jclepro.2011.10.038
+Conor Walsh, Patricia Thornley. Barriers to improving energy efficiency within the process industries with a focus on low grade heat utilisation. Journal of Cleaner Production. 2012; (0):  eScholarID: ma093
+A Roskilly, Conor Walsh, Haiyan Li, Patricia Thornley, V Sharifi, Y Ammar. Desalination using low grade heat in the process industires: challenges and perspectives. Applied Thermal Engineering. 2012; 48(0): 446-457. eScholarID: ma151
+Walsh, C., and Bows, A Size matters: exploring the importance of vessel characteristics to inform estimates of shipping emissions. Applied Energy. 2012 October; 98: 128-137. eScholarID: 162548 | DOI: DOI:10.1016/j.bbr.2011.03.031
+Conor Walsh, Patricia Thornley. The environmental impact and economic feasibility of introducing an organic Rankine cycle to recover low grade heat during the production of metallurgical cok. Journal of Cleaner Production. 2012; 34(0): 29-37. eScholarID: ma506
+Walsh, C., Thornley, P. A comparison of two low-grade heat recovery options. 2011: -. eScholarID: 137248
+Walsh, C., Thornley, P. Cost effective greenhouse gas reductions in the steel industry from an Organic Rankine cycle. 2011: -. eScholarID: 123176
+Elena Dawkins, Ruth Wood, Alice Bows, Mirjam Röder, Paul Gilbert, Conor Walsh. Submission to Energy and Climate Change Committee inquiry into consumption-based emissions reporting. 2011.  eScholarID: 202337
+Walsh C, Moles R, O'Regan B. Application of an Expanded Sequestration Estimate to the Domestic Energy Footprint of the Republic of Ireland. Sustainability. 2010 August; 2(8): 2555-2572. eScholarID: 220743 | DOI: doi:10.3390/su2082555
+

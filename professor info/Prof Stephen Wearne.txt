@@ -1,0 +1,23 @@
+name  role  phone  location  email
+Prof Stephen Wearne  Reader  0161-3064615  Pariser Building  wearne@manchester.ac.uk  
+
+BIOGRAPHY: 
+Stephen Wearne was a factory apprentice and 'sandwich' course student.  After a postgraduate course at Imperial College he worked on the design, construction and coordination of water-power projects in Spain, Scotland and South America.  In 1957 he moved to the construction and design and then contract and project management of nuclear power projects in the UK and Japan.  He came to Manchester in 1964 and was one of the founders of research and teaching in project and contract management.  He was Professor (now Emeritus) of Technological Management at Bradford for 11 years, and following early retirement returned to Manchester to work part-time in the MSc programmes and the Management of Projects Research Group.
+
+RESEARCH: 
+Urgent and unexpected projects
+Consortia, joint ventures and alliancing for engineering projects
+Greatest problems of project management
+Managerial tasks of engineers
+
+PUBLICATION: 
+Wearne, S. H. Evolution of UK Contract Structure for Nuclear Power New Build. 2015 May;  eScholarID: 266921
+Stephen Wearne and Keith White-Hunt. Managing the Urgent and Unexpected. Farnham: Gower Publishing:2014.  eScholarID: 230378
+Wearne S. Experienced-Based Scope for Reducing "Fire-Fighting" in Project Management. Project Management Journal. 2014 February; 45(1): 67-75. eScholarID: 1e259 | DOI: 10.1205/cherd.04049
+Andrew Gale, Carly McLachlan, David Ling, Kassandra Papadopoulou, Stephen Wearne. Management of Projects Expert Group Newsletter. Management of Projects Expert Group Newsletter. 2010 December;  eScholarID: ma924
+Wearne, S. H. and R. H. Bird. UK Experience of Consortia Engineering for Nuclear Power Stations. 2010 December;  eScholarID: 266922
+Wearne S. Managing recovery after widespread damage. Proceedings of ICE, Municipal Engineer. 2007 December; 160(ME4): 209-212. eScholarID: 1e564
+Stephen Wearne. Professional engineers' needs for managerial sills and expertise. Proceedings of ICE, Civil Engineering. 2004; 156(0): 44-48. eScholarID: ma407
+D Wright, Stephen Wearne. Organizational risks of joint ventures, consortia and alliance partnerships. International Journal of Risk Assessment and Management. 1998; 2(1): 45-53. eScholarID: ma390
+G A Lawson, P Iles-Smith, Stephen Wearne. Project management for the process industries. Institution of Mechanical Engineers:1998.  eScholarID: ma1103
+

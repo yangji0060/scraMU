@@ -1,0 +1,13 @@
+name  role  phone  location  email
+Dr Temitope Falano  Research Associate  0161-2754504  Pariser Building - TYDNALL CENTRE  temitope.falano@manchester.ac.uk  
+
+BIOGRAPHY: 
+
+RESEARCH: 
+Tyndall Centre
+
+PUBLICATION: 
+Jeswani, H. K., Falano, T. and Azapagic, A. Biofuels, Bioprod. Bioref. Life cycle environmental sustainability of lignocellulosic ethanol produced in integrated thermo-chemical biorefineries. 2015 March;  eScholarID: 263775
+Falano, T., Jeswani, H. K. and Azapagic, A. Assessing the environmental sustainability of ethanol from integrated biorefineries. Biotechnology Journal. 2014 June; 9(6): 753-765. eScholarID: 263777
+Falano T., Azapagic A. An environmental and economic study of an integrated bio-refinery. 2011: -. eScholarID: 263780
+

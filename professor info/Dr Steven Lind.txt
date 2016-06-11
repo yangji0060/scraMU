@@ -1,0 +1,26 @@
+name  role  phone  location  email
+Dr Steven Lind  Lecturer  0161-2754260  Pariser Building - B3  steven.lind@manchester.ac.uk  
+
+BIOGRAPHY: 
+Dr Lind read mathematics and physics at the University of Bath before completing a PhD in applied mathematics at Cardiff University. He held research and teaching positions at the University of Manchester and MMU prior to his appointment as a lecturer in MACE in 2014.
+
+RESEARCH: 
+Free-surface flows
+Multiphase flows
+Non-Newtonian flows
+
+PUBLICATION: 
+Steven J. Lind and Peter K. Stansby and Benedict D. Rogers. Incompressible-compressible flows with a transient discontinuous interface using smoothed particle hydrodynamics (SPH). Journal of Computational Physics. 2016;  eScholarID: 282855
+S.J. Lind , P.K. Stansby, B.D. Rogers, P.M. Lloyd. Numerical predictions of water-air wave slam using incompressible-compressible smoothed particle hydrodynamics. Applied Ocean Research. 2015 January; 49: 57-71. eScholarID: ma351 | DOI: 10.1016/j.apor.2014.11.001
+Xenakis A, Lind S, Stansby P, Rogers B. An incompressible SPH scheme with improved pressure predictions for free-surface generalised Newtonian flows. Journal of Non-Newtonian Fluid Mechanics. 2015; 218: 1-15. eScholarID: 284687
+Lind S. On the dynamics of non-spherical magnetic microbubbles. Physics of Fluids (1994-present). 2014; 26(6): 061901. eScholarID: 249470
+Steven Lind, TN Phillips. Bubble collapse in compressible fluids using a spectral element marker particle method. Part 2. Viscoelastic fluids. International Journal for Numerical Methods in Fluids. 2013; 71(0): 1103-1130. eScholarID: ma107
+Lind S, Phillips T. The effect of viscoelasticity on the dynamics of gas bubbles near free surfaces. Physics of Fluids (1994-present). 2013; 25(2): 022104. eScholarID: 249473
+Skillen A, Lind S, Stansby P, Rogers B. Incompressible smoothed particle hydrodynamics (SPH) with reduced temporal noise and generalised Fickian smoothing applied to body-water slam and efficient wave-body interaction. Computer Methods in Applied Mechanics and Engineering. 2013; 265: 163-173. eScholarID: 249468
+Steven Lind, TN Phillips. Bubble collapse in compressible fluids using a spectral element marker particle method. Part 1. Newtonian fluids. International Journal for Numerical Methods in Fluids. 2012; 70(0): 1167-1187. eScholarID: ma106
+Steven Lind, TN Phillips. The effect of viscoelasticity on the dynamics of two gas bubbles near a rigid boundary. IMA Journal of Applied Mathematics. 2012; (0):  eScholarID: ma501
+Steven Lind, TN Phillips. The influence of viscoelasticity on the collapse of cavitation bubbles near a rigid boundary. Theoretical and Computational Fluid Dynamics. 2012; 26(0): 245-277. eScholarID: ma515
+Lind S, Xu R, Stansby P, Rogers B. Incompressible smoothed particle hydrodynamics for free-surface flows: A generalised diffusion-based algorithm for stability and validations for impulsive flows and propagating waves. Journal of Computational Physics. 2012; 231(4): 1499-1523. eScholarID: 249467
+Steven Lind, TN Phillips. Spherical bubble collapse in viscoelastic fluids. Journal of Non-Newtonian Fluid Mechanics. 2010; 165(0): 56-64. eScholarID: ma459
+Steven Lind, TN Phillips. The effect of viscoelasticity on a rising gas bubble. Journal of Non-Newtonian Fluid Mechanics. 2010; 165(0): 852-865. eScholarID: ma499
+

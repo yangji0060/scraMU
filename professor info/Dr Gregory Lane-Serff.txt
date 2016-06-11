@@ -1,0 +1,43 @@
+name  role  phone  location  email
+Dr Gregory Lane-Serff  Senior Lecturer  0161-3064602  Pariser Building - B20  gregory.f.lane-serff@manchester.ac.uk  
+
+BIOGRAPHY: 
+Gregory read Mathematics at the University of Cambridge, specialising in applied mathematics and fluid dynamics. He was awarded a BA in 1984 and a PhD in 1990 (working on heat flow and air movement in buildings). He remained in Cambridge University, with a research fellowship from NERC working on the structure of buoyant jets and plumes. From 1991 - 1999 he was a Royal Society University Research Fellow at the School of Ocean and Earth Science (formerly Department of Oceanography), Southampton Oceanography Centre, University of Southampton; where he worked on flow through straits and density currents. Gregory joined UMIST in January 2000.
+
+RESEARCH: 
+Buildings: natural ventilation of buildings
+Oceanography: straits, overflows, turbidity currents, hydrothermal plumes, marine outfalls
+Paleoceanography: response of ocean flows to changes in sea-level and climate
+Basic fluid dynamics: gravity currents, plumes, sediment, hydraulic control, rotation
+Methods: laboratory and mathematical modelling, field observations and numerical models
+
+PUBLICATION: 
+Safwan Kanan, Jonathan Dewsbury, Gregory F Lane-Serff. Simulation of Solar Air-Conditioning System with Salinity Gradient Solar Pond. Energy Procedia 79. Elsevier: 2015: 746-751. eScholarID: 289483
+H M Khan, G F Lane-Serff, J Dewsbury. Study of Geometric Parameters Affecting Night Cooling in Courtyard Houses. ROOMVENT 2014: 13th SCANVAC International Conference on Air Distribution in Rooms. Sao Paulo, Brazil: ROOMVENT 2014: 2015: -. eScholarID: 291776
+H M Khan, G F Lane-Serff, J Deswbury. Study of air quality and night ventilation inside the courtyard house. Roomvent2014: 13th SCANVAC International Conference on Air Distribution in Rooms. Sao Paulo, Brazil: Sao Paulo, Brazil: 2014: -. eScholarID: 291780
+Chang, C-C, Lane-Serff, GF, Apsley, DD. The influence of humidity in modelling buoyancy-driven indoor ventilation. Indoor Air 2014: 13th International Conference on Indoor Air Quality and Climate. 2014: 153-160. eScholarID: 289471
+G F Lane-Serff and K L Stansfield. Observations of mixed layer deepening during an Antarctic gale. Journal of Geophysical Research: Oceans. 2013 March; 118(3): 1396-1404. eScholarID: 189829 | DOI: 10.1002/jgrc.20140
+G. F. Lane-Serff and S. D. Sandbach. Emptying non-adiabatic filling boxes: the effects of heat transfers on the fluid dynamics of natural ventilation. Journal of Fluid Mechanics. 2012 June; 701: 386-406. eScholarID: 163081 | DOI: 10.1017/jfm.2012.164
+Gregory F. Lane-Serff. Deposition of Cohesive Sediment from Turbulent Plumes, Gravity Currents, and Turbidity Currents. Journal of Hydraulic Engineering. 2011 December; 137(12): 1615-1623. eScholarID: 151832 | DOI: 10.1061/(ASCE)HY.1943-7900.0000463
+Steven D. Sandbach and Gregory F. Lane-Serff. Transient buoyancy-driven ventilation: Part 1. Modelling advection. BUILDING AND ENVIRONMENT. 2011 August; 46(8): 1578-1588. eScholarID: 146026 | DOI: 10.1016/j.buildenv.2011.01.020
+Steven D. Sandbach and Gregory F. Lane-Serff. Transient buoyancy-driven ventilation: Part 2. Modelling heat transfer. BUILDING AND ENVIRONMENT. 2011 August; 46(8): 1589-1599. eScholarID: 146031 | DOI: 10.1016/j.buildenv.2011.01.019
+Lane-Serff G, Pearce R. Modeling hydrography and marine sedimentation in the Cariaco Basin since the Last Glacial Maximum. Journal of Geophysical Research: Oceans. 2009 April; 114(C4): . eScholarID: 1e832 | DOI: 10.1029/2008JC005076
+Wahlin A, Darelius E, Cenedese C, Lane-Serff G. Laboratory observations of enhanced entrainment in dense overflows in the presence of submarine canyons and ridges. Deep Sea Research. Part I: Oceanographic Research Papers. 2008 June; 55(6): 737-750. eScholarID: 1e689 | DOI: 10.1016/j.dsr.2008.02.007
+Rabe B, Smeed D, Dalziel S, Lane-Serff G. Experimental studies of rotating exchange flow. Deep Sea Research. Part I: Oceanographic Research Papers. 2007 February; 54: 269-291. eScholarID: 1e462
+Apsley, David D, Gregory  Lane-Serff, Giordano  Lipari, and Peter  Stansby. Numerical Modelling of Particle-Laden Buoyant Jets. 30th International Conference on Coastal Engineering, San Diego (USA). 2006: 2106-2117. eScholarID: 2e706
+Nicholls K, Lane-Serff G, Abrahamsen E, Buck J, Dodd P, Goldblatt C, Griffiths G, Heywood K, Hughes N, Kaletzky A. Measurements beneath an Antarctic ice shelf using an autonomous underwater vehicle. Geophysics Research Letters. 2006 April; 33: L08612. eScholarID: 1e461 | DOI: 10.1029/2006GL025998
+LANE-SERFF GF; WOODWARD, M D. Internal bores in two-layer exchange flows over sills. Deep Sea Research I: Oceanographic Research Papers. 2005 November; 48(1): 63-78. eScholarID: 1a9628 | DOI: 10.1016/S0967-0637(00)00037-6
+LANE-SERFF GF; MARTIN, J R. Rotating gravity currents. Part 1. Energy loss theory. Journal of Fluid Mechanics. 2005 January; 522: 35-62. eScholarID: 1a9626 | DOI: 10.1017/S0022112004001351
+LANE-SERFF GF; TJ MORAN. Sedimentation from buoyant jets. Journal of Hydraulic Engineering. 2005 March; 131(3): 166-174. eScholarID: 1a9629 | DOI: 10.1061/(ASCE)0733-9429(2005)131:3(166)
+Lane-Serff G, Moran T. Sedimentation from buoyant jets. Journal of Hydraulic Engineering. 2005; 131(3): 166-174. eScholarID: 1e1389 | DOI: 10.1061/(ASCE)0733-9429(2005)131:3(166)
+Martin J, Lane-Serff G. Rotating gravity currents. Part 1. Energy loss theory. Journal of Fluid Mechanics. 2005; 522: 35-62. eScholarID: 1e1035 | DOI: 10.1017/S0022112004001351
+Martin J, Smeed D, Lane-Serff G. Rotating gravity currents. Part 2. Potential vorticity theory. Journal of Fluid Mechanics. 2005; 522: 63-89. eScholarID: 1e1036 | DOI: 10.1017/S0022112004001363
+LANE-SERFF GF. Topographic and boundary effects on steady and unsteady flow through straits. Deep-Sea Research II: Topical Studies in Oceanography. 2004 April; 51(4-5): 321-334. eScholarID: 1a9627 | DOI: 10.1016/j.dsr2.2003.07.019
+Lane-Serff G. Topographic and boundary effects on steady and unsteady flow through straits. Deep Sea Research. Part II: Topical Studies in Oceanography. 2004; 51: 321-334. eScholarID: 1e1038 | DOI: 10.1016/j.dsr2.2003.07.019
+A M Thurnherr, K J Richards, C R German, G F Lane-Serff, K G Speer. Flow and mixing in the rift valley of the Mid-Atlantic Ridge. Journal of Physical Oceanography. 2002; 32: 1763-1778. eScholarID: 1a1995 | DOI: 10.1175/1520-0485(2002)032<1763:FAMITR>2.0.CO;2
+Lane-Serff, Gregory, D R  Munday, and M D  Woodward. Laboratory experiments of internal bores in non-rotating and rotating exchange flows over sills. Proceedings of 2nd meeting on the Physical Oceanography of Sea Straits, Villefranche. 2002:  eScholarID: 2e1284
+Lane-Serff, Gregory. Overview of topographic and boundary effects. Proceedings of 2nd meeting on the Physical Oceanography of Sea Straits, Villefranche. 2002:  eScholarID: 2e61
+Thurnherr A, Richards K, German C, Lane-Serff G, Speer K. Flow and mixing in the rift valley of the Mid-Atlantic Ridge. Journal of Physical Oceanography. 2002; 32: 1763-1778. eScholarID: 1e1039 | DOI: 10.1175/1520-0485(2002)032<1763:FAMITR>2.0.CO;2
+Lane-Serff G, Woodward M. Internal bores in two-layer exchange flow over sills. Deep Sea Research. Part I: Oceanographic Research Papers. 2001; 48: 63-78. eScholarID: 1e1040 | DOI: 10.1016/S0967-0637(00)00037-6
+Lane-Serff G. Overflows and cascades. Encyclopedia of Ocean Sciences. Academic Press.2001:  eScholarID: 3e43
+

@@ -1,0 +1,60 @@
+name  role  phone  location  email
+Dr Andrea Cioncolini  Lecturer in Thermal Hydraulics  0161-3063711  George Begg Building - C32  andrea.cioncolini@manchester.ac.uk  
+
+BIOGRAPHY: 
+Dr. Andrea Cioncolini has been appointed Lecturer in Thermal-Hydraulics at the Department of Mechanical, Aerospace and Civil Engineering of the University of Manchester-UK, effective October 1st, 2013.
+His area of research is thermal-fluid-nuclear, both experimental and computational, and his specialties are: micro- and macro-scale multiphase flow; boiling; evaporation; condensation; fluid systems transient analysis and nuclear systems transient/safety analysis.
+He spent 5 and a half years as post-doctoral researcher in the Laboratory of Heat and Mass Transfer at the Swiss Federal Institute of Technology in Lausanne, Switzerland (EPFL), which he joined after 2 years as Senior Engineer/Scientist at Westinghouse Electric Co., Science and Technology Department in Pittsburgh-PA, USA.
+He received his Ph.D. in Nuclear Engineering at the Polytechnic University of Milan, Italy in 2005.
+
+RESEARCH: 
+Experimental/computational thermal-hydraulics and thermal-fluid dynamics
+Microscale and macroscale two-phase flow
+Boiling
+Evaporation
+Condensation
+Heat transfer
+CFD-Computational Fluid Dynamics
+Fluid systems transient analysis
+Nuclear reactor systems transient/safety analysis
+
+PUBLICATION: 
+John R. Thome, Andrea Cioncolini. Convective Flow Boiling in Macro and Micro Channels. World Scientific Publishing:2015.  eScholarID: ma1089
+Andrea Cioncolini, Anas Pauzi, Hector Iacovides, Dennis Cooper, Ian Scott. Preliminary CFD analysis of natural convection fuel tubes in molten salt nuclear reactors. 2015: -. eScholarID: 279263
+Andrea Cioncolini, John R Thome. Preliminary resolution of the near-wall structure in shear-driven liquid films. 2015: -. eScholarID: 279266
+Cioncolini A, Del Col D, Thome J. An indirect criterion for the laminar to turbulent flow transition in shear-driven annular liquid films. International Journal of Multiphase Flow. 2015 October; 75: 26-38. eScholarID: 276442 | DOI: 10.1016/j.ijmultiphaseflow.2015.05.002
+Cioncolini A, Scenini F, Duff J. Micro-orifice single-phase liquid flow: Pressure drop measurements and prediction. Experimental Thermal and Fluid Science. 2015 June; 33-40. eScholarID: 276449 | DOI: 10.1016/j.expthermflusci.2015.03.005
+Fabio Scenini, Jonathan Duff, Nicholas Stevens, Andrea Cioncolini, A Cook, A Banks. Electrochemical and micro structural characterisation of CRUD. 2014: -. eScholarID: 279259
+Anas BM Pauzi, Andrea Cioncolini, Hector Iacovides. Parametric study of natural circulation flow in molten salt fuel in molten salt reactors. 2014: -. eScholarID: 279261
+John R Thome, Andrea Cioncolini. Unified modeling suite for two-phase flow, convective boiling and condensation in macro- and micro-channels. 2014: -. eScholarID: ma1582
+Mauro A, Cioncolini A, Thome J, Mastrullo R. Asymmetric annular flow in horizontal circular macro-channels: Basic modelling of the liquid film distribution and heat transfer around the tube perimeter in convective boiling. International Journal of Heat and Mass Transfer. 2014 July; 77: 897-905. eScholarID: 276931 | DOI: 10.1016/j.ijheatmasstransfer.2014.06.021
+Santini L, Cioncolini A, Lombardi C, Ricotti M. Dryout occurrence in helically coiled steam generators for nuclear applications. E P J Web of Conferences. 2014; 67: . eScholarID: 279210 | DOI: 10.1051/epjconf/20146702102
+Lorenzo Santini, Andrea Cioncolini, Carlo Lombardi, Marco Ricotti. Dryout occurrence in a helically coiled steam generator for nuclear applications. 2013: -. eScholarID: 279257
+Andrea Cioncolini, J R Thome. Liquid film circumferential asymmetry prediction in horizontal annular two-phase flow. International Journal of Multiphase Flow. 2013; 51(0): 44-54. eScholarID: ma300
+Andrea Cioncolini, J R Thome. Algebraic turbulence modeling in condensing annular two-phase flow: preliminary results. 2012: -. eScholarID: ma1580
+Andrea Cioncolini, John R. Thome. Entrained liquid fraction prediction in adiabatic and evaporating annular two-phase flow. Nuclear Engineering and Design. 2012; 243(February): 200-213. eScholarID: 211270 | DOI: 10.1016/j.nucengdes.2011.11.014
+Andrea Cioncolini, John R Thome. LTCM unified model for annular two-phase flow: presentation of the modeling suite and preliminary results for convective evaporation and condensation. 2012: -. eScholarID: ma1576
+Andrea Cioncolini, John R. Thome. Void fraction prediction in annular two-phase flow. International Journal of Multiphase Flow. 2012; 43(July): 72-84. eScholarID: 211269 | DOI: 10.1016/j.ijmultiphaseflow.2012.03.003
+Andrea Cioncolini, John R. Thome. Algebraic turbulence modeling in adiabatic and evaporating annular two-phase flow. International Journal of Heat and Fluid Flow. 2011; 32(4): 805-817. eScholarID: 211271 | DOI: 10.1016/j.ijheatfluidflow.2011.05.006
+John R Thome, Andrea Cioncolini. Unified heat transfer and flow model for annular flows including entrainment. 2011: -. eScholarID: ma1578
+Andrea Cioncolini, J R Thome. Prediction of the entrained liquid fraction in vertical annular gas-liquid two-phase flow. International Journal of Multiphase Flow. 2010; 36(0): 293-302. eScholarID: ma402
+Andrea Cioncolini, John R Thome. Void fraction prediction in annular two-phase flow using an algebraic turbulence model. 2010: -. eScholarID: ma1585
+Cioncolini A, Thome J, Consolini L, Ong C. Microscale adiabatic gas-liquid annular two-phase flow: analytical model description, void fraction and pressure gradient predictions. Heat Transfer Engineering. 2010; 31: 310-320. eScholarID: 279216 | DOI: 10.1080/01457630903312072
+Thome J, Cioncolini A. Void fraction prediction in annular two-phase flow using an algebraic turbulence model. Microgravity - Science and Technology. 2010 September; 22: 425-431. eScholarID: 279214 | DOI: 10.1007/s12217-010-9196-7
+Andrea Cioncolini, C Lombardi, J R Thome. Algebraic turbulence modeling in adiabatic gas-liquid annular two-phase flow. International Journal of Multiphase Flow. 2009; 35(0): 580-596. eScholarID: ma061
+Andrea Cioncolini, John R. Thome, Carlo Lombardi. Unified macro-to-microscale method to predict two-phase frictional pressure drops of annular flows. International Journal of Multiphase Flow. 2009; 35(12): 1138-1148. eScholarID: 211272 | DOI: 10.1016/j.ijmultiphaseflow.2009.07.005
+Andrea Cioncolini, John R Thome, Carlo Lombardi. Unified macro-to-microscale method to predict two-phase frictional pressure drops of annular flows. 2009: -. eScholarID: 279255
+Andrea Cioncolini, John R Thome. Microscale annular two-phase flow, Part I: analytical model description and void fraction prediction. 2008: -. eScholarID: ma1584
+Andrea Cioncolini, John R Thome. Microscale annular two-phase flow, Part II: interfacial friction prediction. 2008: -. eScholarID: ma1586
+Andrea Cioncolini, L Santini, M E Ricotti. Subcooled and saturated water flow boiling pressure drop in small diameter helical coils at low pressure. Experimental Thermal and Fluid Science. 2008; 32(0): 1301-1312. eScholarID: ma472
+Andrea Cioncolini, C Lombardi, L Santini, M E Ricotti. Two-phase pressure drops in a helically coiled steam generator. International Journal of Heat and Mass Transfer. 2008; 51(0): 4926-4939. eScholarID: ma556
+Milorad B Dzodzo, Bin Liu, Andrea Cioncolini. CFD modeling of flows in nuclear power plant feed-water pipelines. 2007: -. eScholarID: ma1587
+Andrea Cioncolini, L Santini, M E Ricotti. Effects of dissolved air on subcooled and saturated flow boiling of water in a small diameter tube at low pressure. Experimental Thermal and Fluid Science. 2007; 32(0): 38-51. eScholarID: ma186
+Andrea Cioncolini, L Santini. An experimental investigation regarding the laminar to turbulent flow transition in helically coiled pipes. Experimental Thermal and Fluid Science. 2006; 30(0): 367-380. eScholarID: ma069
+M B Dzodzo, B Liu, A Cioncolini, S R Spiegelman. Application of CFD for modeling flows in feed-water pipelines. 2006: -. eScholarID: ma1583
+Andrea Cioncolini, L Santini. On the laminar to turbulent flow transition in diabatic helically coiled pipe flow. Experimental Thermal and Fluid Science. 2006; 30(0): 653-661. eScholarID: ma374
+Zio E, Cammi A, Cioncolini A. Dagger-sampling variance reduction in Monte Carlo reliability analysis. Monte Carlo Methods and Applications. 2004 December; 641-652. eScholarID: 279219 | DOI: 10.1515/mcma.2004.10.3-4.641
+Enrico Zio, Antonio Cammi, Andrea Cioncolini. Optimal implementation of dagger sampling variance reducing techniques in Monte Carlo reliability analysis. 2003: -. eScholarID: ma1581
+Andrea Cioncolini, Antonio Cammi, Luciano Cinotti. Thermal-hydraulics analysis of IRIS reactor coiled tube steam generator. 2003: -. eScholarID: ma1579
+Marco Ricotti, Antonio Cammi, Andrea Cioncolini. Preliminary safety analysis of the IRIS reactor. 2002: -. eScholarID: ma1577
+

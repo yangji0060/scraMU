@@ -1,0 +1,47 @@
+name  role  phone  location  email
+Dr Jonathan Dewsbury  Lecturer  0161-3064259  Pariser Building - G17  jonathan.dewsbury@manchester.ac.uk  
+
+BIOGRAPHY: 
+Jonathan Dewsbury graduated in Mechanical Engineering from the University of Sheffield in 1974. He worked in the textile industry, in consulting engineering and for the Building Services Research and Information Association before joining UMIST in 1984. He was awarded his PhD in 1995. His main interests are air flows in and around buildings, and energy in buildings..
+
+RESEARCH: 
+Air flows in and around buildings
+Building air leakage measurement
+Wind pressures on buildings
+Retention of fire extinguishing gases
+Building energy simulation
+
+PUBLICATION: 
+Hamad Almutairi, Jonathan Dewsbury, Gregory Lane-Serff. A combined cycle power plant with absorption cooling for houses air conditioning. ASME 2012 International Mechanical Engineering Congress and Exposition. New York, USA: American Society of Mechanical Engineers: 2012: -. eScholarID: 176058
+Murat Ozdenefe and Jonathan Dewsbury. Dynamic thermal simulation of a PCM lined building with Energy Plus. Proceedings of 7th WSEAS International Conference on Energy and Environment. 2012: 359-364. eScholarID: 171499
+Hamad Almutairi. Low energy air conditioning for hot climates. University of Manchester:2012.  eScholarID: 176055
+V Alipour. A test reference year for Ahvaz, Iran. University of Manchester:2011.  eScholarID: 153135
+H Al-Mutairi, J Dewsbury and G F Lane-Serff. Energy and the implication of residential cooling in hot climates: Case study for developing effective solution for residential cooling demand in Kuwait. 2011: -. eScholarID: 147455
+M Ozdenefe and J Dewsbury. Comparison of energy performance of two generic residential buildings from North Cyprus. 2010: -. eScholarID: 153132
+R A Whiteley, J Dewsbury, I Schlosser and P DiNenno. BS EN 15004-1:2008 Fixed firefighting systems - Gas extinguishing systems - Part 1 : Design, installation and maintenance, Annex E, Door fan test for determination of minimum hold time. BSI. 17 pages.
+Rahman I, Dewsbury J. Selection of typical weather data (test reference years) for Subang, Malaysia. Building and Environment. 2007 October; 42(10): 3636-3641. eScholarID: 1e478
+I Schlosser, Jonathan Dewsbury, P DiNenno, R A Whiteley. ISO 14520-1:2006, Gaseous fire extinguishing systems, Annex E, Door fan test for determination of hold time. ISO 14520-1:2006, Gaseous fire extinguishing systems, Annex E, Door fan test for determination of hold time. 2006;  eScholarID: ma918
+R A Whiteley, J Dewsbury, I Schlosser and P DiNenno. 2nd revised edition of ISO 14520-1:2006 Gaseous fire extinguishing systems - Physical properties and system design - Part 1 : General requirements, Annex E, Door fan test for determining of minimum hold time. 2006. 0 580 48314 2. ISO. 15 pages.
+Kamaruzzaman, S N, Rodger  Edwards, and Jonathan  Dewsbury. Electricity consumption of refurbished historic buildings in Malaysia. 5th International Postgraduate Research Conference, University of Salford, UK. 2005:  eScholarID: 2e745
+Dewsbury J, Whiteley R. Hold time calculations for non-standard enclosures. Fire Technology. 2004; 40: 75-89. eScholarID: 1e489 | DOI: 10.1023/B:FIRE.0000003317.39877.07
+Gadian A, Dewsbury J, Featherstone F, Levermore G, Morris K, Sanders C. Directional persistence of low wind speed observations. Journal of Wind Engineering and Industrial Aerodynamics. 2004; 92: 1061-1074. eScholarID: 1e485 | DOI: 10.1016/j.jweia.2004.05.007
+Whiteley, R A, and Jonathan  Dewsbury. Tightness of rooms - new calculation methods for gas fire extinguishing systems. VdS conference on Fire Extinguishing Systems, Cologne, Germany. 2002:  eScholarID: 2e746
+Levermore G, Sanders C, Dewsbury J, Gadian A, Laycock P. Inaccuracies in standard meteorological low wind speed data. ASHRAE Transactions. 2001; 107: 429-433. eScholarID: 1e490
+I Schlosser, Jonathan Dewsbury, P DiNenno, R A Whiteley. ISO 14520-1:2000, Gaseous fire extinguishing systems, Annex E, Door fan test for determination of hold time. ISO 14520-1:2000, Gaseous fire extinguishing systems, Annex E, Door fan test for determination of hold time. 2000;  eScholarID: ma917
+Dewsbury J, Whiteley R. Extensions to standard hold time calculations. Fire Technology. 2000 November; 36: 266-278. eScholarID: 1e479
+Dewsbury J, Whiteley R. Review of fan integrity testing and hold time standards. Fire Technology. 2000 November; 36: 249-265. eScholarID: 1e482
+Dewsbury, Jonathan. A note on wind speed banding and the Weibull distribution. CIB TG21 meeting, Gavle, Sweden. 1998:  eScholarID: 2e747
+Dewsbury, Jonathan. Wind data and ventilation. CIB TG21 meeting, Manchester, England. 1997:  eScholarID: 2e748
+Dewsbury J. AC pressurisation: Fourier analysis and the effect of compressibility of air. Building Services Engineering Research and Technology. 1996; 17: 73-77. eScholarID: 1e484
+Dewsbury J. AC pressurisation: analysis by non-linear optimisation. Building Services Engineering Research and Technology. 1996; 17: 65-71. eScholarID: 1e483
+Dewsbury J. Fourier analysis of AC pressurisation. Building Services Engineering Research and Technology. 1994; 15: B28-B29. eScholarID: 1e491
+Dewsbury, Jonathan, R M  Al-Khaddar, and R J  Orlowski. A calibration chamber for the AC pressurisation method of measuring building airtightness. CIB W17 meeting, Utrecht, Netherlands. 1992:  eScholarID: 2e757
+Dewsbury, Jonathan. Theories of AC pressurisation. CIB W67 meeting, Manchester, England. 1992:  eScholarID: 2e749
+Al-Khaddar, R M, Jonathan  Dewsbury, and R J  Orlowski. AC pressurisation calibration. CIB W67 symposium on energy, moisture and climate in buildings, Rotterdam, Netherlands. 1990:  eScholarID: 2e758
+Jonathan Dewsbury. BS 8313:1989, Accommodation of building services in ducts. BS 8313:1989, Accommodation of building services in ducts. 1989;  eScholarID: ma769
+Dewsbury, Jonathan, Rodger  Edwards, and Kenneth  Letherman. Building services performance and the sick building syndrome. British Occupational Hygiene Society annual conference, University of Warwick, England. 1989:  eScholarID: 2e759
+Letherman K, Dewsbury J. The 'bin' method - a procedure for predicting seasonal energy requirements in buildings. Building Services Engineering Research and Technology. 1986; 7: 55-64. eScholarID: 1e486
+Dewsbury, Jonathan. Use of a single tracer gas for measurement of ventilation rates in a large enclosure. 6th Air Infiltration Centre conference, Het Meerdal, Netherlands. 1985:  eScholarID: 2e760
+Potter, I N, Jonathan  Dewsbury, and T  Jones. The measurement of infiltration rates in large enclosures and buildings. CEC International Seminar on Energy Saving in Buildings, The Hague, Netherlands. 1983:  eScholarID: 2e762
+Brayshaw, C, and Jonathan  Dewsbury. The measurement of infiltration rates in large enclosures and buildings. CEC Contractors\' Meeting, Brussels, Belgium. 1982:  eScholarID: 2e763
+

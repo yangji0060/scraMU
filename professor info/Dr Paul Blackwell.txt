@@ -1,0 +1,13 @@
+name  role  phone  location  email
+Dr Paul Blackwell  Lecturer  0161-2754434  Pariser Building - E11  paul.blackwell@manchester.ac.uk  
+
+BIOGRAPHY: 
+Dr Blackwell is a lecturer in Risk Management and Project Cost Management. He also lectures on the Managing Large Programmes module at British University in Dubai (BUiD). Paul obtained an EngD in Integrated Manufacturing Systems from Cranfield University in 2003, having already obtained a Master of Research in Innovative Manufacturing (specialising in Management Information Systems) from the same institution in 1999. He then spent two years at Cranfield as a Research Fellow, helping to develop business with organisations such as Ford Motor Company, AMS Radar Systems, and the Ministry of Defence (MoD). Prior to his appointment at the University of Manchester in February 2013, Paul spent seven years as a cost engineer with the MoD. Paul's time with the MoD was spent in the BAE Systems shipyard at Barrow-in-Furness, Cumbria, where he worked on the Astute Class Nuclear Submarine Programme. He supported pricing work with major suppliers including BAE Systems Submarine Solutions, Babcock Marine, Rolls-Royce and Thales Underwater Systems Ltd. Paul also helped to implement performance partnering arrangements between BAE Systems and its main sub-contractors, as well as undertaking contractor systems reviews and capacity planning and control studies.
+
+RESEARCH: 
+Risk Management
+Complexity in Large Programmes
+Stakeholder Management
+
+PUBLICATION: 
+

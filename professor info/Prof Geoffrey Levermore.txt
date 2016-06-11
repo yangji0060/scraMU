@@ -1,0 +1,36 @@
+name  role  phone  location  email
+Prof Geoffrey Levermore  Emeritus Professor    Pariser Building - G8  geoff.levermore@manchester.ac.uk  
+
+BIOGRAPHY: 
+Geoff read Physics at Imperial College, London gaining his BSc, ARCS in 1971 and his PhD, DIC, on the Johnsen-Rahbek Effect, in 1974. He then worked at the GEC Hirst Research Centre and then the Jules Thorn Lighting Laboratory. In 1980, whilst heading the Wandsworth Energy Conservation Section he founded the London Boroughs Energy Management Group. He joined UMIST in 1991 from South Bank University. Currently he is Chair of the CIBSE Weather Panel and Co-ordinator of the CIB Task Group21; Climatic Data for Building Services and a Lead Author on the IPCC (WG3).
+
+RESEARCH: 
+Weather data: for design of buildings, plant and natural ventilation, climate change
+Control and modelling: intelligent buildings, low-energy buildings, natural and mixed mode air condi
+Occupant feedback: related to the interior environment with Overall Liking Score and fingerprint, Si
+Lighting perception: related to coloured light sources and daylight in buildings
+
+PUBLICATION: 
+Smith C, Lindley S, Levermore G. Estimated Spatial and Temporal Patterns of Urban Anthropogenic Heat Fluxes. Theoretical and Applied Climatology. In-press eScholarID: 1e895
+Levermore G. A Review of the IPCC Assessment report Four, Part 1, the IPCC process and Greenhouse Gas Emission trends from buildings worldwide. Building Services Engineering Research and Technology. 2008; 29: 349-361. eScholarID: 1e886 | DOI: 10.1177/0143624408096263
+Levermore G. A Review of the IPCC Assessment report Four, Part 2, Mitigation options for residential and commercial buildings. Building Services Engineering Research and Technology. 2008; 29: 363-374. eScholarID: 1e887 | DOI: 10.1177/0143624408096262
+Smith C, Levermore G. Designing urban spaces and buildings to improve sustainability and quality of life in a warmer world. Energy Policy. 2008 December; 36: 4558-4562. eScholarID: 1e888 | DOI: 10.1016/j.enpol.2008.09.011
+LEVERMORE GJ; LEVINE, M; UERGE-VORSATZ, D; BLOK, K; ... Intergovernmental Panel on Climate Change (IPCC) Fourth Assessment Report: Working Group III, Mitigation of Climate Change, Chapter 6 Residential and commercial buildings. 2007-05-04. http://www.mnp.nl/ipcc/pages_media/FAR4docs/final_pdfs_ar4/Chapter06.pdf. Netherlands Environment Assessment Agency. 60.
+A Mehlwana, A Novikova, D Harvey, D Urge-Vorsatz, Geoff Levermore, H Yoshino, J Rilling, K Block, M Levine, S Mirasgedis. Unavailable. IPCC, 2007: Climate Change 2007: Mitigation of Climate Change. Contribution of Working Group III to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge University Press.2007:  eScholarID: ma1662
+Chow D, Levermore G. New Algorithm for Generating Hourly Temperature Values Using Daily Maximum, Minimum and Average Values from Climate Models. Building Services Engineering Research and Technology. 2007; 28: 237-248. eScholarID: 1e892 | DOI: 10.1177/0143624407078642
+Levine M, Yoshino H, Urge-Vorsatz D, Block K, Harvey D, Mehlwana A, Levermore G, Mirasgedis S, Novikova A, Rilling J. IPCC, 2007: Climate Change 2007: Mitigation of Climate Change. Contribution of Working Group III to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge University Press.2007:  eScholarID: 3e41
+Natarajan S, Levermore G. Domestic futures--Which way to a low-carbon housing stock?. Energy Policy. 2007; 35: 5728-5736. eScholarID: 1e889 | DOI: 10.1016/j.enpol.2007.05.033
+Natarajan S, Levermore G. Predicting future UK housing stock and carbon emissions. Energy Policy. 2007 November; 35: 5719-5727. eScholarID: 1e891 | DOI: 10.1016/j.enpol.2007.05.034
+LEVERMORE GJ; PARKINSON, J B. Analyses and algorithms for new Test Reference Years and Design Summer Years for the UK. Building Services Engineering Research and Technology. 2006 November; 27(4): 311-325. eScholarID: 1a9419 | DOI: 10.1177/0143624406071037
+C Sanders, Geoff Levermore, J Page, T Muneer. Unavailable. CIBSE Guide A Environmental design. Academic Press.2006:  eScholarID: ma1663
+Levermore G, Muneer T, Sanders C, Page J. CIBSE Guide A Environmental design. Academic Press.2006:  eScholarID: 3e42
+Levermore G, Parkinson J J. Analyses and algorithms for new Test Reference Years and Design Summer Years for the UK. Building Services Engineering Research and Technology. 2006; 27: 311-326. eScholarID: 1e184 | DOI: 10.1177/0143624406071037
+Levermore G, Chow D. Solar irradiation and coincident dry bulb temperature selection for load calculations, an initial investigation. ASHRAE Transactions. 2006; 112: 690-696. eScholarID: 1e893
+LEVERMORE GJ. Duct loop systems-savings and performance. Transactions of the American Society Of Heating Refrigerating and Air Conditioning Engineers. 2005 January; 111(1): 507-514. eScholarID: 1a9420
+Levermore G. Duct loop systems; savings and performance. ASHRAE Transactions. 2005; 111: 507-514. eScholarID: 1e894
+Gadian A, Dewsbury J, Featherstone F, Levermore G, Morris K, Sanders C. Directional persistence of low wind speed observations. Journal of Wind Engineering and Industrial Aerodynamics. 2004; 92: 1061-1074. eScholarID: 1e485 | DOI: 10.1016/j.jweia.2004.05.007
+LEVERMORE GJ; CHOW, D H C; JONES, P; LISTER, D; . Extreme and near-extreme climate change data in relation to building and plant design. Building Services Engineering Research and Technology. 2002 December; 23(4): 233-242. eScholarID: 1a9421 | DOI: 10.1191/0143624402bt046oa
+Levermore G, Chow D, Jones P, Lister D, Laycock P, Page J. Extreme and near-extreme climate change data in relation to building and plant design. Building Services Engineering Research and Technology. 2002; 23: 233 - 242. eScholarID: 1e185 | DOI: 10.1191/0143624402bt046oa
+Levermore G, Sanders C, Dewsbury J, Gadian A, Laycock P. Inaccuracies in standard meteorological low wind speed data. ASHRAE Transactions. 2001; 107: 429-433. eScholarID: 1e490
+Geoff Levermore. Building Energy Management Systems; application to low-energy HVAC and natural ventilation control. Taylor & Francis:2000.  eScholarID: ma1098
+

@@ -1,0 +1,22 @@
+name  role  phone  location  email
+Dr Christian Griffiths  Visitor    Pariser Building  christian.griffiths@manchester.ac.uk  
+
+BIOGRAPHY: 
+
+RESEARCH: 
+Laser Processing Research Centre
+
+PUBLICATION: 
+Griffiths C. A, Dimov S. S, Fischer S, Spitzbart M, Lacan F. Micro-stereolithography tools for small-batch manufacture of polymer micro-parts. Proceedings of the Institution of Mechanical Engineers, Part B, Journal of Engineering Manufacture. 2012 April; 226(4): 708-721. eScholarID: 185050 | DOI: 10.1177/0954405411429242
+Griffiths C. A, Dimov SS, Scholz S, Tosello G. Cavity Air Flow Behaviour During Filling in Microinjection Moulding. Journal of Manufacturing Science and Engineering. 2011 February; 133(1): 011006. eScholarID: 185058 | DOI: 10.1115/1.4003339
+Scholz, S.G, Griffiths C. A, Dimov S.S, Brousseau E, Lalev G, Petkov P. Manufacturing routes for replicating micro and nano surface structures with bio-mimetic applications. CIRP Journal of Manufacturing Science and Technology. 2011 June; 4(4): 347-356. eScholarID: 185056
+Griffiths C. A, Dimov S.S, Scholz S, Tosello G. Process Factors Influence on Cavity Pressure Behavior in Microinjection Moulding. Journal of Manufacturing Science and Engineering. 2011 September; 133(3): 031007. eScholarID: 185057 | DOI: 10.1115/1.4003953
+Griffiths C. A, Dimov S. S,, Hirshy H, Scholz S,, Fischer S, Spitzbart M. Prototype tooling for producing small series of polymer microparts. Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture. 2011 November; 225(12): 2189-2205. eScholarID: 185054 | DOI: 10.1177/2041297510393799
+Griffiths C. A., Bigot, S., Brousseau, E. Worgull, M. Heckele, M., Nestler, J., and Auerswald J. Investigation of polymer inserts as prototyping tooling for micro injection moulding. International Journal of Advanced Manufacturing Technology. 2010 March; 47(1-4): 111-123. eScholarID: 185060
+Griffiths C. A., Dimov S.S., Brousseau E.B., Chouquet C., Gavillet J. and Bigot, S. Investigation of surface treatment effects in micro-injection-moulding. International Journal of Advanced Manufacturing Technology. 2010 March; 47(1-4): 99-110. eScholarID: 185059 | DOI: 10.1007/s00170-009-2000-4
+Griffiths C. A., Dimov S.S. and Brousseau E.B. Micro injection moulding: the influence of runner systems on flow behaviour and melt fill of multiple micro cavities. Proceedings of the Institution of Mechanical Engineers, Part B, Journal of Engineering Manufacture. 2008 September; 222(B9): 1119-1130. eScholarID: 185061
+Griffiths C. A., Dimov S.S., Brousseau E.B. and Packianather M.S. The finite element analysis of melt flow behaviour in micro-injection moulding. Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture Journal of Engineering Manufacture. 2008 September; 222(9): 1107-1119. eScholarID: 185063 | DOI: 10.1243/09544054JEM965
+Sha B., Dimov S., Griffiths C.A and Packianather M. S. Investigation of micro-injection moulding: Factors affecting the replication quality. Journal of Materials Processing Technology. 2007 March; 183(2-3): 284-296. eScholarID: 185065
+Griffiths C. A, Dimov S. S, Brousseau E. B and Hoyle R. T. The effects of tool surface quality in micro-injection moulding. Journal of Materials Processing Technology. 2007 July; 189(1-3): 418-427. eScholarID: 185064
+Sha B., Dimov S., Griffiths C. and Packianather M. S. Micro-injection moulding: Factors affecting the achievable aspect ratios. International Journal of Advanced Manufacturing Technology. 2006 May; 33(1-2): 147-156. eScholarID: 185066
+

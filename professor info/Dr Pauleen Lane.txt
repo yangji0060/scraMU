@@ -1,0 +1,14 @@
+name  role  phone  location  email
+Dr Pauleen Lane  Lecturer In Geotechnical Engineering  0161-3064592  Pariser Building - B50  pauleen.lane@manchester.ac.uk  
+
+BIOGRAPHY: 
+After gaining her degree and doctorate at Manchester University Pauleen worked for five years as a practising engineer. Her teaching and research interests are in solving problems of material and structures interaction. This is often, but not exclusively in soil mechanics. She brings real world experience to university life and enjoys their overlap. She is currently a non-executive Director of the Coal Authority and the Chair of the Environment Group for the Board. She has recently become Deputy Chair of the Infrastructure Planning Commission and the Chair of the Energy Council of Commissioners.
+
+RESEARCH: 
+Soil/structure interaction problems
+Variability of soil mechanics parameters
+Modelling of flexible pipes
+Applications of Pulverised Fuel Ash (PFA) in new fields
+
+PUBLICATION: 
+

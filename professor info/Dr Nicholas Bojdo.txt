@@ -1,0 +1,27 @@
+name  role  phone  location  email
+Dr Nicholas Bojdo  Lecturer  0161-3063815  Pariser Building - B36  nicholas.bojdo@manchester.ac.uk  
+
+BIOGRAPHY: 
+Dr Nicholas Bojdo was appointed as Honorary Lecturer in Aerospace Engineering at the University of Manchester in 2013. His expertise is in modelling and simulation of fluid flows, with particular application to particle transport, porous media, and gas-turbine thermodynamics. Dr Bojdo's current research applies this expertise to predict engine power loss due to installation effects or degradation by ingested particulate such as dust or volcanic ash.
+Dr Bojdo graduated from the University of Manchester in 2008, with an MEng in Aerospace Engineering. After a year abroad studying language, he returned in 2009 to begin his doctorate, which he completed three years later. He was awarded the EPSRC Doctoral Prize in 2012 which allowed him to develop his research and work closely with industry on numerous projects. In October 2013, Dr Bojdo was appointed as Honorary Lecturer and Research Associate within the School of MACE.
+
+RESEARCH: 
+Filtration and Separation
+Engine-Airframe Integration
+Rotorcraft Performance and Design
+Particle and Powder Technology
+
+PUBLICATION: 
+Nicholas Bojdo, Antonio Filippone. Self-cleaning barrier filter for rotorcraft engines. The Aeronautical Journal. 2014 November; 1311-1328. eScholarID: 263812
+Bojdo N., Filippone A. Comparative Study of Helicopter Engine Particle Separators. Journal of Aircraft. 2014 April; 51(3): 1030-1042. eScholarID: 238140 | DOI: 10.2514/1.C032322
+A Comparative Study of Helicopter Engine Air Particle Separator Technologies. 2012 September.  eScholarID: 167081
+Nicholas Bojdo, Antonio Filippone. Fabric Filter Performance for Helicopter Inlet Barrier Filter Systems. Journal of the American Helicopter Society. 2012 July; 53(3): 1-13. eScholarID: 167075 | DOI: 10.4050/JAHS.57.032002
+Antonio Filippone, Nicholas Bojdo. Fabric Filter Performance of Helicopter Inlet Barrier Filters. Journal of the American Helicopter Society. 2012; 53(3): 13-Jan. eScholarID: ma222
+Nicholas Bojdo, Antonio Filippone. Operational Performance of Inlet Barrier Filters for Rotorcraft. The Aeronautical Journal. 2012 September;  eScholarID: 167077
+Rotorcraft Engine Air Particle Separation. University of Manchester:2012.  eScholarID: 196626
+Helicopter Engine Inlet Barrier Filter Design. 2011 September.  eScholarID: 167080
+Operational Performance Parameters of Engine Barrier Filtration Systems for Rotorcraft. 2011 May.  eScholarID: 167079
+Nicholas Bojdo, Antonio Filippone. Performance Prediction of Inlet Barrier Filter Systems for Rotorcraft Engines. Journal of Aircraft. 2011 June; 48(6): 1903-1912. eScholarID: 167076 | DOI: 10.2514/1.C031335
+Performance Prediction of Inlet Barrier Filter Systems for Rotorcraft. 2010 September.  eScholarID: 167078
+Antonio Filippone, Nicholas Bojdo. Turboshaft Engine Air Particle Separation. Progress in Aerospace Sciences. 2010 June; 46(5-6): 224-245. eScholarID: 167074 | DOI: 10.1016/j.paerosci.2010.02.001
+

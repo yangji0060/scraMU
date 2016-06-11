@@ -1,0 +1,31 @@
+name  role  phone  location  email
+Dr Dana Abi Ghanem  Research Associate at Tyndall  0161-2754350  Pariser Building - H1  dana.abighanem@manchester.ac.uk  
+
+BIOGRAPHY: 
+I am a Post-doctoral Research Fellow at the Tyndall Centre, with an interest in electricity consumption and smart grid development, renewable energy technologies, consumption and everyday practices.
+I am interested in the intersections between technology design and consumption, particularly new energy technologies, their conception and adoption. My research engages with scholarship from science and technology studies, sociology, theories of practice, and cultural geography.
+My current research is structured around the following projects:
+1) Active Distribution network with full integration of Demand and distributed energy RESourceS (ADDRESS): I am a researcher on this FP7 project, with Sarah Mander and Joseph Mutale. This research explores the impact of Active Demand technologies on energy consumption in homes and small business through field trials in Europe.
+2) RESNET: Resilient Electricity Networks for Great Britain: I am a researcher on WP5 of this project, with Sarah Mander and Clair Gough. The aim of RESNET is to develop and demonstrate an approach to analyse the reliability of the UK electricity system in the context of climate change and to develop tools for quantifying the value of adaptations that would enhance its resilience. WP 5 will explore the societal implications and identify potential barriers to adaptation measures.
+3) Power outages in post-war Lebanon: socio-material practices for maintaining electrical services in homes: The principal aims of the project are to understand the social and material networks that make up everyday power supply for homes in urban Lebanon in the context of endemic power cuts. The project will generate empirical knowledge about this dimension of daily life in the city and the coping strategies adopted by households in Beirut, as they try to reconcile their ordinary expectations and aspirations with the reality of power shortages in Lebanon.
+
+RESEARCH: 
+Energy consumption
+Renewable energy technologies
+Science and technology studies
+
+PUBLICATION: 
+Abi Ghanem, Dana; Mander, Sarah; Gough, Clair. I think we need to get a better generator": Household resilience to disruption to power supply during storm events. Energy Policy.  eScholarID: 296710
+Abi Ghanem D, Mander S. Designing consumer engagement with the smart grids of the future: bringing active demand technology to everyday life. Technology Analysis & Strategic Management. 2014 November;  eScholarID: 241063 | DOI: 10.1080/09537325.2014.974531
+Thomas Roberts, Paul Upham, Philip Boucher, Carly McLachlan, Sarah Mander, Clair Gough and Dana Abi Ghanem. Conclusions and a research agenda for the social science of energy supply controversy. In: Thomas Roberts, Paul Upham, Sarah Mander, Carly McLachlan, Philip Boucher, Clair Gough, Dana Abi Ghanem, ed. Low-Carbon Energy Controversies. London, Routledge.2012:  eScholarID: 221553
+Dana Abi Ghanem, Sarah Mander, Kris Kessels, Marina Lombardi. Consumer engagement with active demand principles and technologies: A review. 2012 IEEE International Energy Conference and Exhibition. IEEE: 2012: 687-692. eScholarID: 221535
+Belhomme, R., P. Eyrolles, R. González Sainz-Maza, J. Jimeno Huarte, G. Valtorta, E. Morozova, F. Naso, D. Abi Ghanem and S. Mander. Implementing Active Demand in the ADDRESS Project: Laboratory Tests and First Results from the Field. Berlin: IEEE: 2012: 1-8. eScholarID: 221536
+Thomas Roberts, Paul Upham, Carly McLachlan, Sarah Mander, Clair Gough, Philip Boucher and Dana Abi Ghanem. Introduction. In: Thomas Roberts, Paul Upham, Sarah Mander, Carly McLachlan, Philip Boucher, Clair Gough, Dana Abi Ghanem, ed. Low-Carbon Energy Controversies. London, Routledge.2012:  eScholarID: 221552
+Thomas Roberts, Paul Upham, Sarah Mander, Carly McLachlan, Philip Boucher, Clair Gough, Dana Abi Ghanem. Low-Carbon Energy Controversies. London: Routledge:2012.  eScholarID: 221529
+Dana Abi Ghanem. Microgeneration in the built environment. In: Thomas Roberts, Paul Upham, Sarah Mander, Carly McLachlan, Philip Boucher, Clair Gough, Dana Abi Ghanem, ed. Low-carbon Energy Controversies. London, Routledge.2012:  eScholarID: 221530
+Dana Abi Ghanem, Claire Haggett. Shaping people’s engagement with microgeneration technology. In: Patrick Devine-Wright, ed. Renewable Energy and the Public. London, Earthscan.2011:  eScholarID: 221532
+Dana Abi Ghanem and Sarah Mander. Survey and Analysis of Mechanisms behind Consumer Engagement with Active Demand Principles and Technologies. 2011 November.  eScholarID: 146151
+Dana Abi Ghanem. Installing Photovoltaic Technology in the UK. In: Arno Bamme, Peter Baumgartner, Wilhelm Berger and Ernst Kotzmann, ed. Yearbook 2008.  57. Wien, Profil.2008:  eScholarID: 221550
+Heath R, Rouhana A, Abi Ghanem D. Asymmetric bias in perception of facial affect among Roman and Arabic script readers. Laterality: Asymmetries of Body, Brain, and Cognition. 2005; 10(1): 51-64. eScholarID: 221541 | DOI: 10.1080/13576500342000293
+Makhoul J, Abi Ghanem D, Ghanem M. An ethnographic study of the consequences of social and structural forces on children: the case of two low-income Beirut suburbs. Environment and Urbanization. 2003; 15(2): 249-260. eScholarID: 221549 | DOI: 10.1177/095624780301500213
+

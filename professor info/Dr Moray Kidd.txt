@@ -1,0 +1,69 @@
+name  role  phone  location  email
+Dr Moray Kidd  Senior Lecturer, Associate Director for the BP Engineering Management Programme, Director for Business Engagement (Professional Development and Consultancy)  0161-3063724  Pariser Building - E23  moray.kidd@manchester.ac.uk  
+
+BIOGRAPHY: 
+Moray started his career working as Mechanical Maintenance Apprentice Technician for ABB Wylex. On completion of his apprenticeship and short period in the design department, Moray went into full time education enrolled on a Mechanical Engineering Honours Degree at UMIST.  On completion of his first degree, Moray accepted a Senior Mechanical Engineering Design role with GEC Alsthom. Soon after, following a takeover by GE Power Controls, Moray was appointed Project Manager for Air Circuit Breaker Enhancements.
+In 1998, he joined BAE Systems Regional Aircraft Division as a Senior Systems Engineer. During this period with BAE he was posted, on secondment, to the aircraft production facility where he supported a team accountable for the structural design integrity of civil aircraft during the final assembly phase.
+In 2001, Moray started his Engineering Doctorate (EngD) at The University of Manchester sponsored by Teradyne Diagnostic Solutions. His research focused on Automotive Engineering Reliability. On completing his doctorate programme, Moray accepted the post of Project Manager at Teradyne DS in 2005. His main responsibility was to support business development with assignments across Europe, North America and South East Asia.
+In 2007, Moray accepted a management role and senior teaching post with the University of Manchester. As a Deputy Director, his primary management responsibility is the delivery of the BP engineering management executive education programme. His main research interests include Maintenance Engineering and Project Management. In his research support role, Moray has supervised over eighty MSc Dissertations and is currently managing four PhD projects. He also supervised six PhD to successful completion. Many of his students hold senior engineering roles in industry.
+Moray is a Subject Matter Expert in Risk and Reliability Engineering. He currently teaches on the Maintenance Engineering and Asset Management MSc. Moray has taught Risk and Reliability Engineering to over five hundred Professional Engineers from a wide range of industries including Oil and Gas, Chemicals, Power Generation, Alternative Energy, Rail, Automotive, Aerospace, Defence, Food, Pharmaceutical, Nuclear and Mining. Moray provides consultancy support in Reliability Engineering. He is particularly interested in RAM modelling to improve business performance. Other teaching commitments include Project Management for year 2 Civil Engineering and Engineering Design for year 1 Mechanical Engineering Undergraduates.
+More recently, Moray has been appointed Director for Business Engagement (Professional Development and Consultancy). In his role, he is responsible for the promotion and growth of the following programmes and activities including:
+- REAM All modes
+- NPDP Blended
+- PMPDP Blended and planned future online
+- Bespoke versions of the above
+- CPD (credit bearing and non credit bearing)
+- Consultancy
+
+RESEARCH: 
+Maintenance Engineering - Reliability, Maintainability and Availability
+Engineering Management - Engineering Design Methods, Expert Systems for Engineering and Management
+Management of Engineering Projects - Project Scheduling and Finance, Management of Quality and Risk
+
+PUBLICATION: 
+J Al-Harji, Moray Kidd. A Critical Assessment of How Leaning the Risk Assessment Process Induces Biased Judgment. A Critical Assessment of How Leaning the Risk Assessment Process Induces Biased Judgment. 2013:  eScholarID: ma1443
+J Eardley, Moray Kidd. A Study Into The Application Of Onboard Condition Monitoring & Diagnostic Telemetry Systems In The Passenger Carrage Industry. The University of Manchester: 2013.  eScholarID: ma736
+G Brown, Moray Kidd. An Appropriate Maintenance Regime For A Lower Merit, Mid Life CCGT Power Station. The University of Manchester: 2013.  eScholarID: ma751
+A Higson, A Starr, Moray Kidd. Automotive Condition Monitoring using Adaptive Fuel Map Technology. Automotive Condition Monitoring using Adaptive Fuel Map Technology. 2013: 273-284. eScholarID: ma1446
+A Higson, A Starr, Moray Kidd. Automotive Condition Monitoring using Existing Vehicle Sensor Technology. Automotive Condition Monitoring using Existing Vehicle Sensor Technology. 2013:  eScholarID: ma1449
+A Malik, Moray Kidd. E-Maintenance & Integrated Maintenance Solution. E-Maintenance & Integrated Maintenance Solution. 2013:  eScholarID: ma1444
+Moray Kidd, X Dong. Future Automotive Product Platform Architecture. The University of Manchester: 2013.  eScholarID: ma871
+M Ridmouane, Moray Kidd. How to Better Assess Risks. The University of Manchester: 2013.  eScholarID: ma890
+E Isgandarov, Moray Kidd. Implementing Condition Based Maintenance In Asset Management Framework. The University of Manchester: 2013.  eScholarID: ma895
+Moray Kidd, V Tantisuvanichkul. Improve Net Present Value using Priority Rule-based Scheduling. Improve Net Present Value using Priority Rule-based Scheduling. 2013:  eScholarID: ma1441
+Moray Kidd, Y Lee. Integrating Value and Risk Management. The University of Manchester: 2013.  eScholarID: ma906
+J Al-Harji, Moray Kidd. Lean Management and the Psychology of Risks in Hydrocarbon Facilities: A Critical Ethomethodological Review. Lean Management and the Psychology of Risks in Hydrocarbon Facilities: A Critical Ethomethodological Review. 2013:  eScholarID: ma1448
+Moray Kidd, V Tantisuvanichkul. Maximising Net Present Value a Review through Literature. Maximising Net Present Value a Review through Literature. 2013:  eScholarID: ma1447
+A Malik, Moray Kidd. Plant Maintenance: Practicalities of linking of Data fusion. Plant Maintenance: Practicalities of linking of Data fusion. 2013:  eScholarID: ma1445
+Moray Kidd, V Deshmukh. QM Methods For The Service Industry. The University of Manchester: 2013.  eScholarID: ma972
+Moray Kidd, S Rattanachotithavorn. Regional Standardisation For Oil And Gas Projects. The University of Manchester: 2013.  eScholarID: ma979
+Moray Kidd, Y Seetohul. Six Sigma in the Service Industry. The University of Manchester: 2013.  eScholarID: ma1006
+J Olatunbosun, Moray Kidd. The Application of Bayesian Networks to Maintenance Management Systems. The Application of Bayesian Networks to Maintenance Management Systems. 2013:  eScholarID: ma1442
+F Oyovbaire, Moray Kidd. The Role Of The Project Management Office. The University of Manchester: 2013.  eScholarID: ma1054
+F Petker, Moray Kidd. Designing The Airport Lounge Experience. The University of Manchester: 2012.  eScholarID: ma821
+A Suhail, Moray Kidd. Managing Oil And Gas Projects Within A Regionalised Standardisation Programme Of Activity. The University of Manchester: 2012.  eScholarID: ma928
+F Khajavi, Moray Kidd. Managing Service Innovation: A Case Study In The Aviation Industry. The University of Manchester: 2012.  eScholarID: ma929
+J Simmonds, Moray Kidd. Operations And Maintenance Strategy For UK Round 3 Offshore Wind Farms And Cost Esimtation. The University of Manchester: 2012.  eScholarID: ma958
+A Mohamed, Moray Kidd. Opportunities For Process Simulation In Major Oil And Gas Projects. The University of Manchester: 2012.  eScholarID: ma959
+Moray Kidd, W D Steward. Promoting Excellence In Maintenance Through Effective Strategies In The Oil And Gas Industries. 2012.  eScholarID: ma969
+Moray Kidd, X Zhang. Standardization Strategy In Oil & Gas Projects. The University of Manchester: 2012.  eScholarID: ma1025
+J A Setiawan, Moray Kidd. Supplier Involvement In Automotive Platform Planning. The University of Manchester: 2012.  eScholarID: ma1031
+C Xiang, Moray Kidd. The Role Of Project Management In The Future Automotive Product Platform Architectures. The University of Manchester: 2012.  eScholarID: ma1053
+F Liu, Moray Kidd. Competing With IT: IT Strategy As Competitve Advantages. The University of Manchester: 2011.  eScholarID: ma794
+E F Tedesco, Moray Kidd. Safety Management Model For Maintenance Turnarounds. The University of Manchester: 2011.  eScholarID: ma1000
+M Sayad, Moray Kidd. An Alternative Approach To Traditional Oil And Gas Major Project Controls. The University of Manchester: 2010.  eScholarID: ma748
+E A Nzei, Moray Kidd. Case Based Reasoning For Indurtrial Condition Monitoring. The University of Manchester: 2010.  eScholarID: ma773
+Moray Kidd, T K Lam. Chinese State Enlargement A Review Of The Ship Building Industry. The University of Manchester: 2010.  eScholarID: ma780
+K Patel, Moray Kidd. How A Project Manager Can Ensure IT Project Success. The University of Manchester: 2010.  eScholarID: ma887
+C Ban, Moray Kidd. How does leadership work in Project Management?. The University of Manchester: 2010.  eScholarID: ma889
+L M Walker, Moray Kidd. Improved Turnaround Performance Through The Development Of A Turnaround Specific Stage Gate Process. The University of Manchester: 2010.  eScholarID: ma897
+M Almarghlani, Moray Kidd. Managing For Creativity. The University of Manchester: 2010.  eScholarID: ma926
+Moray Kidd, X YOU. Managing Innovation In Small To Medium Sized Enterprises. The University of Manchester: 2010.  eScholarID: ma927
+Moray Kidd, U T Ibrahimova. Measuring Performance Of Maintenance Planning With Key Performance Indicators. The University of Manchester: 2010.  eScholarID: ma936
+Moray Kidd, Y Liao. Outsourcing: Risk Analysis Of IT Outsourcing. The University of Manchester: 2010.  eScholarID: ma961
+A K Shirazia, Moray Kidd. Supporting A Standardisation Strategy For Major Oil And Gas Projects. The University of Manchester: 2010.  eScholarID: ma1034
+M M Kermani, Moray Kidd. Supporting a Standardisation Strategy for Major Oil and Gas Projects. The University of Manchester: 2010.  eScholarID: ma1033
+J Olatunbosun, Moray Kidd. The Application Of Bayesian Networks To Maintenance Management Systems. The University of Manchester: 2010.  eScholarID: ma1037
+Moray Kidd, O G Asam. Using Condition Monitoring Techniques To Improve The Reliability Of The MTU Raft. The University of Manchester: 2010.  eScholarID: ma1071
+Graham Thompson, Moray Kidd. Research Note Engineering Design Change Management. Integrated Manufacturing Systems. 2000; 11(1):  eScholarID: ma430
+

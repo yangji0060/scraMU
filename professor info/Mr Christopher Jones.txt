@@ -1,0 +1,18 @@
+name  role  phone  location  email
+Mr Christopher Jones  Research Associate  0161-2754432  Pariser Building - H1A  c.w.jones@manchester.ac.uk  
+
+BIOGRAPHY: 
+I currently work on the deployment of high levels of solar PV in the UK, including life cycle environmental and techno-economic evaluation. My PhD assessed the potential to utilise heat from nuclear reactors at potential new build sites in the UK using GIS to develop a heating demand density map for the Teesside region and an optimal heat network. In 2013 I spent three months at the Institute for Global Environmental Studies (IGES ) in Japan, assisting on low carbon energy  pathway analysis. Prior to university research I was an energy analyst in Aberdeen working on supply chain analysis and market forecasts for oil, gas and renewables sectors.
+
+RESEARCH: 
+Solar PV
+Heat Networks
+Low Carbon Heating
+Energy Scenarios
+Life Cycle Assessment
+
+PUBLICATION: 
+John Broderick, Kevin Anderson, Christopher Jones, Jim Watson. A Review of Research Relevant to New Build Nuclear Power Plants in the UK. London, UK: Friends of the Earth, England, Wales and Northern Ireland: 2013 July.  eScholarID: 211535
+Jones, C., W. Utilising Nuclear Energy for Low Carbon Heating Services in the UK. University of Manchester:2013.  eScholarID: 296905
+Christopher Jones, P Upham. Don't lock me in: Public opinion on the prospective use of waste process heat for district heating. Applied Energy. 2012; 89(0): 21-29. eScholarID: ma165
+

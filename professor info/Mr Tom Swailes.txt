@@ -1,0 +1,39 @@
+name  role  phone  location  email
+Mr Tom Swailes  Lecturer  0161-3064611  Pariser Building  thomas.swailes@manchester.ac.uk  
+
+BIOGRAPHY: 
+Tom Swailes is a part-time (50%) Lecturer in Structural Engineering and a Chartered Civil and Structural Engineer.
+
+RESEARCH: 
+Historic Structures
+
+PUBLICATION: 
+Swailes, T., Thompson, P.M and Williams, M. Chapter 5. Innovation and Experimentation: Ditherington and the development of the iron-framed mill. In: Williams, M. and Giles, C, ed. Ditherington Mill and the Industrial Revolution. Historic England Publishing.2015:  eScholarID: 289502
+Maraveas C, Wang Y, Swailes T, G S. An Experimental Investigation of Mechanical Properties of Structural Cast Iron at Elevated Temperatures and after Cooling Down. Fire Safety Journal. 2015 January; 71: 340-352. eScholarID: 255679 | DOI: 10.1016/j.firesaf.2014.11.026
+GA Susila, Parthasarathi Mandal, Tom Swailes. A Comparison of the Structural Performance of Low-Rise Timber Framed Buildings and Masonry Buildings in a Developing Country (Indonesia). A Comparison of the Structural Performance of Low-Rise Timber Framed Buildings and Masonry Buildings in a Developing Country (Indonesia). 2014:  eScholarID: ma1164
+C Maraveas, T. Swailes, Y.C. Wang. Modeling of Insulation in 19th Century Metal-Framed Structures. Proc 2nd Internation Conf on the Protection of Historical Constructions. Istanbul, Turkey: Bogazici University Publishing Ltd: 2014: 257-261. eScholarID: 255713
+Maraveas C, Wang Y, Swailes T. Fire Resistance of 19th Century Fireproof Flooring Systems: a Sensitivity Analysis. Construction and Building Materials. 2014 March; 55: 69-81. eScholarID: 255709 | DOI: 10.1016/j.conbuildmat.2014.01.022
+Maraveas C, Wang Y, Swailes T. Thermal and Mechanical Properties of 19th Century Fireproof Flooring Systems at Elevated TEmperatures. Construction and Building Materials. 2013 November; 48: 248-264. eScholarID: 255699 | DOI: 10.1016/j.conbuildmat.2013.06.084
+G.A. Susila, P. Mandal, T. Swailes. A Comparison of the Structural Performance of Low-Rise Timber Framed Buildings and Masonry Buildings in a Developing Country (Indonesia). 2012: -. eScholarID: 255990
+Maraveas, C., Swailes, T., Wang, Y. A detailed methodology for the finite element analysis of asymmetric slim floor beams in fire. Steel Construction. 2012; 5(3): 191-198. eScholarID: 178485 | DOI: 10.1002/stco.201210024
+T Swailes. Southwark Iron Bridge. Institution of Civil Engineers Proceedings: Engineering History and Heritage. 2011 August; 164(EH3): 163-173. eScholarID: 131192 | DOI: 10.1680/ehah.2011.164.3.163
+T Swailes. William Fairbairn and the 'suspended girder'. Institution of Civil Engineers Proceedings: Forensic Engineering. 2011 August; 164(FE3): 103-104. eScholarID: 131198
+O'Sullivan M, Swailes T. A Study of Historical Test Data for Better Informed Assessment of Wrought Iron Structures. International Journal of Architectural Heritage. 2009 October; 3(4): 260-275. eScholarID: 1e1001 | DOI: 10.1080/15583050902802337
+Biographies of Butler, Cochrane, Nasmyth, Neilson, Ordish, Siemens, and others. In: Chrimes, Cross-Rudkin, Swailes, Coz, Sutherland, McWilliam, Rennison, Ruddock, ed. Biographical Dictionary of Civil Engineers in Great Britain and Ireland. London, Thomas Telford.2008:  eScholarID: 62777
+Swailes, T. Scottish Iron Structures. 5. Edinburgh: Historic Scotland:2006.  eScholarID: 49202
+Swailes T, Marsh J. The evolution and development of the long-span iron roof in Britain. Proceedings of ICE, Structures and Buildings. 2005; 158: 321-339. eScholarID: 1e134 | DOI: 10.1680/stbu.2005.158.5.321
+Watson, M, and Tom  Swailes. Advice on iron structures in Scotland. Heritage of Technology International Conference – Gdansk Outlook 4, Poland. 2005:  eScholarID: 2e320
+Swailes T, Aja Fernandez de Ret E. The strength of cast iron columns and the research work of Eaton Hodgkinson (1789-1861). The Structural Engineer. 2004 January; 82: 18-23. eScholarID: 1e133
+Swailes T. Nineteenth century fireproof buildings: their strength and robustness. The Structural Engineer. 2003 October; 81: 27-34. eScholarID: 1e132
+Tom Swailes. Biographies of Charles Bage and William Strutt. In: Skempton, A W, ed. Biographical Dictionary of Civil Engineers; volume 1. Thomas Telford, London.2002:  eScholarID: ma1646
+Swailes T. Biographies of Charles Bage and William Strutt. Biographical Dictionary of Civil Engineers; volume 1. Thomas Telford, London.2002:  eScholarID: 3e4
+J O Marsh, Tom Swailes. Structural Appraisal of Iron framed Textile Mills. Thomas Telford, London:1998.  eScholarID: ma1123
+Swailes, T and Marsh, J.O. Structural Appraisal of Iron-framed Textile Mills. London: Thomas Telford:1998.  eScholarID: 62791
+Parmenter, M, and Tom  Swailes. Full Scale Laboratory Tests on Cast Iron Beams and an Investigation of Size Effects. Structural Assessment the role of large and full-scale testing. 1997: 260-268. eScholarID: 2e321
+Swailes, Tom. On site tests to investigate the robustness of a nineteenth century cotton mill. Structural Assessment: the role of large and full-scale testing. 1997: 517-524. eScholarID: 2e323
+Swailes, Tom. The Assessment of Nineteenth Century \'Fireproof\' Floors for Twentieth Century Loading. Proc. 7th Int\'l Conference on Structural Faults and Repair, v3. 1997: 223-232. eScholarID: 2e322
+Swailes, Tom. An experimental investigation of wall-floor-frame interaction in nineteenth century textile mills. Proc British Masonry Society, n7, v2, Proc 4th International Masonry Conference. 1995: 370-374. eScholarID: 2e325
+Swailes T. Nineteenth century cast iron beams: their design, manufacture and reliability. Proceedings of ICE, Civil Engineering. 1995 February; 114: 25-35. eScholarID: 1e136
+Swailes, Tom, and J O  Marsh. Victorian Iron Arch Bridges. Arch Bridges: Proc. 1st Int\'l Conference on Arch Bridges, Bolton. 1995: 65-74. eScholarID: 2e326
+Phipps, M E, Adrian  Bell, and Tom  Swailes. Masonry column tests. Proc British Masonry Society 6, Proc 3rd International Masonry Conference. 1994: 168-172. eScholarID: 2e324
+

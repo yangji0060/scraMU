@@ -1,0 +1,48 @@
+name  role  phone  location  email
+Dr David Apsley  Lecturer  0161-3063732  Pariser Building - C15  david.d.apsley@manchester.ac.uk  
+
+BIOGRAPHY: 
+David graduated from Cambridge University in 1985 with a degree in mathematics, specialising in applied mathematics and fluid mechanics. He joined the then Central Electricity Generating Board to work on environmental physics research. He subsequently returned to University (Surrey) to do a PhD on the application of computational fluid dynamics to atmospheric flow and dispersion. After 5 years as a post-doctoral RA in the Mechanical Engineering Department at UMIST he transferred to the present department in January 2000 as a lecturer in hydraulics.
+
+RESEARCH: 
+Computational fluid mechanics
+Turbulence modelling
+Renewable Energy
+
+PUBLICATION: 
+Ahmed, U., Afgan, I., Apsley, D.D., Stallard, T. and Stansby, P.K. CFD simulations of a full-scale tidal turbine: comparison of LES and RANS with field data. 2015: -. eScholarID: 288258
+David Apsley, Imran Afgan, Peter Stansby, Tim Stallard, U Ahmed. CFD Simulations of a Full-Scale Tidal Stream Turbine: Comparison Between Large-Eddy Simulations and Field Measurements. ReDAPT Report MD1.4 (Confidential to Energy Technologies Institute): 2014 November.  eScholarID: ma776
+McNaughton J, Afgan I, Apsley D, Rolfo S, Stallard T, Stansby P. A simple sliding-mesh interface procedure and its application to the CFD simulation of a tidal-stream turbine. International Journal for Numerical Methods in Fluids. 2014; 74: 250-269. eScholarID: 254234 | DOI: 10.1002/fld.3849
+David Apsley, J McNaughton, Peter Stansby, S Rolfo, Tim Stallard. CFD Power and Load Prediction on a 1MW Tidal Stream Turbine with Typical Velocity Profiles from the EMEC Test Site. CFD Power and Load Prediction on a 1MW Tidal Stream Turbine with Typical Velocity Profiles from the EMEC Test Site. 2013:  eScholarID: ma1144
+David Apsley, Imran Afgan, J McNaughton, Peter Stansby, S Rolfo, Tim Stallard. CFD Simulation of Turbulence at a Tidal Stream Site based on Field Measurements. ReDAPT Report MD1.5 (Confidential to Energy Technologies Institute): 2013 June.  eScholarID: ma775
+Afgan I, McNaughton J, Apsley D, Rolfo S, Stallard T, Stansby P. Turbulent flow and loading on a tidal stream turbine by LES and RANS. International Journal of Heat and Fluid Flow. 2013; 43: 96-108. eScholarID: 254231 | DOI: dx.doi.org/10.1016/j.ijheatfluidflow.2013.03.010
+Jeffcoate P, Stansby P, Apsley D. Flow due to multiple jets downstream of a barrage: experiments, 3-D CFD and depth-averaged modelling. Journal of Hydraulic Engineering (Reston). 2013; 139: 754-762. eScholarID: 254228 | DOI: 10.1061/(ASCE)HY.1943-7900.0000729
+McCabe M, Stansby P, Apsley D. Random-wave runup and overtopping a sea wall: shallow-water and Boussinesq (SWAB) modelling with generalised breaker and impact algorithms validated against laboratory and field measurements. Coastal Engineering. 2013; 74: 33-49. eScholarID: 254225 | DOI: http://dx.doi.org/10.1016/j.coastaleng.2012.11.010
+David Apsley, P Jeffcoate, Peter Stansby. Near-field flow downstream of a barrage: experiments, 3-d CFD and depth-averaged modelling. Near-field flow downstream of a barrage: experiments, 3-d CFD and depth-averaged modelling. 2012:  eScholarID: ma1142
+David Apsley, M McCabe, Peter Stansby. The Coupling of Spectral Energy and Shallow-Water Modelling in the Nearshore. The Coupling of Spectral Energy and Shallow-Water Modelling in the Nearshore. 2012:  eScholarID: ma1143
+McCabe, M., Stansby, P.K. and Apsley, D.D. Coupled wave action and shallow-water modelling for random wave runup on a slope. Journal of Hydraulic Research. 2011; 49(4): 515-522. eScholarID: 146220 | DOI: 10.1080/00221686.2011.566253
+Stansby P, Huang J, Apsley D, Garcia-Hermosa M, Borthwick A, Taylor P, Soulsby R. Fundamental study for morphodynamic modelling: Sand mounds in oscillatory flows. Coastal Engineering. 2009; 56(4): 408-418. eScholarID: 1e866 | DOI: 10.1016/j.coastaleng.2008.09.011
+Apsley D, Stansby P. Bed-Load Sediment Transport on Large Slopes: Model Formulation and Implementation within a RANS Solver. Journal of Hydraulic Engineering. 2008 October; 134(10): 1440-1451. eScholarID: 1e686 | DOI: 10.1061/(ASCE)0733-9429(2008)134:10(1440)
+Cuthbertson A, Apsley D, Davies P, Lipari G, Stansby P. Deposition from Particle-Laden, Plane, Turbulent Buoyant Jets. Journal of Hydraulic Engineering. 2008 August; 134(8): 1110-1122. eScholarID: 1e685 | DOI: 10.1061/(ASCE)0733-9429(2008)134:8(1110)
+Apsley D. CFD calculation of turbulent flow with arbitrary wall roughness. Flow, Turbulence and Combustion. 2007 March; 78: 153-175. eScholarID: 1e1515
+Apsley, David D. Wall functions for arbitrarily rough surfaces with application to sediment morphodynamics. 5th International Symposium on Turbulence and Shear Flow Phenomena, Munich. 2007:  eScholarID: 2e920
+Apsley, David D, Gregory  Lane-Serff, Giordano  Lipari, and Peter  Stansby. Numerical Modelling of Particle-Laden Buoyant Jets. 30th International Conference on Coastal Engineering, San Diego (USA). 2006: 2106-2117. eScholarID: 2e706
+Lipari, Giordano, David D  Apsley, and Peter  Stansby. Numerical Particle Tracking Studies in a Turbulent Round Jet. Particle-laden Flow from Geophysical to Kolgomorow Scales, University of Twente (NL). 2006:  eScholarID: 2e707
+Winter, S, Colin  Bailey, and David D  Apsley. Computational-fluid-dynamics modelling of compartment fires. 5th Int. Symp. Turbulence, Heat and Mass Transport, Dubrovnik. 2006: -. eScholarID: 2e182
+APSLEY DD; HASAN, R G M; MCGUIRK, J J; LESCHZINER, MA. A turbulence model study of separated 3D jet/afterbody flow. The Aeronautical Journal. 2004 January; 108(1079): 1-14. eScholarID: 1a9229
+Hasan R, McGuirk J, Apsley D, Leschziner M. A turbulence model study of separated 3D jet/afterbody flow. Aeronautical Journal. 2004 January; 108: 1-14. eScholarID: 1e1
+Apsley D, Hu W. CFD Simulation of two- and three-dimensional free-surface flow. International Journal for Numerical Methods in Fluids. 2003; 42: 465-491. eScholarID: 1e1065 | DOI: 10.1002/fld.523
+Hu, Wei, and David D  Apsley. CFD Simulation of Two- and Three-Dimensional Free-Surface Flows Using a RANS Solver. International Symposium on Shallow Flows, Delft. 2003:  eScholarID: 2e1471
+Saghafian M, Stansby P, Saidi M, Apsley D. Simulation of turbulent flows around a circular cylinder using nonlinear eddy-viscosity modelling: steady and oscillatory ambient flows. Journal of Fluids and Structures. 2003; 17: 1213-1236. eScholarID: 1e752 | DOI: 10.1016/S0889-9746(03)00066-5
+APSLEY DD; LESCHZINER, M A. Investigation of advanced turbulence models for the flow in a generic wing-body junction. Flow, Turbulence and Combustion. 2001 September; 67(1): 25-55. eScholarID: 1a9226 | DOI: 10.1023/A:1013598401276
+Leschziner, M A, and David D  Apsley. Advanced turbulence modelling of the flow in a generic wing-body junction. 2nd Symposium on Turbulence and Shear Flow Phenomena, Stockholm, Sweden. 2001:  eScholarID: 2e1282
+Leschziner M, Apsley D. Investigation of advanced turbulence models for the flow in a generic wing-body junction. Flow, Turbulence and Combustion. 2001; 67: 25-55. eScholarID: 1e1169 | DOI: 10.1023/A:1013598401276
+David Apsley, M Leschziner. Advanced turbulence modelling of separated flow in a diffuser. Flow, Turbulence and Combustion. 2000; 63(0): 81-112. eScholarID: ma060
+Stansby, Peter, and David D  Apsley. Flow around cylinders: modelling, dynamic response, arrays (keynote presentation ). Workshop on Vortex-Induced Vibrations, Sao Paulo, Brazil. 2000:  eScholarID: 2e289
+David Apsley, M Leschziner. A new low-Re non-linear two-equation turbulence model for complex flows. International Journal of Heat and Fluid Flow. 1998; 19(0): 209-222. eScholarID: ma037
+David Apsley, I P Castro. A limited-length-scale k- model for the neutral and stably-stratified atmospheric boundary layer. Boundary-Layer Meteorology. 1997; 83(0): 75-98. eScholarID: ma031
+David Apsley, U Goldbergy. A wall-distance-free low-Re k &#949; turbulence model. Computer Methods in Applied Mechanics and Engineering. 1997; 145(0): 227-238. eScholarID: ma056
+David Apsley, I P Castro. Flow and dispersion over hills: Comparison between numerical predictions and experimental data. Journal of Wind Engineering and Industrial Aerodynamics. 1997; 67(0): 375-386. eScholarID: ma240
+David Apsley, F S Lien, M Leschziner, W L Chen. Non-linear eddy-viscosity modelling of separated flows. Journal of Hydraulic Research. 1997; 35(0): 723-748. eScholarID: ma341
+A G Robins, D J Carruthers, D J Thompson, David Apsley, F B Smith, J C Hunt, R J Holroyd, W S Weng. UK ADMS - a new approach to modelling dispersion in the earth's atmospheric boundary layer. Journal of Wind Engineering and Industrial Aerodynamics. 1994; 52(0): 139 153. eScholarID: ma559
+

@@ -1,0 +1,19 @@
+name  role  phone  location  email
+Dr Therese Lawlor-Wright  Visitor  0161-2754411  Pariser Building - E15  therese.lawlor-wright@manchester.ac.uk  
+
+BIOGRAPHY: 
+Therese Lawlor-Wright is a Chartered Mechanical Engineer who joined the University of Manchester as a lecturer in 2008. She holds a degree in Industrial Engineering from the National University of Ireland in Galway and an MSc in Advanced Manufacturing and a PhD in Mechanical Engineering from the University of Manchester.
+Therese has worked in industry as a project manager and knowledge management consultant, completing successful projects with ICL, BT and local manufacturing engineering companies. She previously led a research team at the University of Salford in the area of knowledge-based design and supervised PhD and knowledge transfer projects in manufacturing engineering. She also worked as a research fellow in the Health and Care Infrastructure Research and Innovation Centre at the University of Salford, focusing on knowledge and performance management.
+With experience in diverse sectors, Therese's research interests are in the management of complex projects - particularly in performance improvement in multidisciplinary and multicultural environments. She is a member of the Association for Project Management and the Institute of Mechanical Engineers.
+
+RESEARCH: 
+Performance Management
+Knowledge Management
+New Product Introduction
+Lean Methods
+
+PUBLICATION: 
+A El Tigani, Paul Gardiner, Therese Lawlor-Wright. Building Capabilities through the Implementation of Business Excellence Models: A Practice Turn View. Building Capabilities through the Implementation of Business Excellence Models: A Practice Turn View.  eScholarID: ma1503
+Azim, S, Andrew W  Gale, Therese  Lawlor-Wright, A  Khan, and M  Alam. The Benefits of Soft Skills in Complex Projects: The Reality of \'Actuality\'. IPMA World Congress 15th - 17th June 2009, Helsinki www.refresh09.com. 2009:  eScholarID: 2e1018
+Lawlor-Wright T, Hannam R. A Feature-based Design for Manufacture CADCAM package. Computer-aided Engineering Journal. 1989 December;  eScholarID: 1e699
+

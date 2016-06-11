@@ -1,0 +1,161 @@
+name  role  phone  location  email
+Dr Sergey Utyuzhnikov  Senior Research Fellow  0161-3063707  George Begg Building - C35  s.utyuzhnikov@manchester.ac.uk  
+
+BIOGRAPHY: 
+Studied in Moscow Institute of Physics & Technology (PhisTech), 1977-1983 (6-year course, 1st class)
+PhD (Candidate of Science) in Computational Mathematics, Moscow Institute of Physics & Technology, 1986
+DSc (Habilitation) in Computational Mathematics, Moscow Institute of Physics & Technology, 1997
+Certified full Professorship in Computational Mathematics, Ministry of Education of Russia, since 1999
+Fellow of the Institute of Mathematics & Applications (FIMA), since 2007
+Senior Researcher, Moscow Institute of Physics & Technology, 1986-1988
+Assistant Professor, Moscow Institute of Physics & Technology, 1989-1992
+Associate Professor,  Moscow Institute of Physics & Technology, 1992-1998
+Full Professor, Moscow Institute of Physics & Technology, 1998-2004
+Visiting Professor, UMIST, 2001-2004
+Senior Research Fellow (academic staff), Cranfield University, 2004-2005,
+School Senior Research Fellow (academic staff), University of Manchester, since 2005.
+
+RESEARCH: 
+Industrial mathematics
+Boundary equations
+Potentials theory
+Artificial (nonlocal) boundary conditions
+Computational fluid dynamics
+Multiobjective optimisation
+Active noise shielding and sound control
+Turbulence modelling (wall-functions, v2-f model)
+Combustion and multiphase flows
+Hypersonic flows
+Geophysics
+
+PUBLICATION: 
+Jones, A., Utyuzhnikov, S.V. A near-wall domain decomposition approach in application to turbulent flow in a diffuser. Applied Mathematical Modelling. 2015;  eScholarID: 266192
+Ntumy, E., and Utyuzhnikov, S.V. Active sound control in composite regions. Applied Numerical Mathematics. 2015; 93: 242-253. eScholarID: 263397
+Ryaben’kii, V.S., Utyuzhnikov, S.V. An algorithm of the method of difference potentials for domains with cuts. Applied Numerical Mathematics. 2015; 93: 254-261. eScholarID: 263396
+Jones, A., Utyuzhnikov, S. Application of a near-wall domain decomposition method to turbulent flows with heat transfer. Computers & Fluids. 2015; 119: 87-100. eScholarID: 267424
+Chikitkin, A.V., Rogov, B.V., Tirskiy, G.A., Utyuzhnikov, S.V. Effect of bulk viscosity in supersonic flow past spacecrafts. Applied Numerical Mathematics. 2015; 93: 47-60. eScholarID: 263395
+Chikitkin, A.V., Rogov, B.V., Utyuzhnikov, S.V. High-order accurate monotone compact running scheme for multidimensional hyperbolic equations. Applied Numerical Mathematics. 2015; 93: 150-163. eScholarID: 263394
+Woodward, W.H., Utyuzhnikov, S., Massin, P. On the Application of the Method of Difference Potentials to Linear Elastic Fracture Mechanics. International Journal for Numerical Methods in Engineering. 2015 October; 103(10): 703-736. eScholarID: 263398
+Laurence, D., Iacovides, H., Russant, S., Utyuzhnikov, S. A-Posteriori Error Estimation in CFD using Higher Moments. A-Posteriori Error Estimation in CFD using Higher Moments. 2014: -. eScholarID: ma1163
+Ntumy, E., Utyuzhnikov, S.V. Active Sound Control in 3D Bounded Regions. Wave Motion. 2014 February; 51(2): 284-295. eScholarID: 233191
+Titarev, V.A., Dumbser, M., Utyuzhnikov, S.V. Construction and comparison of parallel implicit kinetic solvers in three spatial dimensions. J. of Computational Physics. 2014; 256: 17-33. eScholarID: 208222
+Kolo, B., Utyuzhnikov, S., Erfani T. Generation of Pareto Frontier via a Modified Directed Search Domain Method. 2014: -. eScholarID: ma1243
+Utyuzhnikov, S.V., Tirskiy, G.A. Hypersonic Aerodynamics and Heat Transfer. New Yors, U.S.A.: Begell House:2014.  eScholarID: 208215
+Aleksin, V.A., Utyuzhnikov, S.V. Implementation of near-wall boundary conditions for modelling boundary layers with free-stream turbulence. Applied Mathematical Modelling. 2014; 38(14): 3591-3606. eScholarID: 233188
+Fedorov, A.V., Ryzhov, A.A., Soudakov, V.G., Utyuzhnikov, S.V. Numerical simulation of the effect of local volume energy supply on high-speed boundary layer stability. Computers & Fluids. 2014; 100: 130-137. eScholarID: 233189
+Massin, P., Utyuzhnikov, S., Woodward W. On the application of the method of difference potentials to linear elastic fracture mechanics. Proceedings of 11the World Congress on Computational Mechanics, Barcelona, Spain. 2014: -. eScholarID: ma1242
+Lim H., Utyuzhnikov S V, Lam Y.W., Kelly L. Potential-based methodology for active sound control in three dimensional settings. Acoustical Society of America. Journal. 2014; 136(3): 1101-1111. eScholarID: 233187
+Titarev, V.A, Shakhov, E.M., Utyuzhnikov, S.V. Rarefied gas flow through a long conical pipe into vacuum. Vacuum. 2014; 101: 10-17. eScholarID: 208220
+Utyuzhnikov S.V. Real-time Active Wave Control with Preservation of Wanted Field. IMA J. of Applied Mathematics. 2014 December; (79): 1126-1138. eScholarID: 188614
+Utyuzhnikov S.V. Towards Development of Unsteady Near-wall Interface Boundary Conditions for Turbulence Modeling. Computer Physics Communications. 2014 November; 185(11): 2879-2884. eScholarID: 229257
+Garanzha, V.A., Kudryavtseva, L.N., Utyuzhnikov, S.V. Variational method for untangling and optimization of spatial meshes. Journal of Computational and Applied Mathematics. 2014; 269: 24-41. eScholarID: 233190
+Erfani, T., Utyuzhnikov, S.V., Kolo, B. A Modified Directed Search Domain Algorithm for Multiobjective Engineering and Design Optimization. Structural and Multidisciplinary Optimization. 2013; 48: 1129-1141. eScholarID: 233192
+Brykina, I.G., Rogov, B.V., Tirskiy, G.A., Titarev, V.A., Utyuzhnikov, S.V. A comparative analysis of approaches for investigating hypersonic flow over blunt bodies in a transitional regime. J. Applied Mathematics and Mechanics. 2013 January; 77(1): 9-16. eScholarID: 208217
+Lam, Y.W., Utyuzhnikov, S.V., Kelly, L. Difference potential based active noise shielding in three dimensional settings. Acoustical Society of America. Journal. 2013; 131(4): 3380-3380. eScholarID: 237416
+Dumbser, M., Titarev, V.A., Utyuzhnikov, S.V. Implicit multiblock method for solving a kinetic equation on unstructured meshes. Computational Mathematics and Mathematical Physics. 2013 May; 53(5): 601-615. eScholarID: 233193
+Utyuzhnikov S.V. Numerical and laboratory prediction of smoke lofting in the atmosphere over large area fires. Journal of Applied Mathematical Modelling. 2013;  eScholarID: 170765
+Kontis, K., Erfani, R., Utyuzhnikov, S., Erfani T. Optimization of Multiple Encapsulated Electrode Plasma Actuator. Aerospace Science and Technology. 2013; 26(0): 120-127. eScholarID: ma386
+Erfani, R., Erfani, T., Kontis, K., Utyuzhnikov, S.V Optimization of multiple encapsulated electrode plasma actuators. J. Aerospace Science and Technology. 2013; 26(1): 120-127. eScholarID: 187380
+Fedorov, A.V., Ryzhov, A.A., Soudakov, V.G., Utyuzhnikov, S.V. Receptivity of High-Speed Boundary Layer to Temperature Spottiness. Journal of Fluid Mechanics. 2013; 722(May): 533-553. eScholarID: 170767 | DOI: 10.1017/jfm.2013.111
+Bountin, D., Chimitov, T., Maslov, A., Novikov A., Egorov, I., Fedorov, A., Utyuzhnikov S. Stabilization of a hypersonic boundary layer using a wavy surface. AIAA J. 2013 May; 51(5): 1203-1210. eScholarID: 182161
+Yakunchikov A., Kovalev V.L., Utyuzhnikov S V. Analysis of Gas-Surface Scattering Models Based on Computational Molecular Dynamics. Chemical Physics Letters. 2012; 554: 215-230. eScholarID: 179937
+Brykina, I.G., Rogov, B.V., Tirskiy, G.A., Titarev, V.A., Utyuzhnikov, S.V. Comparative study of various approaches for modeling transitional hypersonic rarefied gas flows over blunt bodies. AIP Conference Proceedings, N1501. American Institute of Physics: 2012: 1500-1506. eScholarID: 188617
+Erfani, T., Utyuzhnikov S.V. Control of robust design in multiobjective optimization under uncertainties. Structural and Multidisciplinary Optimization. 2012 February; 45(2): 247-256. eScholarID: 146565 | DOI: 10.1007/s00158-011-0693-0
+Utyuzhnikov S.V. Interface boundary conditions in near-wall turbulence modeling. International Journal Computers and Fluids. 2012; 68: 186-191. eScholarID: 170763
+Rogov, B.V., Tirskiy, G.A., Brykina, I.G., Utyuzhnikov, S.V. The effect of surface curvature on the boundary conditions in the viscous shock layer model for hypersonic rarefied gas flow. Journal of Applied Mathematics and Mechanics. 2012; 76(0): 677-687. eScholarID: ma498
+Lim, H., Utyuzhnikov, S. V., Lam, Y. W., Turan, A. Active control system for global cancellation of noise while preserving wanted sound in multi-domains. Inter-Noise 2011. 2011: -. eScholarID: 147122
+Erfani T., Utyuzhnikov S.V. Directed Search Domain: a Method for Even Generation of Pareto Frontier in Multiobjective Optimization. Engineering Optimization. 2011 May; 43(5): 467-484. eScholarID: 146562 | DOI: 10.1080/0305215X.2010.497185
+Lim, H., Utyuzhnikov, S. V., Lam, Y. W., Turan, A. Multi-domain active sound control and noise shielding. Journal of the Acoustical Society of America. 2011 February; 129(2): 717-725. eScholarID: 146564 | DOI: 10.1121/1.3531933
+Sandaldjian, C., Utyuzhnikov, S.V. Tunguska Impact: How far can we move up in our prediction of the past?. The 28th International Symposium on Shock Waves. 2011: -. eScholarID: 146578
+Utyuzhnikov S.V. Nonlinear Problem of Active Sound Control. Computational and Applied Mathematics. 2010; 234(1): 215-223. eScholarID: 233194
+Utyuzhnikov S. Non-stationary problem of active sound control in bounded domains. Journal of Computational and Applied Mathematics. 2010 June; 234(6): 1725-1731. eScholarID: 1e626 | DOI: 10.1016/j.cam.2009.08.021
+Utyuzhnikov, S.V., Fantini, P., Guenov, M. A Method for Generating a Well-Distributed Pareto Set in Nonlinear Multiobjective Optimization. Journal of Computational and Applied Mathematics. 2009; 223(0): 820-841. eScholarID: ma033
+Maginot, J, Guenov, M D, Utyuzhnikov S. Local Pareto Approximation. American Institute of Physics - Conference Proceedings. 2009; 1045(0): 10-Jan. eScholarID: ma302
+Utyuzhnikov, S.V., Maginot, J., Guenov, M.D. Local Pareto Approximation for Multiobjective Optimization. American Institute of Physics - Conference Proceedings. 2009 January; 1045: 1-10. eScholarID: 1e736 | DOI: 10.1063/1.2991346
+Lim H, Utyuzhnikov S, Lam Y, Turan A, Avis M, Ryaben'kii V, Tsynkov S. An experimental validation of the active noise control methodology based on difference potentials. AIAA Journal. 2009 April; 47: 874-884. eScholarID: 1e706 | DOI: 10.2514/1.32496
+Utyuzhnikov S. Active Wave Control and Generalized Surface Potentials. Advances in Applied Mathematics. 2009; 43(2): 101-112. eScholarID: 1e738 | DOI: 10.1016/j.aam.2008.12.001
+Utyuzhnikov S. Domain decomposition for near-wall turbulent flows. Computers & Fluids. 2009; 38(9): 1710-1717. eScholarID: 1e809 | DOI: 10.1016/j.compfluid.2009.03.003
+Utyuzhnikov S. Generalized Calderon - Ryaben'kii's Potentials. IMA Journal of Applied Mathematics. 2009 February; 74(1): 128-148. eScholarID: 1e687 | DOI: 10.1093/imamat/hxn025
+Ryaben'kii V, Utyuzhnikov S, Turan A. On the Application of Difference Potential Theory to Active Noise Control. Advances in Applied Mathematics. 2008 February; 40: 194-211. eScholarID: 1e1419 | DOI: 10.1016/j.aam.2006.11.003
+Utyuzhnikov S, Rudenko D. An adaptive moving mesh method with application to nontstationary hypersonic flows in the atmosphere. Proceedings of the Institution of Mechanical Engineers - Part G: Journal of Aerospace Engineering. 2008; 222: 661-671. eScholarID: 1e527 | DOI: 10.1243/09544100JAERO261
+Utyuzhnikov S, Maginot J, Guenov M. Local Pareto sensitivity analysis in multi-objective optimisation. Journal of Engineering Optimization. 2008 September; 40(9): 821-847. eScholarID: 1e568 | DOI: 10.1080/03052150802086714
+Utyuzhnikov S. Robin-type wall functions and their numerical implementation. Applied Numerical Mathematics. 2008 October; 58(10): 1521-1533. eScholarID: 1e451 | DOI: 10.1016/j.apnum.2007.09.003
+Lim, H, S  Utyuzhnikov, Y W  Lam, M R  Avis, and A  Turan. Validation of a difference potential based active noise control system. XIX International Congress on Acoustics, Madrid, Spain. 2007: -. eScholarID: 2e725
+Ryaben'kii V, Utyuzhnikov S. Differential and finite-difference problems of active shielding. Applied Numerical Mathematics. 2007 April; 57(4): 374-382. eScholarID: 1e1422
+Ryaben'kii V, Tsynkov S, Utyuzhnikov S. Inverse source problem and active shielding for composite domains. Applied Mathematics Letters. 2007 May; 20(5): 511-515. eScholarID: 1e1421
+Utyuzhnikov S, Ryaben'kii V, Turan A. Linear and nonlinear problems of active sound control. Proceedings in Applied Mathematics and Mechanics (PAMM). 2007 December; 7(1):  eScholarID: 1e634
+Utyuzhnikov S. Nonlinear inverse source problem of active shielding. American Institute of Physics - Conference Proceedings. 2007; 936: 566-569. eScholarID: 1e737
+Utyuzhnikov, Sergei. Nonstationary inverse source problem of active shielding. World Congress on Engineering. 2007: 795-799. eScholarID: 2e589
+Utyuzhnikov, Sergei. Nonstationary problem of active sound control in bounded domains. Proceedings of Waves2007. The 8th International Conference on Mathematical and Numerical Aspects of Waves. 2007: 443-445. eScholarID: 2e615
+Utyuzhnikov, SV, Ryaben'kii, V.S. Active shielding model for hyperbolic equations. IMA Journal of Applied Mathematics. 2006 August; 71(6):  eScholarID: 1a9694 | DOI: 10.1093/imamat/hxl015
+Lim, H, Y W  Lam, S V  Utyuzhnikov, and A  Turan. Realization of the Difference Potential Method in active noise control. WESPAC IX, Seoul, Korea. 2006: -. eScholarID: 2e1503
+Uribe J, Utyuzhnikov S, Revell A, Gerasimov A, Laurence D. FLOMANIA — A European Initiative on Flow Physics Modelling. Methods used and highlighted results from UMIST. Notes on Numerical Fluid Mechanics and Multidisciplinary Design. 2006; 94: 113-118. eScholarID: 1e620 | DOI: 10.1007/978-3-540-39507-2_18
+Utyuzhnikov, S, J  Maginot, and M D  Guenov. Local analysis of Pareto solution in multiobjective optimization. ICAS 2006, 25th Congress, Hamburg, Germany. 2006: -. eScholarID: 2e1502
+Utyuzhnikov, S, V S  Ryaben'kii, and A  Turan. On some approach to active noise control. CFD ECCOMAS Conference 2006, The Netherlands. 2006: -. eScholarID: 2e1501
+Utyuzhnikov S. The Method of Boundary Condition Transfer in Application to Modeling Near-Wall Turbulent Flows. Computers & Fluids. 2006; 35(10): 1193-1204. eScholarID: 1e1288 | DOI: 10.1016/j.compfluid.2005.05.005
+Utyuzhnikov, S. Application of generalized Robin-type wall functions for prediction of heat transfer in impinging flows. Proceeding of 9th UK National Heat Transfer Conference, Manchester. 2005: -. eScholarID: 2e2
+Utyuzhnikov, S, and P  Fantini. Application of the modified physical programming method to generating the entire Pareto frontier in multiobjective optimization. Proceedings of Eurogen, Munich. 2005: -. eScholarID: 2e1505
+Utyuzhnikov, S, M D  Guenov, and P  Fantini. Numerical method for generating the entire Pareto frontier in multiobjective optimization. Proceedings of Eurogen, Munich, September. 2005: -. eScholarID: 2e1504
+Utyuzhnikov S. Generalized wall-functions and their application for simulation of turbulent flows. International Journal for Numerical Methods in Fluids. 2005; 47(10): 1323-1328. eScholarID: 1e1289 | DOI: 10.1002/fld.873
+Utyuzhnikov S. Some new approaches to building and implementation of wall-functions for modeling of near-wall turbulent flows. Computers & Fluids. 2005; 34(7): 771-784. eScholarID: 1e1290 | DOI: 10.1016/j.compfluid.2004.07.004
+Laurence, D., Uribe, J.C., Utyuzhnikov, S.V. A robust formulation of the v2-f model. Flow, Turbulence and Combustion. 2004; 73(3): 169-185. eScholarID: 1e1418 | DOI: 10.1007/s10494-005-1974-8
+Laurence, Dominique, J C  Uribe, and Sergei  Utyuzhnikov. A robust formulation of the v2-f model and its applications. Proceeding of ICFD-2004 Conference, Oxford. 2004:  eScholarID: 2e3
+Utyuzhnikov S, Konyukhov A, Vasil'evskii S, Rudenko D, Chazot O. Simulation of sub- & supersonic flows in inductive plasmatrons. AIAA Journal. 2004; 42(9): 1871-1877. eScholarID: 1e1417 | DOI: 10.2514/1.1195
+Utyuzhnikov, S, A V  Konyukhov, S A  Vasil'evskii, D V  Rudenko, and O  Chazot. Simulation of Sub- & Supersonic Flows in Inductive Plasmatrons. AIAA-2003-3866 Paper. 2003: -. eScholarID: 2e4
+Antonenko M, Konyukhov A, Kraginskii L, Meshcherryyakov M, Utyuzhnikov S. Numerical modeling of intensive convective flow in atmosphere induced by large-scale fire. International Journal of Computational Fluid Dynamics. 2002; 11(2): 128-132. eScholarID: 1e1386
+Rudenko D, Utyuzhnikov S. Use of dynamically adaptive grids for modeling three-dimensional unsteady gas flows with high gradients. Computational Mathematics and Mathematical Physics. 2002; 42(3): 377-390. eScholarID: 1e1385
+Rudenko, D V, and Sergei  Utyuzhnikov. Variational algorithm for construction of adaptive grids with applications for spatial nonsteady gas dynamics problems. Proceedings of Workshop Grid generation: theory and applications, Moscow, Computing Center of Russian Academy of Sciences. 2002: 126-137. eScholarID: 2e264
+Utyuzhnikov S. Numerical modelling combustion of fuel-droplet-vapour releases in atmosphere. Flow, Turbulence and Combustion. 2002; 68(2): 137-152. eScholarID: 1e1416 | DOI: 10.1023/A:1020405409695
+Utyuzhnikov, Sergei, A V  Konyukhov, S A  Vasil\'evskii, and D V  Rudenko. Numerical simulation of flows into inductive plasmatron. Proceeding of the 23rd ICAS Congress (Toronto). 2002: 21131-21136. eScholarID: 2e257
+Rudenko, D V, and Sergei  Utyuzhnikov. Numerical simulation of large scale perturbation of the Earth atmosphere after explosion-like destruction of a cosmic body. Proceedings of the ISSW-23 (Shock Waves), Texas. 2001:  eScholarID: 2e7
+Utyuzhnikov, S, S A  Vasil'evskii, A V  Konyukhov, D V  Rudenko, A F  Kolesnikov, and G S  Sarma. Numerical modelling subsonic and supersonic inductive plasma flows. Proceedings of the ECCOMAS CFD Conference, Swansea, UK. 2001: -. eScholarID: 2e5
+Utyuzhnikov, Sergei. Combustion of fuel-droplet releases into the atmosphere. Proceedings of the ICMF-2001 (Multiphase Flow), New Orleans. 2001:  eScholarID: 2e6
+Konyukhov A, Meshcheryakov M, Utyuzhnikov S, Chudov L. Non-local turbulent transport in a boyuant vortex ring during the ascent of a thermal in a stratified atmosphere. Journal of Fluid Dynamics. 1999; 34: 9-16. eScholarID: 1e1643
+Konyukhov A, Meshcheryakov M, Utyuzhnikov S. Numerical simulation of the processes of propagation of impurity from a large-scale source in the atmosphere. High Temperature. 1999; 37: 873-879. eScholarID: 1e1644
+Rudenko, D V, and S V  Utyuzhnikov. Numerical simulation of consequences of explosion-like destruction of cosmic body in the Earth atmosphere. Proceedings of the ISSW’22 (Shock Waves), London, V.1. 1999: 745-750. eScholarID: 2e273
+Utyuzhnikov S, Nabiev V. Numerical investigation of 3D supersonic viscous non-uniform flows past blunt bodies. Journal of Fluid Dynamics. 1999; 34: 906-911. eScholarID: 1e1642
+Vasil'evskii, SA, AF  Kolesnikov, S  Utyuzhnikov, and GS  Sarma. Physico-chemical data base and computation results for inductive plasma flows. Progress in Plasma Processing of Materials. 1999: 277-284. eScholarID: 2e274
+Kondaurov V, Konyukhov A, Polukhin V, Utyuzhnikov S. Mathematical simulation of gas cloud motion following the atmospheric explosion of a meteoroid. Journal of Fluid Dynamics. 1998; 33: 24-30. eScholarID: 1e1645
+Utyuzhnikov, S V, and D V  Rudenko. Shock-capturing schemes on moving adaptive meshes for simulation of high speed flows. Proceedings of the 4th ECCOMAS, Greece, V.1, P.1. 1998: 347-352. eScholarID: 2e276
+Konyukhov A, Meshcheryakov M, Utyuzhnikov S, Chudov L. Numerical simulation of a turbulent large-scale thermal. Journal of Fluid Dynamics. 1997; 32: 394-401. eScholarID: 1e1647
+Muzafarov I, Utyuzhnikov S. Application of compact finite-difference schemes to the initial boundary value problem for a hyperbolic system of equations. Computational Mathematics and Mathematical Physics. 1997; 37: 299-306. eScholarID: 1e1648
+Nabiev V, Utyuzhnikov S. Motion of a body through large-scale inhomogeneity in the stratified atmosphere. AIAA Journal. 1997; 37: 1224-1226. eScholarID: 1e1646
+Utyuzhnikov, S. Computational Aspects of Numerical Simulation of Viscous Flows of a Gas into Plasmotron. Proceedings 15th IMACS World Congress, V.3. 1997: 169-174. eScholarID: 2e277
+G A Tirskii, S V Zhluktov, Sergei Utyuzhnikov. Numerical investigation of thermal and chemical nonequilibrium phenomena past slender blunted cones. Journal of Thermophysics and Heat Transfer. 1996; 10(1): 137-147. eScholarID: ma346
+Nabiev N, Utyuzhnikov S. Spatial supersonic motion of a body through a large-scale inhomogeneity in a stratified atmosphere. Applied Mathematics and Mechanics. 1996; 60: 607-613. eScholarID: 1e6
+Utyuzhnikov, S V, A V  Konyukhov, V I  Kondaurov, and M V  Meshcheryakov. Gas dynamical model of interaction between a meteoride and the Earth atmosphere. 2nd IAA Int. Conference on Low-cost Planetary Missions, Baltimore, USA. 1996: IAA-L1IAAL6. eScholarID: 2e279
+Utyuzhnikov, S V, D H  Gan'zha, A V  Konkov, and V V  Polukhin. Numerical algorithms on moving adaptive meshes. Proceedings of the 3d ECCOMAS, France. 1996: 264-267. eScholarID: 2e278
+Utyuzhnikov S, Yamaleev N. Three-dimensional supersonic flows past bodies at small angle of attack. High Temperature. 1996; 34: 562-567. eScholarID: 1e5
+Zhluktov S, Utyuzhnikov S, Tirskii G. Numerical investigation of thermal and chemical nonequilibrium phenomena past slender blunted cones. Journal of Thermophysics and Heat Transfer. 1996; 10: 137-147. eScholarID: 1e4
+Gan'zha D, Muzafarov I, Utyuzhnikov S. The use of moving adaptive grids in algorithms with compact approximations. Computational Mathematics and Mathematical Physics. 1995; 35: 949-957. eScholarID: 1e8
+Konyukhov A, Meshcheryakov M, Utyuzhnikov S. Numerical investigation of flow initiated in the atmosphere by a turbulent surface thermal. High Temperature. 1995; 33: 720-724. eScholarID: 1e11
+Lipchinskii E, Tirskii G, Utyuzhnikov S. Effects of second-approximation of boundary layer theory in three-dimensional flow over bodies with a large aspect ratio at small angles of incidence. Journal of Fluid Dynamics. 1995; 30: 204-209. eScholarID: 1e10
+Muzafarov I, Utyuzhnikov S. Numerical modeling of convective columns above a large fire in the atmosphere. High Temperature. 1995; 33: 588-595. eScholarID: 1e9
+Nabiev V, Utyuzhnikov S, Yamaleev N. The motion of a body through a large-scale inhomogeneity in a stratified atmosphere. Applied Mathematics and Mechanics. 1995; 59: 409-414. eScholarID: 1e7
+Utyuzhnikov, Sergei, DH  Gan\'zha, and VV  Polukhin. Numerical algorithms on moving adaptive grids for modeling of penetration into the atmosphere of a planet. Constitutive laws: theory, experiments and numerical implementation, CIMNE, Barcelona. 1995:  eScholarID: 2e282
+Utyuzhnikov, Sergei, BA  Klumov, and AV  Konyukhov. Numerical simulation of some consequences induced by SL-9 into the Jovian atmosphere. European SL-9/ Jupiter Workshop, European Southern Observatory, Garching, Prcoeedings N52. 1995: 401-406. eScholarID: 2e281
+Gryaznov V, Ivanov B, Ivlev A, Klumov B, Utyuzhnikov S, Fortov V. Collision of the comet Shoemaker-Levy 9 with Jupiter: interpretation of observed data. Earth, Moon, and Planets. 1994; 66: 99-128. eScholarID: 1e23
+Klumov B, Kondaurov V, Konyukhov A, Medvedev Y, Sokolskii A, Utyuzhnikov S, Fortov V. Collision of comet Shoemaker-Levy 9 with Jupiter: what shall we see?. Physics-Uspekhi. 1994; 164: 577-589. eScholarID: 1e21
+Klumov B, Kondaurov V, Utyuzhnikov S, Fortov V. Numerical simulations of the long-living consequences of a comet Shoemaker-Levy-9 impact with Jupiter. Doklady Physics. 1994; 337: 28-35. eScholarID: 1e22
+Konyukhov A, Mechsheryakov M, Utyuzhnikov S. Motion of a large-scale turbulent thermal in a stratified atmosphere. High Temperature. 1994; 32: 224-228. eScholarID: 1e15
+Muzafarov I, Tirskii G, Utyuzhnikov S, Yamaleev N. Numerical simulation of the flow over a body flying through thermal in a stratified atmosphere. International Journal of Computers and Fluids. 1994; 295-304. eScholarID: 1e13
+Nabiev V, Utyuzhnikov S, Yamaleev N. An efficient method to determine the ballistic trajectory of an axisymmetrical body moving with a hypersonic velocity in the stratified atmosphere. Doklady Physics. 1994; 36: 357-360. eScholarID: 1e17
+Pilyugin N, Talipov R, Utyuzhnikov S. Accuracy of asymptotic solutions for nonuniform supersonic flow past a blunt body. Journal of Applied Mechanics and Technical Physics. 1994; 35: 61-65. eScholarID: 1e18
+Pilyugin N, Talipov R, Utyuzhnikov S. On the applicability of some approximate similitude laws in hypersonic aerodynamics. Journal of Fluid Dynamics. 1994; 29: 251-257. eScholarID: 1e20
+Pilyugin V, Talipov R, Tirskii G, Utyuzhnikov S. Calculation of supersonic turbulent flow past blunt bodies using complete equations for the viscous shock layer. High Temperature. 1994; 32: 229-234. eScholarID: 1e16
+Tirskii G, Utyuzhnikov S, Yamaleev N. An efficient numerical method for simulation of supersonic viscous flow over a blunted body at small angle of attack. International Journal of Computers and Fluids. 1994; 23: 103-114. eScholarID: 1e12
+Zhluktov S, Tirskii G, Utyuzhnikov S. A thermally non-equilibrium viscous shock layer past slender blunted cones. Applied Mathematics and Mechanics. 1994; 58: 493-505. eScholarID: 1e19
+Zhluktov, SV, and Sergei  Utyuzhnikov. Real-gas effects over hypersonic blunted body at nonuniform freestream conditions. Proceedings of the Second European Symposium on Aerdynamics for Space Vehicles, ESTEC, Noordwijk, The Netherlands. 1994: 401-406. eScholarID: 2e283
+Muzafarov, I F, V U  Nabiev, S V  Utyuzhnikov, and N K  Yamaleev. Viscous hypersonic flow over a body flying through a thermal in an atmosphere. Proceedings of XIX Int. Symposium on Shock Waves, Marseille. 1993: 145-150. eScholarID: 2e285
+Palamarchuk I, Tirskii G, Fridlender M, Utyuzhnikov S. Study of turbulent hypersonic flows past elongated blunt-nosed cones. Journal of Fluid Dynamics. 1993; 28: 844-847. eScholarID: 1e26
+Tirskii, G A, S V  Utyuzhnikov, and S V  Zhluktov. Multi-component viscous shock layer past thin slender cones. Proceedings of the 5th International Symposium on Computational Fluid Dynamics, V.III. 1993: 229-234. eScholarID: 2e284
+Utyuzhnikov S. Numerical investigation of supersonic viscous gas flow over long blunt cones with allowance for equilibrium physicochemical effects. Journal of Fluid Dynamics. 1993; 28: 155-158. eScholarID: 1e24
+Gan’zha D, Tirskii G, Utyuzhnikov S, Fridlender M. Influence of second-order boundary layer effects in hypersonic flow over slender blunt cones. Journal of Fluid Dynamics. 1992; 27: 551-555. eScholarID: 1e29
+Tirskii G, Utyuzhnikov S, Yamaleev N. Application of the small parameter method to the problem of the spatial flow of a viscous gas past bodies. Applied Mathematics and Mechanics. 1992; 56: 929-938. eScholarID: 1e30
+Utyuzhnikov, S V, I V  Vershinin, and N K  Yamaleev. Efficient numerical method for solution of some problems of supersonic viscous 3-D flows over blunt-nosed bodies. IUTAM Symposium Aerothermochem, of Spacecraft and Associated Hypersonic Flows, Marseille. 1992: 214-219. eScholarID: 2e287
+Zhluktov S, Utyuzhnikov S, Schelin V, Scherbuk V. Comparison of gas dynamic-models for hypersonic flow past bodies. Applied Mathematics and Mechanics. 1992; 56: 939-944. eScholarID: 1e28
+Vershinin I, Tirskii G, Utyuzhnikov S. Supersonic laminar flow on the windward surface of yawed wings of infinitive span over a broad range of Reynolds numbers. Journal of Fluid Dynamics. 1991; 26: 508-512. eScholarID: 1e31
+Tirskii G, Utyuzhnikov S. A comparison of the models of a thin and a complete viscous shock layer in the problem of the supersonic flow of a gas past blunt cones. Applied Mathematics and Mechanics. 1989; 53: 762-767. eScholarID: 1e27
+Vasil’yevskii S, Tirskii G, Utyuzhnikov S. A numerical method for solving the equations of a viscous shock layer. USSR Computational Mathematics and Mathematical Physics. 1988; 27: 64-71. eScholarID: 1e32
+Tirskii, G A , Vasil'evsky, S A , Utyuzhnikov S V. A numerical method for solving viscous shock-layer equations. Doklady Mathematics. 1986; 290(5):  eScholarID: ma040
+

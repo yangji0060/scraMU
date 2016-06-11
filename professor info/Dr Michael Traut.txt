@@ -1,0 +1,21 @@
+name  role  phone  location  email
+Dr Michael Traut  Research Associate  0161-2754371  Pariser Building - H1-C  michael.traut@manchester.ac.uk  
+
+BIOGRAPHY: 
+
+RESEARCH: 
+Climate change
+Tyndall Centre
+
+PUBLICATION: 
+Smith, T.W.P, Traut, M., Bows-Larkin, A., Anderson K., McGlade, C, and Wrobel, P. CO2 Targets, Trajectories and Trends for International Shipping. 2015;  eScholarID: 266095
+Alice Bows-Larkin, Kevin Anderson, Sarah Mander, Michael Traut and Conor Walsh. Shipping charts a high carbon course. Nature Climate Change. 2015; 5: 293-295. eScholarID: 266091 | DOI: 10.1038/nclimate2532
+Smith, T. W. P.; Jalkanen, J. P.; Anderson, B. A.; Corbett, J. J.; Faber, J.; Hanayama, S.; O’Keeffe, E.; Parker, S.; Johansson, L.; Aldous, L.; Raucci, C.; Traut, M.; Ettinger, S.; Nelissen, D.; Lee, D. S.; Ng, S.; Agrawal, A.; Winebrake, J. J.; Hoen, M.; Chesworth, S.; Pandey, A. Third IMO Greenhouse Gas Study 2014. London, UK: International Maritime Organization (IMO): 2015 April.  eScholarID: 266097
+Traut M, Gilbert P, Walsh C, Bows A, Filippone A, Stansby P, Wood R. Propulsive power contribution of a kite and a Flettner rotor on selected shipping routes. Applied Energy. 2014; 113(0): 362-372. eScholarID: 221489 | DOI: 10.1016/j.apenergy.2013.07.026
+Traut, M, A  Bows, C  Walsh, and R  Wood. Monitoring shipping emissions via AIS data? Certainly. Low Carbon Shipping Conference 2013, London. 2013: -. eScholarID: 221503
+Mander, Sarah; Walsh, Connor; Traut, Michael; Gilbert, Paul and Bows, Alice. Decarbonising the UK energy system and the implications for UK shipping. Carbon Management. 2012 December; 3(6): 601-614. eScholarID: 191480
+Leonie Dendler, Maria Sharmina, Dan Calverley, Michael Traut. Sustainable futures: Multi-disciplinary perspectives on multi-level transitions. Environmental Development. 2012 April; 2: 2-5. eScholarID: 160383 | DOI: 10.1016/j.envdev.2012.03.002
+Traut, M, A  Bows, P  Gilbert, S  Mander, P  Stansby, C  Walsh, and R  Wood. Low C for the High Seas - Flettner rotor power contribution on a route Brazil to UK. Low Carbon Shipping Conference 2012, Newcastle. 2012: -. eScholarID: 221994
+Traut, M, A  Bows, and R  Wood. Quantifying Shipping Emissions. Proceedings of the 3rd International Conference on Transport, Atmosphere and Climate (TAC). Prien am Chiemsee. 2012: 60-68. eScholarID: 221993
+Traut, M, A  Bows, P  Gilbert, C  Walsh, and R  Wood. Towards Very Low Carbon Shipping. Proceedings of the International Conference on Technologies, Operations, Logistics and Modelling for Low Carbon Shipping. Glasgow. 2011: -. eScholarID: 221995
+

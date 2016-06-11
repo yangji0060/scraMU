@@ -1,0 +1,31 @@
+name  role  phone  location  email
+Dr Glen Cooper  Lecturer in Solid Mechanics & Bioengineering  0161-3065819  John Garside Building - 2.022  glen.cooper@manchester.ac.uk  
+
+BIOGRAPHY: 
+Glen studied as a post graduate student in MACE on the Mechanical Engineering Design MSc and then stayed on to complete a PhD in the Design Reliable Systems funded jointly by EPSRC & Volvo Cars. Glen left MACE to join the University of Sheffield as a Research Assistant to test and make biomechanical performance improvements to ambulance stretchers. This increased his interest in bioengineering and he moved to the University of Salford as Research Fellow in the School of Health. He worked on the development of rehabilitation aids for stroke patients involving whole body measurement, neuromuscular control and medical device development. He also investigated lower limb biomechanics linked to diabetes and knee-osteoarthritis.
+
+
+Glen then became a Senior Lecturer in the School of Engineering at Manchester Metropolitan University where he taught structures, finite element analysis, mathematics and led the bioengineering research group. His research interests are in understanding medical problems through measurement and modelling, with a particular interest in diabetes, stroke, spinal and lower limb biomechanics. Glen is based in the Manchester Institute of Biotechnology with the Bio-Manufacturing/Engineering Research group.
+
+
+
+RESEARCH: 
+Biomedical Modelling
+Medical Device Development
+Lower Limb Biomechanics
+Novel Measurement Devices to Understand Medical Problems
+
+PUBLICATION: 
+A. Teklemariam, E.F. Hodson-Tole, N.D. Reeves, N.P. Costen, G. Cooper. A Finite element model approach to determining the influence of electrode design and muscle architecture on myoelectric signal properties. P L o S One. 2016;  eScholarID: 289461
+A device for characterising the mechanical properties of the plantar soft tissue of the foot. Medical Engineering & Physics. 2015 November; 37(11): 1098-1104. eScholarID: 288698 | DOI: 10.1016/j.medengphy.2015.08.008
+Tracey Williamson, Laurence Kenney, Anthony T. Barker, Glen Cooper, Tim Good, Jamie Healey, Ben Heller, David Howard, Martin Matthews, Sarah Prenton, Julia Ryan & Christine Smith. Enhancing public involvement in assistive technology design research. Disability and Rehabilitation: Assistive Technology. 2015; 10(3): 258-265. eScholarID: 289353 | DOI: 10.3109/17483107.2014.908247
+Prenton S, Kenney LP, Cooper G, Major MJ. A sock for foot-drop: a preliminary study on two chronic stroke patients. Prosthetics and Orthotics International. 2014; 38(5): 425-430. eScholarID: 289435 | DOI: 10.1177/0309364613505107
+Handsaker JC, Brown SJ, Bowling FL, Cooper G, Maganaris CN, Boulton AJ, Reeves ND. Contributory factors to unsteadiness during walking up and down stairs in patients with diabetic peripheral neuropathy. Diabetes Care. 2014 November; 37(11): 3047-3053. eScholarID: 289457 | DOI: 10.2337/dc14-0955
+Prenton S, Kenney LP, Stapleton C, Cooper G, Reeves ML, Heller BW, Sobuh M, Barker AT, Healey J, Good TR, Thies SB, Howard D, Williamson T. Feasibility study of a take-home array-based functional electrical stimulation system with automated setup for current functional electrical stimulation users with foot-drop. Archives of Physical Medicine and Rehabilitation. 2014 October; 95(10): 1870-1877. eScholarID: 289349 | DOI: 10.1016/j.apmr.2014.04.027
+Price C, Cooper G, Graham-Smith P, Jones R. A mechanical protocol to replicate impact in walking footwear. Gait & Posture. 2014 February; 40(1): 26-31. eScholarID: 289328 | DOI: 10.1016/j.gaitpost.2014.01.014
+Price C, Cooper G, Jones R. The manipulation of midsole properties to alter impact characteristics in walking. Footwear Science. 2014 December; 7(1): 9-16. eScholarID: 289340 | DOI: 10.1080/19424280.2014.983444
+Buckley JG, Cooper G, Maganaris CN, Reeves ND. Is stair descent in the elderly associated with periods of high centre of mass downward accelerations?. Experimental Gerontology. 2013; 48(2): 283-289. eScholarID: 289431 | DOI: 10.1016/j.exger.2012.11.003
+Cooper G, Barker AT, Heller BW, Good T, Kenney LP, Howard D. The use of hydrogel as an electrode-skin interface for electrode array FES applications. Medical Engineering & Physics. 2011; 33(8): 967-972. eScholarID: 289408 | DOI: 10.1016/j.medengphy.2011.03.008
+Cooper G, Sheret I, McMillan L, Siliverdis K, Sha N, Hodgins D, Kenney L, Howard D. Inertial sensor-based knee flexion/extension angle estimation. Journal of Biomechanics. 2009; 42(16): 2678-2685. eScholarID: 289402 | DOI: 10.1016/j.jbiomech.2009.08.004
+G Cooper, E Ghassemieh. Risk assessment of patient handling with ambulance stretcher systems (ramp/(winch), easi-loader, tail-lift) using biomechanical failure criteria. Medical Engineering & Physics. 2007 September; 29(7): 775-787. eScholarID: 289360
+

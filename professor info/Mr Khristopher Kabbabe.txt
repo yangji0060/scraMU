@@ -1,0 +1,10 @@
+name  role  phone  location  email
+Mr Khristopher Kabbabe  Research Associate    George Begg Building - C.011  khristopher.kabbabe@manchester.ac.uk  
+
+BIOGRAPHY: 
+EDIT ME
+
+RESEARCH: 
+
+PUBLICATION: 
+

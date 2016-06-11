@@ -1,0 +1,24 @@
+name  role  phone  location  email
+Dr Carl Diver  Lecturer  0161-2754391  Pariser Building - G24  carl.diver@manchester.ac.uk  
+
+BIOGRAPHY: 
+Dr. Carl Diver graduated from The Queens University of Belfast with BEng inMechanical Engineering, he went on to obtain an MSc at UMIST in Advanced Manufacturing Technology and Systems management and completed his PhD at The University of Manchester in 2006. He worked for Delphi Diesel Systems for many years on Advanced Process Development for Diesel Common Rail Fuel Injection Systems. He also gained manufacturing experience along the way where he was heavily involved in the installation of new production line for a new generation of diesel pump.
+His work has mainly focused on Electrodischarge machining, Electrochemical machining and Hydroerosive Grinding. In 2007 he set up his own research and development consultancy and he has worked for and with some of the worlds leading multinationals in the automotive fuel injection sector. Carl has also been heavily involved in European FP7 projects and has supported proposal writing.  He has a number of patents related to his EDM and ECM work.
+
+RESEARCH: 
+Electrodischarge machining
+Electrochemical machining
+Micro-machining
+
+PUBLICATION: 
+C. Kontogeorgakis1, C. Diver1. Investigation of Wire EDM Cutting of Medical Thin Wall Delivery Catheters. 2015: -. eScholarID: 291246
+Marco Gallindo. WIRE-ELECTRO-DISCHARGE MACHINING OF POLYCRISTALLINE DIAMOND. Manchester: University of Manchester:2014.  eScholarID: 257079
+ENVIRONMENTAL ASSESSMENT OF INDUSTRIAL MACHINES - A NEW WEB-BASED CONCEPT APPLIED TO THE EDM PROCESS. 2013 September.  eScholarID: 207664
+MACHINING METHOD 2008 February 20. eScholarID: 207668
+Apparatus for, and method of, machining an injection nozzle sac 2006 March 01. eScholarID: 207669
+Carl Diver, John Atkinson, Lin Li. Investigation into Novel Micro-hole Machining Techniques for Next Generation Fuel Injection Nozzle manufacture. The University of Manchester:2006.  eScholarID: 207667
+Li, Lin Diver, Carl Atkinson, John Giedl-Wagner, Roswitha Helml, Hans-Joachim. Sequential laser and EDM micro-drilling for next generation fuel injection nozzle manufacture. CIRP Annals - Manufacturing Technology. 2006 August; 55: 179-182. eScholarID: 207661
+Process of machining of through-holes in objects and use of an apparatus therefor 2005 August 17. eScholarID: 255032
+Spark erosion apparatus for forming fuel injection nozzle, includes adjustment mechanism which adjusts tilting angle of electrode control duct of outlet guide relative to rotation axis 2004 November 11. eScholarID: 255037
+Carl Diver Lin Li. Study and evaluation of key technologies used to produce high precision orifice micro-holes on metallic substrates for large scale production. Manchester: UMIST:1998.  eScholarID: 207666
+

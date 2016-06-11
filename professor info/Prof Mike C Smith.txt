@@ -1,0 +1,236 @@
+name  role  phone  location  email
+Prof Mike C Smith  Professor of Welding Technology  0161-3065751  George Begg Building - C43  mike.c.smith@manchester.ac.uk  
+
+BIOGRAPHY: 
+Mike Smith was appointed to the Chair of Welding Technology at Manchester University in May 2013 after thirty years as a structural integrity specialist in the aerospace and nuclear industries.
+Mike started his career as an engineering apprentice at British Aerospace, and obtained both BA (in Engineering) and PhD at Churchill College, Cambridge, the latter studying the behaviour of fatigue cracks in metals under shear loading (so-called Mode II). He then spent five years at British Aerospace, working on the performance of spacecraft structures, especially their behaviour under dynamic launch loads and their tolerance to structural defects, before moving to the other end of the component mass spectrum and joining the Central Electricity Generating Board to work on the structural integrity of nuclear power plants.
+Mike spent 23 years at the CEGB and its successor companies, Nuclear Electric, British Energy, and EDF Energy. Initially he worked on the structural integrity safety case for the Sizewell 'B' pressurised water reactor, examining the response of key plant items to severe accident conditions, before moving into lifetime management of the advanced gas cooled reactor fleet, and then into structural performance research and development activities. Here his responsibilities were two-fold: first, to embody research results into the internationally-recognised R5 and R6 structural integrity assessment procedures, which cover a wide range of degradation mechanisms and failure modes, at both low temperatures (R6) and high temperatures (R5); and second, to apply his expertise to the solution of major structural performance issues on operating nuclear plant, the development of structural integrity-based safety cases, and their presentation to key stakeholders inside and outside EDF, including the Office of Nuclear Regulation (ONR).
+Mike's current research interests are focussed upon extending "conventional" continuum mechanics weld modelling into a multi-disciplinary tool that can predict both continuum parameters such as stress &amp; distortion, and microstructural parameters such as grain size and shape, the occurrence of secondary phases, and precipitate distributions; and hence both directly predict long term structural performance and be used for "virtual prototyping" of weld processes and procedures for novel welding processes.
+Mike's research has been supported by the award, in late 2013, of a five-year EPSRC Manufacturing Fellowship, entitled A whole-life approach to the development of high integrity welding technologies for Generation IV fast reactors.
+Mike is Director of the EDF Modelling and Simulation Centre (MaSC).
+
+RESEARCH: 
+Weld modelling
+
+PUBLICATION: 
+L Lindgren, Michael Smith. Modelling of welding of austenitic stainless steels. Encyclopaedia of Thermal Stress: eScholarID: ma1110
+
+Bendeich, Philip J Muransky, Ondrej Hamelin, Cory J Smith, M. C. Edwards, Lyndon. Validated numerical analysis of residual stresses in safety relief valve (SRV) nozzle mock-ups: influence of axial restraint on distortion and residual stress predictions. Computational Materials Science. 62: 285-288. eScholarID: 200855
+
+C D Elcoate, Michael Smith, P J Bouchard, R J Dennis. 3-Dimensional Repair Weld Simulations - Bead Sequencing Studies. In: ASME, ed. 3-Dimensional Repair Weld Simulations - Bead Sequencing Studies. 2014: 17-Sep. eScholarID: ma1571
+Michael Smith. Code based failure avoidance assessments of the NESC-1 large scale pressurised thermal shock experiment. In: ASME, ed. Code based failure avoidance assessments of the NESC-1 large scale pressurised thermal shock experiment. 2014: 121-133. eScholarID: ma1572
+A Warren, C Watson, Michael Smith, N A Leggatt, P Hurrell, P J Bouchard, R J Dennis, S K Bate. Development of weld modelling guidelines in the UK. In: ASME, ed. Development of weld modelling guidelines in the UK. 2014: 481-489. eScholarID: ma1553
+D G Lawrjaniec, M R Goldthorpe, Michael Smith, P J Bouchard. Fracture margins for growing cracks in weld repairs. In: ASME, ed. Fracture margins for growing cracks in weld repairs. 2014: 371-383. eScholarID: ma1556
+D G Lawrjaniec, M R Goldthorpe, Michael Smith, P J Bouchard. Fracture margins for growing cracks in weld repairs. In: ASME, ed. Fracture margins for growing cracks in weld repairs. 2014: 371-383. eScholarID: ma1565
+L Edwards, M E Fitzpatrick, M Turski, Michael Smith, P J Bouchard, S Ganguly. Full field measurement of plastic flow properties in a multi-pass austenitic stainless steel weld specimen. In: ASME, ed. Full field measurement of plastic flow properties in a multi-pass austenitic stainless steel weld specimen. 2014: 403-414. eScholarID: ma1570
+Michael Smith, N A Leggatt, P J Bouchard, R J Dennis. Numerical methods for welding simulation: the next steps. In: ASME, ed. Numerical methods for welding simulation: the next steps. 2014: 505-516. eScholarID: ma1574
+Michael Smith, N A Leggatt, P J Bouchard, R J Dennis. Numerical methods to predict distortion in welded components. In: ASME, ed. Numerical methods to predict distortion in welded components. 2014: 495-503. eScholarID: ma1564
+Michael Smith, P J Budden. Numerical validation of a strain-based failure assessment diagram approach to fracture. In: ASME, ed. Numerical validation of a strain-based failure assessment diagram approach to fracture. 2014: 1797-1806. eScholarID: ma1559
+A C Smith, B Nadri, D G Carr, L Edwards, Michael Smith, P J Bendeich. Optimisation of mixed hardening material constitutive models for weld residual stress simulation using the NeT Task Group 1 single bead on plate bench. In: ASME, ed. Optimisation of mixed hardening material constitutive models for weld residual stress simulation using the NeT Task Group 1 single bead on plate bench. 2014: 303-318. eScholarID: ma1568
+C D Austin, L Edwards, Michael Smith, O Muransky, P J Bendeich. Optimised modelling of weld metal constitutive behaviour in the NeT TG4 international weld simulation and measurement benchmark. In: ASME, ed. Optimised modelling of weld metal constitutive behaviour in the NeT TG4 international weld simulation and measurement benchmark. 2014: 1125-1137. eScholarID: ma1562
+A E Smith, D G Carr, L Edwards, Michael Smith, P J Bendeich, R C Wimpory. Optimising residual stress measurements and predictions in a welded benchmark specimen: a review of Phase two of the NeT Task Group 1 single bead on p. In: ASME, ed. Optimising residual stress measurements and predictions in a welded benchmark specimen: a review of Phase two of the NeT Task Group 1 single bead on p. 2014: 1483-1494. eScholarID: ma1551
+A H Sherry, A Vasileiou, J Balakrishnan, John Francis, Lin Li, M D Callaghan, Matthew Roy, Michael Smith, N M Irvine, Wei Guo. Overview of welding research under the New Nuclear Manufacturing (NNUMAN) programme. Proceedings of the ASME 2014 Pressure Vessel and Piping Conference. 2014: -. eScholarID: ma1151
+C D Austin, L Edwards, Michael Smith, O Muransky, P J Bendeich. Prediction and measurement of weld residual stresses in thermally aged girth-welded austenitic steel pipes. Prediction and measurement of weld residual stresses in thermally aged girth-welded austenitic steel pipes. 2014: 1147-1156. eScholarID: ma1561
+B Burstow, I C Howard, Michael Smith. Progress on local approach modelling of cleavage and ductile crack growth in the NESC spinning cylinder test. In: ASME, ed. Progress on local approach modelling of cleavage and ductile crack growth in the NESC spinning cylinder test. 2014: 117-124. eScholarID: ma1573
+Michael Smith, N A Leggatt, P J Bouchard, R J Dennis. R6 weld modelling guidelines: application to groove weld worked example. In: ASME, ed. R6 weld modelling guidelines: application to groove weld worked example. 2014: 1435-1448. eScholarID: ma1575
+M Turski, Michael Smith, P J Bouchard. Residual stress concentrations in a stainless steel slot-weld measured by the contour method and neutron diffraction. In: ASME, ed. Residual stress concentrations in a stainless steel slot-weld measured by the contour method and neutron diffraction. 2014: 335-345. eScholarID: ma1552
+L E Edwards, M Turski, Michael Smith, P J Bouchard, P J Withers. Residual stress measurement within a single pass groove weld specimen utilising neutron diffraction and the contour method. In: ASME, ed. Residual stress measurement within a single pass groove weld specimen utilising neutron diffraction and the contour method. 2014: 907-915. eScholarID: ma1569
+A Price, M W Spindler, Michael Smith, R J Dennis. Revised weld residal stress and creep damage assessments. In: ASME, ed. Revised weld residal stress and creep damage assessments. 2014: 559-568. eScholarID: ma1555
+D G Carr, L Edwards, Michael Smith, P J Bendeich. Sensitivity of predicted weld residual stresses in the NeT Task Group 1 single bead on plate benchmark problem to finite element mesh design and heat. In: ASAME, ed. Sensitivity of predicted weld residual stresses in the NeT Task Group 1 single bead on plate benchmark problem to finite element mesh design and heat. 2014: 501-507. eScholarID: ma1557
+L E Edwards, M Turski, Michael Smith, P J Bouchard, P J Withers. Spatially Resolved Materials property Data from a Cross-weld tensile Test. In: ASME, ed. Spatially Resolved Materials property Data from a Cross-weld tensile Test. 2014: 17. eScholarID: ma1566
+B Nadri, C E Truman, Michael Smith. Statistical analysis of pipe girth weld experimental residual stress data. In: ASME, ed. Statistical analysis of pipe girth weld experimental residual stress data. 2014: 491-500. eScholarID: ma1567
+A Goodfellow, D J Shim, F Brust, G Wilkowski, Michael Smith, S Kalyanam, T Zhang. Summary of Weld Residual Stress Analyses for Dissimilar Metal Weld Nozzles. In: ASME, ed. Summary of Weld Residual Stress Analyses for Dissimilar Metal Weld Nozzles. 2014: 1521-1529. eScholarID: ma1563
+C J Hamelin, L Edwards, Michael Smith, O Muransky, P J Bendeich. The impact of axi-symmetric boundary conditions on predicted residual stress and shrinkage in a PWR nozzle dissimilar metal weld. In: ASME, ed. The impact of axi-symmetric boundary conditions on predicted residual stress and shrinkage in a PWR nozzle dissimilar metal weld. 2014: 1139-1145. eScholarID: ma1560
+L Edwards, Michael Smith, O Muransky, P J Bendeich. The impact of key simulation variables on predicted residual stresses in pressuriser nozzle dissimilar metal weld mock-ups. In: ASME, ed. The impact of key simulation variables on predicted residual stresses in pressuriser nozzle dissimilar metal weld mock-ups. 2014: 1483-1494. eScholarID: ma1558
+L Edwards, Michael Smith, O Kirstein, O Muransky, P J Bendeich, T N Holden. analysis of residual stresses in three-pass slot weld (NeT TG4): finite element modelling and neutron diffraction. In: ASME, ed. analysis of residual stresses in three-pass slot weld (NeT TG4): finite element modelling and neutron diffraction. 2014: 1299-1305. eScholarID: ma1554
+Finite Element Simulation of a circumferential through-thickness crack in a cylinder. 2014.  eScholarID: 259472
+Hamelin C, Muránsky O, Smith M, Holden T, Luzin V, Bendeich P, Edwards L. Validation of a numerical model used to predict phase distribution and residual stress in ferritic steel weldments. Acta Materialia. 2014; 75(0): 1-19. eScholarID: 259507 | DOI: http://dx.doi.org/10.1016/j.actamat.2014.04.045
+Overview of welding research under the New Nuclear Manufacturing (NNUMAN) Programme. 2014.  eScholarID: 259487
+Muránsky O, Smith M, Bendeich P, Hosseinzadeh F, Edwards L. Numerical analysis of retained residual stresses in C(T) specimen extracted from a multi-pass austenitic weld and their effect on crack growth. Engineering Fracture Mechanics. 2014; 126(0): 40-53. eScholarID: 259481 | DOI: http://dx.doi.org/10.1016/j.engfracmech.2014.04.008
+Smith M, Smith A, Wimpory R, Ohms C. A review of the NeT Task Group 1 residual stress measurement and analysis round robin on a single weld bead-on-plate specimen. International Journal of Pressure Vessels and Piping. 2014; 120–121(0): 93-140. eScholarID: 259459 | DOI: http://dx.doi.org/10.1016/j.ijpvp.2014.05.002
+Modelling and measuring residual stresses in pipe girth welds - lessons from the STYLE Framework 7 project. 2014.  eScholarID: 259474
+Understanding the impact of high-magnitude repair-weld residual stresses on ductile crack initiation and growth – the STYLE Mock-up 2 large scale test. 2014.  eScholarID: 259503
+Residual Stress Investigation in a Stainless Steel Ring Welded Circular Disc by Over-coring Deep Hole Drilling Simulation and Measurement. 2014.  eScholarID: 259489
+Round robin prediction of residual stresses in the edge-welded beam R6 validation benchmark problem. 2013.  eScholarID: 259493
+Influence of Phase Transformations on Residual Stresses in Welded Structures. 2013.  eScholarID: 259475
+Simple benchmark problems for finite element weld residual stress simulation. 2013.  eScholarID: 259491
+Smith, M. C; Bouchard, P J; Turski, Mark; Edwards, Lyndon; Dennis, R. J. Accurate prediction of residual stress in stainless steel welds. Computational Materials Science. 2012 March; 54: 312-328. eScholarID: 200859 | DOI: 10.1016/j.commatsci.2011.10.024
+Muransky, Ondrej Smith;,Michael Christopher Bendeich, Philip J; Holden T M; Luzin, V; Martins, R V; Edwards, Lyndon. Comprehensive numerical analysis of a three-pass bead-in-slot weld and its critical validation using neutron and synchrotron diffraction residual stress measurements. International Journal of Solids and Structures. 2012 May; 49(9): 1045-1062. eScholarID: 200856 | DOI: 10.1016/j.ijsolstr.2011.07.006
+L Edwards, Michael Smith, O Muransky, P J Bendeich, R V Martins, T M Holden, V Luzin. Comprehensive numerical analysis of a three-pass bead-in-slot weld and its critical validation using neutron and synchrotron diffraction residual stress measurements, International Journal of Solids a. International Journal of Solids and Structures. 2012; 49(0): 1045-1062. eScholarID: ma129
+Shim D J, Kalyanam S, Brust F, Smith M C et al. Natural Crack Growth Analyses for Circumferential and Axial PWSCC Defects in Dissimilar Metal Welds. JOURNAL OF PRESSURE VESSEL TECHNOLOGY-TRANSACTIONS OF THE ASME. 2012 October; 134(5):  eScholarID: 200853
+Muransky, Ondrej; Hamelin, Cory J; Smith, M. C; Bendeich, Philip J; Edwards, Lyndon. The effect of plasticity theory on predicted residual stress fields in numerical weld analyses. Computational Materials Science. 2012 March; 54: 125-134. eScholarID: 200857 | DOI: 10.1016/j.commatsci.2011.10.026
+The impact of axi-symmetric boundary conditions on predicted residual stress and shrinkage in a PWR nozzle dissimilar metal weld. 2012.  eScholarID: 259500
+Bendeich P, Muransky O, Hamelin C, Smith M, Edwards L. Validated numerical analysis of residual stresses in safety relief valve (SRV) nozzle mock-ups: influence of axial restraint on distortion and residual stress predictions. Computational Materials Science. 2012; 62: 285-288. eScholarID: 259506
+Predicting post-weld residual stresses in ferritic steel weldments. 2012.  eScholarID: 259486
+Muransky O, Smith M, Bendeich P, Holden T, Luzin V, Martins R, Edwards L. Comprehensive numerical analysis of a three-pass bead-in-slot weld and its critical validation using neutron and synchrotron diffraction residual stress measurements. International Journal of Solids and Structures. 2012; 49(9): 1045-1062. eScholarID: 259469
+Prediction and measurement of weld residual stresses in thermally aged girth-welded austenitic steel pipes. 2012.  eScholarID: 259485
+Smith M, Bouchard P, Turski M, Edwards L, Dennis R. Accurate prediction of residual stress in stainless steel welds. Computational Materials Science. 2012; 54: 312-328. eScholarID: 259462
+Optimised modelling of weld metal constitutive behaviour in the NeT TG4 international weld simulation and measurement benchmark. 2012.  eScholarID: 259482
+Simulation and Measurement of Residual Stresses in a Stainless Steel Ring Welded Circular Disc. 2012.  eScholarID: 259494
+D M Goudar, E J Kingston, Michael Smith, S Hossain. Measurement of residual stresses within a PWR swaged heater tube. Applied Mechanics and Materials, AMM. 2011; 70(0): 279-284. eScholarID: ma308
+A Smith, Michael Smith, R C Wimpory. Review of the NeT Task Group 1 Single Weld Bead on Plate Benchmark Round Robin. EDF Energy Nuclear Generation Report E/REP/BBGB/0074/GEN/11, Revision 000: 2011.  eScholarID: ma992
+Muransky, Ondrej; Smith, Michael Christopher; Bendeich, Philip J; Edwards, Lyndon. Validated numerical analysis of residual stresses in Safety Relief Valve (SRV) nozzle mock-ups. Computational Materials Science. 2011 May; 50(7): 2203-2215. eScholarID: 200858 | DOI: 10.1016/j.commatsci.2011.02.031
+Muransky O, Hamelin C, Smith M, Bendeich P, Edwards L. The effect of plasticity theory on predicted residual stress fields in numerical weld analyses. Computational Materials Science. 2011; 54: 125-134. eScholarID: 259498
+Muransky O, Smith M, Bendeich P, Edwards L. Validated numerical analysis of residual stresses in Safety Relief Valve (SRV) nozzle mock-ups. Computational Materials Science. 2011; 50(7): 2203-2215. eScholarID: 259505
+Nadri B, Bouchard P, Smith M, Truman C, Smith D. Modelling and statistical treatment of residual stress distributions in an edge-welded stainless steel beam. Strain. 2011; 47: 505-517. eScholarID: 259476
+Smith, M C. A review of weld residual stress measurements and simulations, and advanced cracked body finite element analyses performed on primary circuit dissimilar metal welds made with Inconel Alloy 82/182 filler metal. British Energy: 2011.  eScholarID: 259461
+Smith, M C, Ann Catherine Smith, and R C Wimpory. Review of the NeT Task Group 1 Single Weld Bead on Plate Benchmark Round Robin. Gloucester, UK: EDF Energy Nuclear Generation Ltd: 2011.  eScholarID: 259492
+Michael Smith. A review of weld residual stress measurements and simulations, and advanced cracked body finite element analyses performed on primary circuit dissimilar metal welds made with Inconel Alloy 82/182 filler metal. British Energy Report E/REP/BBGB/0070/SXB/10: 2010.  eScholarID: ma733
+D J Tipping, Michael Smith. Assessment of Defect Tolerances for the Boiler Spine Butt Welds and Reheater Radial Arm Attachment Welds, Including Consideration of the Operating Temperature History British Energy Report E/REP/BBGB/0059/AGR/09, Revision 000. British Energy Report E/REP/BBGB/0059/AGR/09, Revision 000: 2010.  eScholarID: ma760
+Prediction of welding residual stresses, crack initiation and creep crack driving forces C(t) within a continuous finite element solution. 2010.  eScholarID: 259483
+Summary of Weld Residual Stress Analyses for Dissimilar Metal Weld Nozzles. 2010.  eScholarID: 259497
+R6 weld modelling guidelines: application to groove weld worked example. 2010.  eScholarID: 259488
+Simulation and measurement of through-wall residual stresses in a structural weld overlaid pressurizer nozzle. 2010.  eScholarID: 259495
+analysis of residual stresses in three-pass slot weld (NeT TG4): finite element modelling and neutron diffraction. 2010.  eScholarID: 259465
+Advanced finite element analysis (AFEA) evaluation for circumferential and axial PWSCC defects. 2010.  eScholarID: 259460
+Smith, M C. A review of weld residual stress measurements and simulations, and advanced cracked body finite element analyses performed on primary circuit dissimilar metal welds made with Inconel Alloy 82/182 filler metal. British Energy: 2010.  eScholarID: 259464
+Smith, M C, and D J  Smith. Case study – Integrity of PWR primary circuit dissimilar metal welds. EPRI: 2010:  eScholarID: 259467
+Smith, M C. Finite element prediction of weld residual stresses. EPRI: 2010:  eScholarID: 259470
+Smith, M C. Judgements on the effects of weld repair length and cap dressing on reheat cracking predictions in HRA/HYA boiler spine type 316 butt welds. British Energy: 2010.  eScholarID: 259473
+The impact of key simulation variables on predicted residual stresses in pressuriser nozzle dissimilar metal weld mock-ups. Part 2 – comparison of simulation and measurements. 2010.  eScholarID: 259504
+The impact of key simulation variables on predicted residual stresses in pressuriser nozzle dissimilar metal weld mock-ups. Part 1 – simulation. 2010.  eScholarID: 259502
+Tipping, D J, and M C Smith. Assessment of Defect Tolerances for the Boiler Spine Butt Welds and Reheater Radial Arm Attachment Welds, Including Consideration of the Operating Temperature History. British energy: 2010.  eScholarID: 259468
+ABAQUS/Standard User's Manual, Version 6.9. Providence, RI: Simulia:2009.  eScholarID: 259512
+D J Tipping, Michael Smith. Defect tolerance assessments for postulated manufacturing defects in repairs to spine weld 12.3. British Energy Report E/REP/BBGB/0045/AGR/09, Revision 000: 2009.  eScholarID: ma810
+A C Smith, Michael Smith. NeT bead on plate round robin: Comparison of residual stress predictions and measurements. International Journal of Pressure Vessels and Piping. 2009; 86(1): 79-95. eScholarID: ma336
+A C Smith, Michael Smith. NeT bead on plate round robin: Comparison of transient thermal predictions and measurements. Journal of Nuclear Materials. 2009; 86(1): 96-109. eScholarID: ma337
+L Edwards, M Turski, Michael Smith, P J Bouchard, P J Withers. Spatially resolved materials property data from a uniaxial cross-weld tensile test. International Journal of Pressure Vessels and Piping. 2009; 131(6):  eScholarID: ma457
+C E Turski, Michael Smith. The NeT residual stress measurement and analysis round robin on a single weld bead-on-plate specimen. International Journal of Pressure Vessels and Piping. 2009; 86(1): 02-Jan. eScholarID: ma519
+Sensitivity of predicted weld residual stresses in the NeT Task Group 1 single bead on plate benchmark problem to finite element mesh design and heat source characteristics. 2009.  eScholarID: 259549
+Bouchard, P J, Mark  Turski, and M C  Smith. Residual stress concentrations in a stainless steel slot-weld measured by the contour method and neutron diffraction. ASME: 2009:  eScholarID: 259544
+Numerical validation of a strain-based failure assessment diagram approach to fracture. 2009.  eScholarID: 259543
+Development of weld modelling guidelines in the UK. 2009.  eScholarID: 259517
+Statistical analysis of pipe girth weld experimental residual stress data. 2009.  eScholarID: 259553
+Revised weld residal stress and creep damage assessments. 2009.  eScholarID: 259548
+Smith, M C, and D J Tipping. Defect tolerance assessments for postulated manufacturing defects in repairs to spine weld 12.3. British Energy: 2009.  eScholarID: 259466
+Smith, M C. Infrequent reheater isolation fault - implications for defect tolerance assessments in Esshete and 316 Spine welds. British Energy: 2009.  eScholarID: 259471
+Smith, M C, and Ann Catherine Smith. NeT TG4 finite element simulation protocol. Network on Neutron Techniques standardisation for structural integrity: 2009.  eScholarID: 259477
+Smith M, Smith A. NeT bead on plate round robin: Comparison of residual stress predictions and measurements. International Journal of Pressure Vessels and Piping. 2009; 86(1): 79-95. eScholarID: 259479
+Smith M, Smith A. NeT bead on plate round robin: Comparison of transient thermal predictions and measurements. International Journal of Pressure Vessels and Piping. 2009; 86(1): 96-109. eScholarID: 259478
+Optimisation of mixed hardening material constitutive models for weld residual stress simulation using the NeT Task Group 1 single bead on plate benchmark problem. 2009.  eScholarID: 259480
+Optimising residual stress measurements and predictions in a welded benchmark specimen: a review of Phase two of the NeT Task Group 1 single bead on plate round robin. 2009.  eScholarID: 259484
+The effect of multiaxial states of stress on creep failure of type 316H under displacment control. 2009.  eScholarID: 259499
+Truman C, Smith M. The NeT residual stress measurement and analysis round robin on a single weld bead-on-plate specimen. International Journal of Pressure Vessels and Piping. 2009; 86(1): 1-2. eScholarID: 259501
+Turski M, Smith M, Bouchard P, Edwards L, Withers P. Spatially resolved materials property data from a uniaxial cross-weld tensile test. Journal of Pressure Vessel Technology. 2009; 131(6):  eScholarID: 259496
+Michael Smith, N A Leggatt, P J Bouchard. Hartlepool and Heysham 1 Power Stations: The effect of repair length on predicted creep damage in repairs to Esshete spine weld 12.3. British Energy Report E/REP/BBGB/0029/AGR/07, Revision 000: 2008.  eScholarID: ma881
+Michael Smith, N A Leggatt, P J Bouchard. Hartlepool and Heysham 1 Power Stations: The effect of repair offset and weld pass sequence on predicted creep damage for short repairs with realistic repair and weld cap profiles in Esshete spine weld 12.3. British Energy Report E/REP/BBGB/0028/AGR/07, Revision 000: 2008.  eScholarID: ma882
+A E Mirzaee-Sisan, C E Truman, D J Smith, Michael Smith. Interaction of residual stress with mechanical loading in an austenitic stainless steel. Fatigue and Fracture of Engineering Materials and Structures. 2008; 31(3): 223-233. eScholarID: ma278
+D J Smith, M J Pavier, Michael Smith, T D Swankie. The effect of specimen dimensions on mixed mode ductile fracture. Engineering Fracture Mechanics. 2008; 75(15): 4394-4409. eScholarID: ma496
+Full field measurement of plastic flow properties in a multi-pass austenitic stainless steel weld specimen. 2008.  eScholarID: 259530
+Leggatt, Neil A, Michael Christopher Smith, and P J Bouchard. Hartlepool and Heysham 1 Power Stations: The effect of repair length on predicted creep damage in repairs to Esshete spine weld 12.3. British Energy: 2008.  eScholarID: 259535
+Leggatt, Neil A, Michael Christopher Smith, and P J Bouchard. Hartlepool and Heysham 1 Power Stations: The effect of repair offset and weld pass sequence on predicted creep damage for short repairs with realistic repair and weld cap profiles in Esshete spine weld 12.3. British Energy: 2008.  eScholarID: 259533
+Numerical methods for welding simulation: the next steps. 2008.  eScholarID: 259538
+Numerical methods to predict distortion in welded components. 2008.  eScholarID: 259542
+Mirzaee-Sisan A, Truman C, Smith D, Smith M. Interaction of residual stress with mechanical loading in an austenitic stainless steel. Fatigue & Fracture of Engineering Materials & Structures. 2008; 31(3): 223-233. eScholarID: 259539
+The European network on Neutron Techniques Standardization for Structural Integrity - NeT. 2008.  eScholarID: 259554
+Smith D, Swankie T, Pavier M, Smith M. The effect of specimen dimensions on mixed mode ductile fracture. Engineering Fracture Mechanics. 2008; 75(15): 4394-4409. eScholarID: 259552
+A Novel Approach to Annealing using ABAQUS - ABAQUS Behaviour with soft annealing. ABAQUS: 2007.  eScholarID: 259513
+Fitness for Service, API 579-1/ASME FFS-1. 2007.  eScholarID: 259529
+A E Mirzaee-Sisan, C E Truman, D J Smith, Michael Smith. Interaction of residual stress with mechanical loading in a ferritic steel. Fatigue and Fracture of Engineering Materials and Structures. 2007; 74(17): 2864-2880. eScholarID: ma277
+Michael Smith. Validation of mixed isotropic-kinematic material hardening models for finite element prediction of residual stresses in austenitic steel welds. British Energy Report E/REP/BBGB/0020/AGR/07, Revision 000: 2007.  eScholarID: ma1072
+Mirzaee-Sisan A, Truman C, Smith D, Smith M. Interaction of residual stress with mechanical loading in a ferritic steel. Engineering Fracture Mechanics. 2007; 74: 2864-2880. eScholarID: 259537
+Smith, Michael Christopher. Review of high energy X-ray diffraction and deep hole residual stress measurements on an Esshete 1250 repaired pipe mock-up. British Energy: 2007.  eScholarID: 259546
+Smith, Michael Christopher. Validation of mixed isotropic-kinematic material hardening models for finite element prediction of residual stresses in austenitic steel welds. British Energy: 2007.  eScholarID: 259556
+Turski, Mark, P J  Bouchard, Michael Christopher  Smith, Lyndon E  Edwards, and P J  Withers. Spatially Resolved Materials property Data from a Cross-weld tensile Test. ASME: 2007:  eScholarID: 259551
+Michael Smith. Development of mixed istotropic-kinematic material hardening models for finite element simulation of austenitic steel welds. British Energy Report E/REP/BDBB/0092/AGR/06, Revision 000: 2006.  eScholarID: ma830
+A Mirzaee-Sisan, C E Truman, D J Smith, Michael Smith. ENPOWER WP7.4: Effect of residual stress load-history on fracture. British Energy Report E/REP/BDBB/0077/GEN/05, Revision 000: 2006.  eScholarID: ma850
+Michael Smith, N A Leggatt, R J Dennis. Hartlepool and Heysham 1 Power Stations: Three-dimensional finite element residual stress simulation of a 218mm long offset repair in a 35mm spine weld mock-up. British Energy Report E/REP/BDBB/0062/AGR/05, Revision 001: 2006.  eScholarID: ma883
+A Smith, Michael Smith. NeT Task Group 1 Single Weld Bead on Plate: Review of Phase 1 Weld Simulation Round Robin. British Energy Report E/REP/BDBB/0089/GEN/05, Revision 000: 2006.  eScholarID: ma951
+VFT Virtual Fabrication and Weld Modelling Software, Version 2.00 User Manual. Columbus OH: Battelle Memorial Institute: 2006.  eScholarID: 259557
+Mirzaee-Sisan, A, Christopher E Truman, D J Smith, and Michael Christopher Smith. ENPOWER WP7.4: Effect of residual stress load-history on fracture. British Energy: 2006.  eScholarID: 259524
+Smith, Michael Christopher. Development of mixed istotropic-kinematic material hardening models for finite element simulation of austenitic steel welds. British Energy: 2006.  eScholarID: 259516
+Smith, Michael Christopher, Roger J Dennis, and Neil A Leggatt. Hartlepool and Heysham 1 Power Stations: Three-dimensional finite element residual stress simulation of a 218mm long offset repair in a 35mm spine weld mock-up. British Energy: 2006.  eScholarID: 259536
+Smith, Michael Christopher, and Ann Catherine Smith. NeT Task Group 1 Single Weld Bead on Plate: Review of Phase 1 Weld Simulation Round Robin. British Energy: 2006.  eScholarID: 259541
+Residual stress measurement within a single pass groove weld specimen utilising neutron diffraction and the contour method. 2006.  eScholarID: 259547
+ENPOWER: management of nuclear plant operation by optimising weld repairs, final technical report, Contract FIKS-CT-2001-00167. Institut de Soudure: 2005.  eScholarID: 259520
+Esshete Material Certificates. 2005.  eScholarID: 259525
+Heysham Stage 1 Power Station: Safety Case for Returning Reactor 2 to Service with Respect to NDT Inspections Undertaken During the 2005 Periodic Shutdown. British Energy: 2005.  eScholarID: 259532
+Manufacture of Esshete Weld Metal Deposits. British Energy: 2005.  eScholarID: 259540
+SYSWELD Version 2005. ESI Group, France:2005.  eScholarID: 259550
+C D Elcoate, Michael Smith, P J Bouchard, R J Dennis. Three Dimensional Multi-Pass Repair Weld Simulations. International Journal of Pressure Vessels and Piping. 2005; 82(4): 244-257. eScholarID: ma544
+Elcoate C, Dennis R, Bouchard P, Smith M. Three Dimensional Multi-Pass Repair Weld Simulations. International Journal of Pressure Vessels and Piping. 2005; 82(4): 244-257. eScholarID: 259555
+Fracture margins for growing cracks in weld repairs. 2005.  eScholarID: 259526
+Smith, Michael Christopher, and Roger J Dennis. Hartlepool and Heysham 1 Power Stations: Three-dimensional finite element residual stress simulation of a 218mm long offset repair in a 35mm spine weld mock-up. British Energy: 2005.  eScholarID: 259534
+Michael Smith. Constraint-based R6 assessments of NESC-4 uniaxial beam tests. British Energy Report E/REP/BDBB/0038/GEN/03, Revision 000: 2004.  eScholarID: ma798
+A Warren, Michael Smith. ENPOWER Task 7.5: Three-dimensional SYSWELD finite element simulation of an autogenous weld applied to a beam-type fracture specimen. British Energy Report E/REP/BDBB/0047/GEN/04, Revision 000: 2004.  eScholarID: ma847
+K M Lynch, Michael Smith. ENPOWER Task 7.5: Two-dimensional ABAQUS finite element simulation of an autogenous weld applied to a beam-type fracture specimen. British Energy Report E/REP/BDBB/0048/GEN/04, Revision 000: 2004.  eScholarID: ma848
+Michael Smith. Hartlepool and Heysham 1 Power Stations: The effect of material hardening model on finite element predictions of residual stress and creep damage in 316H welds. British Energy Report E/REP/BDBB/0058/AGR/04, Revision 000: 2004.  eScholarID: ma880
+3-Dimensional Repair Weld Simulations - Bead Sequencing Studies. 2004.  eScholarID: 259508
+Smith, Michael Christopher. Constraint-based R6 assessments of NESC-4 uniaxial beam tests. British Energy: 2004.  eScholarID: 259515
+Smith, Michael Christopher, and A Warren. ENPOWER Task 7.5: Three-dimensional SYSWELD finite element simulation of an autogenous weld applied to a beam-type fracture specimen. British Energy: 2004.  eScholarID: 259518
+Smith, Michael Christopher, and Kevin M Lynch. ENPOWER Task 7.5: Two-dimensional ABAQUS finite element simulation of an autogenous weld applied to a beam-type fracture specimen. British Energy: 2004.  eScholarID: 259519
+Smith, Michael Christopher. Hartlepool and Heysham 1 Power Stations: The effect of material hardening model on finite element predictions of residual stress and creep damage in 316H welds. British Energy: 2004.  eScholarID: 259531
+Protocol for finite element simulations of the NET single-bead-on-plate test specimen, revision 6. 2004.  eScholarID: 259545
+Michael Smith. ENPOWER Work Package 2, Task 2.3 - Design of a beam-type fracture specimen containing a residual stress field. British Energy Report E/REP/BDBB/0031/GEN/03, Revision 000: 2003.  eScholarID: ma849
+Michael Smith, P J Bouchard. Hartlepool and Heysham 1 Power Stations: 35mm boiler spine weld repair residual stress measurements and assessment of end effects. British Energy Report E/REP/BDBB/0011/AGR/03, Revision 000: 2003.  eScholarID: ma878
+C D Elcoate, Michael Smith, P J Bouchard. Hartlepool and Heysham 1 power stations: 3-dimensional finite element residual stress and creep damage simulations of repairs in 35mm thick Esshete 1250 boiler spine welds. British Energy Report E/REP/BDBB/0010/AGR/03, Revision 001: 2003.  eScholarID: ma879
+Bouchard, P J, and Michael Christopher Smith. Hartlepool and Heysham 1 Power Stations: 35mm boiler spine weld repair residual stress measurements and assessment of end effects. British Energy: 2003.  eScholarID: 259527
+Cardamone, David, Francois Reverdiau, David Smith, and Michael Christopher Smith. ENPOWER Work Package 6, Manufacture and testing of samples and realistic nuclear components - partial report - Part 3 - A533 GRB CL2 mechanical tests. ENPOWER: 2003.  eScholarID: 259521
+Elcoate, Colin D, Roger J  Dennis, P J  Bouchard, and Michael Christopher  Smith. 3-Dimensional Repair Weld Simulations. OM Communications Ltd: 2003: 207-215. eScholarID: 259509
+Elcoate, Colin D, P J  Bouchard, and Michael Christopher  Smith. 3-Dimensional Repair Weld Simulations - Bead on Plate Comparisons. 2003:  eScholarID: 259510
+Smith, Michael Christopher. ENPOWER Work Package 2, Task 2.2 - Material Properties for preliminary A533B welding simulations. British Energy: 2003.  eScholarID: 259522
+Smith, Michael Christopher. ENPOWER Work Package 2, Task 2.3 - Design of a beam-type fracture specimen containing a residual stress field. British Energy: 2003.  eScholarID: 259523
+Smith, Michael Christopher, P J Bouchard, and Colin D Elcoate. Hartlepool and Heysham 1 power stations: 3-dimensional finite element residual stress and creep damage simulations of repairs in 35mm thick Esshete 1250 boiler spine welds. British Energy: 2003.  eScholarID: 259528
+Smith, M C. 316 Girth Weld with off-set Repair for British Energy. Mitsui Babcock: 2002.  eScholarID: 259562
+Smith, M C. A comparison of R6-Code SIF solutions for defects in cylinders with other solutions. British Energy: 2002.  eScholarID: 259511
+Smith, M C. Bead on Plate Trials for Esshete MMA electrodes. Mitsui Babcock: 2002.  eScholarID: 259560
+Smith, M C. Borland Test Specimens for British Energy. Mitsui Babcock: 2002.  eScholarID: 259564
+Smith, M C. Esshete 1250 Weld for British Energy. Mitsui Babcock: 2002.  eScholarID: 259576
+Smith, M C. Esshete 1250 Weld for Keith Abbott at British Energy. Mitsui Babcock: 2002.  eScholarID: 259577
+Smith, M C. Esshete 1250 Welds for British Energy. Mitsui Babcock: 2002.  eScholarID: 259581
+Code based failure avoidance assessments of the NESC-1 large scale pressurised thermal shock experiment. 2002.  eScholarID: 259514
+Michael Smith. A review of the NESC-1 project. British Energy Report E/REP/ATEC/0001/GEN/01, Revision 000: 2001.  eScholarID: ma731
+Michael Smith. A review of the NESC-2 project. British Energy Report E/REP/ATEC/0030/GEN/01, Revision 000: 2001.  eScholarID: ma732
+Michael Smith. Post-test structural analyses of NESC-2 tests NP1 and NP2. British Energy Report E/REP/ATEC/0032/GEN/01, Revision 000: 2001.  eScholarID: ma965
+Progess on local approach modelling of cleavage and ductile crack growth in the NESC spinning cylinder test. 2001.  eScholarID: 259578
+Smith, Michael Christopher. A review of the NESC-2 project. British Energy: 2001.  eScholarID: 259558
+Smith, Michael Christopher. Post-test structural analyses of NESC-2 tests NP1 and NP2. British Energy: 2001.  eScholarID: 259580
+R6 assessment of Mode II fracture data for a ferritic steel. 2001.  eScholarID: 259586
+Michael Smith. R6 Appendix 4: a review of the SINTAP V-factor approach using previously published work. British Energy Report EPD/GEN/REP/0498/99: 2000.  eScholarID: ma975
+Smith, M C. R6 Appendix 4: a review of the SINTAP V-factor approach using previously published work. British Energy: 2000.  eScholarID: 259585
+M R Goldthorpe, Michael Smith. R6 Appendix 4 validation: the effect of plasticity on fracture for combinations of yield level residual and thermal stresses. British Energy Report EPD/GEN/REP/0393/98: 1999.  eScholarID: ma973
+M R Goldthorpe, Michael Smith. R6 Appendix 4 validation: treatment of residual and thermal stresses in defect assessments. British Energy Report EPD/GEN/REP/0493/99: 1999.  eScholarID: ma974
+Goldthorpe, Martin R, and Michael Christopher Smith. R6 Appendix 4 validation: the effect of plasticity on fracture for combinations of yield level residual and thermal stresses. British Energy: 1999.  eScholarID: 259582
+Goldthorpe, Martin R, and M C Smith. R6 Appendix 4 validation: treatment of residual and thermal stresses in defect assessments. British Energy: 1999.  eScholarID: 259587
+Michael Smith. Boiler and reactor internals component life assessment procedure. British Energy Report EPD/DNB/REP/0037/96: 1998.  eScholarID: ma767
+Michael Smith. Dungeness 'B' Power Station: a review of past operation for reactor 22 in support of the 1998 component life assessment. British Energy Report EPD/DNB/REP/0373/98: 1998.  eScholarID: ma836
+Michael Smith. Dungeness 'B' Power Station: a review of stresses and defect sensitivity for triform tees in the cold reheat and cold dump steam systems. British Energy Report EPD/DNB/REP/0368/98: 1998.  eScholarID: ma837
+Michael Smith. Dungeness 'B' Power Station: component life assessment of the reactor 21 LARC set from commissioning to July 1997. British Energy Report EPD/DNB/REP/0304/97: 1998.  eScholarID: ma839
+Michael Smith. Dungeness 'B' Power Station: component life assessment of the reactor 22 LARC set from commissioning to January 1998. British Energy Report EPD/DNB/REP/0372/98: 1998.  eScholarID: ma840
+Smith, M C. Boiler and reactor internals component life assessment procedure. British Energy: 1998.  eScholarID: 259559
+Smith, M C. Dungeness 'B' Power Station: Review of finite element analyses of reinforced cold reheat and cold dump steam tees. British Energy: 1998.  eScholarID: 259574
+Smith, M C. Dungeness 'B' Power Station: a review of past operation for reactor 22 in support of the 1998 component life assessment. British Energy: 1998.  eScholarID: 259565
+Smith, M C. Dungeness 'B' Power Station: a review of stresses and defect sensitivity for triform tees in the cold reheat and cold dump steam systems. British Energy: 1998.  eScholarID: 259566
+Smith, M C. Dungeness 'B' Power Station: component life assessment of the reactor 21 LARC set from commissioning to July 1997. British Energy: 1998.  eScholarID: 259570
+Smith, M C. Dungeness 'B' Power Station: component life assessment of the reactor 22 LARC set from commissioning to January 1998. 1998.  eScholarID: 259575
+A comparison of different failure assessment methodologies applied to the NESC-1 test. 1998.  eScholarID: 259563
+Michael Smith. Dungeness 'B' Power Station: A review of past operation for reactor 21 in support of the 1997 component life assessment. British Energy Report EPD/DNB/REP/0305/97: 1997.  eScholarID: ma835
+Michael Smith. Dungeness 'B' Power Station: a review of the component life assessment of the diagrid, core restraint cylinder and dome materials access penetration cover plate bolts. British Energy Report EPD/DNB/REP/0272/97: 1997.  eScholarID: ma838
+Michael Smith. Dungeness 'B' Power Station: re-calculation of fatigue damage for component life assessment using the POC method. British Energy Report EPD/DNB/REP/0296/97: 1997.  eScholarID: ma841
+Michael Smith, P J Bouchard. Sizewell 'B' Power Station: acceptance criteria for ISI minimum thickness measurements of piping welds. British Energy Report EPD/SXB/EAN/0131/97: 1997.  eScholarID: ma1009
+Bouchard, P J, and M C Smith. Sizewell 'B' Power Station: acceptance criteria for ISI minimum thickness measurements of piping welds. British Energy: 1997.  eScholarID: 259589
+Smith, M C. Dungeness 'B' Power Station: A review of past operation for reactor 21 in support of the 1997 component life assessment. British Energy: 1997.  eScholarID: 259567
+Smith, M C. Dungeness 'B' Power Station: R5 assessment of LARC 4, the pressure cylinder to diagrid weld. British Energy: 1997.  eScholarID: 259571
+Smith, M C. Dungeness 'B' Power Station: R5 assessment of LARC 43, the PCPV roof man access insulation drum. British Energy: 1997.  eScholarID: 259572
+Smith, M C. Dungeness 'B' Power Station: a review of the component life assessment of the diagrid, core restraint cylcinder and dome materials access penetration cover plate bolts. British Energy: 1997.  eScholarID: 259568
+Smith, M C. Dungeness 'B' Power Station: a review of the fatigue endurance curves used for CLA of insulation components. British Energy: 1997.  eScholarID: 259569
+Smith, M C. Dungeness 'B' Power Station: re-calculation of fatigue damage for component life assessment using the POC method. British Energy: 1997.  eScholarID: 259573
+Smith, M C. Review of Hartlepool Heysham 1 Spine Assemblies: Appendix 4 - Babcock and Wilcox Weld Procedures for the Main Spine Butt Welds. NNC: 1997.  eScholarID: 259584
+Michael Smith. Sizewell 'B' Power Station: fracture assessment of accumulator safety injection system pipework for in-service assessment. Nuclear Electric Report TEL/REP/0419/94: 1995.  eScholarID: ma1013
+Michael Smith. Sizewell 'B' Power Station: Sensitivity studies on underclad defects in the RPV core shell region. Nuclear Electric Report: 1994.  eScholarID: ma1016
+A E Truelove, D M Morrison, Michael Smith. Sizewell 'B' Power Station: an assessment of the effect of cladding on a fully extended axial defect in the RPV core shell region. Nuclear Electric Report TIGA/REP/0035/93: 1994.  eScholarID: ma1010
+D M Morrison, Michael Smith. Sizewell 'B' Power Station: an assessment of the effect of cladding on a semi-circular axial defect in the RPV core shell region. Nuclear Electric Report TIGA/REP/0012/94: 1994.  eScholarID: ma1011
+Michael Smith. Sizewell 'B' Power Station: fracture assessment of residual heat removal system delivery lines inside containment for in-service inspection. Nuclear Electric Report TEL/REP/0214/94: 1994.  eScholarID: ma1014
+Michael Smith. Sizewell 'B' Power Station: fracture assessment of residual heat removal system suction lines inside containment for in-service inspections. Nuclear Electric Report TEL/REP/0110/94: 1994.  eScholarID: ma1015
+Michael Smith. Sizewell 'B' Power Station: structural integrity assessment of 25 May 1994 cold over-pressurisation event for the steam generator. Nuclear Electric Report TEL/MEM/0466/94: 1994.  eScholarID: ma1018
+Michael Smith. Sizewell 'B': stress analysis of the RPV outlet nozzle safe end transition weld and pipe weld regions. Nuclear Electric Report TIGA/REP/0001/93: 1993.  eScholarID: ma1019
+A A Anderson, J Catlin, Michael Smith. Sizewell 'B' Power Station: Dynamic analysis of a main steam line break in the mechanical annex. Nuclear Electric Report TD/SE/REP/0011: 1992.  eScholarID: ma1012
+A E Truelove, K M Lynch, Michael Smith. Sizewell 'B' Power Station: a structural integrity assessment of defects buried under the cladding in the RPV core shell region. Nuclear Electric Report TIGA/REP/0003/93: 1992.  eScholarID: ma1008
+A E Truelove, Michael Smith. Sizewell 'B' Power Station: steam generator channel head fracture and fatigue analyses covering all design basis transients. Nuclear Electric Report TD/SID/REP/0064, Issue 3: 1992.  eScholarID: ma1017
+Truelove, A E, M C Smith, and Kevin M Lynch. Sizewell 'B' Power Station: a structural integrity assessment of defects buried under the cladding in the RPV core shell region. Nuclear Electric: 1992.  eScholarID: 259588
+K B Elliot, Michael Smith. Sizewell 'B' Power Station: Steam generator channel head stress analyses covering all design basis transients. Nuclear Electric Report TD/SID/REP/0063: 1990.  eScholarID: ma1007
+Smith, M C. Method for constant amplitude strain controlled fatigue testing. British Standards Institute: 1990.  eScholarID: 259579
+Michael Smith, R A Smith. Toward an understanding of Mode II fatigue crack growth. ATW - International Journal for Nuclear Power. 1988; 1(0): 260-280. eScholarID: ma550
+Michael Smith, R A Smith. The formation of spherical wear debris in Mode II fatigue cracks. Wear. 1982; 76(0): 105-128. eScholarID: ma510
+Michael Smith, R A Smith. The formation of spherical wear debris in Mode II fatigue cracks. Wear. 1982; (0):  eScholarID: ma511
+

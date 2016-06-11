@@ -1,0 +1,19 @@
+name  role  phone  location  email
+Mr Alex Skillen  Extended Project Post (res Assoc)  0161-3063730  George Begg Building  alex.skillen@manchester.ac.uk  
+
+BIOGRAPHY: 
+
+
+RESEARCH: 
+Embedded LES
+Buoyancy driven flows
+
+PUBLICATION: 
+A Skillen, S Lind, PK Stansby, BD Rogers. Incompressible Smoothed Particle Hydrodynamics (SPH) with reduced temporal noise and generalised Fickian smoothing applied to body-water slam and efficient wave-body interaction. Computer Methods in Applied Mechanics and Engineering. 2013; 265(1): 163-173. eScholarID: 207731 | DOI: http://dx.doi.org/10.1016/j.cma.2013.05.017
+Skillen A, Revell A, Favier J, Pinelli A, Piomelli U. Investigation of wing stall delay effect due to an undulating leading edge: An LES study. 2013: -. eScholarID: 207703
+A Skillen, A Revell, J Favier, A Pinelli, U Piomelli. LES Study into the Flow Physics of an Undulating Leading-Edged Wing. 2013: -. eScholarID: 207730
+Alex Skillen, Steven Lind, Benedict D. Rogers, Peter K. Stansby. A diffusion based shifting algorithm for incompressible smoothed particle hydrodynamics: Validation with cases involving slamming bodies and cylinder exit. 2012: -. eScholarID: 162190
+Craft T J, Iacovides H, Skillen A. A new overset grid algorithm applied to the simulation of flows involving complex geometries. 2012: -. eScholarID: 170696
+A Skillen, A Revell, H Iacovides, W Wu. Numerical prediction of local hot-spot phenomena in transformer windings. Applied Thermal Engineering. 2012 April; 36: 96-105. eScholarID: 166341 | DOI: 10.1016/j.applthermaleng.2011.11.054
+Skillen A, Iacovides H. Multi-jet impingment cooling on a concave surface, under stationary and rotating conditions. 2007: -. eScholarID: 208221
+

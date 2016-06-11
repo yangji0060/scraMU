@@ -1,0 +1,46 @@
+name  role  phone  location  email
+Dr Mirjam Roeder  Research Associate  0161-2754344  Pariser Building  mirjam.roeder@manchester.ac.uk  
+
+BIOGRAPHY: 
+Mirjam Roeder is a researcher at the Tyndall Centre for Climate Change Research at The University of Manchester. Her research interests focus on climate change impacts, adaptation and mitigation options in the fields of agriculture, bioenergy and food systems, implications of land use change, as well as food/livelihood security and sustainability. Currently she is working on the projects Carbon uncertainties in bioenergy supply chains and Energy from Rice Straw of the EPSRC funded SUPERGEN Bioenergy Hub. Latter is in collaboration with the International Rice Research Institute (IRRI) in the Philippines. In her research Mirjam strongly follows interdisciplinary and whole systems approaches and has a strong expertise in life cycle assessment.
+Mirjam holds a degree in agricultural sciences from Humboldt University, Berlin. In her PhD research at Humboldt University, she examined meal security in urban areas in Central Sudan using a cultural ecological approach.
+In the past Mirjam worked in Hamburg and Berlin as a project manager and consultant in advertising and PR. Her customers were internationally leading companies of the agro-chemistry and logistics sectors.
+
+RESEARCH: 
+climate change
+bioenergy
+food-fuel interfaces
+land use change
+food systems
+agriculture and agro-sociology
+human ecology
+life cycle assessment
+whole systems approach
+gender studies
+
+PUBLICATION: 
+Röder M, Whittaker C, Thornley P. How certain are greenhouse gas reductions from bioenergy? Life cycle assessment and uncertainty analysis of wood pellet-to-electricity supply chains from forest residues. Biomass & Bioenergy. 2015 August; 79(August 2015): 50-63. eScholarID: 261653 | DOI: 10.1016/j.biombioe.2015.03.030
+Air/oxy biomass combustion with carbon capture and storage. 2015.  eScholarID: 270558
+Energy balance analysis of Rice straw for anaerobic digestion. 2015.  eScholarID: 270557
+Purkus A, Röder M, Gawel E, Thrän D, Thornley P. Handling uncertainty in bioenergy policy design – A case study analysis of UK and German bioelectricity policy instruments. Biomass and Bioenergy. 2015 August; 79(August 2015): 64-79. eScholarID: 263082 | DOI: http://dx.doi.org/10.1016/j.biombioe.2015.03.029
+Stakeholder perceptions of land use for anaerobic digestion, a case study from the United Kingdom. 2015.  eScholarID: 270556
+Mirjam Röder, Patricia Thornley, Carly Whittaker. How certain are greenhouse gas reductions from bioenergy? Life cycle assessment and uncertainty analysis of a forest residues-to-electricity supply chain. 2014: -. eScholarID: 232218
+Mirjam Roeder, Patricia Thornley. How certain are greenhouse gas reductions from bioenergy? Life cycle assessment and uncertainty analysis of a forest residues-to-electricity supply... How certain are greenhouse gas reductions from bioenergy? Life cycle assessment and uncertainty analysis of a forest residues-to-electricity supply... 2014:  eScholarID: ma1407
+Alice Bows-Larkin, C Gough, Carly McLachlan, Laura O'keefe, Mirjam Roeder, Patricia Thornley, Ruth Wood, Sarah Mander. How little or how much climate change? Facilitating stakeholder thinking on food system futures. How little or how much climate change? Facilitating stakeholder thinking on food system futures. 2014:  eScholarID: ma1232
+Alice Bows-Larkin, Carly McLachlan, Sarah Mander, Ruth Wood, Mirjam Roder, Patricia Thornley, Elena Dawkins, Clair Gough, Laura O'Keefe, Maria Sharmina. Importance of non-CO2 emissions in carbon management. Carbon Management. 2014 August; 5(2): 193-210. eScholarID: 231388 | DOI: 10.1080/17583004.2014.913859
+Röder M, Thornley P, Campbell G, Bows-Larkin A. Emissions associated with meeting the future global wheat demand: A case study of UK production under climate change constraints. Environmental Science & Policy. 2014 March; 39(0): 13-24. eScholarID: 220502 | DOI: http://dx.doi.org/10.1016/j.envsci.2014.02.002
+Röder M. Ernährungsgewohnheiten im Sudan und ihr Wandel. Mahlzeitenpolitik, Zur Kulturökologie von Ernährung und Gender.  Edition Humanökologie. München, oekom.2014:  eScholarID: 237993
+How certain are greenhouse gas reductions from bioenergy? Life cycle assessment and uncertainty analysis of a forest residues-to-electricity supply chain. 2014.  eScholarID: 221496
+Anderson K L, Broderick J, Gilbert P, Kuriakose J, Roeder M, Bows A, Le Quere C, Anger-Kraavi A. Submission to EAC Inquiry: Progress on carbon budgets. 2013.  eScholarID: 202339
+Gilbert, Paul J, Mirjam Röder, and Patricia E Thornley. Can the UK afford (not) to produce chemicals in 2050?. 2013 June.  eScholarID: 202343
+Röder, M., Thornley, P., Campbell, G., Bows, A. Adaptation and mitigation of wheat production in the UK to climate change. 2012: -. eScholarID: 171300
+Thornley, P., Bows, A., Röder, M. Combining adaptation and mitigation in the agricultural sector. 2012: -. eScholarID: 202334
+Bows, A., Dawkins, E., Gough, C., Mander, S., McLachlan, C., Röder, M., Thom, L., Thornley, P. & Wood, R. What’s Cooking? Adaptation & Mitigation in the UK Food System. Sustainable Consumption Institute at the University of Manchester: 2012 July.  eScholarID: 171304
+Röder, M., Thornley, P., Campbell, G., Gilbert, P. Adaptation strategies for a sustainable global wheat production. -. eScholarID: 171292
+Elena Dawkins, Ruth Wood, Alice Bows, Mirjam Röder, Paul Gilbert, Conor Walsh. Submission to Energy and Climate Change Committee inquiry into consumption-based emissions reporting. 2011.  eScholarID: 202337
+Mirjam Röder, Alice Bows, Patricia Thornley, Carly McLachlan, Leonie Dendler. Submission to the Environmental Audit Committee Inquiry: Evidence for sustainable food. 2011 March.  eScholarID: 202340
+Röder, M., Thornley, P., Campbell, G. Sustainable global wheat supply scenarios under future climate change impacts. 1st International Conference on Revisiting the Socio-Political and Technological Dimensions of Climate Change. University of Central Lancashire: 2011: 157-170. eScholarID: 171295
+Alice Bows-Larkin, Carly McLachlan, E Dawkins, J Barrett, K Scott, Mirjam Roeder, Ruth Wood, Sarah Mander. The development of scenarios to examine the role of technology change and consumers in delivering cumulative emission reductions and adapting to clima. The development of scenarios to examine the role of technology change and consumers in delivering cumulative emission reductions and adapting to clima. 2011: -. eScholarID: ma1233
+Mirjam Röder. A Cultural Ecological Approach for Meal Security A Case Study of the Dynamics of the Food Habits in El Obeid, Sudan. Landwirtschaftlich-Gärtnerischen Fakultät, Humboldt-Universität zu Berlin:2008.  eScholarID: 128387
+Mirjam Roeder. Food Security, Poverty Reduction and Gender Changes of Food Habits in Sudan. Humboldt University Berlin: 2004: -. eScholarID: 203172
+

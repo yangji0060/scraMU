@@ -1,0 +1,99 @@
+name  role  phone  location  email
+Dr Tianjian Ji  Senior Lecturer  0161-3064604  Pariser Building - C16  tianjian.ji@manchester.ac.uk  
+
+BIOGRAPHY: 
+Tianjian graduated in Civil Engineering and studied a three-year MSc course in Structural Mechanics. He worked at China Academy of Building Research then Harbin Institute of Technology in China before coming to England in 1986. Studied on tension structures at City University, worked as a Research Fellow on welding diffusion problems at Birmingham University, which led him to being awarded a PhD degree in 1991. He then worked as a consultant on structural dynamics at Building Research Establishment. Joined UMIST as a Lecturer in 1996 and was promoted to Senior Lecturer in 2002.
+Tianjian's specific area of technical expertise is in the field of structural vibration induced by human movements, such as dance floors and grandstands subjected to rhythmic crowd loading. His research includes structural dynamics, in particular, human-structure interaction and structural vibration induced by rhythmic crowd loads, structural concepts and finite element modelling of structural dynamic behaviour. He has studied experimentally and theoretically human loads generated from jumping, bouncing and walking, dynamic behaviour of floors and grandstands, and their responses to human loads. He has published over 100 articles in the above areas. He published a book, Seeing and Touching Structural Concepts, by Taylor and Francis in 2008. It demonstrates a combination of his teaching, research and practice relating to structural concepts (www.structuralconcepts.org). The book has been translated into Chinese and published by the Higher Education Press in China in 2009.
+In addition to research and teaching, he has actively taken consultancy work for helping to solve practical vibration problems. He led a team and took vibration measurement of the London Eye and frequency measurement of the Govan Stand of the Ibrox Stadium before and after its extension, and provided consultancy on vibration of the Wembley Stadium. The other technical consultancies include vibration of the Coventry Stand, vibration assessment of dance floors and human loading. He worked as a consultant for solicitors for providing and reviewing remedial schemes of dance floors with low natural frequencies.
+He received awards from the Institution of Structural Engineers, a Henry Adams Award Diploma in 1995, the Lancaster & Cheshire Branch Prize in 2009 and the Award for Excellence in Structural Engineering Education in 2014.
+
+RESEARCH: 
+Structural Engineering:-
+Human induced dynamic loads
+Structural vibration induced by human movements
+Numerical modelling of structural dynamic behaviour
+Improving FE models using dynamic measurements
+Structural Mechanics:-
+Human-structure interaction
+Relationships between structural dynamics and structural statics
+Applying structural concepts into design and analysis
+Other areas:-
+Biodynamic properties of a human whole-body
+Tai Chi for improving balance in older people
+
+PUBLICATION: 
+Ding Zhou, Huixuan Han, Tianjian Ji, Xiuli Xu. Comparison of two models for human-structure interaction. Applied Mathematical Modelling.  eScholarID: 288326 | DOI: doi.org/10.1016/j.apm.2015.10.049
+Carlos Medel-Vera and Tianjian Ji. A stochastic ground motion accelerogram model for Northwest Europe. Soil Dynamics and Earthquake Engineering. 2016 March; 170-195. eScholarID: 295905 | DOI: http://dx.doi.org/10.1016/j.soildyn.2015.12.012
+Guerrero H, Ji T and Escobar JA. On the upgrading of hospitals in Mexico City by using buckling-restrained braces. -. eScholarID: 296684
+Tianjian Ji, Adrian J. Bell, Brian R. Ellis. Understanding and Using Structural Concepts. FL, USA: CRC Press:2016.  eScholarID: 293851
+Xiaoye Yu, Tianjian Ji, Tianxin Zheng. Relationships between internal forces, bracing patterns and lateral stiffnesses of a simple frame. Engineering Structures. 2015; 89: 147-161. eScholarID: 263801 | DOI: http://dx.doi.org/10.1016/j.engstruct.2015.01.030
+Medel-Vera C and Ji T. Seismic probabilistic risk assessment of nuclear power plants in the UK an alternative procedure. 2015: -. eScholarID: 293850
+Carlos Medel-Vera, Tianjian Ji. Seismic protection technology for nuclear power plants: a systematic review. Journal of Nuclear Science and Technology. 2015 May; 52(5): 607-632. eScholarID: 254095 | DOI: http://dx.doi.org/10.1080/00223131.2014.980347
+Guerrero H. Escobar J.A., Ji T. and Gómez, R. Shaking table tests on three building models with and without Buckling-Restrained Braces. -. eScholarID: 293849
+Tianjian Ji. Structural Engineering: a very short introduction -Book Review. The Structural Engineer. 2015 December; 93(12): 55-55. eScholarID: 293790
+Tianjian Ji and Adrian Bell. Innovative teaching and learning of structural concepts. 2014 September; 92(9): 10-14. eScholarID: 254125
+Dongwei Wang, Tianjian Ji, Qingwen Zhang and Ernesto Duarte. Presence of Resonance Frequencies in a Heavily Damped Two-Degree-of-Freedom System. Journal of Engineering Mechanics. 2014 February; 140(2): 406-415. eScholarID: 254098 | DOI: DOI:10.1061/(ASCE)EM.1943- 7889.0000668
+Tianjian Ji. Structural Dynamic Analysis with Generalized Damping Models: Analysis (Book Review). The Structural Engineer. 2014 October; 92(10): 59-59. eScholarID: 293848
+X Yu, Tianjian Ji. Searching efficient structural forms: evolutional structural optimisation vs structural concepts. In: Yazdani S, ed. Searching efficient structural forms: evolutional structural optimisation vs structural concepts. 2013: -. eScholarID: ma1131
+Shiu Hong Wong, Tianjian Ji, Youlian Hong, Siu Lun Fork, Lin Wang. Foot Forces Induced Through Tai Chi Push-Hand Exercises. Journal of Applied Biomechanics. 2013; 29: 395-404. eScholarID: 243421
+T Zheng, Tianjian Ji. An approximate method for determining the static deflection and natural frequency of a cracked beam. Journal of Sound and Vibration. 2012; (0):  eScholarID: ma066
+D Zhou, Tianjian Ji. Free vibration of rectangular plates with attached discrete sprung masses. Shock and Vibration. 2012; 19(1): 101-118. eScholarID: ma243
+T Zheng, Tianjian Ji. Vibration analysis of the foundation of a chipper machine. 2012 February.  eScholarID: ma1073
+Ji T, Zhou D, Zhang Q. Models of a standing human body in vertical vibration. Institution of Civil Engineers. Proceedings. Structures and Buildings. 2012 December; 166(7): 367-378. eScholarID: 242646 | DOI: 10.1680/stbu.12.00010
+Zhang, Q and Ji T. Optimum design parameters for a tuned-mass-damper to maximize the equivalent damping ratio. Advances in Vibration Engineering. 2012 February; 11(1): 85-98. eScholarID: 189466
+Zheng T, Ji T. An approximate method for determining the static deflection and natural frequency of a cracked beam. Journal of Sound and Vibration. 2012 May; 331(11): 2654-2670. eScholarID: 168901 | DOI: DOI: 10.1016/j.jsv.2012.01.021
+Ding Zhou, Tianjian Ji, Weiqing Liu. Dynamic Characteristics of a Standing Human on a SDOF Structure. Advances in Vibration Engineering. 2012; 11(1): 85-98. eScholarID: 243418
+Ding Zhou, Tianjian Ji. Free vibration of rectangular plates with attached discrete masses. Shock and Vibration. 2012 January; 19(1): 101-118. eScholarID: 243417 | DOI: DOI: 10.3233/SAV-2010-0618
+Tianxin Zheng, Tianjian Ji. Equivalent representations of beams with periodically variable cross-sections. Engineering Structures. 2011; 33(3): 706-719. eScholarID: 145824 | DOI: 10.1016/j.engstruct.2010.11.007
+Ding Zhou, Tianjian Ji. Free vibration of rectangular plates with attached discrete masses. Shock and Vibration. 2011 May;  eScholarID: 145822 | DOI: 10.3233/SAV-2010-0618
+Qingwen Zhang, Tianjian Ji. Stiffness and mass distributions of continuous models of a standing human body subject to vertical vibrations. Proceedings of the Thirteenth International Conference on Civil, Structural and Environmental Engineering Computing. Stirlingshire Scotland: Civil-Comp Press: 2011: -. eScholarID: 145830 | DOI: 10.4203/ccp.96.241
+Xiaoye Yu, Tianjian Ji. The effect of bracing pattern on the lateral stiffness of a simple frame. Proceedings of the Thirteenth International Conference on Civil, Structural and Environmental Engineering Computing. Scotland: Civil-Comp Press: 2011: -. eScholarID: 145833
+Endal Wahyuni, Tianjian Ji. Relationship between Static Stiffness and Modal Stiffness of Structures. The Journal for Technology and Science. 2010; 1-5. eScholarID: 242649
+Zheng T, Ji T, Ellis B. The significance of continuity in a multi-panel composite floor. Engineering Structures. 2010 January; 32(1): 184-194. eScholarID: 1e940 | DOI: 10.1016/j.engstruct.2009.09.005
+Adrian Bell, Tianjian Ji. Case Study: enhancing the elearning of structural concepts through using a website and Blackboard. Case Study: enhancing the elearning of structural concepts through using a website and Blackboard. 2009 May;  eScholarID: ma774
+Tianjian Ji. Conceptual remedial measures for reducing vibration of a nightclub floor. 2009 March.  eScholarID: ma797
+T Zheng, Tianjian Ji. Evaluating vibration reduction measures for a nightclub floor. 2009 June.  eScholarID: ma851
+T Zheng, Tianjian Ji. Modelling the dynamic response and evaluating vibration reduction measures for a nightclub floor. 2009 June.  eScholarID: ma947
+Duarte E, Ji T. Action of individual bouncing on structures. Journal of Structural Engineering. 2009 July; 135(7): 818-827. eScholarID: 1e856 | DOI: 10.1061/(ASCE)0733-9445(2009)135:7(818)
+Tianjian Ji, X Yu. Design for smaller internal forces and re-analysis of the Rayleigh Arena. Design for smaller internal forces and re-analysis of the Rayleigh Arena. 2008: 1-6. eScholarID: ma1130
+Ji, Tianjian, and Adrian  Bell. Enhancing the teaching and learning of structural concepts through experience seeing and touching. 2008:  eScholarID: 2e881
+Ji, Tianjian, and B R  Ellis. Human body models in structural vibration. The 7th European Conference on Structural Dynamics. 2008:  eScholarID: 2e880
+Zhou D, Ji T. Dynamic characteristics of a generalised suspension system. International Journal of Mechanical Sciences. 2008 January; 50(1): 30-42. eScholarID: 1e366 | DOI: 10.1016/j.ijmecsci.2007.05.007
+B R Ellis, T Zheng, Tianjian Ji, X Yu. Vibration measurement of the London Eye. 2007.  eScholarID: ma1075
+El-Dardiry E, Ji T. The effect of eccentricity on free vibration of composite floors. Computers and Structures. 2007 November; 85: 1647-1660. eScholarID: 1e181
+Zheng, T, and Tianjian  Ji. Equivalent flat plate models of composite floors. The Eleventh International Conference on Civil, Structural and Environmental Engineering Computing, 18-21 September 2007, St. Julians, Malta. 2007:  eScholarID: 2e592
+Zhou D, Ji T. Estimation of dynamic characteristics of a spring-mass-beam system. Journal of Shock & Vibration. 2007 August; 14: 271-282. eScholarID: 1e180
+E Duarte, Tianjian Ji. Frequency measurement of the Govan Stand of the Ibrox Stadium after its extension. 2006.  eScholarID: ma868
+E Duarte, Tianjian Ji. Frequency measurement of the Govan Stand of the Ibrox Stadium before its extension. 2006.  eScholarID: ma869
+Duarte, E, and Tianjian  Ji. Measurement of human-structure interaction in vertical and lateral directions: a standing body. ISMA International Conference on Noise and Vibration Engineering, Leuven, Belgium. 2006:  eScholarID: 2e1279
+El-Dardiry E, Ji T. Modelling of the dynamic behaviour of profiled composite floors. Engineering Structures. 2006; 28(4): 567-579. eScholarID: 1e1034 | DOI: 10.1016/j.engstruct.2005.09.012
+Ji, Tianjian. Qualitative comparison of human body models in a vibrating environment. The 41st United Kingdom Group Meeting on Human Response to Vibration, Farnborough, England. 2006:  eScholarID: 2e1280
+Ji, Tianjian. Sports stadia used for pop concerts. International Association for Shell and Spatial Structures Symposium: New Olympics, New Shell and Spatial Structures, Beijing, China. 2006:  eScholarID: 2e1281
+Zhou D, Ji T. Free vibration of rectangular plates with distributed spring-mass. International Journal of Solids and Structures. 2006; 43: 6502-6520. eScholarID: 1e182 | DOI: 10.1016/j.ijsolstr.2005.12.005
+Zhou D, Ji T. Dynamic characteristics of a beam and distributed spring-mass system. International Journal of Solids and Structures. 2006; 43(18): 5555-5569. eScholarID: 1e1033 | DOI: 10.1016/j.ijsolstr.2005.09.002
+Zhou D, Ji T. Free vibration of a rectangular plate with internal column supports. Acta Materialia. 2006; 297(1): 146-166. eScholarID: 1e1032 | DOI: 10.1016/j.jsv.2006.03.031
+JI T; D ZHOU. Dynamic characteristics of a beam and distributed-spring-mass system. International Journal of Solids and Structures. 2005 October; 43(18-19): 5555-5569. eScholarID: 1a9081 | DOI: 10.1016/j.ijsolstr.2005.09.002
+JI T; EL-DARDIRY, E. Modelling of the dynamic behaviour of profiled composite floors. Engineering Structures. 2005 October; 28(4): 567-579. eScholarID: 1a9082 | DOI: 10.1016/j.engstruct.2005.09.012
+Aitaterini P, Ji T. Frequency and velocity of walking people. The Structural Engineer. 2005; 83(3): 36-40. eScholarID: 1e1030
+Ernesto, E, and Tianjian  Ji. Bouncing loads induced by an individual. The 6th European Conference on Structural Dynamics, Paris. 2005:  eScholarID: 2e66
+Zhou D, Ji T. Hydroelastic vibration of circular bottom plate of a sealed circular cylindrical tank. Advances in Vibration Engineering. 2005; 4(3): 297-314. eScholarID: 1e1031
+Duarte, E, and Tianjian  Ji. Modelo de Carga para Individuos Ejecutando Cargas por Rebote. XVI Congreso Nacional de Ingeniería EstructuralSociedad Mexicana de Ingeniería Estructural, Acapulco, Gro., Mexico. 2004:  eScholarID: 2e1278
+Ellis B, Ji T. Loads generated by jumping crowds: numerical modelling. The Structural Engineer. 2004; 82(17): 35-40. eScholarID: 1e1029
+Ji, Tianjian, and B  Ellis. Structural vibration induced by human actions. Workshop on Structural Engineering Science and Technological Development, Harbin, China. 2004:  eScholarID: 2e63
+Ji, Tianjian, and D  Wang. The natural frequency of a seated person in structural vibration. The 39th United Kingdom Group Meeting on Human Response to Vibration. 2004:  eScholarID: 2e411
+Mandal P, Ji T. Modelling dynamic behavior of a cantilever grandstand. Proceedings of ICE, Structures and Buildings. 2004 June; 157(SB3): 173-184. eScholarID: 1e1027 | DOI: 10.1680/stbu.2004.157.3.173
+Wahyuni, E, and Tianjian  Ji. The dynamic characteristics of a concrete building from construction to completion. The Seventh International Conference on Computational Structures Technology, Lisbon Portugal. 2004:  eScholarID: 2e64
+Tianjian Ji. Dynamic Loading and Design of Structures. The Structural Engineer: 2003 March.  eScholarID: ma844
+Tianjian Ji. Some developments in structural dynamics. Some developments in structural dynamics. 2003 November;  eScholarID: ma1020
+Tianjian Ji. Understanding the interactions between people and structures, Vol.81, No.14, pp.12-13. Structural Engineer. 2003; 81(14): 13-Dec. eScholarID: ma562
+Ji T. Concepts for designing stiffer structures. The Structural Engineer. 2003; 81(21): 36-42. eScholarID: 1e1026
+Ji T, Ellis B, Bell A. Horizontal movements of frame structures induced by vertical loads. Proceedings of ICE, Structures and Buildings. 2003; 156(2): 141-150. eScholarID: 1e1025 | DOI: 10.1680/stbu.2003.156.2.141
+Ji T. Understanding the interactions between people and structures, Vol.81, No.14, pp.12-13. The Structural Engineer. 2003; 81: 12-13. eScholarID: 1e145
+E El-Dardiry, Tianjian Ji. Vibration assessment of a proposed floor at Synagogue-Cazenove Road, London. 2002.  eScholarID: ma1074
+El-Dardiry E, Wahyuni E, Ji T, Ellis B. Improving FE models of a long-span flat concrete floor using frequency measurements. Computers and Structures. 2002; 80: 2145-2156. eScholarID: 1e1024 | DOI: 10.1016/S0045-7949(02)00264-X
+Ellis, B R, and Tianjian  Ji. On the loads produced by crowds jumping on floors. The 5th European Conference on Structural Dynamics, Germany. 2002:  eScholarID: 2e62
+Tianjian Ji. Applied Structural and Mechanical Vibrations - Theory, Methods And Measuring Instrumentation. The Structural Engineer: 2001.  eScholarID: ma757
+Ginty D, Derwent J, Ji T. The frequency ranges of dance-type loads. Journal of Structural Engineering. 2001; 79(6): 27-31. eScholarID: 1e1022
+Ji T, Wang D. A supplementary condition for calculating periodical vibration. Journal of Shock & Vibration. 2001; 241(5): 920-924. eScholarID: 1e1023 | DOI: 10.1006/jsvi.2000.3318
+Ji T. Vibrations, Dynamics and Structural Systems. Engineering Structures. 2001; 23(8): 1043-10441. eScholarID: 1e1398 | DOI: 10.1016/S0141-0296(01)00023-2
+

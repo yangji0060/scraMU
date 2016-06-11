@@ -1,0 +1,22 @@
+name  role  phone  location  email
+Dr Adrian Harwood  Research Associate  0161-2754321  George Begg Building - C FLOOR -- FLAIR LAB  adrian.harwood@manchester.ac.uk  
+
+BIOGRAPHY: 
+Adrian completed his undergraduate master’s degree in Aerospace Engineering at the University of Manchester. During this time he spent 18 months working for Rolls-Royce throughout the UK on the design of safety-critical systems including thrust reverser control for corporate aviation gas turbine engines. Having been award the prestigious Alumni Research Impact Scholarship, completed his PhD in aero-acoustics in 2014, also at The University of Manchester, developing novel methods and models associated with the scattering of acoustic waves in general environments.
+Adrian currently works as a post-doctoral Research Associate in the school leading the development of a multi-grid, mass-parallel flow FSI solver in C++ based on the Lattice-Boltzmann Method. He is actively involved in other research projects focussed on the propagation of aircraft flyover noise and also is developing novel means of interacting with engineering simulation through mobile devices, depth-sensing cameras and image processing.
+Adrian is committed to encouraging others into the engineering profession and actively participates in widening participation and recruitment events for  MACE at a number of secondary schools in Greater Manchester. His hobbies include playing music in a local orchestra and producing the Eddie Engineer stop-motion Lego animation film series.
+
+RESEARCH: 
+
+PUBLICATION: 
+Harwood, A.R.G., Dupère, I.D.J. Numerical Evaluation of the Compact Acoustic Green's Function for Scattering Problems. Applied Mathematical Modelling. 2016 January; 40(2): 795-814. eScholarID: 276290 | DOI: 10.1016/j.apm.2015.10.039
+Filippone, A., Harwood, A. Flyover Noise Measurements and Predictions of Commercial Airplanes. Journal of Aircraft. 2015 October;  eScholarID: 276313 | DOI: 10.2514/1.C033370
+Harwood, Adrian R.G.; Dupère, Iain D.J. Acoustic Green's Functions using the 2D Sinc-Galerkin Method. 2014 June;  eScholarID: 237500
+Adrian R. G. Harwood, Iain D. J. Dupère. Acoustic Green's functions using the Sinc-Galerkin method. 2014: -. eScholarID: 241413
+Adrian R. G. Harwood, Iain D. J. Dupère. Calculation of Acoustic Green's Function using BEM and Dirichlet-to-Neumann-type boundary conditions. 2014: -. eScholarID: 241412
+Adrian R.G. Harwood. Numerical Evaluation of Acoustic Green's Functions. The University of Manchester:2014.  eScholarID: 294154
+Harwood, Adrian R. G. Calculation of Acoustic Green’s Functions using BEM and Dirichlet-to-Neumann-type boundary conditions. Applied Mathematical Modelling. 2014 December;  eScholarID: 244416 | DOI: doi:10.1016/j.apm.2014.12.027
+Harwood, Adrian R.G., Dupere, Iain, D.J. Numerical Evaluation of the Compact Green's Function for the Solution of Acoustic Flows. Proceedings of the Internoise 2012/ASME NCAD Meeting August 19-22, 2012, New York City, NY, USA. American Society of Mechanical Engineers: 2012: -. eScholarID: 167947
+Adrian R.G. Harwood. Aerospace Vehicle Simulation. The University of Manchester:2010.  eScholarID: 296616
+Alistair Mavin; Philip Wilkinson; Adrian Harwood; Mark Novak. Easy Approach to Requirements Syntax (EARS). Proceedings of Requirements Engineering Conference, 2009. RE '09. 17th IEEE International. IEEE: 2009: 317-322. eScholarID: 156062
+

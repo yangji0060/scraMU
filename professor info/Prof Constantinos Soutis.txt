@@ -1,0 +1,249 @@
+name  role  phone  location  email
+Prof Constantinos Soutis  Professor of Aerospace Engineering  0161-3068593  James Lighthill Building - E1  constantinos.soutis@manchester.ac.uk  
+
+BIOGRAPHY: 
+
+RESEARCH: 
+
+PUBLICATION: 
+Oni O, Capper M, Soutis C. Factors which may increase stresses at the pin-bone interface in external fixation: a finite element analysis study. African journal of medicine and medical sciences. 28(1-2): 13-5. eScholarID: 199293 | PMID: 12953980
+Li Z, Haigh A, Soutis C, Gibson A, Sloan R, Karimian N. Detection and evaluation of damage in aircraft composites using electromagnetically coupled spiral inductors. Composite Structures. 2016 January; 140: 252-261. eScholarID: 298777 | DOI: 10.1016/j.compstruct.2015.12.054
+Wang, Y., Soutis, C., Hajdaei, A. and Hogg, P. A finite element analysis of composite T-joints used in wind turbine blades. Plastics, Rubber and Composites. 2015; 44(3): 87-97. eScholarID: 291260
+Lewandowska, A.E., Soutis, C., Savage, L. and Eichhorn, S.J. Carbon fibres with ordered graphitic-like aggregate structures from a regenerated cellulose fibre precursor. Composites Science and Technology. 2015 September; 116(9): 50-57. eScholarID: 291240
+Pavlopoulou, S., Worden, K. and Soutis, C. Damage monitoring of external patch repairs with guided ultrasonic waves. Strain (Print). 2015; 51(4): 288-300. eScholarID: 291249 | DOI: 10.1111/str.12140
+Shi, Y., Pinna, C. and Soutis, C. Modelling impact damage in composite laminates: A simulation of intra- and inter-laminar cracking. Composite Structures. 2014; 114(1): 10-19. eScholarID: 291275
+Ata{\c{s}} A, Soutis C. Subcritical damage mechanisms of bolted joints in CFRP composite laminates. Composites Part B: Engineering. 2013;  eScholarID: 199308
+Caminero M, Lopez-Pedrosa M, Pinna C, Soutis C. Damage monitoring and analysis of composite laminates with an open hole and adhesively bonded repairs using digital image correlation. Composites Part B: Engineering. 2013;  eScholarID: 199310
+Kashtalyan M, Soutis C. Predicting residual stiffness of cracked composite laminates subjected to multi-axial inplane loading. Journal of Composite Materials. 2013;  eScholarID: 199307
+Maligno A, Soutis C, Silberschmidt V. An advanced numerical tool to study fatigue crack propagation in aluminum plates repaired with a composite patch. Engineering Fracture Mechanics. 2013;  eScholarID: 199315
+Pavlopoulou, S, K  Worden, and C  Soutis. Structural health monitoring and damage prognosis in composite repaired structures through the excitation of guided ultrasonic waves. SPIE Smart Structures and Materials+ Nondestructive Evaluation and Health Monitoring. 2013: 869504-869504. eScholarID: 199312
+Rajendran S, Hodzic A, Scelsi L, Hayes S, Soutis C, AlMa???adeed M, Kahraman R. Plastics recycling: insights into life cycle impact assessment methods. Plastics, Rubber and Composites. 2013; 42(1): 1-10. eScholarID: 199314
+Soutis, Constantinos, and Galal  Mohamed. Modelling the dynamic response of fibre metal laminates subjected to blast loading. ECF19. 2013:  eScholarID: 199313
+Costas Soutis, Y Shi. A finite element analysis of impact damage in composite laminates. RAeS Aeronautical Journal. Aeronautical Journal. 2012; 116(1186):  eScholarID: ma021
+Costas Soutis, S Pavlopoulou, WJ Staszewski. Evaluation of instantaneous characteristics of guided ultrasonic waves for structural quality and health monitoring. Structural Control and Health Monitoring. Structural Health Monitoring. 2012; 20(0):  eScholarID: ma204
+Shi, Y., Swait, T. and Soutis, C. Modelling damage evolution in composite laminates subjected to low velocity impact. Composite Structures. 2012 September; 94(9): 2902-2913. eScholarID: 180808 | DOI: 10.1016/j.compstruct.2012.03.039
+A Hodzic, Costas Soutis, G Mohamed. Multi-material Arbitrary-Lagrangian-Eulerian formulation for blast-induced fluid-structure interaction in fibre metal laminates. Structural Engineering & Mechanics. 2012; 50(9):  eScholarID: ma334
+Atas A, Mohamed G, Soutis C. Modelling delamination onset and growth in pin loaded composite laminates. Composites Science and Technology. 2012; 72(10): 1096-1101. eScholarID: 199327
+Ata{\c{s}} A, Mohamed G, Soutis C. Progressive failure analysis of bolted joints in composite laminates. Plastics, Rubber and Composites. 2012; 41(4-5): 4-5. eScholarID: 199332
+Beaumont P, Soutis C, Hodzic A. EDITORIAL The Implementation of Composite Materials in Engineering Structures where Total Safety is of the Essence. Applied Composite Materials. 2012; 19(5): 767-768. eScholarID: 199318
+Caminero M, Pavlopoulou S, Lopez-Pedrosa M, Nicolaisson B, Pinna C, Soutis C. Analysis of adhesively bonded repairs in composites: Damage detection and prognosis. Composite Structures. 2012;  eScholarID: 199321
+Giurgiutiu V, Soutis C. Enhanced Composites Integrity Through Structural Health Monitoring. Applied Composite Materials. 2012; 19(5): 813-829. eScholarID: 199319
+Jumahat A, Soutis C, Jones F, Hodzic A. Compressive behaviour of nanoclay modified aerospace grade epoxy polymer. Plastics, Rubber and Composites. 2012; 41(6): 225-232. eScholarID: 199325
+Jumahat A, Soutis C, Mahmud J, Ahmad N. Compressive Properties of Nanoclay/Epoxy Nanocomposites. Procedia Engineering. 2012; 41: 1607-1613. eScholarID: 199317
+Mohamed G, Soutis C, Hodzic A. Blast Resistance and Damage Modelling of Fibre Metal Laminates to Blast Loads. Applied Composite Materials. 2012; 19(3-4): 619-636. eScholarID: 199329
+Pavlopoulou S, Soutis C, Staszewski W. Cure monitoring through time-frequency analysis of guided ultrasonic waves. Plastics, Rubber and Composites. 2012; 41(4-5): 4-5. eScholarID: 199330
+Pavlopoulou S, Staszewski W, Soutis C. Evaluation of instantaneous characteristics of guided ultrasonic waves for structural quality and health monitoring. Structural Control and Health Monitoring. 2012;  eScholarID: 199328
+Pavlopoulou S, Soutis C, Staszewski W. Structural health monitoring of composite scarf repairs with guided waves. Key Engineering Materials. 2012; 518: 328-337. eScholarID: 199324
+Soutis C, Mohamed G, Hodzic A. Multimaterial Arbitrary-Lagrangian-Eulerian Formulation for Blast-Induced Fluid-Structure Interaction in Fiber-Metal Laminates. AIAA journal. 2012; 50(9): 1826-1833. eScholarID: 199320
+Soutis, C., Mohamed, G., and Hodzic, A. Modelling the structural response of GLARE panels to blast load. Composite Structures. 2011 December; 94(1): 267-276. eScholarID: 180805 | DOI: 10.1016/j.compstruct.2011.06.014
+Atas A, Soutis C. EFFECT OF THE CLAMPING TORQUE ON THE INTERLAMINAR CRACKING AROUND A BOLT HOLE IN A CFRP PLATE SUBJECTED TO INPLANE TENSILE LOADING. 2011;  eScholarID: 199345
+Ata{\c{s}} A, Soutis C, Arslan N. A qualitative comparison of stresses at aircraft bolted joint holes under initial clamping force. Procedia Engineering. 2011; 10: 3-8. eScholarID: 199334
+Beck A, Hodzic A, Soutis C, Wilson C. Influence of Implementation of Composite Materials in Civil Aircraft Industry on reduction of Environmental Pollution and Greenhouse Effect. IOP Conference Series: Materials Science and Engineering. 2011; 26(1): 012015. eScholarID: 199336
+Jumahat A, Soutis C, Hodzic A. A graphical method predicting the compressive strength of toughened unidirectional composite laminates. Applied Composite Materials. 2011; 18(1): 65-83. eScholarID: 199344
+Pavlopoulou, S, WJ  Staszewski, C  Soutis, and G  Manson. Analysis of instantaneous characteristics of guided ultrasonic waves in metallic structures with aluminium repair patches. SPIE Smart Structures and Materials+ Nondestructive Evaluation and Health Monitoring. 2011: 79842Y-79842Y. eScholarID: 199340
+Scelsi L, Hodzic A, Soutis C, Hayes S, Rajendran S, AlMa'adeed M, Kahraman R. A review on composite materials based on recycled thermoplastics and glass fibres. Plastics, Rubber and Composites. 2011; 40(1): 1-10. eScholarID: 199343
+Scelsi L, Bonner M, Hodzic A, Soutis C, Wilson C, Scaife R, Ridgway K. Potential emissions savings of lightweight composite aircraft components evaluated through life cycle assessment. Express Polymer Letters. 2011; 5(3): 209-217. eScholarID: 199346
+Soltani P, Keikhosravy M, Oskouei R, Soutis C. Studying the tensile behaviour of GLARE laminates: a finite element modelling approach. Applied Composite Materials. 2011; 18(4): 271-282. eScholarID: 199338
+Soutis C, Mohamed G, Hodzic A. Modelling the structural response of GLARE panels to blast load. Composite Structures. 2011; 94(1): 267-276. eScholarID: 199335
+Soutis C. ACM Special Issue: ICCM-17: Deformation and Fracture of Composites. Applied Composite Materials. 2011; 18(1): 1-1. eScholarID: 199342
+Soutis C, Kashtalyan M. Residual Stiffness of Cracked Cross-Ply Composite Laminates Under Multi-Axial In-plane Loading. Applied Composite Materials. 2011; 18(1): 31-43. eScholarID: 199341
+Wrenger B, Soutis C, von Glasow R, Krüger T, Bisgaard M, Silva E. UAVs for ABL research Report by WG. 2011;  eScholarID: 199337
+Jumahat, A., Soutis, C., Jones, F.R. and Hodzic, A. Fracture mechanisms and failure analysis of carbon fibre/toughened epoxy composites subjected to compressive loading. Composite Structures. 2010 January; 92(2): 295-305. eScholarID: 180802 | DOI: 10.1016/j.compstruct.2009.08.010
+Diamanti K, Soutis C. Structural health monitoring techniques for aircraft composite structures. Progress in Aerospace Sciences. 2010; 46(8): 342-352. eScholarID: 199347
+Giurgiutiu V, Soutis C. Guided wave methods for structural health monitoring. Encyclopedia of Aerospace Engineering. 2010;  eScholarID: 199355
+Jumahat A, Soutis C, Jones F, Hodzic A. Effect of silica nanoparticles on compressive properties of an epoxy polymer. Journal of materials science. 2010; 45(21): 5973-5983. eScholarID: 199348
+Jumahat A, Soutis C, Jones F, Hodzic A. Fracture mechanisms and failure analysis of carbon fibre/toughened epoxy composites subjected to compressive loading. Composite structures. 2010; 92(2): 295-305. eScholarID: 199350
+Jumahat A, Soutis C, Jones F, Hodzic A. Improved Compressive Properties of a Unidirectional CFRP Laminate Using Nanosilica Particles. Advanced Composites Letters. 2010; 19(6): 218. eScholarID: 199353
+Mohamed G, Soutis C, Hodzic A. A Fluid-Structure Interaction Model of Pressurised Composite Structures Subjected to Blast Loading. Advanced Composites Letters. 2010; 19(3): 113. eScholarID: 199354
+Special Issue on 10th Deformation \& Fracture of Composites Conference: Interfacial Interactions in Composites and Other Applications. Elsevier Limited:2010.  eScholarID: 199351
+Swait T, Whittle T, Soutis C, Jones F. Identification of interfacial and interphasal failure in composites of plasma polymer coated fibres. Composites Part A: Applied Science and Manufacturing. 2010; 41(9): 1047-1055. eScholarID: 199349
+Wisnom M, Hallett S, Soutis C. Scaling effects in notched composites. Journal of composite materials. 2010; 44(2): 195-210. eScholarID: 199352
+Oskouei R, Keikhosravy M, Soutis C. Estimating clamping pressure distribution and stiffness in aircraft bolted joints by finite-element analysis. Proceedings of the Institution of Mechanical Engineers, Part G: Journal of Aerospace Engineering. 2009; 223(7): 863-871. eScholarID: 199360
+Soutis C. Modelling open hole compressive strength of composite laminates tested in hot wet conditions. Plastics, Rubber and Composites. 2009; 38(2-4): 2-4. eScholarID: 199363
+Soutis C. Recent advances in building with composites. Plastics, Rubber and Composites. 2009; 38(9-10): 9-10. eScholarID: 199359
+Soutis, Constantinos, and Dimitris Saravanos. Preliminary Studies on Damage Tolerant Strategies for Composite Design and Health Monitoring. 2009.  eScholarID: 199361
+Velecela O, Soutis C. Crushing Morphology of Composite Sandwich Panels Under Edgewise Compression. Journal of composite materials. 2009; 43(9): 1035-1049. eScholarID: 199362
+Soutis, C. and Lee, J. Measuring the notched compressive strength of composite laminates: Specimen size effects. Composites Science and Technology. 2008; 68(12): 2359-2366. eScholarID: 180799 | DOI: 10.1016/j.compscitech.2007.09.003
+Edgren F, Soutis C, Asp L. Damage tolerance analysis of NCF composite sandwich panels. Composites Science and Technology. 2008; 68(13): 2635-2645. eScholarID: 199364
+FLETCHER H, HAYES S, JONES F, SOUTIS C. Deformation and Fracture of Composites: Analytical, numerical and experimental techniques. Composites science and technology. 2008; 68(12): 2301-2424. eScholarID: 199371
+Katerelos D, Kashtalyan M, Soutis C, Galiotis C. Matrix cracking in polymeric composites laminates: Modelling and experiments. Composites Science and Technology. 2008; 68(12): 2310-2317. eScholarID: 199369
+Lee J, Soutis C. Experimental Investigation on the Behaviour of CFRP Laminated Composites under Impact and Compression after Impact (CAI). EKC2008 Proceedings of the EU-Korea Conference on Science and Technology. Springer Berlin Heidelberg.2008:  eScholarID: 199372
+Lee J, Soutis C. Measuring the notched compressive strength of composite laminates: Specimen size effects. Composites Science and Technology. 2008; 68(12): 2359-2366. eScholarID: 199370
+Soutis C, Lee J. Scaling effects in notched carbon fibre/epoxy composites loaded in compression. Journal of materials science. 2008; 43(20): 6593-6598. eScholarID: 199365
+Swait T, Soutis C, Jones F. Optimisation of interfacial properties for tensile strength by plasma polymerisation. Composites Science and Technology. 2008; 68(12): 2302-2309. eScholarID: 199366
+Diamanti K, Soutis C, Hodgkinson J. Piezoelectric transducer arrangement for the inspection of large composite structures. Composites Part A: Applied Science and Manufacturing. 2007; 38(4): 1121-1130. eScholarID: 199381
+Jones B, Pecknold D, Hajali R, Akhras G, Li W, Johnson H, Louca L, Mouring S, Teng T, Liang C. CONSIDERATION OF THE STRENGTH AND STRUCTURAL CHARACTERISTICS OF FILAMENTARY COMPOSITE PIPE. Composite Structures. 2007; 79(1): 34-43. eScholarID: 199385
+Kashtalyan M, Soutis C. Stiffness and fracture analysis of laminated composites with off-axis ply matrix cracking. Composites Part A: Applied Science and Manufacturing. 2007; 38(4): 1262-1269. eScholarID: 199379
+Kashtalyan M, Soutis C. Stiffness and fracture analysis of laminated composites with off-axis ply matrix cracking. Composites Part A: Applied Science and Manufacturing. 2007; 38(4): 1262-1269. eScholarID: 199377
+Lee J, Soutis C. A study on the compressive strength of thick carbon fibre-epoxy laminates. Composites science and technology. 2007; 67(10): 2015-2026. eScholarID: 199378
+Lee J, Soutis C. A study on the compressive strength of thick carbon fibre-epoxy laminates. Composites science and technology. 2007; 67(10): 2015-2026. eScholarID: 199376
+Lee J, Soutis C, Kong C. Part 1-I General Sessions-Static Compressive Strength of Unidirectional Carbon Fibre-Epoxy Laminate. Key Engineering Materials. 2007; 334335: 357-360. eScholarID: 199384
+Lee J, Soutis C, Kong C. Static Compressive Strength of Unidirectional Carbon Fibre-Epoxy Laminate. Key Engineering Materials. 2007; 334: 357-360. eScholarID: 199382
+Shitta-Bey O, Carruthers J, Soutis C, Found M. The localized low-velocity impact response of aluminium honeycombs and sandwich panels for occupant head protection: experimental characterization and analytical modelling. International Journal of Crashworthiness. 2007; 12(5): 549-558. eScholarID: 199373
+Soutis C. A fibre microbuckling model for predicting the notched compressive strength of composite sandwich panels. Mechanics of Composite Materials. 2007; 43(1): 51-58. eScholarID: 199386
+Soutis C, Diamanti K. Impact Damage Detection in Composite Sandwich Structures by Low Frequency Lamb Waves. ICCES: International Conference on Computational \& Experimental Engineering and Sciences. 2007; 1(2): 49-54. eScholarID: 199383
+Velecela O, Found M, Soutis C. Crushing energy absorption of GFRP sandwich panels and corresponding monolithic laminates. Composites Part A: Applied Science and Manufacturing. 2007; 38(4): 1149-1158. eScholarID: 199380
+Velecela O, Soutis C. Prediction of crushing morphology of GRP composite sandwich panels under edgewise compression. Composites Part B: Engineering. 2007; 38(7): 914-923. eScholarID: 199374
+Guz I, Soutis C. Compressive strength of laminated composites: on application of the continuum fracture theory. Fracture and Damage of Composites. 2006; 8: 1-24. eScholarID: 200089
+Kashtalyan M, Soutis C. Modelling off-axis ply matrix cracking in continuous fibre-reinforced polymer matrix composite laminates. Journal of materials science. 2006; 41(20): 6789-6799. eScholarID: 200213
+Qiu Z, Yao X, Yuan J, Soutis C. Experimental research on strain monitoring in composite plates using embedded SMA wires. Smart materials and structures. 2006; 15(4): 1047. eScholarID: 200090
+Soutis C, Guz I. Fracture of layered composites by internal fibre instability: effect of interfacial adhesion. Aeronautical Journal. 2006; 110(1105): 185-195. eScholarID: 200097
+Soutis C. STRUCTURAL HEALTH MONITORING IN COMPOSITE MATERIALS USING EMBEDDED SHAPE MEMORY ALLOY (SMA) WIRE SENSORS. ?????????????????? (?????????). 2006; 3: 028. eScholarID: 200115
+Zixue Q, Xingtian Y, Soutis C. Structural health monitoring in composite materials using embedded shape memory alloy (SMA) wire sensors. ??????????????????. 2006; 19(3):  eScholarID: 200117
+Diamanti K, Soutis C, Hodgkinson J. Lamb waves for the non-destructive inspection of monolithic and sandwich composite beams. Composites Part A: Applied Science and Manufacturing. 2005; 36(2): 189-195. eScholarID: 200095
+Diamanti K, Soutis C, Hodgkinson J. Non-destructive inspection of sandwich and repaired composite laminated structures. Composites science and technology. 2005; 65(13): 2059-2067. eScholarID: 200106
+Johnson A, Beaumont P, Soutis C. Modelling impact damage in composite structural elements. Multiscale Modelling of Composite Materials and Systems. 2005;  eScholarID: 200100
+KONG C, PARK H, LEE J, SOUTIS C. ; Prediction of Compression-After-Impact (CAI) Strength of CFRP Laminated Composites. Fukugo Zairyo Shinpojiumu Koen Yoshishu. 2005; 30: 103-104. eScholarID: 200080
+Kashtalyan M, Soutis C. Analysis of composite laminates with intra-and interlaminar damage. Progress in Aerospace Sciences. 2005; 41(2): 152-173. eScholarID: 200082
+Keramidas D, Soutis M, Mavridis G, Papandreou E. Rectosigmoid ectasia associated with anorectal anomaly repair: experience with sigmoid anterior resection and endorectal pull-through. European journal of pediatric surgery : official journal of Austrian Association of Pediatric Surgery ... [et al] = Zeitschrift für Kinderchirurgie. 2005 August; 15(4): 268-72. eScholarID: 199303 | PMID: 16163593 | DOI: 10.1055/s-2005-865764
+Lee J, Soutis C. Prediction of impact-induced fibre damage in circular composite plates. Applied Composite Materials. 2005; 12(2): 109-131. eScholarID: 200108
+Lee J, Soutis C. Thickness effect on the compressive strength of T800/924C carbon fibre-epoxy laminates. Composites Part A: Applied Science and Manufacturing. 2005; 36(2): 213-227. eScholarID: 200119
+Lee J, Kong C, Soutis C. Modelling of low velocity impact damage in Laminated Composites. Journal of mechanical science and technology. 2005; 19(4): 947-957. eScholarID: 200103
+Soutis C. Carbon fiber reinforced plastics in aircraft construction. Materials Science and Engineering: A. 2005; 412(1): 171-176. eScholarID: 200081
+Soutis C. Fibre reinforced composites in aircraft construction. Progress in Aerospace Sciences. 2005; 41(2): 143-151. eScholarID: 200086
+Soutis C, Smith P, Cantwell W, Curtis P, Rudd C, Peijs T, Petrinic N, Hayes S, Summerscales J, Ghosh S. Dr Ivana Partridge on Manufacture and properties of Z-pinned composites Eighty delegates attended the meeting and 29 papers were presented orally and 13 papers were presented as posters, which proved to be an excellent technical and social. Composites: Part A. 2005; 36: 117. eScholarID: 200088
+Multi-scale modelling of composite material systems: the art of predictive damage modelling. Woodhead:2005.  eScholarID: 200104
+Diamanti K, Hodgkinson J, Soutis C. Detection of low-velocity impact damage in composite plates using Lamb waves. Structural Health Monitoring. 2004; 3(1): 33-41. eScholarID: 200091
+Keramidas D, Mavridis G, Soutis M, Passalidis A. Medical treatment of pulmonary hydatidosis: complications and surgical management. Pediatric surgery international. 2004 January; 19(12): 774-6. eScholarID: 199302 | PMID: 14714132 | DOI: 10.1007/s00383-003-1031-4
+Koundouros M, Falzon B, Soutis C, Lord S. Predicting the ultimate load of a CFRP wingbox. Composites Part A: Applied Science and Manufacturing. 2004; 35(7): 895-903. eScholarID: 200105
+Lee J, Kong C, Soutis C. Size Effect on the Compressive Strength of T300/924C Carbon Fiber-Epoxy Laminates in Considering Influence of an Anti-buckling Device. Composites Technologies for 2020: Proceedings of the Fourth Asian-Australasian Conference on Composite Materials (ACCM-4): University of Sydney, Australia, 6-9 July 2004. 2004; 83. eScholarID: 200111
+Soutis C, Kashtalyan M, Curtis P. Fracture Analysis of Local Delaminations Induced by Angle Ply Matrix Cracking in Continuous Fibre-Reinforced Composite Laminates. TECHNICAL PAPERS-SOCIETY OF MANUFACTURING ENGINEERS-ALL SERIES-. 2004;  eScholarID: 200092
+Angelidis N, Assaad J, Barsoum R, Boiler C, Borm G, Bourquin F, Brei D, Brennan M, Butera F, Carpi F. 1lif" s???. European Workshop on Smart Structures in Engineering and Technology: 21-23 May 2002, Presqu'{\^\i}le de Giens, France. 2003; 4763: 268. eScholarID: 200079
+Diamanti, K, JM  Hodgkinson, and Constantinos  Soutis. In-service health monitoring of composite structures using lamb waves. European Workshop on Smart Structures in Engineering and Technology. 2003: 173-179. eScholarID: 200096
+Flower H, Soutis C. Materials for airframes. Aeronautical Journal. 2003; 107(1072): 331-341. eScholarID: 200098
+Flower H, Soutis C. Metal alloys, carbon composites and what else will aircraft be made from?. Aeronautical Journal. 2003; 107(1072): 331-342. eScholarID: 200099
+SOUTIS C, VALDES S. DELAMINATION DETECTION IN LAMINATED COMPOSITES USING LAMB WAVES. Recent Advances in Composite Materials: In Honor of SA Paipetis. 2003; 109. eScholarID: 200087
+Soutis C, Kashtalyan M. Strain energy release rate for crack tip delaminations in angle-ply continuous fibre reinforced composite laminates. European Structural Integrity Society. 2003; 32: 455-463. eScholarID: 200113
+Soutis C, Hu F. Strength analysis of adhesively bonded repairs. Recent Advances in Structural Joints and Repairs for Composite Materials. Springer Netherlands.2003:  eScholarID: 200116
+Recent advances in structural joints and repairs for composite materials. Kluwer Academic Pub:2003.  eScholarID: 200112
+Curtis P, Soutis C, Zhuk Y, Guz I. Failure prediction of stringer stiffened composite panels with impact damage under uniaxial compression. ICAS 2002. 2002;  eScholarID: 200240
+Díaz Valdés S, Soutis C. Real-time nondestructive evaluation of fiber composite laminates using low-frequency Lamb waves. The Journal of the Acoustical Society of America. 2002 May; 111(5 Pt 1): 2026-33. eScholarID: 199298 | PMID: 12051422
+Giannopoulos G, Markopoulos Y, Kostopoulos V, Soutis C. Repair of Concrete Elements Using CFRP: Parametrical Study and Evaluation of Dynamic Properties. Science and Engineering of Composite Materials. 2002; 10(5): 313-332. eScholarID: 200244
+Kashtalyan M, Soutis C. Mechanisms of internal damage and their effect on the behavior and properties of cross-ply composite laminates. International applied mechanics. 2002; 38(6): 641-657. eScholarID: 200093
+Kashtalyan M, Soutis C. info: doi/10.1023/A: 1020456726805 2012-12-28 JJ: 10.1007 J: 10.1007: 2728 International Applied Mechanics10637095386M. Yu. KashtalyanC. Soutis200264165745586910. 1023/A: 102045672680520030317062724http://link. springer. com/10.1023/A: 1020456726805. International Applied Mechanics. 2002; 38: 641-657. eScholarID: 200235
+Kashtalyan M, Soutis C. Analysis of local delaminations in composite laminates with angle-ply matrix cracks. International journal of solids and structures. 2002; 39(6): 1515-1537. eScholarID: 200083
+Kessler S, Spearing S, Soutis C. Structural health monitoring in composite materials using Lamb wave methods. Smart Materials and Structures. 2002; 11: 269-278. eScholarID: 200120
+Kong C, Bang C, Lee J, Soutis C. ; Two Dimensional Size Effect on the Compressive Strength of Composite Plates in Considering Influence of an Anti-buckling Device. Fukugo Zairyo Shinpojiumu Koen Yoshishu. 2002; 27: 31-33. eScholarID: 200224
+Kong C, Sugiyama Y, Lee J, Soutis C. Full scale structural experimental investigation of an E-glass/epoxy composite wind turbine blade. Advanced Composites Letters. 2002; 11(5): 207-220. eScholarID: 200234
+Kong C, Jeong J, Yo W, Sugiyama Y, Soutis C. Investigation of vibration characteristics of carbon/epoxy propeller shaft for vehicle. Science and Engineering of Composite Materials. 2002; 10(1): 11-18. eScholarID: 200238
+Kong C, Sugiyama Y, Soutis C. Structural design and experimental investigation of a medium scale composite wind turbine blade considering fatigue life. Science and Engineering of Composite Materials. 2002; 10(1): 1-10. eScholarID: 200247
+Soutis C, Spearing S. Compressive behaviour of woven fabric face-sheet honeycomb sandwich panels. FRC 2002: 9 th International Fibre Reinforced Composites. 2002; 233-240. eScholarID: 200231
+Soutis C, Spearing S. Compressive response of notched, woven fabric, face sheet honeycomb sandwich panels. Plastics, rubber and composites. 2002; 31(9): 392-397. eScholarID: 200084
+Soutis C, Lee J, Kong C. Size effect on compressive strength of T300/924C carbon fibre-epoxy laminates. Plastics, rubber and composites. 2002; 31(8): 364-370. eScholarID: 200114
+Soutis C, Lee J. The Effect of Specimen Size on the Compressive Strength of Carbon Fibre-epoxy Laminates. Recent Advances in Experimental Mechanics: In Honor of Isaac M. Daniel. 2002; 153. eScholarID: 200248
+Soutis C, Kashtalyan M. Delamination growth and residual properties of cracked orthotropic laminates under tensile loading. Journal of Thermoplastic Composite Materials. 2002; 15(1): 13-22. eScholarID: 200226
+Soutis C, Kashtalyan M. Modeling Multilayer Damage in Composite Laminates Under Static and Fatigue Loading. Thirty-Second National Symposium on Fatigue and Fractur, West Conshohocken, PA. 2002; 301-314. eScholarID: 200237
+Valdés S, Soutis C. Real-time nondestructive evaluation of fiber composite laminates using low-frequency Lamb waves. The Journal of the Acoustical Society of America. 2002; 111: 2026. eScholarID: 200107
+Zhuk Y, Soutis C, Guz I. Stiffened composite panels with a stress concentrator under in-plane compression. International applied mechanics. 2002; 38(2): 240-252. eScholarID: 200110
+Zhuk Y, Soutis C, Guz I. info: doi/10.1023/A: 1015729414684 2012-12-28 JJ: 10.1007 J: 10.1007: 2728 International Applied Mechanics10637095382Ya. A. ZhukC. SoutisI. A. Guz200224025237762010. 1023/A: 101572941468420021228040522http://link. springer. com/10.1023/A: 1015729414684. International Applied Mechanics. 2002; 38: 240-252. eScholarID: 200094
+Bandyopadhyay S, Soutis C, Smith P. EUROMECH 400 and ACUN-2. Composites Part A: applied science and manufacturing. 2001; 32(9): 1187-1374. eScholarID: 200233
+Berbinau P, Soutis C. A new approach for solving mixed boundary value problems along holes in orthotropic plates. International journal of solids and structures. 2001; 38(1): 143-159. eScholarID: 200220
+Berbinau P, Filiou C, Soutis C. Stress and failure analysis of composite laminates with an inclusion under multiaxial compression-tension loading. Applied composite materials. 2001; 8(5): 307-326. eScholarID: 200246
+Berbinau P, Filiou C, Soutis C. info: doi/10.1023/A: 1011279721719 2012-12-27 JJ: 10.1007 J: 10.1007: 2610 Applied Composite Materials0929189X85P. BerbinauC. FiliouC. Soutis200130732627160810. 1023/A: 101127972171920021222062922http://link. springer. com/10.1023/A: 1011279721719. Applied Composite Materials. 2001; 8: 307-326. eScholarID: 200236
+Comi C, Fleck N, Liu D, Kafka V, Karl{\'\i}k M, Fond C, Riccardi A, Schirrer R, Montheillet F, Akisanya A. ANNUAL CONTENTS (6 issues). EUROPEAN JOURNAL OF MECHANICS A/SOLIDS. 2001; 20:  eScholarID: 200230
+Guz I, Soutis C. Accuracy of a continuum fracture theory for non-linear composite materials under large deformations in biaxial compression. Zeitschrift für angewandte Mathematik und Mechanik. 2001; 81: S849-S850. eScholarID: 200221
+Guz I, Soutis C. A 3-D stability theory applied to layered rocks undergoing finite deformations in biaxial compression. European Journal of Mechanics-A/Solids. 2001; 20(1): 139-153. eScholarID: 200225
+Guz I, Soutis C. Compressive fracture of non-linear composites undergoing large deformations. International journal of solids and structures. 2001; 38(21): 3759-3770. eScholarID: 200227
+Hawyes V, Curtis P, Soutis C. Effect of impact damage on the compressive response of composite laminates. Composites Part A: Applied Science and Manufacturing. 2001; 32(9): 1263-1270. eScholarID: 200232
+Kashtalyan M, Soutis C. Strain energy release rate for off-axis ply cracking in laminated composites. International journal of fracture. 2001; 112(2): 3-8. eScholarID: 200245
+Kessler S, Spearing S, Atalla M, Cesnik C, Soutis C, Roach D, Rackow K, Harmon L, Baaklini G, Martin R. Nondestructive Evaluation of Materials and Composites V (Proceedings Volume). 2001;  eScholarID: 200239
+Kessler S, Spearing S, Soutis C. Optimization of Lamb wave methods for damage detection in composite materials. Technology Laboratory for Advanced Composites Department of Aeronautics and Astronautics Massachusetts Institute of Technology, SHM-2001. 2001;  eScholarID: 200241
+Soutis C. ????????????/????????? ????????? ???????????? ??????????????? ?????? ???????????? ??????. ???????????????????????????. 2001; 29(6): 43-51. eScholarID: 200223
+Valdes S, Soutis C. A structural health monitoring system for laminated composites. Proceedings of DETC. 2001; 2013-2020. eScholarID: 200222
+Diaz Valdes S, Soutis C. Delamination detection in composite laminates from variations of their modal characteristics. Low Frequency Noise, Vibration and Active Control. 2000; 19(1): 27-33. eScholarID: 200130
+Diaz Valdes S, Soutis C. Health monitoring of composites using Lamb waves generated by piezoelectric devices. Plastics, Rubber and Composites. 2000; 29(9): 475-481. eScholarID: 200142
+Guz I, Soutis C. Asymptotic analysis of fracture theory for layered composites in compression (the plane problem). CHAPMAN AND HALL CRC RESEARCH NOTES IN MATHEMATICS. 2000; 155-160. eScholarID: 200127
+Guz I, Soutis C. Critical strains in layered composites with interfacial defects loaded in uniaxial or biaxial compression. Plastics, rubber and composites. 2000; 29(9): 489-495. eScholarID: 200133
+Kashtalyan M, Soutis C. Analytic investigation of thick anisotropic plates with undulating surfaces. CHAPMAN AND HALL CRC RESEARCH NOTES IN MATHEMATICS. 2000; 195-199. eScholarID: 200125
+Kashtalyan M, Soutis C. Modelling stiffness degradation due to matrix cracking in angleply composite laminates. Plastics, rubber and composites. 2000; 29(9): 482-488. eScholarID: 200143
+Kashtalyan M, Soutis C. Stiffness degradation in cross-ply laminates damaged by transverse cracking and splitting. Composites Part A: Applied Science and Manufacturing. 2000; 31(4): 335-351. eScholarID: 200152
+Kashtalyan M, Soutis C. The effect of delaminations induced by transverse cracks and splits on stiffness properties of composite laminates. Composites Part A: Applied Science and Manufacturing. 2000; 31(2): 107-119. eScholarID: 200154
+Lavoie J, Soutis C, Morton J. Apparent strength scaling in continuous fiber composite laminates. Composites science and technology. 2000; 60(2): 283-299. eScholarID: 200126
+Finite element modeling of composite materials and structures. CRC PressI Llc:2000.  eScholarID: 200137
+SOUTIS C. Scaling effects in laminated composites. Mechanical testing of advanced fibre composites. 2000; 293. eScholarID: 200150
+Soutis C, Curtis P. A method for predicting the fracture toughness of CFRP laminates failing by fibre microbuckling. Composites Part A: applied science and manufacturing. 2000; 31(7): 733-740. eScholarID: 200122
+Soutis C. Compression testing of pultruded carbon fibre-epoxy cylindrical rods. Journal of materials science. 2000; 35(14): 3441-3446. eScholarID: 200131
+Soutis C, Kashtalyan M, Davies G. Modelling of damage in fibre reinforced composite laminates under multiaxial in-plane loading. Proceedings of the 22nd Congress of the International Council of Aeronautical Sciences (ICAS 2000). 2000; 28:  eScholarID: 200144
+Soutis C, Smith F, Matthews F. Predicting the compressive engineering performance of carbon fibre-reinforced plastics. Composites part A: applied science and manufacturing. 2000; 31(6): 531-536. eScholarID: 200147
+Soutis C, Filiou C, Pateau V. Strength prediction of fiber reinforced plastics with a hole under compression-tension. AIAA journal. 2000; 38(1): 110-114. eScholarID: 200155
+Soutis C. info: doi/10.1023/A: 1004832606677 2012-12-27 JJ: 10.1007 J: 10.1007: 3028 Journal of Materials Science002224613514C. Soutis20003441344626937510. 1023/A: 100483260667720021221012544http://link. springer. com/10.1023/A: 1004832606677. Journal of Materials Science. 2000; 35: 3441-3446. eScholarID: 200145
+Soutis C, Kashtalyan M. Analysis of fatigue damage mechanisms and residual properties of polymer matrix composites. ASME Aerospace Division- 2000. 2000; 133-140. eScholarID: 200123
+Valdes S, Soutis C. Delamination detection in composite laminates from variations of their modal characteristics. JOURNAL OF LOW FREQUENCY NOISE VIBRATION AND ACTIVE CONTROL. 2000; 19(1): 27-33. eScholarID: 200132
+Zhuk Y, Soutis C, Guz I. Prediction of the Compresion-After-Impact Strength of Thin-Skin Stiffened Composite Panels. Advanced Composites Letters. 2000; 9(4): 281-288. eScholarID: 200109
+Zhuk Y, Soutis C, Guz I. Prediction of the Compresion-After-Impact Strength of Thin-Skin Stiffened Composite Panels. Advanced Composites Letters. 2000; 9(4): 281-288. eScholarID: 200151
+Berbinau P, Soutis C, Guz I. Compressive failure of 0 unidirectional carbon-fibre-reinforced plastic (CFRP) laminates by fibre microbuckling. Composites Science and technology. 1999; 59(9): 1451-1455. eScholarID: 200129
+Berbinau P, Soutis C, Goutas P, Curtis P. Effect of off-axis ply orientation on 0-fibre microbuckling. Composites Part A: Applied Science and Manufacturing. 1999; 30(10): 1197-1207. eScholarID: 200138
+Curtis P, Hawyes V, Soutis C. Effect of impact damage on the compressive response of FRP composite laminates. European Mechanics Society(EUROMECH) 400 Colloquium: Impact and Damage Tolerance Modelling of Composite Materials and Structures. 1999; 66-73. eScholarID: 200139
+Guz I, Soutis C. Continuum fracture theory for layered materials: investigation of accuracy. Zeitschrift für angewandte Mathematik und Mechanik. 1999; 79:  eScholarID: 200134
+Kashtalyan M, Soutis C. Delamination Induced Stiffness Degradation in Cracked Cross-Ply Laminates under Biaxial Loading. PROCEEDINGS OF THE JAPAN INTERNATIONAL SAMPE SYMPOSIUM. 1999; 1: 93-96. eScholarID: 200136
+Kashtalyan M, Soutis C. The effect of ply orientation on stiffness reduction due to transverse crack tip delaminations in composite laminates. European Mechanics Society(EUROMECH) 400 Colloquium: Impact and Damage Tolerance Modelling of Composite Materials and Structures. 1999; 19-26. eScholarID: 200157
+Kashtalyan M, Soutis C. Stiffness loss due to transverse cracking and splitting in cross-ply laminates under biaxial loading. Proceedings of ICCM12. 1999; 5-9. eScholarID: 200153
+Oni O, Capper M, Soutis C. Factors which may increase stresses at the pin-bone interface in external fixation: a finite element analysis study. African journal of medicine and medical sciences. 1999; 28(1-2): 13. eScholarID: 200140
+Soutis C, Kashtalyan M. A study of matrix crack tip delaminations and their influence on composite laminates stiffness. Advanced Composites Letters(UK). 1999; 8(4): 149-155. eScholarID: 200124
+Soutis C, Kashtalyan M. Application of the equivalent constraint model to investigate stiffness properties of transversally cracked and split FRP laminates. Advanced Composites Letters(UK). 1999; 8(5): 205-211. eScholarID: 200164
+Soutis C, Duan D, Goutas P. Compressive behaviour of CFRP laminates repaired with adhesively bonded external patches. Composite structures. 1999; 45(4): 289-301. eScholarID: 200128
+Soutis C, Guz I. On analytical approaches to fracture of composites caused by internal instability under finite deformations. European Mechanics Society(EUROMECH) 400 Colloquium: Impact and Damage Tolerance Modelling of Composite Materials and Structures. 1999; 51-58. eScholarID: 200148
+Soutis C, Duan D. Performance of composite repair patches under compressive loading. International Conference on Joining and Repair of Plastics and Composites. 1999; 151-160. eScholarID: 200146
+Andreasson N, Mackinlay C, Soutis C. Experimental and numerical failure analysis of bolted joints in CFRP woven laminates. Aeronautical Journal. 1998; 102(1018): 445-450. eScholarID: 200167
+Kashtalyan M, Zhang J, Soutis C. Analysis of local delamination in composite laminates with cross ply matrix cracks. ECF 12: Fractures from Defects. 1998; 3: 1393-1398. eScholarID: 200165
+Soutis C, Hu F. A 3-D failure analysis of scarf patch repaired CFRP plates. American Institute of Aeronautics and Astronautics, Inc. 1998; 1943: 1971-1977. eScholarID: 200160
+Soutis C, Ramany Bala Poubady V. Evaluation of crush energy absorption of woven CFRP laminates. ADVANCED COMPOSITES LETTERS. 1998; 7: 23-26. eScholarID: 200168
+Soutis C, Filiou C, Pateau V. Strength prediction of CFRP plates with a hole under biaxial compression-tension. \& Proceedings ??????{\textperiodcentered} ???????????????| ???????????????| ??????????????????| Reference DB| ????????????| ????????????| ??????????????????| ????????????| ???????????????| ????????? DB ????????????| ????????????| ????????????????????????| AIAA ???????????????| ????????????| ??????????????????| ??????????????????| IP ????????????| ?????????????????? ARIC ????????????| ????????????| ????????????| Web Link| ?????? ?????? Spec ??????????????????| ??????????????????| ??????{\textperiodcentered} ????????????| ???????????? ??????| ???????????? ???????????????| ????????????| ?????????/?????? ??????| ?????????. 1998;  eScholarID: 200188
+Soutis C, Filiou C. Stress distributions around holes in composite laminates subjected to biaxial loading. Applied Composite Materials. 1998; 5(6): 365-378. eScholarID: 200187
+Soutis C, Filiou C. info: doi/10.1023/A: 1008837715030 2012-12-27 JJ: 10.1007 J: 10.1007: 2610 Applied Composite Materials0929189X56C. SoutisC. Filiou199836537816794610. 1023/A: 100883771503020021222030545http://link. springer. com/10.1023/A: 1008837715030. Applied Composite Materials. 1998; 5: 365-378. eScholarID: 200179
+Andreasson N, Mackinlay C, Soutis C. Tensile behaviour of bolted joints in low temperature cure CFRP woven laminates. ADVANCED COMPOSITES LETTERS. 1997; 6: 143-148. eScholarID: 200186
+Hu F, Soutis C, Edge E. Interlaminar stresses in composite laminates with a circular hole. Composite structures. 1997; 37(2): 223-232. eScholarID: 200177
+Hu, FZ, and C  Soutis. Strength prediction and design optimisation for external patch repairs in composite structures. International conference on deformation and fracture of composites. 1997: 609-618. eScholarID: 200185
+Peijs T, Percival R, Phillips D, Pickering K, Piggott M, Potter R, Poursartip A, Pullen D, Rawlings R, Reifsnider K. v. s. Scott. Composites Part A. 1997; 28: 95-96. eScholarID: 200189
+Soutis C, Edge E. A method for the production of carpet plots for notched compression strength of carbon fibre reinforced plastic multidirectional laminates. Proceedings of the Institution of Mechanical Engineers, Part G: Journal of Aerospace Engineering. 1997; 211(4): 251-261. eScholarID: 200163
+Soutis, C, and C  Filiou. Approximate stress solution for orthotropic open-hole laminates under biaxial loading. International conference on deformation and fracture of composites. 1997: 121-130. eScholarID: 200166
+Compressive behaviour of composites. iSmithers Rapra Publishing:1997.  eScholarID: 200173
+Soutis C, Hu F. Design and performance of bonded patch repairs of composite structures. Proceedings of the Institution of Mechanical Engineers, Part G: Journal of Aerospace Engineering. 1997; 211(4): 263-271. eScholarID: 200171
+Soutis C, Turkmen D. Moisture and temperature effects of the compressive failure of CFRP unidirectional laminates. Journal of composite materials. 1997; 31(8): 832-849. eScholarID: 200178
+Soutis C, Hu F. Repair design of composites and efficiency of scarf patch repairs. Iccm-12: Processing, Joints, Normalisation, Durability/Ageing and Repair. 1997; 6: 395. eScholarID: 200183
+Hu F, Soutis C. Evaluation of the Ko-Lin model for interlaminar stresses in composite laminates with an open hole. ADVANCED COMPOSITES LETTERS. 1996; 5: 143-148. eScholarID: 200169
+Soutis C, Filiou C. Approximate biaxial stress solution for orthotropic open-hole composite laminates. Advanced Composites Letters(UK). 1996; 5(4): 107-111. eScholarID: 200162
+Soutis C. Failure of notched CFRP laminates due to fibre microbuckling: a topical review. Journal of the Mechanical Behavior of Materials. 1996; 6(4): 309-330. eScholarID: 200175
+Soutis C, Turkmen D. Influence of shear properties and fibre imperfections on the compressive behaviour of GFRP laminates. Applied composite materials. 1996; 2(6): 327-342. eScholarID: 200176
+Soutis C. Notch sensitivity of CFRP plates under compression. ECF 11. Mechanisms and Mechanics of Damage and Failure. 1996; 3: 1677-1684. eScholarID: 200182
+Soutis C, Curtis P. Prediction of the post-impact compressive strength of CFRP laminated composites. Composites science and technology. 1996; 56(6): 677-684. eScholarID: 200181
+Vlattas C, Soutis C. COMPOS1TES REPA1R: COMPRESS1VE BEHAV1OUR OF CFRP PLATES W1TH RE1NFORCED HOLES. Eccm 7. 1996; 87. eScholarID: 200170
+Vlattas C, Soutis C. Composites repair: compressive behaviour of CFRP plates with reinforced holes. ECCM-7: Seventh European Conference on Composite Materials. Realising Their Commercial Potential. 1996; 2: 87-92. eScholarID: 200172
+Kinsey A, Saunders D, Soutis C. Post-impact compressive behaviour of low temperature curing woven CFRP laminates. Composites. 1995; 26(9): 661-667. eScholarID: 200184
+Oni O, Capper M, Soutis C. An investigation of the bending stiffness of and the plane stresses generated by a flanged external fixator pin. Journal of orthopaedic trauma. 1995 February; 9(1): 83-8. eScholarID: 199294 | PMID: 7714660
+Oni O, Capper M, Soutis C. External fixation of upper limb fractures: the effect of pin offset on fixator stability. Biomaterials. 1995 February; 16(3): 263-4. eScholarID: 199296 | PMID: 7749005
+Oni O, Capper M, Soutis C. Monitoring fracture healing with strain gauges: the effect on strain values of strain gauge location on the pin circumference. Injury. 1995 April; 26(3): 181-2. eScholarID: 199299 | PMID: 7744474
+Oni O, Capper M, Soutis C. Monitoring fracture healing with strain gauges: the effect on strain values of strain gauge location on the pin circumference. Injury. 1995; 26(3): 181-182. eScholarID: 200180
+Oni O, Capper M, Soutis C. An investigation of the bending stiffness of and the plane stresses generated by a flanged external fixator pin. Journal of orthopaedic trauma. 1995; 9(1): 83-88. eScholarID: 200161
+Oni O, Capper M, Soutis C. External fixation of upper limb fractures: The effect of pin offset on fixator stability. Biomaterials. 1995; 16(3): 263-264. eScholarID: 200174
+Soutis C, Tenchev R. A property degradation model for fibre microbuckling failure in composite laminates. Science and Engineering of Composite Materials. 1995; 4(1): 27-34. eScholarID: 200194
+Soutis C, Turkmen D. Hygrothermal effects on the compressive strength of T800/924C CFRP laminates. Proceedings of the Tenth International Conference on Composite Materials: Microstructure, degradation, and design. 1995; 6: 231. eScholarID: 200205
+Capper M, Soutis C, Oni O. Comparison of the stresses generated at the pin-bone interface by standard and conical external fixator pins. Biomaterials. 1994; 15(6): 471-473. eScholarID: 200195
+Hitchen S, Ogin S, Smith P, Soutis C. The effect of fibre length on fracture toughness and notched strength of short carbon fibre/epoxy composites. Composites. 1994; 25(6): 407-413. eScholarID: 200219
+Soutis C, Tenchev R. A finite element failure model for notched laminated composites loaded in compression. Advanced Composites Letters(UK). 1994; 3(2): 45-49. eScholarID: 200192
+Soutis C, Turkmen D, Morrison C. Compressive Failure of Unidirectional Composites at Elevated Temperature Using Untabbed Specimens. Composites Testing and Standardization, ECCM-CTS. 1994; 2: 169-177. eScholarID: 200200
+Soutis C. Damage tolerance of open-hole CFRP laminates loaded in compression. Composites Engineering. 1994; 4(3): 317-327. eScholarID: 200201
+Zhang J, Soutis C, Fan J. Effects of matrix cracking and hygrothermal stresses on the strain energy release rate for edge delamination in composite laminates. Composites. 1994; 25(1): 27-35. eScholarID: 200202
+Zhang J, Soutis C, Fan J. Strain energy release rate associated with local delamination in cracked composite laminates. Composites. 1994; 25(9): 851-862. eScholarID: 200217
+Capper M, Soutis C, Oni O. Pin-hole shear stresses generated by conical and standard external fixation pins. Biomaterials. 1993; 14(11): 876-878. eScholarID: 200214
+Capper M, Soutis C, Oni O. Pin-hole shear stresses generated by conical and standard external fixation pins. Biomaterials. 1993 September; 14(11): 876-8. eScholarID: 199297 | PMID: 8218742
+Oni O, Capper M, Soutis C. A finite element analysis of the effect of pin distribution on the rigidity of a unilateral external fixation system. Injury. 1993 September; 24(8): 525-7. eScholarID: 199291 | PMID: 8244544
+Oni O, Capper M, Soutis C. Bending stiffness of conical and standard external fixator pins. Biomaterials. 1993 October; 14(13): 1036-8. eScholarID: 199292 | PMID: 8286671
+Oni O, Capper M, Soutis C. A finite element analysis of the effect of pin distribution on the rigidity of a unilateral external fixation system. Injury. 1993; 24(8): 525-527. eScholarID: 200190
+Oni O, Capper M, Soutis C. Bending stiffness of conical and standard external fixator pins. Biomaterials. 1993; 14(13): 1036-1038. eScholarID: 200193
+Soutis C, Curtis P, Fleck N. Compressive failure of notched carbon fibre composites. Proceedings of the Royal Society of London. Series A: Mathematical and Physical Sciences. 1993; 440(1909): 241-256. eScholarID: 200198
+Soutis C, Turkmen D. High temperature effects on the compressive strength of glass fibre-reinforced composites. ICCM/9. Composites: Properties and Applications. 1993; 6: 581-588. eScholarID: 200207
+Soutis C, Fleck N, Smith P. Compression fatigue behaviour of notched carbon fibre-epoxy laminates. International journal of fatigue. 1991; 13(4): 303-312. eScholarID: 200196
+Soutis C, Fleck N, Smith P. Failure prediction technique for compression loaded carbon fibre-epoxy laminate with open holes. Journal of Composite Materials. 1991; 25(11): 1476-1498. eScholarID: 200203
+Soutis C, Fleck N, Curtis P. Hole-hole interaction in carbon fibre/epoxy laminates under uniaxial compression. Composites. 1991; 22(1): 31-38. eScholarID: 200206
+Soutis C. Measurement of the static compressive strength of carbon-fibre/epoxy laminates. Composites science and technology. 1991; 42(4): 373-392. eScholarID: 200209
+Soutis C, Fleck N. Notch sensitivity of composite laminates loaded in compression. Applied Solid Mechanics 4: Proceedings of the 4th Conference on Applied Solid Mechanics, Leicester, 3-5 April 1991. 1991; 101-115. eScholarID: 200212
+Jelf M, Soutis C, Fleck N. Notched compression failure of carbon-fibre PEEK laminates. Proceedings of the 3rd International Conference on Advanced Composites in Emerging Technologies, Patras, Greece, 20-24 August 1990. 1990; 204-215. eScholarID: 200211
+Soutis C, Fleck N. Compressive fatigue damage in T800/924C carbon fibre-epoxy laminates with an open hole. Developments in the Science and Technology of Composite Materials. Springer Netherlands.1990:  eScholarID: 200197
+Soutis C, Fleck N. Investigation of the static and fatigue compressive behaviour of carbon fibre composite laminates. 1990;  eScholarID: 200210
+Soutis C, Fleck N. Software package for prediction of compression strength of notched composite panel. 1990;  eScholarID: 200215
+Soutis C, Fleck N. Static compression failure of carbon fibre T800/924C composite plate with a single hole. Journal of Composite Materials. 1990; 24(5): 536-558. eScholarID: 200216
+Compressive failure of notched carbon fibre-epoxy panels. University of Cambridge:1989.  eScholarID: 200199
+Soutis C, Smith P, Fleck N. Investigation of the compressive strength of carbon fibre reinforced plastics. Proceedings of the International Conference on Phase Interactions in Composite Materials. 1988; 327-344. eScholarID: 200208
+Fitzer E, Jaeger H, Weiss R, Schuecker C, Pahr D, Pettermann H, Park Y, Colton J, Gagorik J, Corrado J. INFLUENCE OF SURFACE TREATMENTS ON THE IMPACT STRENGTH OF CFRP. 1983;  eScholarID: 200204
+

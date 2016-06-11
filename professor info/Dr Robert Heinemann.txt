@@ -1,0 +1,48 @@
+name  role  phone  location  email
+Dr Robert Heinemann  Lecturer  0161-3063809  Pariser Building - G14  robert.heinemann@manchester.ac.uk  
+
+BIOGRAPHY: 
+After finishing an apprenticeship as a machine tool mechanic, Robert studied Mechanical Engineering at the University of Paderborn at Soest, Germany, obtaining the degree Diplom Ingenieur (Dipl.-Ing. FH) in 1999. He stayed at the University as a research assistant, working at the Laboratory for Machine Tools on a number of projects covering the areas of machine tool design, analysis and optimisaion, machining process optimisation, as well as environmental benign machining. During this time Robert gained an MSc in Electronic Engineering and Engineering Management from the University of Paderborn/Bolton University in 2001 and a PhD from the University of Manchester Institute of Science and Technology in 2004.
+He then continued as a Research Associate at The University of Manchester, working on various aspects of metal cutting, with a particular interest in drilling technology, preventive tool condition monitoring for drilling, evaluation of carbon-based coatings for the machining of titanium, as well as machine tool design and evaluation.
+In 2009, Robert was awarded a 3-year Leverhulme Trust Early Career Fellowship, to conduct research on omni-directional drilling for orthopaedic surgery.
+Since April 2013 Robert is a lecturer at the School of MACE.
+
+RESEARCH: 
+Drilling and reaming technology
+Process and tool development for Minimally Invasive Surgery (Keyhole Surgery)
+Diamond-like carbon coatings for cutting tools
+(Preventive) tool and process condition monitoring in drilling
+Environmental benign machining, in particular dry and minimal quantity lubrication drilling
+Design, analysis and evaluation of machine tools
+Metrology
+
+PUBLICATION: 
+Robert Heinemann, Sri Hinduja. A new strategy for Tool Condition Monitoring of small diameter twist drills in deep-hole drilling. International Journal of Machine Tools and Manufacture. 2012; 52(0): 69-76. eScholarID: ma038
+R. Heinemann, S. Hinduja. A new strategy for Tool Condition Monitoring of small diameter twist drills in deep-hole drilling (DOI: 10.1016/j.ijmachtools.2011.09.002). International Journal of Machine Tools and Manufacture. 2012 January; 52(1): 8. eScholarID: 146239 | DOI: 10.1016/j.ijmachtools.2011.09.002
+Robert Heinemann. The Effect of Starting Hole Geometry on Borehole Quality and Tool Life of Twist Drills. International Journal of Advanced Manufacturing Technology. 2012; (0):  eScholarID: ma497
+R. Heinemann. The Effect of Starting Hole Geometry on Borehole Quality and Tool Life of Twist Drills (DOI: 10.1007/s00170-011-3625-7). International Journal of Advanced Manufacturing Technology. 2012 July;  eScholarID: 146237 | DOI: 10.1007/s00170-011-3625-7
+Ogedengbe T I, Heinemann R, Hinduja S. Feasibility of Tool Condition Monitoring on Micro-Milling Using Current Signals. Assumption University Journal of Technology. 2011 January; 14(3): 12. eScholarID: 147041
+G Barrow, Robert Heinemann, Sri Hinduja. Assessment of the Manufacturing Engineering Education Provision across the EU. Assessment of the Manufacturing Engineering Education Provision across the EU. 2010;  eScholarID: ma761
+G Barrow, K Dalgarno, R Teti, Robert Heinemann, Sri Hinduja, V Raja. A Study to assess the appropriateness of I*PROMS education and training schemes - Phase II. 2009.  eScholarID: ma739
+Heinemann R., Hinduja S. Investigating the Feasibility of DLC-coated Twist Drills in Deep-Hole Drilling. International Journal of Advanced Manufacturing Technology. 2009; 44(9): 862-869. eScholarID: 107109 | DOI: 10.1007/s00170-008-1912-8
+Makki, H, Robert  Heinemann, Sri  Hinduja, and O O  Owodunni. Online determination of tool run-out and wear using machine vision and image processing techniques. IPROMS 2009, 5th Virtual Conference. 2009: -. eScholarID: 2e1065
+G Barrow, R Teti, Robert Heinemann, Sri Hinduja, T Fouweather, V Raja. A Study to assess the appropriateness of I*PROMS education and training schemes - Phase I. 2008.  eScholarID: ma738
+Heinemann R., Hinduja S., Barrow G. Use of process signals for tool progression sensing in drilling small deep holes. International Journal of Advanced Manufacturing Technology. 2007; 3-4(33): 243-250. eScholarID: 107111
+Heinemann, Robert, and Sri  Hinduja. The Effect of Tool Coatings on the Performance of Small Diameter HSS Twist Drills in Drilling Deep Holes Using Higher Cutting Speeds. Proceedings of the 35th International MATADOR Conference. London: Springer Verlag: 2007: 187-190. eScholarID: 2e599
+Robert Heinemann, Sri Hinduja. Tool condition monitoring for small diameter twist drills in deep hole drilling. Tool condition monitoring for small diameter twist drills in deep hole drilling. 2006 August;  eScholarID: ma1064
+Heinemann R, Hinduja S, Barrow G, Petuellli G. Effect of MQL on the tool life of small twist drills in deep-hole drilling. International Journal of Machine Tools and Manufacture. 2006; 46: 1-6. eScholarID: 1e1498 | DOI: 10.1016/j.ijmachtools.2005.04.003
+Heinemann R, Hinduja S. Fit gemacht fuers HSC-Bohren (Get in shape for high-speed drilling). Werkstatt und Betrieb. 2006; (4): 42-46. eScholarID: 1e384
+Heinemann R, Hinduja S, Barrow G, Petuelii G. The Performance of Small Diameter Twist Drills in Deep-Hole Drilling. Transactions of the ASME, Journal of Manufacturing Science and Engineering. 2006; 128: 884-892. eScholarID: 1e1499 | DOI: 10.1115/1.2335859
+Robert Heinemann, Sri Hinduja. Performance of small diameter twist drills in deep-hole drilling. Performance of small diameter twist drills in deep-hole drilling. 2005 January;  eScholarID: ma962
+Petuelli, G, Robert  Heinemann, and K  Enke. Diamond-like Carbon coating in MQL deep-hole drilling. IMS International Forum, Lake Como, Italy. 2004: 441-449. eScholarID: 2e163
+Petuelli G, Heinemann R. Eine loechrige Herausforderung - Gut geschmiert in grosse Tiefen (A holy challenge - Well lubricated towards great depths). Maschinen, Anlagen, Verfahren. 2004; 1: 58-59. eScholarID: 1e853
+Petuelli G, Heinemann R. HSC-Tieflochbohren mit Spiralbohrern (High-speed deep hole drilling using twist drills). VDI-Z (Verein Deutscher Ingenieure-Z). 2004; 16-18. eScholarID: 1e852
+G Petuelli, Robert Heinemann. Hochgeschwindigkeits-Tieflochbohrer. 2003.  eScholarID: ma886
+Heinemann R, Petuelli G. Minimal geschmiertes Bohren bis 10xD (Minimally lubricated drilling for up to 10xD). Werkstatt und Betrieb. 2003; 3: 56-58. eScholarID: 1e586
+G Petuelli, Robert Heinemann. Development of a multi-axes drilling machine (Entwicklung einer Mehrspindel Bohrmaschine). 2002.  eScholarID: ma828
+J Puschmann, Robert Heinemann. Umweltschutz in der Produktionstechnik. Umweltschutz in der Produktionstechnik. 2002;  eScholarID: ma1068
+G Petuelli, Robert Heinemann. Fast trocken in grosse Tiefen HSC-Tieflochbohren mit Spiralbohrern und Minimalmengenschmiertechnik (Almost dry towards great depths - High-speed deep-hole drilling using twist drills and Minimal Quantity Lubrication). Werkstattstechnik. 2001; 93(1): 97-101. eScholarID: ma225
+Petuelli G, Heinemann R. Fast trocken in grosse Tiefen HSC-Tieflochbohren mit Spiralbohrern und Minimalmengenschmiertechnik (Almost dry towards great depths - High-speed deep-hole drilling using twist drills and Minimal Quantity Lubrication). Werkstattstechnik. 2001; 93: 97-101. eScholarID: 1e851
+Petuelli, G, and Robert  Heinemann. Hochgeschwindigkeits-Tieflochbohren kleiner Durchmesser mit Minimalmengenschmierung. Proceedings of the International Tribology Symposium, Göttingen, Germany. 2001: 72.1-72.10. eScholarID: 2e836
+Heinemann, Robert, and G  Petuelli. Experimentelles rechnergestütztes Optimieren einer HSC-Maschine. Proceedings of the 4th international CAx-Techniques Symposium, Bielefeld, Germany. 1999: 493-500. eScholarID: 2e835
+

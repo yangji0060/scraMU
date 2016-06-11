@@ -1,0 +1,36 @@
+name  role  phone  location  email
+Dr John Francis  Reader  0161-2751913  Sackville Street Building - B38D  john.francis@manchester.ac.uk  
+
+BIOGRAPHY: 
+John Francis gained his academic qualifications from The University of Adelaide, and began his career in 1998 with CSIRO in Australia, working as a postdoctoral fellow in welding process technology. John was promoted to the role of Research Scientist (Welding Processes) in 2001. He spent seven years with CSIRO in total, where he undertook contract research projects and consultancy work funded by both government and industry clients, developing welding strategies for application in the aerospace, minerals processing and power generation sectors. In 2005 John moved to the UK to take up a post as a Research Fellow in Materials Performance within the School of Materials at The University of Manchester. In this role John was involved in coordinating a programme of research focussing on the measurement, modelling and mitigation of residual stresses for welds in nuclear power plants, working in collaboration with Rolls-Royce Marine. In 2009 moved to The Open University to work as a Lecturer in Materials Engineering, where he was awarded an EPSRC grant to investigate transformation plasticity in welds, and he co-supervised two PhD students. In January 2011, John returned to The University of Manchester as a Senior Lecturer in Welding Technology, where he is involved in the Nuclear Advanced Manufacturing Research Centre (NAMRC) project. John is accredited as a European Welding Engineer under the European Welding Federation (EWF) qualification scheme.
+
+RESEARCH: 
+Welding and Cladding Processes
+Welding Metallurgy
+Residual Stresses in Welded Joints and Clad Surfaces
+Microstructure-Stress Relationships in Welds
+
+PUBLICATION: 
+A F Mark, John Francis, M Hofmann, M Turski, P J Withers, S K Bate. A Comparison of Residual Stresses in Single-Pass and Multipass SA508 Steel Welds. A Comparison of Residual Stresses in Single-Pass and Multipass SA508 Steel Welds.  eScholarID: ma1468
+C Gill, John Francis, K Bridger, M Turski, P Bunney, P R Hurrell, S K Bate. Design and manufacture of welded plate specimens for residual stress experiments. Design and manufacture of welded plate specimens for residual stress experiments. 591-602. eScholarID: ma1467
+John Francis, M Turski, P J Withers. Residual Stress Measurements in Autogenous SA508 Steel Welds. Residual Stress Measurements in Autogenous SA508 Steel Welds. 459-466. eScholarID: ma1465
+John Francis, R V Martins. Residual Stress, Texture, and Phase Investigation of Autogenous Edge Welds Using High Energy Synchrotron Radiation. Residual Stress, Texture, and Phase Investigation of Autogenous Edge Welds Using High Energy Synchrotron Radiation.  eScholarID: ma1469
+A P Warren, I Symington, John Francis, M Turski, P R Hurrell, S K Bate. The prediction of residual stresses in an autogenously welded ferritic beams. The prediction of residual stresses in an autogenously welded ferritic beams. 517-525. eScholarID: ma1471
+H J Stone, H K Bhadeshia, John Francis, L Karlsson, P J Withers, R B Rogge, S Kundu. Transformation temperatures and welding residual stresses in ferritic steels. Transformation temperatures and welding residual stresses in ferritic steels. 949-956. eScholarID: ma1466
+A P Warren, C T Watson, John Francis, P Hurrell, S K Bate. UK research programme on residual stresses - Progress to date. UK research programme on residual stresses - Progress to date. 919-925. eScholarID: ma1470
+H K Bhadeshia, John Francis, W Mazur. Welding Procedures and Type IV Cracking Tendency - An Experimental Study. Welding Procedures and Type IV Cracking Tendency - An Experimental Study.  eScholarID: ma1463
+H K Bhadeshia, John Francis, W Mazur. Welding Procedures and Type IV Phenomena. Welding Procedures and Type IV Phenomena. 737-742. eScholarID: ma1464
+Guo W, Liu Q, Francis J, Crowther D, Thompson A, Liu Z, Li L. Comparison of laser welds in thick section S700 high-strength steel manufactured in flat (1G) and horizontal (2G) positions. C I R P Annals. 2015; 64: 197-200. eScholarID: 292585 | DOI: http://dx.doi.org/10.1016/j.cirp.2015.04.070
+Guo W, Dong S, Guo W, Francis J, Li L. Microstructure and mechanical characteristics of a laser welded joint in SA508 nuclear pressure vessel steel. Materials Science and Engineering A: Structural Materials: Properties, Microstructures and Processing. 2015; 625: 65-80. eScholarID: 254843 | DOI: 10.1016/j.msea.2014.11.056
+A H Sherry, A Vasileiou, J Balakrishnan, John Francis, Lin Li, M D Callaghan, Matthew Roy, Michael Smith, N M Irvine, Wei Guo. Overview of welding research under the New Nuclear Manufacturing (NNUMAN) programme. Proceedings of the ASME 2014 Pressure Vessel and Piping Conference. 2014: -. eScholarID: ma1151
+Elmesalamy A, Francis J, Li L. A comparison of residual stresses in multi pass narrow gap laser welds and gas-tungsten arc welds in AISI 316L stainless steel. International Journal of Pressure Vessels and Piping. 2014 January; 113: 49-59. eScholarID: 292583 | DOI: http://dx.doi.org/10.1016/j.ijpvp.2013.11.002
+A Kundu, A Paradowska, C E Truman, G K Dey, John Francis, K A Venkata, P J Bouchard, S Kumar. Residual Stresses in P91 Steel Electron Beam Welds. Science and Technology of Welding & Joining. 2013; 18(0): 70-75. eScholarID: ma431
+John Francis, M Turski, P J Withers. Determination of Residual Stress at Weld Interruptions by Neutron Diffraction. Zeitschrift fuer Kristallographie - New Crystal Structures. 2008; (0): 231-243. eScholarID: ma155
+H K Bhadeshia, John Francis, P J Withers. Welding Residual Stresses in Ferritic Power Plant Steels. Materials Science and Technology. 2007; 23(9): 1009-1020. eScholarID: ma573
+H K Bhadeshia, John Francis, W Mazur. Type IV cracking in ferritic power plant steels. Materials Science and Technology. 2006; 22(12): 1387-1395. eScholarID: ma558
+G M Cantin, John Francis. Arc Power and Efficiency in Gas Tungsten Arc Welding of Aluminium. Science and Technology of Welding & Joining. 2005; 10(2): 200-2010. eScholarID: ma085
+G M Cantin, John Francis. The Role of Defects in the Fracture of an Al-Si-Mg Cast Alloy. Materials Science and Engineering A. 2005; 407(1): 322-329. eScholarID: ma527
+H K Bhadeshia, John Francis, W Mazur. Estimation of Type IV Cracking Tendency in Power Plant Steels. ISIJ International. 2004; 44(11): 1966-1968. eScholarID: ma200
+John Francis. Predicting Steady-State Dilution in Multi-Pass Hardfacing Overlays Geometric Approach. Science and Technology of Welding & Joining. 2002; 7(5): 331-338. eScholarID: ma400
+B Bednarz, J V Bee, John Francis. Prediction of Steady-State Dilution in Multi-Pass Hardfacing Overlays Deposited by Self-Shielded Flux Cored Arc Welding. Science and Technology of Welding & Joining. 2002; 7(2): 95-101. eScholarID: ma401
+

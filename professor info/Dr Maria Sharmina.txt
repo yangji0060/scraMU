@@ -1,0 +1,34 @@
+name  role  phone  location  email
+Dr Maria Sharmina  Lecturer in Energy and Project Management  0161-2754308  Pariser Building  maria.sharmina@manchester.ac.uk  
+
+BIOGRAPHY: 
+Dr Maria Sharmina is Lecturer in Energy and Project Management at the  Tyndall Centre for Climate Change Research in the School of Mechanical,  Aerospace and Civil Engineering. In 2014 she obtained an ESRC Nexus  grant to investigate how energy, food and water are connected in the UK  policy-development process. She has also worked on a range of other  funded projects including: the EPSRC's Shipping in Changing Climates  project; the 'Designing Sustainable Supply Chains' project sponsored by a  major retailer; and, a project identifying research methods for  modelling energy and water demand funded by University of Manchester  Research Institute. Through the University’s Researchers into Management  programme (accredited by the Institute of Leadership & Management),  Maria has developed skills in research project management, team  leadership and strategic planning. Previously she completed her PhD  within the Tyndall Centre. Prior to that she did a Master’s programme in  Economics at Central European University, combining it with research at  the Center for Climate Change and Sustainable Energy Policy (Budapest,  Hungary) and in the Institute of Energy Research at Joanneum Research  (Graz, Austria). Maria obtained her first degree at the Far-Eastern  National University (Vladivostok, Russia) specialising in Global Economy  and International Management, graduating 'summa cum laude'.
+
+RESEARCH: 
+Energy systems
+Sustainability
+Emission scenarios
+Emissions from international trade
+Supply chains
+Climate and energy policies
+Shale gas
+
+PUBLICATION: 
+Maria Sharmina, Claire Hoolohan, Alice Bows-Larkin, Paul J. Burgess, James Colwill, Paul Gilbert, David Howard, Jerry Knox, Kevin Anderson. A nexus perspective on competing land demands: Wider lessons from a UK policy case study. Environmental Science & Policy. 2016;  eScholarID: 296931 | DOI: 10.1016/j.envsci.2016.02.008
+Maria Sharmina, Christopher Jones. Discounting the future of climate change in Russia. OpenDemocracy.net. 2015 January;  eScholarID: 265999
+Maria Sharmina, Alice Bows-Larkin, Kevin Anderson. Russia's cumulative carbon budgets for a global 2°C target. Carbon Management. 2015;  eScholarID: 275797 | DOI: 10.1080/17583004.2015.1113616
+Alice Bows-Larkin, Carly McLachlan, Sarah Mander, Ruth Wood, Mirjam Roder, Patricia Thornley, Elena Dawkins, Clair Gough, Laura O'Keefe, Maria Sharmina. Importance of non-CO2 emissions in carbon management. Carbon Management. 2014 August; 5(2): 193-210. eScholarID: 231388 | DOI: 10.1080/17583004.2014.913859
+Maria Sharmina. Opportunities for decarbonization in Russia. Oxford Energy Forum. 2014 August; 97(August): 10-13. eScholarID: 233072
+John Broderick, Maria Sharmina. The Greenhouse Gas Emissions Profile of Coal Bed Methane (CBM) Production: A Review of Existing Research. Manchester: University of Manchester: 2014 January 31.  eScholarID: 225295
+Maria Sharmina, Kevin Anderson, Alice Bows-Larkin. Climate change regional review: Russia. Wiley Interdisciplinary Reviews: Climate Change. 2013 September; 4(5): 373-396. eScholarID: 196914 | DOI: 10.1002/wcc.236
+Leonie Dendler, Maria Sharmina, Dan Calverley, Michael Traut. Sustainable futures: Multi-disciplinary perspectives on multi-level transitions. Environmental Development. 2012 April; 2: 2-5. eScholarID: 160383 | DOI: 10.1016/j.envdev.2012.03.002
+Broderick, John, Kevin Anderson, Ruth Wood, Paul Gilbert, Maria Sharmina, Anthony Footitt, Steven Glynn, and Fiona Nicholls. Shale gas: an updated assessment of environmental and climate change impacts. 2011 November.  eScholarID: 156730
+Wood, Ruth, Paul Gilbert, Maria Sharmina, Kevin Anderson, Anthony Footitt, Steven Glynn, and Fiona Nicholls. Shale gas: a provisional assessment of climate change and environmental impacts. 2011 January.  eScholarID: 129704
+Andreas Tuerk, Dorian Frieden, Maria Sharmina, Helmut Schreiber, Diana Ürge-Vorsatz. Green investment scheme: first experiences and lessons learnt. Joanneum Research working papers. 2010 April;  eScholarID: 129706
+Maria Sharmina. Hungarian green investment scheme: a game theoretic approach. Saarbruecken, Germany: Lambert Academic Publishing:2010.  eScholarID: 129658
+Benigna Boza-Kiss, Aleksandra Novikova, Viktoria Novikava, Maria Sharmina, Anne-Claire Loftus, Diana Ürge-Vorsatz. Analysis of the Hungarian residential energy consumption and influence of end-user behaviour on energy consumption patterns. EEDAL: 2009: -. eScholarID: 137541
+Diana Urge-Vorsatz, Aleksandra Novikova, Maria Sharmina. Counting good: quantifying the co-benefits of improved efficiency in buildings. Act! Innovate! Deliver! Reducing energy demand sustainably. Uppsala/Upplands Väsby, Sweden 2009: Kph Trycksaksbolaget AB: 2009: 185-195. eScholarID: 129709
+Maria Sharmina, Andreas Tuerk, Joseph Feiler, Diana Ürge-Vorsatz. Green investment schemes: financing energy-efficiency in CEE and a model for post-2012 climate mitigation finance?. Act! Innovate! Deliver! Reducing energy demand sustainably. Uppsala/Upplands Väsby, Sweden 2009: Kph Trycksaksbolaget AB: 2009: 499-509. eScholarID: 129710
+Aleksandra Novikova, Anna Korppoo, Maria Sharmina. Russian pledge vs. business-as-usual: Implementing energy efficiency policies can curb carbon emissions. UPI Working Papers. 2009 December;  eScholarID: 157170
+Aleksandra Novikova, Anna Korppoo, Diana Ürge-Vorsatz, Maria Sharmina, Michael Grubb. Effort sharing: assessing equity aspects of the European Commission’s proposal and of possible alternatives. Convened by Climate Strategies: 2008.  eScholarID: 157167
+

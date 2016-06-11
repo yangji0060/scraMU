@@ -1,0 +1,46 @@
+name  role  phone  location  email
+Dr Lei Ren  Senior Lecturer in Biomechanics  0161-3064251  Pariser Building - C13  lei.ren@manchester.ac.uk  
+
+BIOGRAPHY: 
+Lei Ren received a B.Sc. in Mechanical Engineering from Jilin University, China, a M.Sc. and his first Ph.D. degrees in Vehicle Engineering from National Laboratory of Automotive Dynamic Simulation. He then came to Centre for Rehabilitation and Human Performance Research, University of Salford, and worked on a UK Ministry of Defense project on human locomotor biomechanics, and received his second Ph.D. in Biomechanics. Thereafter, he worked at Structure and Motion Laboratory, Royal Veterinary College, University of London, as a research fellow on comparative musculoskeletal biomechanics. From 2008 to 2010, he was with King's College London, University of London as a lecturer in the Division of Engineering. Dr. Ren joined the School of MACE, University of Manchester as a lecturer in Biomechanics in 2010, and also works as a research scientist at Structure and Motion Laboratory, Royal Veterinary College. He is a member of the International Society of Biomechanics, European Society of Biomechanics, the Society of Experimental Biology and European Society for Movement Analysis in Adults and Children.
+
+RESEARCH: 
+Biomechanics and Neural Control of Human Movement
+Musculoskeletal Mechanics
+Neuromusculoskeletal Modelling
+Clinical Motion Analysis
+Medical Finite Element Analysis
+Comparative Animal Locomotion
+Biologically Inspired Robotics
+
+PUBLICATION: 
+L Chen, Lei Ren. The influence of intrinsic muscle properties on musculoskeletal system stabilityFa modelling study. The influence of intrinsic muscle properties on musculoskeletal system stabilityFa modelling study.  eScholarID: ma1547
+Manxu Zheng, Zhenmin Zou, Paulo jorge Da silva Bartolo, Chris Peach, Lei Ren. Finite element models of the human shoulder complex: a review of their clinical implications and modelling techniques. International Journal for Numerical Methods in Biomedical Engineering.  eScholarID: 298349
+Zhendong Dai, Zhouyi Wang, Lei Ren, Aihong Ji, Qiang Xin, Liming Dai. Biomechanics of gecko locomotion: The patterns of reaction forces on inverted, vertical and horizontal substrates. 2015; 10(1): . eScholarID: 286661 | DOI: 10.1088/1748-3190/10/1/016019
+Lei Ren, LQ Ren, ZH Qian. Bionic mechanism design inspired from biological musculoskeletal systems. Bionic mechanism design inspired from biological musculoskeletal systems. 2015:  eScholarID: ma1545
+D Howard, D Hu, Lei Ren. Toward a large-scale predictive musculoskeletal model to simulate human walking. Toward a large-scale predictive musculoskeletal model to simulate human walking. 2015:  eScholarID: ma1539
+A Mohammad, C Nester, D Howard, Lei Ren. Towards a large-scale subject-specific finite element model of human foot musculoskeletal complex. Towards a large-scale subject-specific finite element model of human foot musculoskeletal complex. 2015:  eScholarID: ma1548
+JJ Wang, Lei Ren, LQ Ren, ZH Qian. A dynamic finite element model of human cervical spine with in vivo kinematic validation. Science Bulletin. 2014; 59(0): 4578-4588. eScholarID: ma019
+CF Zong, D Howard, H Dan, Lei Ren. Biomechanical analysis of force distribution in human finger extensor mechanisms. BioMed Research International. 2014; 2014(0): 743460. eScholarID: ma102
+Lei Ren, LQ Ren, ZH Qian. Biomechanics of musculoskeletal system and its biomimetic implications: a review. Journal of Bionic Engineering. 2014; 11(0): 159-175. eScholarID: ma104
+D Hu, Lei Ren, S Raychoudhury. Three-dimensional kinematics of the human metatarsophalangeal joint during level walking. Frontiers in Bioengineering and Biotechnology. 2014; 2(0): 73. eScholarID: ma546
+JR Hutchinson, Lei Ren, LQ Ren, Y Ding, ZH Qian. A Dynamic Finite Element Analysis of Human Foot Complex in the Sagittal Plane during Level Walking. PLoS ONE. 2013; (0): e7942. eScholarID: ma018
+D Howard, D Hu, Lei Ren. A biomechanical analysis of in-vivo forces in human finger tendon networks. A biomechanical analysis of in-vivo forces in human finger tendon networks. 2013:  eScholarID: ma1540
+Lei Ren, LQ Ren, Y Ding, ZH Qian. A material sensitivity analysis of plantar fascia based on a three dimensional finite element musculoskeletal model of human foot complex. A material sensitivity analysis of plantar fascia based on a three dimensional finite element musculoskeletal model of human foot complex. 2013:  eScholarID: ma1541
+D Howard, D Hu, Lei Ren. A novel large-scale predictive model to simulate human walking. A novel large-scale predictive model to simulate human walking. 2013:  eScholarID: ma1546
+JJ Wang, Lei Ren, LQ Ren, T Xu, ZH Qian. An innovative design and structural mechanics analysis of artificial hip joint. An innovative design and structural mechanics analysis of artificial hip joint. 2013:  eScholarID: ma1543
+D Collins, E Webster, J McClymont, KT Bates, Lei Ren, MR Bennett, PL Falkingham, R Savage, RH Crompton, SA Morse, TC Pataky, Z Qian. Does footprint depth correlate with foot motion and pressure?. Journal of The Royal Society Interface. 2013; 10(0): 20130009. eScholarID: ma164
+Lei Ren, Z H Qian. Finite element modelling in musculoskeletal system: overview and generic. Computational Modelling of Biomechanics in the Musculoskeletal System. Zhongmin Jin (eds.), Chapter 2. Woodhead Publishing Ltd.2013:  eScholarID: ma1729
+D Howard, Lei Ren, RK Jones. Mathematical modelling of biomechanical interactions between backpack and bearer during load carriage. Journal of Applied Mathematics. 2013; (0): 32767. eScholarID: ma305
+JR Hutchinson, Lei Ren, O Panagiotopoulou, P Pickering, SE Warner, T Pfau. Size-related biomechanical constraints on foot impacts in ungulate mammals. Size-related biomechanical constraints on foot impacts in ungulate mammals. 2013:  eScholarID: ma1542
+L Chen, Lei Ren. The interplay between stability and energy expenditure in postural control: a modelling study. The interplay between stability and energy expenditure in postural control: a modelling study. 2013:  eScholarID: ma1544
+1. Sharon E. Warner, Phil Pickering, Olga Panagiotopoulou, Thilo Pfau, Lei Ren, John R. Hutchinson. -related biomechanical constraints on foot impacts in ungulate mammals. 2012: -. eScholarID: 177885
+A novel biomechanical model of the human finger tendon network. A novel biomechanical model of the human finger tendon network. 2012: -. eScholarID: 177884
+JR Hutchinson, Lei Ren, O Panagiotopoulou, P Pickering, SE Warner, T Pfau. Size-related changes in foot impact mechanics in hoofed mammals. PLoS ONE. 2012; 8(0): e54784. eScholarID: ma451
+Zhihui Qian, Lei Ren, Yun Ding, Luquan Ren. A three-dimensional musculoskeletal model of the human foot complex using finite element method. 2011: -. eScholarID: 177880
+Lei Ren, P Nassiri Afshar. Dynamic stability of passive bipedal walking on rough terrain: a preliminary simulation study. Journal of Bionic Engineering. 2011; 9(0): 423-433. eScholarID: ma176
+Amaraporn Boonpratatong, Lei Ren. The non-linear property of virtual human leg during level walking. 2011: -. eScholarID: 177877
+K.T. Bates, M.T. Bennett, Lei Ren, R. Savage, R.H. Crompton. Under pressure: how much do footprints tell us about foot motion and pressure?. 2011: -. eScholarID: 177881
+Lin Chen, Lei Ren. interplay between stability and energy expenditure in postural control: a modelling study. 2011: -. eScholarID: 177879
+C Miller, D Schwerda, JR Hutchinson, Lei Ren, M Butler, MS Fischer. The limb segment and joint kinematics of Asian (Elephas maximus) and African (Loxodonta africana) elephants. Journal of Experimental Biology. 2008; 211(0): 2735-2751. eScholarID: ma517
+

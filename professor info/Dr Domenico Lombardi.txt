@@ -1,0 +1,42 @@
+name  role  phone  location  email
+Dr Domenico Lombardi  Lecturer in Geotechnical Engineering  0161-2754544  Pariser Building - C27  domenico.lombardi@manchester.ac.uk  
+
+BIOGRAPHY: 
+Domenico graduated with first class honours (Cum Laude) in Civil Engineering from the University of Sannio (Italy). In 2008, he moved to the University of Bristol (UK) to finish his postgraduate studies, first with an MSc in Offshore Engineering and then with a PhD in Geotechnical Earthquake Engineering. His doctoral studies focused on the effects of soil liquefaction on the dynamic behaviour of pile-supported structures. In 2013, Domenico was appointed as a Foreign Researcher in the Department of Civil and Environmental Engineering at Yamaguchi University (Japan). In Yamaguchi, Domenico investigated the post-liquefaction behaviour of sands and conducted a series of field surveys in the region hit by the 2011 Thoku earthquake, subsequent tsunami and Fukushima Daiichi nuclear disaster.
+
+Domenico is author/co-author of over 20 publications focusing on different civil engineering problems, including long-term performance of offshore wind turbines and design of pile-supported structures in liquefiable soils. His main research interests are in geotechnics and structural dynamics, related to problems of offshore engineering and behaviour of structures under repetitive loading.
+
+
+
+RESEARCH: 
+Geotechnical Earthquake Engineering
+Soil liquefaction
+Offshore Geotechnical Engineering
+Pile driving
+Nuclear Engineering
+Structural Dynamics
+Renewable Energy
+Physical Modelling
+
+PUBLICATION: 
+Lombardi, D & Bhattacharya, S. Evaluation of seismic performance of pile-supported models in liquefiable soils. Earthquake Engineering & Structural Dynamics. 2016; 45(6): 1019-1038. eScholarID: 276002 | DOI: 10.1002/eqe.2716
+A.K. Leung, I.X. Anastasopoulos, C. Augarde, D., Barreto, A.J. Brennan, M.J. Brown, D. Connolly, W. M. Coombs, T. Davies, Z. Gao, A. Ivanovic, M.J. Kenny, J.A. Knappett, D. Lombardi, J. McDougall, G.M. Medero, D. Muir Wood, G. El Mountassir, A.S. Osman, S. Pytharouli, P. Sentenac, B. Stewart, C. Switzer, A. Tarantino, S.J. Wheeler, P.K. Woodward and M. Zielinski. An overview of research activities and achievement in Geotechnics from the Scottish Universities Geotechnics Network (SUGN). Proceedings of the XVI ECSMGE Geotechnical Engineering for Infrastructure and Development. ICE Publishing: 4289-4294. eScholarID: 283198
+Lombardi, D. and Bhattacharya, S. Effect of soil liquefaction on natural frequency and damping of pile-supported structures. Proceedings of Fifth International Conference on Geotechnique, Construction Materials and Environment, GEOMATE. Japan: 2015: -. eScholarID: 281873
+Bhattacharya, S., Ghosh, S., Lombardi, D. and Alexander, N.A. Fundamentals of Engineering Mathematics. ICE Publishing:2015.  eScholarID: 276009
+Lombardi D, Bhattacharya S, Scarpa F, Bianchi M. Dynamic response of a geotechnical rigid model container with absorbing boundaries. Soil Dynamics and Earthquake Engineering. 2015 February; 69: 46-56. eScholarID: 275995 | DOI: 10.1016/j.soildyn.2014.09.008
+Lombardi, D. and Bhattacharya, S. Variation of modal parameters of pile-supported structures in seismically liquefiable soils. Proceedings of Second European Conference on Earthquake Engineering and Seismology (2ECEES)y. Istanbul, Turkey: 2014: 1-9. eScholarID: 276259
+Rouholamin, M., Bhattacharya, S., and Lombardi, D. Winkler springs (p-y curves) for liquefied soil from element tests. Proceedings of the TC105 ISSMGE International Symposium on Geomechanics from Micro to Macro, IS-Cambridge 2014. Cambridge, UK.: 2014: -. eScholarID: 288976
+Lombardi D, Bhattacharya S. Liquefaction of soil in the Emilia-Romagna region after the 2012 Northern Italy earthquake sequence. Natural Hazards. 2014 April; 73(3): 1749-1770. eScholarID: 275998 | DOI: 10.1007/s11069-014-1168-6
+Lombardi D, Bhattacharya S, Hyodo M, Kaneko T. Undrained behaviour of two silica sands and practical implications for modelling SSI in liquefiable soils. Soil Dynamics and Earthquake Engineering. 2014 November; 66: 293-304. eScholarID: 275997 | DOI: 10.1016/j.soildyn.2014.07.010
+Lombardi, D. Dynamics of pile-supported structures in seismically liquefiable soils. Bristol: University of Bristol:2013.  eScholarID: 276012
+Bhattacharya S, Nikitas N, Garnsey J, Alexander N, Cox J, Lombardi D, Muir Wood D, Nash D. Observed dynamic soil–structure interaction in scale testing of offshore wind turbine foundations. Soil Dynamics and Earthquake Engineering. 2013 November; 54: 47-60. eScholarID: 276003 | DOI: 10.1016/j.soildyn.2013.07.012
+Bhattacharya S, Cox J, Lombardi D. Dynamics of offshore wind turbines supported on two foundations. Institution of Civil Engineers. Proceedings. Geotechnical Engineering. 2013 April; 166(2): 159-169. eScholarID: 276005 | DOI: 10.1680/geng.11.00015
+Lombardi D, Bhattacharya S, Muir Wood D. Dynamic soil–structure interaction of monopile supported wind turbines in cohesive soil. Soil Dynamics and Earthquake Engineering. 2013 June; 49: 165-180. eScholarID: 276004 | DOI: 10.1016/j.soildyn.2013.01.015
+Lombardi, D. and Bhattacharya, S. Application of MEMS accelerometer for liquefaction studies. 9th International Conference on Urban Earthquake Engineering/ 4th Asian Conference on Earthquake Engineering. Tokyo, Japan: Center for Urban Earthquake Engineering: 2012: -. eScholarID: 276257
+Bhattacharya, S., Lombardi, D., Dihoru, L., Dietz, M.S., Crewe, A.J. and Taylor, C.A. Model container design for soil-structure interaction studies. Role of Seismic Testing Facilities in Performance-Based Earthquake Engineering. Springer Netherlands.2012:  eScholarID: 276006
+Bhattacharya S, Lombardi D. Sul comportamento sismico delle fondazioni su pali in terreni liquefacibili. Rivista Italiana di Geotecnica. 2012 January; 46(1): 23-34. eScholarID: 276258
+Lombardi, D., Dash, S.R. and Bhattacharya, S. Inclusion of axial load on bending response of pile in liquefiable soils. Proc. 8th International Conference on Urban Earthquake Engineering. Tokyo, Japan: Tokyo Institute of Technology: 2011: 1-5. eScholarID: 276332
+Bhattacharya S, Lombardi D, Muir Wood D. Similitude relationships for physical modelling of monopile-supported offshore wind turbines. International Journal of Physical Modelling in Geotechnics. 2011 June; 11(2): 58-68. eScholarID: 276008 | DOI: 10.1680/ijpmg.2011.11.2.58
+Bhattacharya S, Krishna A, Lombardi D, Crewe A, Alexander N. Economic MEMS based 3-axis water proof accelerometer for dynamic geo-engineering applications. Soil Dynamics and Earthquake Engineering. 2011 December; 36: 111-118. eScholarID: 276007 | DOI: 10.1016/j.soildyn.2011.12.001
+Lombardi, D. Dynamics of Offshore Wind Turbines. Bristol: University of Bristol:2010.  eScholarID: 276013
+

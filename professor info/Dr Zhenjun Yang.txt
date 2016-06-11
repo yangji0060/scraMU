@@ -1,0 +1,32 @@
+name  role  phone  location  email
+Dr Zhenjun Yang  Other  0161-3064645  Pariser Building - E16  zhenjun.yang@manchester.ac.uk  
+
+BIOGRAPHY: 
+
+
+RESEARCH: 
+Computational solid mechanics (FEM and SBFEM)
+Reinforced concrete and FRP strengthening
+Fracture mechanics and modelling
+Structural behaviour under impact and blast
+In-situ X-Ray Computed Tomography (XCT) tests of composites
+
+PUBLICATION: 
+Hu Y, Yang Z. An Element-free Galerkin Method for 3D Crack Propagation Simulation. International Journal for Numerical Methods in Engineering. 2012; 91(12): 1251-1263. eScholarID: 169866 | DOI: 10.1002/nme.4310
+He W, Ren W, Yang Z. Computation of Plane Crack Stress Intensity Factors Using Trigonometric Wavelet Finite Element Method. Fatigue and Fracture of Engineering Materials and Structures. 2012; 35(8): 732-741. eScholarID: 169869 | DOI: 10.1111/j.1460-2695.2011.01626.x
+Judge R, Yang Z, Jones S, Beattie G. Full 3D Finite Element Modelling of Spiral Strand Cables. Construction and Building Materials. 2012; 35: 452-459. eScholarID: 169861 | DOI: 10.1016/j.conbuildmat.2011.12.073
+Ooi ET, Yang Z, Guo Z. Modelling dynamic cohesive crack propagation using the scaled boundary finite element method. Fatigue and Fracture of Engineering Materials and Structures. 2012; 35(8): 786-800. eScholarID: 169865 | DOI: 10.1111/j.1460-2695.2011.01652.x
+Ooi ET, Song CM, Tin-Loi F, Yang Z. Polygon scaled boundary finite elements for crack propagation modelling. International Journal for Numerical Methods in Engineering. 2012; 91(3): 319-342. eScholarID: 169862 | DOI: 10.1002/nme.4284
+Xiao JZ, Xie H, Yang Z. Shear transfer across a crack in recycled aggregate concrete. Cement and Concrete Research. 2012; 42(5): 700-709. eScholarID: 169864 | DOI: 10.1016/j.cemconres.2012.02.006
+Ooi E, Yang Z. Modelling crack propagation in reinforced concrete using a hybrid finite element-scaled boundary finite element method. Engineering Fracture Mechanics. 2011; 78(2): 252-273. eScholarID: 135481 | DOI: 10.1016/j.engfracmech.2010.08.002
+Ooi E, Yang Z. Modelling dynamic crack propagation using the scaled boundary finite element method. International Journal for Numerical Methods in Engineering. 2011; 88(4): 329-349. eScholarID: 135486 | DOI: 10.1002/nme.3177
+Yang Z, Zhang Z, Liu G, Ooi E. An h-hierarchical adaptive scaled boundary finite element method for elastodynamics. Computers and Structures. 2011; 89(13-14): 1417-1429. eScholarID: 135480 | DOI: 10.1016/j.compstruc.2011.03.006
+Ren FF, Yang ZJ, Chen WW and Chen JF. Analytical solution to the full-range behaviour of grouted rockbolts based on a tri-linear bond-slip model. Construction and Building Materials. 2010; 24(3): 361-370. eScholarID: 135487 | DOI: 10.1016/j.conbuildmat.2009.08.021
+Su XT, Yang ZJ and Liu GH. Monte Carlo simulation of complex cohesive fracture in random heterogeneous quasi-brittle materials: A 3D study. International Journal of Solids and Structures. 2010; 47(17): 2336-2345. eScholarID: 135490 | DOI: 10.1016/j.ijsolstr.2010.04.031
+Ooi E, Yang Z. A hybrid finite element-scaled boundary finite element method for crack propagation modelling. Computer Methods in Applied Mechanics and Engineering. 2010; 199(17-20): 1178-1187. eScholarID: 135479 | DOI: 10.1016/j.cma.2009.12.005
+Ooi E, Yang Z. Efficient prediction of deterministic size effects using the scaled boundary finite element method. Engineering Fracture Mechanics. 2010; 77(6): 985-1000. eScholarID: 135482 | DOI: 10.1016/j.engfracmech.2010.01.002
+Su X, Yang Z, Liu G. Finite element modelling of complex 3D static and dynamic crack propagation by embedding cohesive elements in Abaqus. Acta Mechanica Solida Sinica. 2010; 23(3): 271-282. eScholarID: 135484
+Yang ZJ, Su XT, Chen JF and Liu GH. Monte Carlo simulation of complex cohesive fracture in random heterogeneous quasi-brittle materials. International Journal of Solids and Structures. 2009; 46(17): 3222-3234. eScholarID: 135492 | DOI: 10.1016/j.ijsolstr.2009.04.013
+Ooi E, Yang Z. Modelling multiple cohesive crack propagation using a finite element-scaled boundary finite element coupled method. Engineering Analysis with Boundary Elements. 2009; 33(7): 915-929. eScholarID: 135485 | DOI: 10.1016/j.enganabound.2009.01.006
+Yang Z, Xu X. A heterogeneous cohesive model for quasi-brittle materials considering spatially varying random fracture properties. Computer Methods in Applied Mechanics and Engineering. 2008; 197(45-48): 4027-4039. eScholarID: 135483 | DOI: 10.1016/j.cma.2008.03.027
+

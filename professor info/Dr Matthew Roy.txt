@@ -1,0 +1,41 @@
+name  role  phone  location  email
+Dr Matthew Roy  Lecturer in Materials for Demanding Environments  0161-2754316  Pariser Building - B49  matthew.roy@manchester.ac.uk  
+
+BIOGRAPHY: 
+Matthew Roy attained an undergraduate degree in Integrated Engineering and a Masters in Mechanical and Materials Engineering from Western University, followed by a PhD in Materials Engineering from the University of British Columbia in Canada. He has worked on a number of industry-driven research projects throughout which focussing on design, advanced manufacturing and materials processing.
+He joined the University of Manchester in 2013 as a Research Associate in weld modelling where he coordinated research into predicting and characterising residual stress and weld metallurgy. In 2014, he assumed the post of Lecturer in Materials for Demanding Environments to support a new EPSRC Centre for Doctoral Training. This new centre is aimed at developing interdisciplinary approaches required to address materials challenges in the oil and gas, aerospace and nuclear sectors.
+His principal research interests are advanced manufacturing and materials processing, linking processing methodology to the in-service life of resulting components. His research topics include incremental metal forming, casting, welding and other near-net shape manufacturing methods involving thermomechanical processing.
+
+RESEARCH: 
+Materials engineering
+Materials processing
+Metal forming
+Welding
+
+PUBLICATION: 
+Martina F, Roy M, Szost B, Terzi S, Colegrove P, Williams S, Withers P, Meyer J, Hofmann M. Residual stress of as-deposited and rolled wire+arc additive manufacturing Ti–6Al–4V components. Materials Science and Technology. 2016 February; 0(0): 1-10. eScholarID: 299765 | DOI: 10.1080/02670836.2016.1142704
+Yashar Javadi and Khaled Azari and Seyed Mahmoud Ghalehbandi and M. J. Roy. Comparison between using longitudinal and shear waves in ultrasonic stress measurement to investigate the effect of post-weld heat-treatment on welding residual stresses. Research in Nondestructive Evaluation. 2015;  eScholarID: 292795 | DOI: 10.1080/09349847.2015.1123786
+Mohamed Iben Houria, Yves Nadot, Raouf Fathallah, Matthew Roy, Daan M. Maijer. Influence of casting defect and SDAS on the multiaxial fatigue behaviour of A356-T6 alloy including mean stress effect. 2015;  eScholarID: 265630 | DOI: 10.1016/j.ijfatigue.2015.05.012
+Upul S. Fernando, Michelle Davidson, Christopher Simpson, Thilo Pirling, Kun Yan, Mark D. Callaghan, Matthew Roy, John A. Francis, Philip J. Withers. Measurement of residual stress shakedown in pressure/tensile armour wires of flexible pipes by neutron diffraction. Proceedings of the ASME 2015 34th International Conference on Ocean, Offshore and Arctic Engineering (OMAE2015). American Society of Mechanical Engineers: 2015: 1-8. eScholarID: 272926
+M. J. Roy and D. M. Maijer. Analysis and modelling of a rotary forming process for cast aluminum alloy A356. Journal of Materials Processing Technology. 2015;  eScholarID: 269372 | DOI: 10.1016/j.jmatprotec.2015.06.036
+D M Maijer, J Zhao, Matthew Roy. Fatigue characterization of flowformed A356-T6. Fatigue characterization of flowformed A356-T6. 2014:  eScholarID: ma1597
+D M Maijer, M Iben Houria, Matthew Roy, R Fathallah, Y Nadot. Fatigue design of A356-T6 under multiaxial loading. Fatigue design of A356-T6 under multiaxial loading. 2014:  eScholarID: ma1595
+B A Szost, D Jarvis, F Martina, Matthew Roy, P A Colegrove, P J Withers, S Terzi, S W Williams. High pressure interpass rolling of Wire + Arc Additvely Manufactured titanium components. ECRS-9: European Conference on Residual Stresses. 2014: -. eScholarID: ma1599
+D M Maijer, Matthew Roy, Y Nadot. Improvement of fatigue properties in cast aluminum A356 by warm deformation. MS&T 2014: Fatigue of Materials III: Advances and Emergences in Understanding. 2014: -. eScholarID: ma1600 | DOI: 10.1002/9781119041498.ch1
+D M Maijer, M Iben Houria, Matthew Roy, R Fathallah, Y Nadot. Mean stress effect under Multi-Axial High Cycle Fatigue loading for cast A356-T6 alloy. Mean stress effect under Multi-Axial High Cycle Fatigue loading for cast A356-T6 alloy. 2014:  eScholarID: ma1598
+A H Sherry, A Vasileiou, J Balakrishnan, John Francis, Lin Li, M D Callaghan, Matthew Roy, Michael Smith, N M Irvine, Wei Guo. Overview of welding research under the New Nuclear Manufacturing (NNUMAN) programme. Proceedings of the ASME 2014 Pressure Vessel and Piping Conference. 2014: -. eScholarID: ma1151
+J N Walsh, Matthew Roy, P J Withers. Residual stresses through multipass welds in Inconel 600. MS&T 2014. 2014: -. eScholarID: ma1601
+Colegrove, P A, F  Martina, M J  Roy, B A  Szost, S  Terzi, S W  Williams, P J  Withers, and D  Jarvis. High pressure interpass rolling of Wire + Arc additively manufactured titanium components. 2014: 694-700. eScholarID: 261775 | DOI: 10.4028/www.scientific.net/AMR.996.694
+Jeyaganesh, B, M D  Callaghan, J A  Francis, P D  English, A  Vasileiou, M J  Roy, W  Guo, N M  Irvine, M C  Smith, L  Li, and A H  Sherry. Overview of welding research under the New Nuclear Manufacturing (NNUMAN) programme. 2014:  eScholarID: 261781 | DOI: 10.1115/PVP2014-29015
+Roy, M J, D M  Maijer, and J  Zhao. Fatigue characterization of flowformed A356-T6. 2014:  eScholarID: 261776 | DOI: 10.1051/matecconf/20141203001
+Roy M, Maijer D. Response of A356 to warm rotary forming and subsequent T6 heat treatment. Materials Science and Engineering A. 2014; 611: 223-233. eScholarID: 261780 | DOI: 10.1016/j.msea.2014.05.088
+D M Maijer, Matthew Roy. Modeling of As-Cast A356 for Coupled Explicit Finite Element Analysis. Modeling of As-Cast A356 for Coupled Explicit Finite Element Analysis. 2012: -. eScholarID: ma1596
+Roy M, Nadot Y, Maijer D, Benoit G. Multiaxial fatigue behaviour of A356-T6. Fatigue and Fracture of Engineering Materials and Structures. 2012; 35(12): 1148-1159. eScholarID: 261778 | DOI: 10.1111/j.1460-2695.2012.01702.x
+Roy M, Maijer D, Dancoine L. Constitutive behavior of as-cast A356. Materials Science and Engineering A. 2012; 548: 195-205. eScholarID: 261771 | DOI: 10.1016/j.msea.2012.03.106
+Roy, M J, and D M  Maijer. Modeling of as-cast A356 for coupled explicit finite element analysis. 2012: 377-382. eScholarID: 261779
+Roy M, Nadot Y, Nadot-Martin C, Bardin P, Maijer D. Multiaxial Kitagawa analysis of A356-T6. International Journal of Fatigue. 2011; 33(6): 823-832. eScholarID: 261777 | DOI: 10.1016/j.ijfatigue.2010.12.011
+Roy M, Maijer D, Klassen R, Wood J, Schost E. Analytical solution of the tooling/workpiece contact interface shape during a flow forming operation. Journal of Materials Processing Technology. 2010; 210(14): 1976-1985. eScholarID: 261772 | DOI: 10.1016/j.jmatprotec.2010.07.011
+Roy M, Klassen R, Wood J. Evolution of plastic strain during a flow forming process. Journal of Materials Processing Technology. 2009; 209(2): 1018-1025. eScholarID: 261773 | DOI: 10.1016/j.jmatprotec.2008.03.030
+J T Wood, Matthew Roy, P Tomlinson, R J Klassen. Distribution of Local Strain during Single-Roller Flow Forming of 1020 Steel. Distribution of Local Strain during Single-Roller Flow Forming of 1020 Steel. 2007: -. eScholarID: ma1602
+J T Wood, Matthew Roy, P Tomlinson, R J Klassen. Numerical Strain Analysis of a Flow Forming Operation. Numerical Strain Analysis of a Flow Forming Operation. 2007: -. eScholarID: ma1594
+

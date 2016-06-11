@@ -1,0 +1,31 @@
+name  role  phone  location  email
+Dr Adrian Bell  Senior Lecturer  0161-3064593  Pariser Building - C6  adrian.bell@manchester.ac.uk  
+
+BIOGRAPHY: 
+Adrian read Civil Engineering at the University of Liverpool before moving to UMIST to study for the degree of MSc in Structural Engineering and then PhD for research in the dynamic behaviour of long span bridges. After leaving UMIST he spent seven years with consulting engineers working on structural projects, particularly long span roofs and tower and mast structures, in the UK and Hong Kong before returning to UMIST as a member of academic staff. Since returning to UMIST he has maintained close contact with industry. In addition to teaching and research Adrian is the Department Director of International Studies and Undergraduate Admissions Tutor.
+Adrian Bell is President of The International Masonry Society for 2010-11.
+
+RESEARCH: 
+Structural masonry static &
+dynamic behaviour, prestressed masonry
+Telecommunication tower and mast structures
+Structural dynamics
+Historic structures
+Bolted tubular steel joints
+
+PUBLICATION: 
+Adrian Bell, Tianjian Ji. Case Study: enhancing the elearning of structural concepts through using a website and Blackboard. Case Study: enhancing the elearning of structural concepts through using a website and Blackboard. 2009 May;  eScholarID: ma774
+Li S, Wei J, Li T, Li Q, Bell A. Repair and enforcement evaluation of an ancient masonry pagoda based on the change of stiffness identified from modal test. Journal of Structural Engineering. 2009; 135: 67-77. eScholarID: 1e791 | DOI: 10.1061/(ASCE)0733- 9445(2009)135:1(67)
+Ji, Tianjian, and Adrian  Bell. Enhancing the teaching and learning of structural concepts through experience seeing and touching. 2008:  eScholarID: 2e881
+Ji T, Ellis B, Bell A. Horizontal movements of frame structures induced by vertical loads. Proceedings of ICE, Structures and Buildings. 2003; 156(2): 141-150. eScholarID: 1e1025 | DOI: 10.1680/stbu.2003.156.2.141
+Bell A, Mirza S, Pettit G, Phipps M. Compressive strength of voided concrete block masonry. 1999;  eScholarID: 1e1232
+Bell A. Strength of concrete blockwork masonry. 1999;  eScholarID: 1e1235
+Bell A, Mercer I, Phipps M. Creep of Masonry. Masonry International. 1998; 12(1):  eScholarID: 1e1228
+Adrian Bell, L Yang, M Phipps. Analysis of short masonry columns of geometric cross sectionm, Shanghai. 1997; (0):  eScholarID: ma080
+Bell A, Phipps M, Yang L. Analysis of short masonry columns of geometric cross sectionm, Shanghai. 1997 October;  eScholarID: 1e1217
+Bell A, Cao J. Determination of bolt forces in a Circular Flange Joint under Tension Force. International Journal of Pressure Vessels and Piping. 1996; 68(1):  eScholarID: 1e1190
+Bell A, Cao J. Experimental Study of Circular Flange Joints in Tubular Structures. Journal of Strain Analysis. 1996; 31(4):  eScholarID: 1e1180
+Bell, Adrian. Prying Action in Bolted Circular Flange Joints in Tubular Structures. 7th International Symposium on Tubular Structures, Miskolc, Hungary. 1996: 107-114. eScholarID: 2e186
+Bell A, Cao J, Xu K. Torsional Analysis of Lattice Towers. International Journal of Space Structures. 1996; 11(3):  eScholarID: 1e1206
+Phipps, M E, Adrian  Bell, and Tom  Swailes. Masonry column tests. Proc British Masonry Society 6, Proc 3rd International Masonry Conference. 1994: 168-172. eScholarID: 2e324
+

@@ -1,0 +1,44 @@
+name  role  phone  location  email
+Dr Andrea Bottacin Busolin  Lecturer  0161-3068970  Pariser Building - B15  andrea.bottacinbusolin@manchester.ac.uk  
+
+BIOGRAPHY: 
+Dr Andrea Bottacin-Busolin joined the University of Manchester as a Lecturer in Water Engineering in January 2014. He obtained a PhD in Civil and Environmental Engineering Sciences and an MSc in Environmental Engineering from the University of Padua, Italy. After completing his PhD studies, Andrea worked as an engineering consultant specializing in hydraulic engineering services and micro-hydropower technologies. He later joined the Department of Land and Water Resources Engineering at the Royal Institute of Technology (KTH), Sweden, where he served as Assistant Professor until taking up his current position.
+Andrea's research interests cut across environmental fluid dynamics, hydrology and water resources management. A primary focus of his research has been the modelling of flow and transport processes in fluvial environment, with a focus on surface-subsurface interactions. He has also worked on the application of stochastic optimisation methods and dynamic programming techniques to the operation of water reservoir networks for generation of hydroelectric power and mitigation of flood risk. His current research interests include:
+
+RESEARCH: 
+Environmental Fluid Dynamics
+Surface Water and Groundwater Hydrology
+Water Resources Systems Modelling and Optimisation
+
+PUBLICATION: 
+Savickis J, Bottacin-Busolin A, Zaramella M, Sabokrouhiyeh N, Marion A. Effect of a meandering channel on wetland performance. Journal of Hydrology. 2016; 204-2010. eScholarID: 297922 | DOI: 10.1016/j.jhydrol.2016.01.082
+Bottacin-Busolin A, Fabris L, Zaramella M, Marion A. A numerical study of the effects of vegetation patterns on wetland performance. 2015: -. eScholarID: 271655
+Bottacin-Busolin A, Worman A. Assessing trade-offs between hydropower production and flood control in the Dalalven River basin, Sweden. -. eScholarID: 271656
+Sabokrouhiyeh N, Bottacin-Busolin A, Nepf H, Marion A. Effects of vegetation density and aspect ratio on the hydraulic efficiency of wetlands. 2015: -. eScholarID: 271657
+Zaramella M, Bottacin-Busolin A, Tregnaghi M, Marion A. Exchange of Pollutants Between Rivers and the Surrounding Environment: Physical Processes, Modelling Approaches and Experimental Methods. In: P Rowinski, A Radecki-Pawlik, ed. Rivers – Physical, Fluvial and Environmental Processes. Springer International Publishing.2015:  eScholarID: 277569 | DOI: 10.1007/978-3-319-17719-9
+Savickis J, Zaramella M, Bottacin-Busolin A, Nützmann G, Marion A. Impact of vegetation and flow rate on in-stream longitudinal dispersion and retention processes. 2015: -. eScholarID: 271658
+Zmijewski N, Bottacin-Busolin A, Worman A. Incorporating Hydrologic Routing into Reservoir Operation Models: Implications for Hydropower Production Planning. Water Resources Management. 2015; 1-18. eScholarID: 292737 | DOI: 10.1007/s11269-015-1181-x
+Ahmad N, Worman A, Bottacin-Busolin A, Sanchez-Vila X. Reactive transport modelling of leaking CO2-saturated brine along a fractured pathway. International Journal of Greenhouse Gas Control. 2015 November; 42: 672-689. eScholarID: 277326 | DOI: 10.1016/j.ijggc.2015.09.001
+Åkesson A, Wörman A, Bottacin-Busolin A. Hydraulic response in flooded stream networks. Water Resources Research. 2015;  eScholarID: 254254 | DOI: 10.1002/2014WR016279
+Musner T, Bottacin-Busolin A, Zaramella M, Marion A. A contaminant transport model for wetlands accounting for distinct residence time bimodality. Journal of Hydrology. 2014 July; 515: 237-246. eScholarID: 254250 | DOI: 10.1016/j.jhydrol.2014.04.043
+Yang J, Liu T, Bottacin-Busolin A, Lin C. Effects of intake-entrance profiles on free-surface vortices. Journal of Hydraulic Research. 2014 July; 52(4): 523-531. eScholarID: 254251 | DOI: 10.1080/00221686.2014.905504
+Bottacin-Busolin, Andrea, and Anders Wörman. Reducing the risk of flood in lower Dalälven by optimal reservoir operation. Sweden: Länsstyrelsen Gävleborg: 2013.  eScholarID: 258746
+Musner T, Bottacin-Busolin A, Marion A. Effect of vegetation density on solute residence time distributions in wetlands. 2012: -. eScholarID: 258734
+Tregnaghi M, Bottacin-Busolin A, Marion A, Tait S. Stochastic determination of entrainment risk in uniformly sized sediment beds at low transport stages: 1. Theory. Journal of Geophysical Research: Earth Surface. 2012 December; 117(F4): F04004. eScholarID: 254262 | DOI: 10.1029/2011JF002134
+Tregnaghi M, Bottacin-Busolin A, Tait S, Marion A. Stochastic determination of entrainment risk in uniformly sized sediment beds at low transport stages: 2. Experiments. Journal of Geophysical Research: Earth Surface. 2012 December; 117(F4): F04005. eScholarID: 254263 | DOI: 10.1029/2011JF002135
+Wörman A, Riml J, Schmadel N, Neilson B, Bottacin-Busolin A, Heavilin J. Spectral scaling of heat fluxes in streambed sediments. Geophysical Research Letters. 2012 December; 39(23): L23402. eScholarID: 254261 | DOI: 10.1029/2012GL053922
+Bottacin-Busolin A, Marion A, Musner T, Tregnaghi M, Zaramella M. Evidence of distinct contaminant transport patterns in rivers using tracer tests and a multiple domain retention model. Advances in Water Resources. 2011 June; 34(6): 737-746. eScholarID: 254255 | DOI: 10.1016/j.advwatres.2011.03.005
+Fabian M, Endreny T, Bottacin-Busolin A, Lautz L. Seasonal variation in cascade-driven hyporheic exchange, northern Honduras. Hydrological Processes. 2011; 25(10): 1630-1646. eScholarID: 254259 | DOI: 10.1002/hyp.7924
+Tregnaghi M, Marion A, Bottacin-Busolin A, Tait S. Modelling time varying scouring at bed sills. Earth Surface Processes and Landforms. 2011; 36(13): 1761-1769. eScholarID: 254257 | DOI: 10.1002/esp.2198
+Tregnaghi M, Bottacin-Busolin A, Tait SJ, Marion A. 3D nearbed flow field measurements at low sediment transport rates. 2010: -. eScholarID: 258738
+Zaramella M, Bottacin-Busolin A, Musner T, Marion A. Determining surface and hyporheic retention in the Yarqon River, Israel. 2010: -. eScholarID: 258741
+Tregnaghi M, Bottacin-Busolin A, Tait SJ, Marion A. Linking the near-bed velocity field with grain motion over a gravel deposit. 2010: -. eScholarID: 258737
+Bottacin-Busolin A, Marion A. Combined role of advective pumping and mechanical dispersion on time scales of bed form-induced hyporheic exchange. Water Resources Research. 2010 August; 46(8): W08518. eScholarID: 254252 | DOI: 10.1029/2009WR008892
+Bottacin-Busolin A, Singer G, Zaramella M, Battin T, Marion A. Effects of Streambed Morphology and Biofilm Growth on the Transient Storage of Solutes. Environmental Science & Technology. 2009 October; 43(19): 7337-7342. eScholarID: 254253 | DOI: 10.1021/es900852w
+Bottacin-Busolin A., Marion A., and Zaramella M. Modellazione a tempi di residenza del trasporto di soluti nei corsi d'acqua: Applicazione al fiume Yarqon, Israele. 2008: -. eScholarID: 258747
+Bottacin-Busolin A, Tait S, Marion A, Chegini A, Tregnaghi M. Probabilistic description of grain resistance from simultaneous flow field and grain motion measurements. Water Resources Research. 2008; 44(9): W09419. eScholarID: 254258 | DOI: 10.1029/2007WR006224
+Marion A, Zaramella M, Bottacin-Busolin A. Solute transport in rivers with multiple storage zones: The STIR model. Water Resources Research. 2008; 44(10): W10406. eScholarID: 254260 | DOI: 10.1029/2008WR007037
+Marion A, Packman A, Zaramella M, Bottacin-Busolin A. Hyporheic flows in stratified beds. Water Resources Research. 2008 September; 44(9): W09433. eScholarID: 254256 | DOI: 10.1029/2007WR006079
+Zaramella M, Marion A, Packman A, Bottacin-Busolin A. Effect of the vertical structure of a porous bed on hyporheic exchange. 2007: -. eScholarID: 258744
+Marion A, Bottacin-Busolin A, Tait S, Tregnaghi M. Near-bed flow field measurements at threshold of sediment motion. -. eScholarID: 258743
+

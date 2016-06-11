@@ -1,0 +1,68 @@
+name  role  phone  location  email
+Dr Parthasarathi Mandal  Senior Lecturer, Programme Director (UG Civil Engineering), Theme Leader (Bio-Engineering)  0161-3064622  Pariser Building - C6  partha.mandal@manchester.ac.uk  
+
+BIOGRAPHY: 
+After his PhD from Cambridge University, Partha Mandal went on to join the University of Manchester (then UMIST), first as a research associate on an EPSRC sponsored project, and within eight months as a lecturer in the School of Mechanical, Aerospace and Civil Engineering.
+His research on the buckling of shell structures provided a new explanation for the well-known paradoxical behaviour of cylindrical shells under axial compressions, and he has published widely on this. He has also acted as a reviewer for various academic journals such as the SIAM Journal on Scientific Computing.
+His current research areas include Bio-engineering, Mechanics of Woven Composites, and Structural Mechanics. These involve both analytical and experimental methods. He leads the Bio-engineering research theme at the School.
+He has completed supervision of 16 PhD students so far, and currently supervising 12 PhD Students.
+His current administrative and professional roles include
+Undergraduate Civil Engineering Programme Director (from Jul'13)
+Bio-Engineering Theme Leader (from Oct'12)
+Co-Director Manchester Institute for Collaborative Research on Ageing (MICRA) (from Jan'14)
+Academic Advisor, Commonwealth Scholarship Commission (Jan'14-Dec'16)
+
+RESEARCH: 
+Bio-Engineering
+Computatinoal Mechanics
+Thin Walled Structures
+
+PUBLICATION: 
+GA Susila, Parthasarathi Mandal, Tom Swailes. A Comparison of the Structural Performance of Low-Rise Timber Framed Buildings and Masonry Buildings in a Developing Country (Indonesia). A Comparison of the Structural Performance of Low-Rise Timber Framed Buildings and Masonry Buildings in a Developing Country (Indonesia). 2014:  eScholarID: ma1164
+J Hearle, N Das Chakladar, P Potluri, Parthasarathi Mandal. Application of Abaqus beam elements to model mechanical properties of woven fabric. Application of Abaqus beam elements to model mechanical properties of woven fabric. 2014:  eScholarID: ma1192
+Parthasarathi Mandal, S Elsawaf, Y Wang. Behaviour of steel beams connected to CFT column in fire during colling stage. Behaviour of steel beams connected to CFT column in fire during colling stage. 2014:  eScholarID: ma1193
+J Wang, Parthasarathi Mandal, Paul Nedwell. Ductility of ferrocement columns. Ductility of ferrocement columns. 2014:  eScholarID: ma1158
+ND Chakladar, P Potluri, Parthasarathi Mandal. Effects of inter-tow angle and tow size on carbon fibre friction. Composites Part A: Appied Science and Manufacturing. 2014; (0):  eScholarID: ma189
+B Al-Humeidawi, Parthasarathi Mandal. Evaluation of performance and design of GFRP dowels in jointed plain concrete pavement - Part 2: numerical simulation and design consideration. International Journal of Pavement Engineering. 2014; (0):  eScholarID: ma206
+BH Al-Humeidawi, Parthasarathi Mandal. Evaluation of performance and design of GFRP dowels in jointed plain concrete pavement - part 1: experimental investigation. International Journal of Pavement Engineering. 2014; 15(5): 449-459. eScholarID: ma205
+N Das Chakladar, P Potluri, Parthasarathi Mandal. Multi-scale modelling of compaction of fibre assemblies. Multi-scale modelling of compaction of fibre assemblies. 2014:  eScholarID: ma1191
+N Das Chakladar, P Potluri, Parthasarathi Mandal. Multi-scale modelling of fibre bundles. Multi-scale modelling of fibre bundles. 2014:  eScholarID: ma1195
+C Ince, CY Toklu, Parthasarathi Mandal, S Derogar. Non-linear modeling of flat-plate system under cyclic loading. Non-linear modeling of flat-plate system under cyclic loading. 2014:  eScholarID: ma1194
+Parthasarathi Mandal, Paul Nedwell, S Tian. Shear behaviour of ferrocement beams: experimental and FEM study. Shear behaviour of ferrocement beams: experimental and FEM study. 2014:  eScholarID: ma1159
+Al-Humeidawi B, Mandal P. Evaluation of performance and design of GFRP dowels in jointed plain concrete pavement–part 2: numerical simulation and design considerations. International Journal of Pavement Engineering. 2014; 15(8): 752-765. eScholarID: 254009
+Al-Humeidawi B, Mandal P. Evaluation of performance and design of GFRP dowels in jointed plain concrete pavement–part 1: experimental investigation. International Journal of Pavement Engineering. 2014; 15(5): 449-459. eScholarID: 254011
+Chakladar N, Mandal P, Potluri P. Effects of inter-tow angle and tow size on carbon fibre friction. Composites Part A: Applied Science and Manufacturing. 2014; 65: 115-124. eScholarID: 254012
+Suarez E, Syed F, Rasgado T, Walmsley A, Mandal P, Bayat A. Skin equivalent tensional force alters keloid fibroblast behavior and phenotype. Wound Repair and Regeneration. 2014; 22(5): 557-568. eScholarID: 254014
+Buckling and Post-Buckling of Composite Shells with Asymmetric Meshing in Form of Axial Band in Numerical Model. 2014.  eScholarID: 254008
+H. Al-Aasam and P. Mandal. A simplified procedure to calculate by hand the natural periods of semirigid steel frames. Journal of Structural Engineering. 2013 June; 139(6): 1082-1087. eScholarID: 178640 | DOI: 10.1061/(ASCE)ST.1943-541X.0000695
+N Daschakladar, P Potluri, Parthasarathi Mandal. Efficient finite element modelling of fibre assmeblies. In: J. Hearle, ed. Efficient finite element modelling of fibre assmeblies. 2013:  eScholarID: ma1190
+Parthasarathi Mandal, ZR Tahir. Numerical Study on Buckling Behaviour of Composite Cylindrical Shells under Axial Compressive Load with Asymmetric meshing Technique. Applied Mechanics and Materials, AMM. 2013; 390(0): 198-203. eScholarID: ma356
+A Chavez-Arreola, Parthasarathi Mandal, T Alonso-Rasgado, TN Board, Z Zou. Optimization of the Position of the Acetabulum in a Ganz. Journal of Orthopaedic Research. 2013; 31(0): 472-479. eScholarID: ma387
+E. Suarez, F. Syed, T. A. Rasgado, P. Mandal, A. Bayat. Up-Regulation of Tension-Related Proteins in Keloids: Knockdown of Hsp27, α2β1-Integrin, and PAI-2 Shows Convincing Reduction of Extracellular Matrix Production. Plastic and Reconstructive Surgery. 2013 February; 131(2): 158e-173e. eScholarID: 178748 | DOI: 10.1097/PRS.0b013e3182789b2b
+Zou Z, Chávez‐Arreola A, Mandal P, Board T, Alonso‐Rasgado T. Optimization of the position of the acetabulum in a ganz periacetabular osteotomy by finite element analysis. Journal of Orthopaedic Research. 2013; 31(3): 472-479. eScholarID: 254013
+T. Alonso-Rasgado, D. Jimenez-Cruz, C.G. Bailey, P. Mandal, T. Board. Changes in the stress in the femoral head neck junction after osteochondroplasty for hip impingement: A finite element study. Journal of Orthopaedic Research. 2012 December; 30(12): 1999-2006. eScholarID: 178644 | DOI: 10.1002/jor.22164
+Colin Bailey, D Jimenez-Cruz, Parthasarathi Mandal, T Board, Teresa Alonso-Rasgado. Changes in the stress in the femoral head neck junction after osteochondroplasty for hip impingement: finite element study. Journal of Orthopaedic Research. 2012; 30(0): 1999-2006. eScholarID: ma113
+J. Mendoza, A. Sebastian, E. Allan, D. Allan, P. Mandal, T. Alonso-Rasgado, A. Bayat. Differential cytotoxic response in keloid fibroblasts exposed to photodynamic therapy is dependent on photosensitiser precursor, fluence and location of fibroblasts within the lesion. Archives of Dermatological Research. 2012 September; 304(7): 549-562. eScholarID: 178756 | DOI: 10.1007/s00403-012-1264-y
+N Das Chakladar, Parthasarathi Mandal, S K Pal. Drilling of woven glass fibre reinforced plastic an experimental and finite element study. International Journal of Advanced Manufacturing Technology. 2012; 58(0): 267-278. eScholarID: ma167
+N. Das Chakladar, S. K. Pal, and P. Mandal. Drilling of woven glass fibre reinforced plastic – an experimental and finite element study. International Journal of Advanced Manufacturing Technology. 2012 January; 58(1-4): 267-278. eScholarID: 152377 | DOI: 10.1007/s00170-011-3386-3
+D Jimenez-Cruz, Parthasarathi Mandal, T Board, Teresa Alonso-Rasgado, Zhenmin Zou. Investigation of the fracture mechanism of the osteoporotic and non-osteoporotic femoral head after ostechondroplasty for hip impingement:Finite Eleme. Investigation of the fracture mechanism of the osteoporotic and non-osteoporotic femoral head after ostechondroplasty for hip impingement:Finite Eleme. 2012:  eScholarID: ma1176
+A Bayat, A Sebastian, D Allan, E Allan, JG Mendoza, Parthasarathi Mandal, Teresa Alonso-Rasgado. Photodynamic therapy induced cytotoxicity in site-specific keloid fibroblasts, Wound Repair and Regeneration. Photodynamic therapy induced cytotoxicity in site-specific keloid fibroblasts, Wound Repair and Regeneration. 2012:  eScholarID: ma1178
+A Bayat, E Suarez, F Syed, Parthasarathi Mandal, Teresa Alonso-Rasgado. Up-regulation of tension related proteins in keloids: knockdown of Hsp27, Alpha 2-integrin and PAI-2 show convincing reduction of ECM production, Woun. Up-regulation of tension related proteins in keloids: knockdown of Hsp27, Alpha 2-integrin and PAI-2 show convincing reduction of ECM production, Woun. 2012:  eScholarID: ma1177
+Joshi H, Pal S, Chakraborty G, Mandal P. Estimation of Thrust Force Using Finite Element Analysis During Drilling of GFRP Composites. International Journal of Global Technology Initiatives. 2012; 1(1): B1-B5. eScholarID: 254010
+Z. Tahir, P. Mandal. Effect of Asymmetric Meshing Technique on Buckling of Composite Laminated Cylindrical Shells. 2011: -. eScholarID: 153487
+B. Al-Humeidawi and P. Mandal. Investigation of different dowel and pavement parameters on joint lockup. 2011: -. eScholarID: 152380
+S. Elsawaf, Y. Wang, and P. Mandal. Numerical modelling of restrained structural subassemblies of steel beam and CFT columns connected using reverse channels in fire. Engineering Structures. 2011 April; 33(4): 1217-1231. eScholarID: 152378 | DOI: 10.1016/j.engstruct.2010.12.043
+Parthasarathi Mandal, S Elsawaf, Yong Wang. Numerical modelling of restrained structural subassemblies of steel beams and CFT columns connected using reverse channels in fire. Engineering Structures. 2011; 33(0): 1217-1231. eScholarID: ma350
+S. Elsawaf, Y. Wang, P. Mandal. Numerical modelling of restrained structural subassemblies of steel beam to CFT column in fire. 2010: -. eScholarID: 153486
+Calladine, C.R, Mandal, P. Vibrational frequencies of a Guastavino spiral staircase shell. Structures and Granular Solids. CRC Press.2008:  eScholarID: ma1654
+Mandal P, Calladine C. Structures and Granular Solids. CRC Press.2008:  eScholarID: 3e25
+Mandal, Parthasarathi. Koiter Circle and the Buckling of Thin Cylindrical Shells. Proceeding of Structural Engineering Convention (SEC-2005). 2005:  eScholarID: 2e432
+Mandal, Parthasarathi. Some new thoughts on th buckling of thin cylindrical shells. Proceedings of the 21st International Congress of Applied and Theoretical Mechanics (IUTAM). 2004:  eScholarID: 2e431
+Parthasarathi Mandal. Prediction of Buckling Load from Vibration Measurements. New Approaches to Structural Mechanics, Shells and Biological Structures. Springer.2002:  eScholarID: ma1647
+MANDAL P. Prediction of buckling load from vibration measurements. In: H. Drew and S. Pellegrino, ed. New Approaches to Structural Mechanics, Shells and Biological Structures. Kluwer Academic Publishers.2002: 175-188. eScholarID: 3a239
+Mandal, Parthasarathi. Expression of curvature ductility for RC sections. Proceedings of the Twelfth European Conference on Earthquake Engineering, London. 2002:  eScholarID: 2e153
+Mandal P, Calladine C. Lateral-torsional buckling of beams and the Southwell plot. International Journal of Mechanical Sciences. 2002 December; 44(12): 2557-2571. eScholarID: 1e1195 | DOI: 10.1016/S0020-7403(02)00192-3
+Potlouri, P, JW  Hearle, TV  Sagar, and Parthasarathi  Mandal. Multi-scale modelling of fibrous network in textile composites. Polymer Fibres. 2002:  eScholarID: 2e433
+Zhu E, Mandal P, Calladine C. Buckling of thin cylindrical shells: an attempt to resolve a paradox. International Journal of Mechanical Sciences. 2002 August; 44(8): 1583-1601. eScholarID: 1e1196 | DOI: 10.1016/S0020-7403(02)00065-6
+Mandal P, Calladine C. Buckling of thin cylindrical shells under axial compression. International Journal of Solids and Structures. 2000 August; 37(33): 4509-4525. eScholarID: 1e218
+

@@ -1,0 +1,64 @@
+name  role  phone  location  email
+Prof Robert Ainsworth  Professor of Structural Integrity  0161-2754317  Pariser Building - B7  robert.ainsworth@manchester.ac.uk  
+
+BIOGRAPHY: 
+Bob Ainsworth joined The University of Manchester as BNFL Professor of Structural Integrity in early 2011 after over 35 years in the UK electricity supply industry.  There he was heavily involved in development of structural integrity assessment procedures, in particular the defect assessment procedure R6 and the high temperature assessment procedure R5. The central parts of R6 have been included in other procedures: for example, the British Standards document BS7910; the American Petroleum Institute/ASME procedure API/ASME FFS-1; and the European procedures SINTAP in 1999 and FITNET in 2006.  The R6 procedures are used routinely in defect assessments on UK nuclear plant and are also used widely outside the nuclear industry.  The R5 procedures are the UK power generation industry standard for assessing the lifetime of high temperature components and are also used worldwide.
+Bob Ainsworth has received a number of awards including being elected a Fellow of The Royal Society in 2009 and of The Royal Academy of Engineering in 2004.   He is a Fellow of the Institution of Mechanical Engineers and a Chartered Engineer. As well as being active in research he has been involved in teaching, including giving lectures on the High Temperature Component Life Assessment Course at Imperial College on 15 occasions between 1987 and 2011 and being an invited or keynote speaker at a numerous conferences and seminars.
+
+RESEARCH: 
+structural integrity
+fracture mechanics
+creep
+
+PUBLICATION: 
+J95. B CHEN, J N HU, P E J FLEWITT, A C F COCKS, R A AINSWORTH, D J SMITH, D W DEAN and F SCENINI. Effect of Thermal Ageing on Creep and Oxidation Behaviour of Type 316H Stainless Steel, Materials at High Temperature, accepted for publication. Materials at High Temperatures.  eScholarID: 287315 | DOI: 10.1179/1878641315Y.0000000005
+R A Ainsworth. The assessment of defects in structures of strain hardening material. Engineering Fracture Mechanics. 19: 633-642. eScholarID: 184579
+C.K. SEAL, J.-J. HAN and R.A. AINSWORTH. A Comparison of Various Plastic Work Curvature Methods. International Journal of Pressure Vessels and Piping. 2015; 135-136: 26-35. eScholarID: 279179
+N LARROSA, M D CHAPETTI and R A AINSWORTH. Assessing Fatigue Endurance Of Pitted Specimens By Means Of An Integrated Fracture Mechanics Approach. New York: ASME: 2015: -. eScholarID: 287393
+C SEAL and R A AINSWORTH. Assessment of plastic work curvature methods for assessing the collapse load of a structure. New York: ASME: 2015: -. eScholarID: 287365
+J-Y JEON, N LARROSA, Y-R OH, Y-J KIM and R A AINSWORTH. Characterization of the effect of notch bluntness on hydrogen embrittlement and fracture behavior using FE analyses. new York: ASME: 2015: -. eScholarID: 287526
+H-S NAM, C-Y OH, Y-J KIM, D W JERNG, R A AINSWORTH, P J BUDDEN and S MARIE. Comparison of R6 and A16 J Estimation methods under combined mechanical and thermal loads with FE Results. International Journal of Pressure Vessels and Piping. 2015; 135-136: 12-25. eScholarID: 279178
+R A AINSWORTH and M GINTALAS. Constraint Based Assessments of Large-Scale Cracked Straight Pipes and Elbows. New York: ASME: 2015: -. eScholarID: 287420
+HAN SANG LEE, Y-J KIM and R A AINSWORTH. Crack tip stress field under elastic-plastic-creep conditions. New York: ASME: 2015: -. eScholarID: 287353
+R A AINSWORTH, D W DEAN and P J BUDDEN. Estimation of the Parameter Controlling Short-Term Creep Crack Growth under Combined Primary and Secondary Loading. 2015: -. eScholarID: 287440
+R A AINSWORTH, M GINTALAS, M K SAHU, J CHATTOPADHYAY and B K DUTTA. Failure Assessment Diagram Assessments of Large-Scale Cracked Straight Pipes and Elbows. 2015: -. eScholarID: 287475
+M GINTALAS and R A AINSWORTH. Fracture assessments of large-scale straight pipes allowing for constraint. 2015: -. eScholarID: 287495
+B CHEN, J LINDSAY, R A AINSWORTH and F. SCENINI. Oxidation behavior of an austenitic stainless steel used in the UK advanced gas cooled reactors. 2015: -. eScholarID: 279317
+N O LARROSA, M TREIFI and R A AINSWORTH. Rapid parametric analysis of SEN(T) specimens using algorithmic modelling: evaluation of strain energy density and notch stress intensity factors. Materials & Design. 2015; 85: 771-777. eScholarID: 279184 | DOI: 10.1016/j.matdes.2015.06.151
+A T YOKOBORI JR, R SUGIURA, T OHMI and R A AINSWORTH. Review of a time-dependent fracture life law (or model) based on a proposed multi-scale analysis. Strength, Fracture and Complexity. 2015; 8: 205-218. eScholarID: 279182 | DOI: 10.3233/SFC-150170
+R A AINSWORTH, M GINTALAS, D J SMITH, N JOSE and B K DUTTA. T-Stress Solutions for Cracks in Straight Pipes and Elbows. 2015: -. eScholarID: 287481
+R A AINSWORTH and S E BOOTH. The Interaction of Ductile Tearing and Creep Crack Growth, Strength. Strength, Fracture and Complexity. 2015; 9: 43-59. eScholarID: 279183 | DOI: 10.3233/SFC-150178
+C MEEK and R A AINSWORTH. The effect of biaxial loading on the limit load of cracked plates. New York: ASME: 2015: -. eScholarID: 287322
+C MEEK and R A AINSWORTH. The effects of load biaxiality and plate length on the limit load of a centre cracked plate. Engineering Fracture Mechanics. 2015; 147: 306-317. eScholarID: 279180 | DOI: 10.1016/j.engfracmech.2015.03.034
+C166. HAN SANG LEE, Y-J KIM and R A AINSWORTH. Time dependent J(t) and C(t) integrals under elastic-plastic-creep conditions. New York: ASME: 2015: -. eScholarID: 287326
+M KIM, P HUGHES and R A AINSWORTH. An overview of IAEA technical guidelines on fluid-structure interaction. Proc ASME PVP. New York: ASME: 2014: -. eScholarID: 228560
+J-J HAN, Y-J KIM and R A AINSWORTH. Constraint effects in ductile fracture on J-resistance curve for full-scale cracked pipes and fracture toughness testing specimens. Proc ASME PVP. New York: ASME: 2014: -. eScholarID: 228558
+F INADA, T NAKAMURA, T NISHIHARA, K SHIGEHIKO, M KIM, R A AINSWORTH and S TAKAHASHI. Design and Maintenance against FSI in an IAEA Technical Guideline on Fluid-Structure Interaction. Proc ASME PVP. New York: ASME: 2014: -. eScholarID: 228559
+C MEEK and R A AINSWORTH. Ductile fracture assessment of plates under biaxial loading. New York: ASME: 2014: -. eScholarID: 228561
+C-Y Oh, H-S Nam, Y-J Kim, R A Ainsworth and P J Budden. FE validation of R6 elastic-plastic J estimation for circumferentially cracked pipes under mechanical and thermal loadings. Engineering Fracture Mechanics. 2014; 124-125: 64-79. eScholarID: 244841
+C Meek and R A Ainsworth. Fracture assessment of centre-cracked plates under biaxial loading. Procedia Materials Science. Elsevier: 2014: 1612-1617. eScholarID: 228556 | DOI: 10.1016/j.mspro.2014.06.260; MSPRO381
+M GINTALAS, A ZILIUKAS AND R A AINSWORTH. New equation for the plastic correction factor η for J-integral determination from test results of three-point-bend specimens. Materials Performance and Characterization. 2014; 3(3):  eScholarID: 228553 | DOI: 10.1520/MPC20130053
+U Zerbst, R A Ainsworth, H.-TH Beier, H Pisarski, Z L Zhang, K Nikbin, T Nitschke-Pagel, S Munstermann, P Kucharczyk and D Klingbeil. Review on fracture and crack propagation in weldments – a fracture mechanics perspective. Engineering Fracture Mechanics. 2014; 132: 200-276. eScholarID: 244842 | DOI: 10.1016/j.engfracmech.2014.05.012
+T-K Song, C-Y Oh, Y-J Kim, R A Ainsworth and K Nikbin. Approximate J estimates for combined primary and secondary stresses with large elastic follow-up. International Journal of Pressure Vessels and Piping. 2013; 111-112: 217-231. eScholarID: 244836
+T Fujioka and R A Ainsworth. Simplified estimates of the creep crack growth parameter C(t) under primary/secondary stresses using the enhanced reference stress method. International Journal of Pressure Vessels and Piping. 2013; 110: 32-41. eScholarID: 228552 | DOI: 10.1016/j.ijpvp.2013.04.019
+R A Ainsworth, P J Budden, C-Y Oh and Y-J Kim. The treatment of secondary strains within a strain-based failure assessment diagram. International Journal of Pressure Vessels and Piping. 2013; 104: 14-20. eScholarID: 244839 | DOI: 10.1016/j.ijpvp.2013.01.001
+R A Ainsworth, D W Dean and M W Spindler. An overview of some European creep lifetime activities. 2012: -. eScholarID: 170637
+R A Ainsworth. Consideration of elastic follow-up in the treatment of combined primary and secondary stresses in fracture assessments. Engineering Fracture Mechanics. 2012 December; 96(December): 558-569. eScholarID: 170627 | DOI: 10.1016/j.engfracmech.2012.09.009
+K-H Lee, Y-J Kim, D W Jerng, R A Ainsworth and D Dean. Creep Elastic Follow-Up Factors under Combined Primary and Secondary Stresses. International Journal of Pressure Vessels and Piping. In-press eScholarID: 170628 | DOI: 10.1016/j.ijpvp.2012.08.005
+R A Ainsworth. Fracture assessment under combined primary and secondary loading. 2012: -. eScholarID: 170634
+U Zerbst, R A Ainsworth and M Madia. Reference load versus limit load in engineering flaw assessment: a proposal for a hybrid analysis option. Engineering Fracture Mechanics. 2012 September; 91: 62-72. eScholarID: 170619 | DOI: 10.1016/engfracmech.2011.10.018
+R A Ainsworth. Revisions to the R5 and R6 structural integrity assessment procedures. 2012: -. eScholarID: 170639
+R A Ainsworth, D W Dean and M W Spindler. Revisions to the R5 assessment procedure and issues for related testing standards. 2012: -. eScholarID: 170638
+T Fujioka and R A Ainsworth. Simplified estimates of the creep crack growth parameter C(t) under primary/secondary stresses using the enhanced reference stress method. 2012: -. eScholarID: 170629
+P J Budden, R A Ainsworth and J Joch. The R6 procedures: current status and development areas. 2012: -. eScholarID: 170636
+P J Budden and R A Ainsworth. The shape of a strain-based failure assessment diagram. International Journal of Pressure Vessels and Piping. 2012 January; 89(January): 59-66. eScholarID: 143884 | DOI: 10.1016/j.ijpvp.2011.09.004
+C-Y Oh, Y-J Kim, P J Budden and R A Ainsworth. Biaxial stress effects on estimating J under combined mechanical and thermal stresses. International Journal of Pressure Vessels and Piping. 2011 October; 88(10): 365-374. eScholarID: 143875 | DOI: 10.1016/j.ijpvp.2011.05.004
+R A Ainsworth, D W Dean and P J Budden. Creep crack growth under complex loading. Journal of ASTM International. 2011 May; 8(5): . eScholarID: 143878 | DOI: 10.1520/JAI103847
+S. Cicero, R.A. Ainsworth and F. Gutierrez-Solana. Engineering approaches for the assessment of low constraint fracture conditions: a critical review. Engineering Fracture Mechanics. 2010; 77: 1360-1374. eScholarID: 143886 | DOI: 10.1016/j.engfracmech.2010.02.026
+T-K Song, Y-J Kim, K Nikbin and R A Ainsworth. Estimation of the transient creep parameter C(t) under combined mechanical and thermal stresses. Engineering Fracture Mechanics. 2010; 77: 685-704. eScholarID: 143891 | DOI: 10.1016/j.engfracmech.2009.12.004
+C-S Oh, Y-J Kim, K-B Yoon, R A Ainsworth and K Nikbin. The relationship between Ct and contour integrals under small-scale transient creep. Engineering Fracture Mechanics. 2010; 77: 565-574. eScholarID: 143893 | DOI: 10.1016/j.engfracmech.2009.09.004
+T-K Song, Y-J Kim, K Nikbin and R A Ainsworth. Approximate J estimates for circumferential cracked pipes under primary and secondary stresses. Engineering Fracture Mechanics. 2009; 76(13): 2109-2125. eScholarID: 143898 | DOI: 10.1016/j.engfracmech.2009.06.005
+U Zerbst, A Pempe, I Scheider, R A Ainsworth and W Schonfeld. Proposed extension of the SINTAP/FITNET thin wall option based on a simple method for reference load determination. Engineering Fracture Mechanics. 2009; 76(1): 74-87. eScholarID: 143906 | DOI: 10.1016/j.engfracmech.2008.06.029
+M Schodel, Robert Ainsworth, S E Webster, U Zerbst. Fitness-for-Service Assessment of Structures Containing Cracks, A Workbook based on the European SINTAP/FITNET Procedure. Elsevier:2007.  eScholarID: ma1111
+G A Webster, Robert Ainsworth. High Temperature Component Life Assessment. Springer:1994.  eScholarID: ma1112
+

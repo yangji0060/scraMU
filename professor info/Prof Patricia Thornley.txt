@@ -1,0 +1,79 @@
+name  role  phone  location  email
+Prof Patricia Thornley  Professor in Sustainable Energy systems  0161-3063257  Pariser Building - H4  patricia.thornley@manchester.ac.uk  
+
+BIOGRAPHY: 
+Patricia Thornley is a chartered physicist with over 20 years experience working in bioenergy in industry and academia. She was involved with engineering implementation of many of the UKs early bioenergy plants, but is now based at the Tyndall Centre for Climate Change Research at the University of Manchester. Patricia leads the 4.5 million EPSRC SUPERGEN Bioenergy Hub, which aims to bring together industry, academia and other stakeholders to focus on the research challenges associated with delivering sustainable bioenergy systems. Her personal research interests focus on the environmental, social and economic impacts of bioenergy systems in the UK and overseas and how these can be practically managed to deliver sustainable bioenergy systems.
+
+RESEARCH: 
+bioenergy
+energy systems analysis
+greenhouse gas balances
+
+PUBLICATION: 
+Patricia Thornley. A review of the ecological impacts of cultivation of macro-algae for bioenergy. A review of the ecological impacts of cultivation of macro-algae for bioenergy.  eScholarID: ma1404
+Conor Walsh, Patricia Thornley. Lifecycle impacts and techno-economic benefits associated with the introduction of a condensing boiler to a woodchip fueled fluidized boiler. Lifecycle impacts and techno-economic benefits associated with the introduction of a condensing boiler to a woodchip fueled fluidized boiler.  eScholarID: ma1406
+Patricia Thornley. Renewable energy part 1a: courses for the public 2009. Renewable energy part 1a: courses for the public 2009.  eScholarID: ma982
+Patricia Thornley. Renewable energy part 1b: courses for hte public 2009. Renewable energy part 1b: courses for hte public 2009.  eScholarID: ma983
+Patricia Thornley. Renewable energy part 2: courses for hte public 2009. Renewable energy part 2: courses for hte public 2009.  eScholarID: ma984
+Patricia Thornley. Sustainability of feedstocks for biomass co-firing. Sustainability of feedstocks for biomass co-firing.  eScholarID: ma1405
+Patricia Thornley, Paul Gilbert, Simon Shackley, Jim Hammond. MAXIMIZING THE GREENHOUSE GAS REDUCTIONS FROM BIOMASS: THE ROLE OF LIFE CYCLE ASSESSMENT. Biomass & Bioenergy.  eScholarID: 264308
+Bows, Alice, Ellie Dawkins, Clair Gough, Sarah Mander, Carly McLachlan, Mirjam Roeder, Laura Thom, and Patricia Thornley. What's Cooking? Adaptation and Mitigation in the UK Food System. The University of Manchester Sustainable Consumption Institute:  eScholarID: 175616
+Purkus A, Röder M, Gawel E, Thrän D, Thornley P. Handling uncertainty in bioenergy policy design - A case study analysis of UK and German bioelectricity policy instruments. Biomass and Bioenergy. 2015;  eScholarID: 292666 | DOI: 10.1016/j.biombioe.2015.03.029
+Röder M, Whittaker C, Thornley P. How certain are greenhouse gas reductions from bioenergy? Life cycle assessment and uncertainty analysis of wood pellet-to-electricity supply chains from forest residues. Biomass and Bioenergy. 2015;  eScholarID: 292652 | DOI: 10.1016/j.biombioe.2015.03.030
+Thornley P, Gilbert P, Shackley S, Hammond J. Maximizing the greenhouse gas reductions from biomass: The role of life cycle assessment. Biomass and Bioenergy. 2015; 81: 35-43. eScholarID: 274793 | DOI: 10.1016/j.biombioe.2015.05.002
+A Bridgwater, K Bhong, Patricia Thornley. European Biorefineries: Implications for land, trade and employment. Environmental Science & Policy. 2014; 37(0): 255-265. eScholarID: ma201
+Mirjam Roeder, Patricia Thornley. How certain are greenhouse gas reductions from bioenergy? Life cycle assessment and uncertainty analysis of a forest residues-to-electricity supply... How certain are greenhouse gas reductions from bioenergy? Life cycle assessment and uncertainty analysis of a forest residues-to-electricity supply... 2014:  eScholarID: ma1407
+Alice Bows-Larkin, C Gough, Carly McLachlan, Laura O'keefe, Mirjam Roeder, Patricia Thornley, Ruth Wood, Sarah Mander. How little or how much climate change? Facilitating stakeholder thinking on food system futures. How little or how much climate change? Facilitating stakeholder thinking on food system futures. 2014:  eScholarID: ma1232
+Alice Bows-Larkin, Carly McLachlan, Sarah Mander, Ruth Wood, Mirjam Roder, Patricia Thornley, Elena Dawkins, Clair Gough, Laura O'Keefe, Maria Sharmina. Importance of non-CO2 emissions in carbon management. Carbon Management. 2014 August; 5(2): 193-210. eScholarID: 231388 | DOI: 10.1080/17583004.2014.913859
+Conor Walsh, Patricia Thornley. A comparison of two low grade heat recovery options. Applied Thermal Engineering. 2013; 53(0):  eScholarID: ma014
+Thornley P, Gilbert P. Biofuels: Balancing risks and rewards. Interface Focus. 2013; 3(1):  eScholarID: 292674 | DOI: 10.1098/rsfs.2012.0040 10.1016/j.enpol.2008.07.003); (2009) United Nations Framework Convention on Climate Change, , http://unfccc.int/2860.php, United Nations, See; (2011) Bioenergy review, , Committee on Climate Change, London, UK: Committee on Climate Change; Anderson, K., Bows, A., Reframing the climate change challenge in light of post-2000 emission trends (2008) Phil. Trans. R. Soc. A, 366, pp. 3863-3882. , (doi:10.1098/rsta.2008.0138); (2012) UK bioenergy strategy, , DfT, DECC and Defra, London, UK: Department of Energy and Climate Change; (2011) Biofuels: Ethical issues, , Nuffield Council on Bioethics, London, UK: Nuffield Council; Upham, P., Riesch, H., Tomei, J., Thornley, P., The sustainability of forestry biomass supply for EU bioenergy: A post-normal approach to environmental risk and uncertainty (2011) Environ. Sci. Policy, 14, pp. 510-518. , (doi:10.1016/j.envsci. 2011.02.010); Thornley, P., Rogers, J., Huang, Y., Quantification of employment from biomass power plants (2008) Renew. Energy, 33, pp. 1922-1927. , (doi:10.1016/j. renene.2007.11.011); Gilbert, P., Thornley, P., Riche, A.B., The influence of organic and inorganic fertiliser application rates on UK biomass crop sustainability (2011) Biomass Bioenergy, 35, pp. 1170-1181. , (doi:10.1016/j.biombioe. 2010.12.002); (1992) Rio declaration on environment and development, , United Nations Environment Programme, Nairobi, Kenya: UNEP; Tomei, J., Upham, P., Argentinean soy-based biodiesel: An introduction to production and impacts (2009) Energy Policy, 37, pp. 3890-3898. , (doi:10. 1016/j.enpol.2009.05.031); Qaim, M., Traxler, G., Round-up Ready soybeans in Argentina: Farm level and aggregate welfare effects (2005) Agric. Econ, 32, pp. 73-86. , (doi:10.1111/j. 0169-5150.2005.00006.x); Tengas, B., Nilsson, N., (2002) Soybean: Where is it from and what are its uses?, , Stockholm, Sweden: WWF; (2007) FAOStats: Soybean production, , United Nations Food and Agricultural Organization, Rome, Italy: FAO; (2006) IPCC guidelines for national greenhouse gas inventories. Vol. 4. Agriculture, forestry and other land use, , Intergovernmental Panel on Climate Change, Hayama, Japan: Institute for Global Environmental Strategies; Smeets, E., Faaij, A.P.C., Lewandowski, I., (2005) The impact of sustainability criteria on the costs and potentials of bioenergy production, , Utrecht, The Netherlands: Copernicus Institute; Thornley, P., Assessing the sustainability of bioelectricity supply chains (2010) Bioten, , https://www.escholar.manchester.ac.uk/uk-ac-man-scw:92579, In, (ed. AV Bridgwater). Birmingham, UK: CPL Press. See
+Walsh, C., Thornley, P. Barriers to improving energy efficiency in the process industries with a focus on low grade heat utilisation. Journal of Cleaner Production. 2012 March; 23(1): 138-146. eScholarID: 137251 | DOI: 10.1016/j.jclepro.2011.10.038
+Patricia Thornley. Biofuels Review. Manchester: Tyndall Centre, Manchester: 2012 June.  eScholarID: 175549
+Thornley, P. Biofuels: Balancing risks and rewards. 2012: -. eScholarID: 175580
+Thornley, P., Bows, A., Roeder, M. Combining adaptation and mitigation in the agricultural sector. 2012: -. eScholarID: 175613
+A Roskilly, Conor Walsh, Haiyan Li, Patricia Thornley, V Sharifi, Y Ammar. Desalination using low grade heat in the process industires: challenges and perspectives. Applied Thermal Engineering. 2012; 48(0): 446-457. eScholarID: ma151
+Conor Walsh, Patricia Thornley. The environmental impact and economic feasibility of introducing an organic Rankine cycle to recover low grade heat during the production of metallurgical cok. Journal of Cleaner Production. 2012; 34(0): 29-37. eScholarID: ma506
+Thornley, P. The research and knowledge challenges for sustainable bioenergy deployment. 2012: -. eScholarID: 175604
+Patricia Thornley. Unavailable. Comprehensive Renewable Energy. Elsevier.2012:  eScholarID: ma1728
+Thornley, P. What is life-cycle assessment and what can it be used for?. Tesco Knowledge Hub: 2012: -. eScholarID: 175609
+Martin, Michael, and Patricia Thornley. The potential for thermal storage to reduce the overall carbon emissions from district heating systems. Manchester: Tyndall Centre: 2012 October.  eScholarID: 175578
+Walsh, C., Thornley, P. A comparison of two low-grade heat recovery options. 2011: -. eScholarID: 137248
+Thornley, P., Jones, B. A review of the ecological impacts of the cultivation of macroalgae for bioenergy. 2011: -. eScholarID: 124323
+Roeder, M., Thornley, P., Campbell, G., Gilbert, P. Adaptation strategies for sustainable global wheat production. 2011: -. eScholarID: 123175
+Thornley, P., Gilbert, P., Welfle, A. Availability and Sustainability of Biomass for Heating in the UK. IMechE: 2011: -. eScholarID: 137249
+Walsh, C., Thornley, P. Cost effective greenhouse gas reductions in the steel industry from an Organic Rankine cycle. 2011: -. eScholarID: 123176
+Walsh, C., Thornley, P. Cost effective greenhouse gas reductions in the steel industry from an organic rankine cycle. Chemical Engineering Transactions. 2011 June; 25: 905-910. eScholarID: 124321
+Gilbert, P., Thornley, P. DECARBONISING THE FERTILISER INDUSTRY: THE POTENTIAL ROLE OF BIOMASS GASIFICATION. 2011: -. eScholarID: 124325
+Thornley, P. Identifying the best use of biomass resources. 2011: -. eScholarID: 124326
+Thornley, P., Robert, T., Upham, P. Sustainability impacts of using macro-algae for eergy. -. eScholarID: 137250
+Thornley, P. Sustainability of feedstocks for biomass cofiring. IEA: 2011: -. eScholarID: 123171
+Gilbert, P., Thornley, Pl, Riche, A The influence of organic and inorganic fertiliser application rates on UK biomass crop sustainability. Biomass & Bioenergy. 2011 January;  eScholarID: 105163 | DOI: 10.1016/j.biombioe.2010.12.002
+Upham, P., Riesch, H., Tomei, J., Thornley, P. The sustainability of forestry biomass supply for EU bioenergy: A post-normal approach to environmental risk and uncertainty. Environmental Science and Policy. 2011;  eScholarID: 123167 | DOI: 10.1016/j.envsci.2011.02.010
+Brownsort, P, S Carter, J Cook, C Cunningham, J Gaunt, J Hammond, R Ibarrola, O Masek, K Sims, and P Thornley. An assessment of the benefits and issues associated with the application of biochar to soil. Edinburgh: UK Biochar Research Centre: 2011.  eScholarID: 292645
+Thornely, P., Doyle, J. Assessing the sustainability of bioelectricity supply chains. CPL press: 2010: -. eScholarID: 92579
+Thornley, P., Gilbert, P. Cost effective carbon reductions in the bioenergy setor. 2010: -. eScholarID: 92581
+Gilbert, P., Thornley, P. Energy and carbon balance of ammonia production from biomass gasification. CPL Press: 2010: -. eScholarID: 92580
+Thornley, P. Environmental, economic and social impacts of bioenergy. 2010: -. eScholarID: 92582
+Thornley, P., Upham, P., Diaz-Chavez, R., Tomei, J. Stakeholder priorities for safeguarding sustainability of bioenergy systems: perspectives from the UK. 2010: -. eScholarID: 92814
+Brownsort, Peter, Sarah Carter, Jason Cook, Colin Cunningham, John Gaunt, James Hammond, Rodrigo Ibarolla, Ondrej Masek, Kirsten Sims, and Patricia Thornley. An assessment of the benefits and issues associated with the application of biochar to soil. Defra: 2010 June.  eScholarID: 84332
+Gilbert, P., Thornley, P., Alexander, S., Brammer, J. Biomass gasification for ammonia production. 2009: -. eScholarID: 108428
+J Brammer, Patricia Thornley, Paul Gilbert, S Alexander. Theme 6: Ammonia Economy Plus Technical Report. 2009 August.  eScholarID: ma1057
+Roddy D, Yu Y, Dufton D, Thornley P. Low carbon energy solutions for an ecological island in China. Proceedings of ICE, Water, maritime and energy. 2009 May; 162(2): 85-95. eScholarID: 1e831 | DOI: 10.1680/ener.2009.162.2.85
+Thornley, Patricia, and W  Prins. Barriers to European Bioeenergy Expansion. European Biomass Conference. 2009:  eScholarID: 2e1068
+Thornley, Patricia, J  Brammer, J  Rogers, Y  Huang, and S  Rezvani. Making bioelectricity economic in the UK. European Biomass Conference. 2009:  eScholarID: 2e1067
+Thornley P. Airborne emissions from biomass based power generation systems. Environmental Research Letters. 2008 March; 3: 014004-. eScholarID: 1e642 | DOI: 10.1088/1748-9326/3/1/014004
+Thornley, Patricia, P  Upham, J  Rogers, J  Brammer, Y  Huang, and S  Rezvani. Integrated assessment of bioelectricity technology options. Sustainable Energy UK: Meeting the Science and Engineering Challenge. UKERC: 2008: -. eScholarID: 2e868
+Thornley, Patricia, Paul Upham, and Julia Tomei. Supergen Biomass and Bioenergy Consortium: Theme 6 resource assessment: Feedstock Properties. www.supergen-bioenergy.net: Supergen Bioenergy Consortium: 2008 August.  eScholarID: 34562
+Thornley, Patricia, and Wolter Prins. Public perceptions and bioenergy. http://www.thermalnet.co.uk/docs/Barriers%20Precisfinal.pdf: Thermalnet: 2007.  eScholarID: 33295
+Thornley, Patricia. European (Bio)-Energy Policy (1996-2006(. http://www.thermalnet.co.uk/docs/Synopsis%20of%20European%20Energy%20Policy.pdf: Thermalnet: 2006.  eScholarID: 33426
+Thornley, Patricia. Extended life cycle analysis of bioenergy plant. World Renewable Energy Conference. World Renewable Energy Congress: 2005: -. eScholarID: 2e803
+D Chiaramonti, Patricia Thornley. Unavailable. Pyrolysis and gasification of biomass and waste. CPL Press.2003:  eScholarID: ma1650
+Thornley P, Chiaramonti D. Power production. Pyrolysis and gasification of biomass and waste. CPL Press.2003:  eScholarID: 3e19
+E Wright, Patricia Thornley. Unavailable. Fast pyrolysis of biomass: a handbook vol 2. CPL Press.2002:  eScholarID: ma1651
+Thornley P, Wright E. Evaluation of bioenergy projects. In: Bridgwater, A.V, ed. Fast pyrolysis of biomass: a handbook vol 2. CPL Press.2002:  eScholarID: 3e20
+Thornley, Patricia, and S  Mould. Environmental and economic evaluation of 2 UK biomass fuelled power plants. IChemE third international symposium on incineration and flue gas treatment technologies. 2001:  eScholarID: 2e804
+Thornley, Patricia. Effective Risk Management in Energy from Waste Projects. IMechE Power Generation by Renewables. 2000:  eScholarID: 2e805
+Thornley, Patricia. Advanced Technologies for Small Scale Power Generation. 5th annual Middle East Power Generation Summitt. 1999:  eScholarID: 2e806
+BC Williams, JT McMullan, , Patricia Thornley. Clean coal technologies. Proceedings of the Institution of Mechanical Engineers - Part A: Journal of Power and Energy. 1997; (1): 95-107. eScholarID: ma120
+Thornley, Patricia. Energy from Waste: Environmental and Economic Considerations. First international symposium on incineration and flue gas treatment technologies. 1997:  eScholarID: 2e807
+

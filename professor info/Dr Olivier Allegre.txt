@@ -1,0 +1,29 @@
+name  role  phone  location  email
+Dr Olivier Allegre  Lecturer in Laser Processing  0161-3064237  Pariser Building - G16  olivier.allegre@manchester.ac.uk  
+
+BIOGRAPHY: 
+Dr Allegre specializes in advanced laser processes, with a special interest in ultrashort-pulse laser material interactions and process control.
+
+He also has a background in precision motion control, optics design and microscopy. Following the completion of a “diplôme d'Ingénieur” at Polytech’ Orleans in France in 2003, Dr Allegre worked as a Design and Software Engineer for research organisations such as NCRA in India, or industrial companies such as Marinovation in France and Thorlabs in Cambridge, UK. He joined Carl Zeiss SMT Ltd in 2007, where he worked as a Systems Engineer on the design and manufacture of electron microscopes. In 2009, he joined the University of Liverpool to complete a PhD in advanced control of laser beam wavefront and polarisation for micro-manufacturing. After his PhD in 2012, Dr Allegre managed an EU-funded project to promote the use of laser technologies to SMEs in the North-West.
+
+
+
+
+RESEARCH: 
+
+PUBLICATION: 
+Patterning of Aluminium thin film on polyethylene terephthalate by multi-beam picosecond laser. Optics and Lasers in Engineering. 2015 April; 74: 67-74. eScholarID: 266271 | DOI: 10.1016/j.optlaseng.2015.04.006
+Tailored optical vector fields for ultrashort-pulse laser induced complex surface plasmon structuring. Optics Express. 2015 May;  eScholarID: 264954 | DOI: 10.1364/OE.23.012562
+Dynamic wavefront and polarisation control for ultrashort-pulse laser microprocessing. Proceedings of LANE 2014. 2014: -. eScholarID: 264965
+O J Allegre, Y Jin, W Perrie, J Ouyang, E Fearon, S P Edwardson, and G Dearden. Complete wavefront and polarization control for ultrashort-pulse laser microprocessing. Optics Express. 2013 September;  eScholarID: 251640 | DOI: 10.1364/OE.21.021198
+Y Jin, O J Allegre, W Perrie, K Abrams, J Ouyang, E Fearon, S P Edwardson, and G Dearden. Dynamic modulation of spatially structured polarization fields for real-time control of ultrafast laser-material interactions. Optics Express. 2013 October; 21(21):  eScholarID: 251641 | DOI: 10.1364/OE.21.025333
+Femtosecond inscription of volume phase gratings in poly(methyl)methacrylate and effects of polarisation inscription. Proceedings Advanced Solid-State Lasers Congress. 2013: -. eScholarID: 264963
+Generation and analysis of radial polarization fields in a picosecond-pulse laser beam. Proceedings Advanced Solid-State Lasers Congress. 2013: -. eScholarID: 264964
+NUV femtosecond laser inscription of volume Bragg gratings in poly(methyl)methacrylate with linear and circular polarizations. Laser Physics. 2013 November;  eScholarID: 251642 | DOI: doi:10.1088/1054-660X/23/12/126004
+O J Allegre, W Perrie, S P Edwardson, G Dearden and K G Watkins. Laser microprocessing of steel with radially and azimuthally polarized femtosecond vortex pulses. Journal of Optics. 2012 July;  eScholarID: 251634 | DOI: 10.1088/2040-8978/14/8/085601
+O. J. Allegre, W. Perrie, K. Bauchert, D. Liu, S. P. Edwardson, G. Dearden and K. G. Watkins. Real-time control of polarisation in ultra-short-pulse laser micro-machining. Applied Physics A. 2012 January;  eScholarID: 251639 | DOI: 10.1007/s00339-012-6761-5
+Ultra-short pulse laser micro-machining of metals with radial and azimuthal polarization. 30th International Congress on Applications of Lasers and Electro-Optics, ICALEO 2011. 2011: -. eScholarID: 264962
+Embedding arrays of microspheres with optical trapping for micro scale device manufacture. ICALEO 2010 - Congress Proceedings. 2010: -. eScholarID: 264960
+Real-time control of polarisation in high-aspect-ratio ultra-short-pulse laser micro-machining. ICALEO 2010 - Congress Proceedings. 2010: -. eScholarID: 264959
+Real-time control of polarisation in ultra-short pulse laser micro-processing. Proceedings of the thirty-sixth international matador conference. Springer: 2010: -. eScholarID: 264961
+

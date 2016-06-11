@@ -1,0 +1,35 @@
+name  role  phone  location  email
+Dr Carly McLachlan  Lecturer in Energy and Climate Change and Knowledge Exchange Fellow    Pariser Building - H.8  c.mclachlan@manchester.ac.uk  
+
+BIOGRAPHY: 
+Dr Carly McLachlan is a lecturer in climate change, sustainability and project management within the School of Mechanical Aerospace and Civil Engineering at the University of Manchester. She co-leads the  Energy Programme within the national Tyndall Centre for Climate Change Research. Her research interests focus on how stakeholders, including publics, engage with energy and sustainability issues. Her previous research projects, completed as part of Tyndall's interdisciplinary team, have covered a range of topics including: stakeholder engagement with integrated climate change models, stakeholder assessments of carbon capture and storage, an assessment UK tidal energy policy and adaptation and mitigation in the UK food system.  Her PhD research centred on two detailed case studies of renewable energy developments and considered: the competing symbolic interpretations made of the developments and the place in which they were situated; the interaction of lay and expert knowledge; and the impact of the process of consultation on attitudes to the developments. Whilst seeking to integrate interdisciplinary insights, Carly's Science and Technology Studies perspective frames her consideration of the meanings associated with different energy related behaviours and attitudes.
+
+RESEARCH: 
+stakeholder engagement with energy
+renewable energy siting processes
+pro-environmental behaviour
+carbon management
+food systems mitigation and adaptation to climate change
+
+PUBLICATION: 
+Carly McLachlan. Ill have no NIMBYs in my back yard. Ill have no NIMBYs in my back yard.  eScholarID: ma1230
+Carly McLachlan. Symbolic interpretations of Wave Hub. Symbolic interpretations of Wave Hub.  eScholarID: ma1231
+Carly McLachlan. Wave energy and bioenergy: stakeholder responses in two case studies, Public Engagement in Sustainable Energy Futures: Lessons from Practice. Wave energy and bioenergy: stakeholder responses in two case studies, Public Engagement in Sustainable Energy Futures: Lessons from Practice. 22. eScholarID: ma1229
+O'Keefe, L., McLachlan, C., Gough, C., Mander, S., & Bows-Larkin, A. Consumer responses to a future UK food system. British Food Journal. 2016;  eScholarID: 298418 | DOI: 10.1108/BFJ-01-2015-0047
+Kerr, Sandy; Watts, Laura; Colton, John; Conway, Flaxen; Hull, Angela; Johnson, Kate R; Jude, Simon; Kannen, Andreas; MacDougall, Shelley; McLachlan, Carly; Potts, Tavis; Vergunst, Jo. Establishing an agenda for social studies research in marine renewable energy. Energy Policy. 2014; 67: 694-702. eScholarID: 226892 | DOI: 10.1016/j.enpol.2013.11.063
+Sandy Kerr, Laura Watts, John Colton, Flaxen Conway, Angela Hull, Kate Johnson, Simon Jude, Andreas Kannen, Shelley MacDougall, Carly McLachlan, Tavis Potts, Jo Vergunst. Establishing an agenda for social studies research in marine renewable energy. Energy Policy. 2014 April; 67: 694-702. eScholarID: 255113 | DOI: 10.1016/j.enpol.2013.11.063
+Alice Bows-Larkin, C Gough, Carly McLachlan, Laura O'keefe, Mirjam Roeder, Patricia Thornley, Ruth Wood, Sarah Mander. How little or how much climate change? Facilitating stakeholder thinking on food system futures. How little or how much climate change? Facilitating stakeholder thinking on food system futures. 2014:  eScholarID: ma1232
+Alice Bows-Larkin, Carly McLachlan, Sarah Mander, Ruth Wooda, Mirjam Rödera, Patricia Thornley, Elena Dawkins, Clair Gough, Laura O’Keefe & Maria Sharmin. Importance of non-CO2 emissions in carbon management. Carbon Management. 2014 August; 5(2): 193-210. eScholarID: 255111 | DOI: 10.1080/17583004.2014.913859
+Alice Bows-Larkin, Carly McLachlan, Sarah Mander, Ruth Wood, Mirjam Roder, Patricia Thornley, Elena Dawkins, Clair Gough, Laura O'Keefe, Maria Sharmina. Importance of non-CO2 emissions in carbon management. Carbon Management. 2014 August; 5(2): 193-210. eScholarID: 231388 | DOI: 10.1080/17583004.2014.913859
+McLachlan, C. Evidence submitted to the Energy and Climate Change Select Committee. 2011.  eScholarID: 144727
+Whitmarsh, L., Upham, P., Poortinga, W., McLachlan, C., Darnton, A. Devine-Wright, P., Demski, C. and Sherry-Brennan, F. Public Attitudes to and Engagement with Low-Carbon Energy. RCUK: 2011 January.  eScholarID: 99597
+Alice Bows-Larkin, Carly McLachlan, E Dawkins, J Barrett, K Scott, Mirjam Roeder, Ruth Wood, Sarah Mander. The development of scenarios to examine the role of technology change and consumers in delivering cumulative emission reductions and adapting to clima. The development of scenarios to examine the role of technology change and consumers in delivering cumulative emission reductions and adapting to clima. 2011: -. eScholarID: ma1233
+Carly McLachlan. A stakeholder assessment of the barriers and opportunities for tidal stream energy in the UK. 2010.  eScholarID: ma734
+McLachlan, C. A stakeholder assessment of the barriers and opportunities for tidal stream energy in the UK: Tyndall Working Paper 144. 2010.  eScholarID: 95328
+Andrew Gale, Carly McLachlan, David Ling, Kassandra Papadopoulou, Stephen Wearne. Management of Projects Expert Group Newsletter. Management of Projects Expert Group Newsletter. 2010 December;  eScholarID: ma924
+Mclachlan, C. I'll have no NIMBY's in my backyard. 2009: -. eScholarID: 95337
+Upham, P., Whitmarsh, L., Portinga, W., Purdam, K., Darnton, A., McLachlan, C. and Devine-Wright, P. Public Attitudes to Environmental Change: a selective review of theory and practice, A Research Synthesis for The Living Within Environmental Change Programme. 2009.  eScholarID: 95346
+Carly McLachlan. You dont do a chemistry experiment in your best China: Symbolic interpretations of place and technology in a wave energy case. Energy Policy. 2009; 12(0): 5342-5350. eScholarID: ma579
+Carly McLachlan, S Shackley. Public Perceptions of Carbon Capture and Storage findings from a survey and citizens panels. 2004.  eScholarID: ma971
+C Gough, Carly McLachlan, S Shackley. The Public Perceptions of Carbon Capture and Storage: Tyndall. 2004.  eScholarID: ma1050
+
