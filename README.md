@@ -1,4 +1,6 @@
 使用爬虫爬下了曼彻斯特大学工程学院所有老师的信息
 开发环境python+pycharm
 使用模块requests,pyquery和ConfigParser
-曼城大学的网页都使用静态网页，爬取技术比较简单，不用动态分析部分
+曼城大学的网页都使用静态网页，爬取技术比较简单，不用动态分析网页，使用sulieum等模块
+爬取的详细内容存在于professor info文件夹里面，general.txt存有教授的general信息
+
